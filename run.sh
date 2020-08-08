@@ -8,3 +8,6 @@ for f in (ls -l |grep "^d" |awk '{print $9}')
     rm *.csv
     popd
 end
+
+find . -name "*.mp3" | xargs -n1 -P(nproc) ./vparse.py
+
