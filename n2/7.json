@@ -1,0 +1,4755 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "どうにも ",
+        "wordId": 59435,
+        "optionDtos": [{
+            "wordOptionId": 117094,
+            "wordOptionDesc": "（后接否定）无论如何也；实在，的确",
+            "isRight": 1,
+            "wordId": 59435
+        }],
+        "wordDesc": "①【副】（后接否定）无论如何也；实在，的确",
+        "correctDesc": "（后接否定）无论如何也；实在，的确",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "年配",
+        "wordId": 59436,
+        "optionDtos": [{
+            "wordOptionId": 117095,
+            "wordOptionDesc": "大致年龄；上了年纪",
+            "isRight": 1,
+            "wordId": 59436
+        }],
+        "wordDesc": "（ねんぱい）⓪【名】大致年龄；上了年纪",
+        "correctDesc": "大致年龄；上了年纪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "燃料",
+        "wordId": 59437,
+        "optionDtos": [{
+            "wordOptionId": 117096,
+            "wordOptionDesc": "燃料",
+            "isRight": 1,
+            "wordId": 59437
+        }],
+        "wordDesc": "（ねんりょう）③【名】燃料",
+        "correctDesc": "燃料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "分担",
+        "wordId": 59438,
+        "optionDtos": [{
+            "wordOptionId": 117097,
+            "wordOptionDesc": "分担",
+            "isRight": 1,
+            "wordId": 59438
+        }],
+        "wordDesc": "（ぶんたん）⓪【名·他动3】分担",
+        "correctDesc": "分担",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "能",
+        "wordId": 59439,
+        "optionDtos": [{
+            "wordOptionId": 117098,
+            "wordOptionDesc": "能力，才能",
+            "isRight": 1,
+            "wordId": 59439
+        }],
+        "wordDesc": "（のう）①【名】能力，才能",
+        "correctDesc": "能力，才能",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "導入",
+        "wordId": 59440,
+        "optionDtos": [{
+            "wordOptionId": 117099,
+            "wordOptionDesc": "引入，导入，引进（外资）",
+            "isRight": 1,
+            "wordId": 59440
+        }],
+        "wordDesc": "（どうにゅう）⓪【名·他动3】引入，导入，引进（外资）",
+        "correctDesc": "引入，导入，引进（外资）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "救援",
+        "wordId": 59441,
+        "optionDtos": [{
+            "wordOptionId": 117100,
+            "wordOptionDesc": "救援，支援",
+            "isRight": 1,
+            "wordId": 59441
+        }],
+        "wordDesc": "（きゅうえん）⓪【名·他动3】救援，支援",
+        "correctDesc": "救援，支援",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "投票",
+        "wordId": 59442,
+        "optionDtos": [{
+            "wordOptionId": 117101,
+            "wordOptionDesc": "投票",
+            "isRight": 1,
+            "wordId": 59442
+        }],
+        "wordDesc": "（とうひょう）⓪【名·自动3】投票",
+        "correctDesc": "投票",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "熱中",
+        "wordId": 59443,
+        "optionDtos": [{
+            "wordOptionId": 117102,
+            "wordOptionDesc": "热衷，入迷，专心致志",
+            "isRight": 1,
+            "wordId": 59443
+        }],
+        "wordDesc": "（ねっちゅう）⓪【名·自动3】热衷，入迷，专心致志",
+        "correctDesc": "热衷，入迷，专心致志",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "値引き",
+        "wordId": 59444,
+        "optionDtos": [{
+            "wordOptionId": 117103,
+            "wordOptionDesc": "减价，降价",
+            "isRight": 1,
+            "wordId": 59444
+        }],
+        "wordDesc": "（ねびき）⓪【名·他动3】减价，降价",
+        "correctDesc": "减价，降价",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "濃度",
+        "wordId": 59445,
+        "optionDtos": [{
+            "wordOptionId": 117104,
+            "wordOptionDesc": "浓度",
+            "isRight": 1,
+            "wordId": 59445
+        }],
+        "wordDesc": "（のうど）①【名】浓度",
+        "correctDesc": "浓度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "狙う",
+        "wordId": 59446,
+        "optionDtos": [{
+            "wordOptionId": 117105,
+            "wordOptionDesc": "瞄准；以……为目标",
+            "isRight": 1,
+            "wordId": 59446
+        }],
+        "wordDesc": "（ねらう）⓪【他动1】瞄准；以……为目标",
+        "correctDesc": "瞄准；以……为目标",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "乗り込む",
+        "wordId": 59447,
+        "optionDtos": [{
+            "wordOptionId": 117106,
+            "wordOptionDesc": "乘上，坐上（车、船等）；（一起）乘坐；进入，闯入",
+            "isRight": 1,
+            "wordId": 59447
+        }],
+        "wordDesc": "（のりこむ）③【自动1】乘上，坐上（车、船等）；（一起）乘坐；进入，闯入",
+        "correctDesc": "乘上，坐上（车、船等）；（一起）乘坐；进入，闯入",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "場",
+        "wordId": 59448,
+        "optionDtos": [{
+            "wordOptionId": 117107,
+            "wordOptionDesc": "场所；场面，场合",
+            "isRight": 1,
+            "wordId": 59448
+        }],
+        "wordDesc": "（ば）⓪【名】场所；场面，场合",
+        "correctDesc": "场所；场面，场合",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "灰",
+        "wordId": 59449,
+        "optionDtos": [{
+            "wordOptionId": 117108,
+            "wordOptionDesc": "灰，灰烬",
+            "isRight": 1,
+            "wordId": 59449
+        }],
+        "wordDesc": "（はい）⓪【名】灰，灰烬",
+        "correctDesc": "灰，灰烬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ハイキング",
+        "wordId": 59450,
+        "optionDtos": [{
+            "wordOptionId": 117109,
+            "wordOptionDesc": "郊游，远足，徒步旅游",
+            "isRight": 1,
+            "wordId": 59450
+        }],
+        "wordDesc": "（hiking）①【名·自动3】郊游，远足，徒步旅游",
+        "correctDesc": "郊游，远足，徒步旅游",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "年月",
+        "wordId": 59451,
+        "optionDtos": [{
+            "wordOptionId": 117110,
+            "wordOptionDesc": "岁月，光阴",
+            "isRight": 1,
+            "wordId": 59451
+        }],
+        "wordDesc": "（ねんげつ）①【名】岁月，光阴",
+        "correctDesc": "岁月，光阴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "俳句",
+        "wordId": 59452,
+        "optionDtos": [{
+            "wordOptionId": 117111,
+            "wordOptionDesc": "俳句（由五、七、五共十七个音组成的短诗）",
+            "isRight": 1,
+            "wordId": 59452
+        }],
+        "wordDesc": "（はいく）⓪【名】俳句（由五、七、五共十七个音组成的短诗）",
+        "correctDesc": "俳句（由五、七、五共十七个音组成的短诗）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "念のため",
+        "wordId": 59453,
+        "optionDtos": [{
+            "wordOptionId": 117112,
+            "wordOptionDesc": "保险起见，慎重起见",
+            "isRight": 1,
+            "wordId": 59453
+        }],
+        "wordDesc": "（ねんのため）⓪【连语】保险起见，慎重起见",
+        "correctDesc": "保险起见，慎重起见",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "廃止",
+        "wordId": 59454,
+        "optionDtos": [{
+            "wordOptionId": 117113,
+            "wordOptionDesc": "废止，废除，作废",
+            "isRight": 1,
+            "wordId": 59454
+        }],
+        "wordDesc": "（はいし）⓪【名·他动3】废止，废除，作废",
+        "correctDesc": "废止，废除，作废",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "かつかつ ",
+        "wordId": 59455,
+        "optionDtos": [{
+            "wordOptionId": 117114,
+            "wordOptionDesc": "好不容易，勉勉强强",
+            "isRight": 1,
+            "wordId": 59455
+        }],
+        "wordDesc": "⓪【副】好不容易，勉勉强强",
+        "correctDesc": "好不容易，勉勉强强",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "梯子",
+        "wordId": 59456,
+        "optionDtos": [{
+            "wordOptionId": 117115,
+            "wordOptionDesc": "梯子",
+            "isRight": 1,
+            "wordId": 59456
+        }],
+        "wordDesc": "（はしご）⓪【名】梯子",
+        "correctDesc": "梯子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "パターン",
+        "wordId": 59457,
+        "optionDtos": [{
+            "wordOptionId": 117116,
+            "wordOptionDesc": "类型，模式；图案",
+            "isRight": 1,
+            "wordId": 59457
+        }],
+        "wordDesc": "（pattern）②【名】类型，模式；图案",
+        "correctDesc": "类型，模式；图案",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "扇ぐ",
+        "wordId": 59458,
+        "optionDtos": [{
+            "wordOptionId": 117117,
+            "wordOptionDesc": "扇（风、火等）；煽动",
+            "isRight": 1,
+            "wordId": 59458
+        }],
+        "wordDesc": "（あおぐ）②【他动1】扇（风、火等）；煽动",
+        "correctDesc": "扇（风、火等）；煽动",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "飽きっぽい",
+        "wordId": 59459,
+        "optionDtos": [{
+            "wordOptionId": 117118,
+            "wordOptionDesc": "没常性的，动不动就厌烦的",
+            "isRight": 1,
+            "wordId": 59459
+        }],
+        "wordDesc": "（あきっぽい）④【イ形】没常性的，动不动就厌烦的",
+        "correctDesc": "没常性的，动不动就厌烦的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "万能",
+        "wordId": 59460,
+        "optionDtos": [{
+            "wordOptionId": 117119,
+            "wordOptionDesc": "万能，全能；效果，效验",
+            "isRight": 1,
+            "wordId": 59460
+        }],
+        "wordDesc": "（ばんのう）⓪【名】万能，全能；效果，效验",
+        "correctDesc": "万能，全能；效果，效验",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "美",
+        "wordId": 59461,
+        "optionDtos": [{
+            "wordOptionId": 117120,
+            "wordOptionDesc": "美，美丽；出色",
+            "isRight": 1,
+            "wordId": 59461
+        }],
+        "wordDesc": "（び）①【名】美，美丽；出色",
+        "correctDesc": "美，美丽；出色",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "引き上げる",
+        "wordId": 59462,
+        "optionDtos": [{
+            "wordOptionId": 117121,
+            "wordOptionDesc": "提升；抬高",
+            "isRight": 1,
+            "wordId": 59462
+        }],
+        "wordDesc": "（ひきあげる）④【他动2】提升；抬高",
+        "correctDesc": "提升；抬高",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "引き続き",
+        "wordId": 59463,
+        "optionDtos": [{
+            "wordOptionId": 117122,
+            "wordOptionDesc": "紧接着，继续；连续",
+            "isRight": 1,
+            "wordId": 59463
+        }],
+        "wordDesc": "（ひきつづき）⓪【名·副】紧接着，继续；连续",
+        "correctDesc": "紧接着，继续；连续",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "引き止める",
+        "wordId": 59464,
+        "optionDtos": [{
+            "wordOptionId": 117123,
+            "wordOptionDesc": "阻止，制止，勒住，拉住；留，挽留",
+            "isRight": 1,
+            "wordId": 59464
+        }],
+        "wordDesc": "（ひきとめる）④【他动2】阻止，制止，勒住，拉住；留，挽留",
+        "correctDesc": "阻止，制止，勒住，拉住；留，挽留",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "空き",
+        "wordId": 59465,
+        "optionDtos": [{
+            "wordOptionId": 117124,
+            "wordOptionDesc": "空；空闲；空缺",
+            "isRight": 1,
+            "wordId": 59465
+        }],
+        "wordDesc": "（あき）⓪【名】空；空闲；空缺",
+        "correctDesc": "空；空闲；空缺",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "配慮",
+        "wordId": 59466,
+        "optionDtos": [{
+            "wordOptionId": 117125,
+            "wordOptionDesc": "关怀，照顾，照料",
+            "isRight": 1,
+            "wordId": 59466
+        }],
+        "wordDesc": "（はいりょ）①【名·他动3】关怀，照顾，照料",
+        "correctDesc": "关怀，照顾，照料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "装置",
+        "wordId": 59467,
+        "optionDtos": [{
+            "wordOptionId": 117126,
+            "wordOptionDesc": "装置，设备，装备",
+            "isRight": 1,
+            "wordId": 59467
+        }],
+        "wordDesc": "（そうち）①【名】装置，设备，装备",
+        "correctDesc": "装置，设备，装备",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "爆弾",
+        "wordId": 59468,
+        "optionDtos": [{
+            "wordOptionId": 117127,
+            "wordOptionDesc": "炸弹",
+            "isRight": 1,
+            "wordId": 59468
+        }],
+        "wordDesc": "（ばくだん）⓪【名】炸弹",
+        "correctDesc": "炸弹",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "無神経",
+        "wordId": 59469,
+        "optionDtos": [{
+            "wordOptionId": 117128,
+            "wordOptionDesc": "反应迟钝，反应慢",
+            "isRight": 1,
+            "wordId": 59469
+        }],
+        "wordDesc": "（むしんけい）②【名·ナ形】反应迟钝，反应慢",
+        "correctDesc": "反应迟钝，反应慢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "運び",
+        "wordId": 59470,
+        "optionDtos": [{
+            "wordOptionId": 117129,
+            "wordOptionDesc": "搬运；进度；阶段",
+            "isRight": 1,
+            "wordId": 59470
+        }],
+        "wordDesc": "（はこび）⓪【名】搬运；进度；阶段",
+        "correctDesc": "搬运；进度；阶段",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "破産",
+        "wordId": 59471,
+        "optionDtos": [{
+            "wordOptionId": 117130,
+            "wordOptionDesc": "破产",
+            "isRight": 1,
+            "wordId": 59471
+        }],
+        "wordDesc": "（はさん）⓪【名·自动3】破产",
+        "correctDesc": "破产",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "びしょびしょ ",
+        "wordId": 59472,
+        "optionDtos": [{
+            "wordOptionId": 117131,
+            "wordOptionDesc": "湿透的；（雨）连绵不断",
+            "isRight": 1,
+            "wordId": 59472
+        }],
+        "wordDesc": "①【ナ形·副】湿透的；（雨）连绵不断",
+        "correctDesc": "湿透的；（雨）连绵不断",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "饅頭",
+        "wordId": 59473,
+        "optionDtos": [{
+            "wordOptionId": 117132,
+            "wordOptionDesc": "包子，豆沙包",
+            "isRight": 1,
+            "wordId": 59473
+        }],
+        "wordDesc": "（まんじゅう）③【名】包子，豆沙包",
+        "correctDesc": "包子，豆沙包",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "年度",
+        "wordId": 59474,
+        "optionDtos": [{
+            "wordOptionId": 117133,
+            "wordOptionDesc": "年度",
+            "isRight": 1,
+            "wordId": 59474
+        }],
+        "wordDesc": "（ねんど）①【名】年度",
+        "correctDesc": "年度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "味方",
+        "wordId": 59475,
+        "optionDtos": [{
+            "wordOptionId": 117134,
+            "wordOptionDesc": "我方；同伴，伙伴",
+            "isRight": 1,
+            "wordId": 59475
+        }],
+        "wordDesc": "（みかた）⓪【名·自动3】我方；同伴，伙伴",
+        "correctDesc": "我方；同伴，伙伴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "等分",
+        "wordId": 59476,
+        "optionDtos": [{
+            "wordOptionId": 117135,
+            "wordOptionDesc": "等分；平均分配",
+            "isRight": 1,
+            "wordId": 59476
+        }],
+        "wordDesc": "（とうぶん）⓪【名·他动3】等分；平均分配",
+        "correctDesc": "等分；平均分配",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "年金",
+        "wordId": 59477,
+        "optionDtos": [{
+            "wordOptionId": 117136,
+            "wordOptionDesc": "养老金",
+            "isRight": 1,
+            "wordId": 59477
+        }],
+        "wordDesc": "（ねんきん）⓪【名】养老金",
+        "correctDesc": "养老金",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "背景",
+        "wordId": 59478,
+        "optionDtos": [{
+            "wordOptionId": 117137,
+            "wordOptionDesc": "背景；舞台布景；后盾",
+            "isRight": 1,
+            "wordId": 59478
+        }],
+        "wordDesc": "（はいけい）⓪【名】背景；舞台布景；后盾",
+        "correctDesc": "背景；舞台布景；后盾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "軒",
+        "wordId": 59479,
+        "optionDtos": [{
+            "wordOptionId": 117138,
+            "wordOptionDesc": "房檐",
+            "isRight": 1,
+            "wordId": 59479
+        }],
+        "wordDesc": "（のき）⓪【名】房檐",
+        "correctDesc": "房檐",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "自ら",
+        "wordId": 59480,
+        "optionDtos": [{
+            "wordOptionId": 117139,
+            "wordOptionDesc": "自己；亲自",
+            "isRight": 1,
+            "wordId": 59480
+        }],
+        "wordDesc": "（みずから）①【名·副】自己；亲自",
+        "correctDesc": "自己；亲自",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "賠償",
+        "wordId": 59481,
+        "optionDtos": [{
+            "wordOptionId": 117140,
+            "wordOptionDesc": "赔偿，补偿",
+            "isRight": 1,
+            "wordId": 59481
+        }],
+        "wordDesc": "（ばいしょう）⓪【名·他动3】赔偿，补偿",
+        "correctDesc": "赔偿，补偿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "密か",
+        "wordId": 59482,
+        "optionDtos": [{
+            "wordOptionId": 117141,
+            "wordOptionDesc": "秘密的，暗中的，偷偷的",
+            "isRight": 1,
+            "wordId": 59482
+        }],
+        "wordDesc": "（ひそか）②【ナ形】秘密的，暗中的，偷偷的",
+        "correctDesc": "秘密的，暗中的，偷偷的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ビタミン",
+        "wordId": 59483,
+        "optionDtos": [{
+            "wordOptionId": 117142,
+            "wordOptionDesc": "维生素",
+            "isRight": 1,
+            "wordId": 59483
+        }],
+        "wordDesc": "（vitamin）②【名】维生素",
+        "correctDesc": "维生素",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ぴたり ",
+        "wordId": 59484,
+        "optionDtos": [{
+            "wordOptionId": 117143,
+            "wordOptionDesc": "紧贴着；正合适；突然停止",
+            "isRight": 1,
+            "wordId": 59484
+        }],
+        "wordDesc": "②【副】紧贴着；正合适；突然停止",
+        "correctDesc": "紧贴着；正合适；突然停止",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "明くる",
+        "wordId": 59485,
+        "optionDtos": [{
+            "wordOptionId": 117144,
+            "wordOptionDesc": "下一个；次，翌，第二",
+            "isRight": 1,
+            "wordId": 59485
+        }],
+        "wordDesc": "（あくる）⓪【连体】下一个；次，翌，第二",
+        "correctDesc": "下一个；次，翌，第二",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "微笑",
+        "wordId": 59486,
+        "optionDtos": [{
+            "wordOptionId": 117145,
+            "wordOptionDesc": "微笑",
+            "isRight": 1,
+            "wordId": 59486
+        }],
+        "wordDesc": "（びしょう）⓪【名·自动3】微笑",
+        "correctDesc": "微笑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "早起き",
+        "wordId": 59487,
+        "optionDtos": [{
+            "wordOptionId": 117146,
+            "wordOptionDesc": "早起，早早起来",
+            "isRight": 1,
+            "wordId": 59487
+        }],
+        "wordDesc": "（はやおき）②【名·自动3】早起，早早起来",
+        "correctDesc": "早起，早早起来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "明け方",
+        "wordId": 59488,
+        "optionDtos": [{
+            "wordOptionId": 117147,
+            "wordOptionDesc": "黎明，拂晓",
+            "isRight": 1,
+            "wordId": 59488
+        }],
+        "wordDesc": "（あけがた）⓪【名】黎明，拂晓",
+        "correctDesc": "黎明，拂晓",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "空ける",
+        "wordId": 59489,
+        "optionDtos": [{
+            "wordOptionId": 117148,
+            "wordOptionDesc": "空开；空出；抽空",
+            "isRight": 1,
+            "wordId": 59489
+        }],
+        "wordDesc": "（あける）⓪【他动2】空开；空出；抽空",
+        "correctDesc": "空开；空出；抽空",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "羽",
+        "wordId": 59490,
+        "optionDtos": [{
+            "wordOptionId": 117149,
+            "wordOptionDesc": "羽毛；翅膀",
+            "isRight": 1,
+            "wordId": 59490
+        }],
+        "wordDesc": "（はね）⓪【名】羽毛；翅膀",
+        "correctDesc": "羽毛；翅膀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "おずおず ",
+        "wordId": 59491,
+        "optionDtos": [{
+            "wordOptionId": 117150,
+            "wordOptionDesc": "战战兢兢，惴惴不安",
+            "isRight": 1,
+            "wordId": 59491
+        }],
+        "wordDesc": "①【副·自动3】战战兢兢，惴惴不安",
+        "correctDesc": "战战兢兢，惴惴不安",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "卑怯",
+        "wordId": 59492,
+        "optionDtos": [{
+            "wordOptionId": 117151,
+            "wordOptionDesc": "胆怯，懦弱；卑鄙，无耻",
+            "isRight": 1,
+            "wordId": 59492
+        }],
+        "wordDesc": "（ひきょう）②【名·ナ形】胆怯，懦弱；卑鄙，无耻",
+        "correctDesc": "胆怯，懦弱；卑鄙，无耻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "排除",
+        "wordId": 59493,
+        "optionDtos": [{
+            "wordOptionId": 117152,
+            "wordOptionDesc": "排除，消除",
+            "isRight": 1,
+            "wordId": 59493
+        }],
+        "wordDesc": "（はいじょ）①【名·他动3】排除，消除",
+        "correctDesc": "排除，消除",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "悲劇",
+        "wordId": 59494,
+        "optionDtos": [{
+            "wordOptionId": 117153,
+            "wordOptionDesc": "悲剧",
+            "isRight": 1,
+            "wordId": 59494
+        }],
+        "wordDesc": "（ひげき）①【名】悲剧",
+        "correctDesc": "悲剧",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "浜",
+        "wordId": 59495,
+        "optionDtos": [{
+            "wordOptionId": 117154,
+            "wordOptionDesc": "海滨",
+            "isRight": 1,
+            "wordId": 59495
+        }],
+        "wordDesc": "（はま）②【名】海滨",
+        "correctDesc": "海滨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "早寝",
+        "wordId": 59496,
+        "optionDtos": [{
+            "wordOptionId": 117155,
+            "wordOptionDesc": "早睡，提前睡觉",
+            "isRight": 1,
+            "wordId": 59496
+        }],
+        "wordDesc": "（はやね）②【名·自动3】早睡，提前睡觉",
+        "correctDesc": "早睡，提前睡觉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "飛行",
+        "wordId": 59497,
+        "optionDtos": [{
+            "wordOptionId": 117156,
+            "wordOptionDesc": "飞行，航空",
+            "isRight": 1,
+            "wordId": 59497
+        }],
+        "wordDesc": "（ひこう）⓪【名·自动3】飞行，航空",
+        "correctDesc": "飞行，航空",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "払い込む",
+        "wordId": 59498,
+        "optionDtos": [{
+            "wordOptionId": 117157,
+            "wordOptionDesc": "缴纳，交纳",
+            "isRight": 1,
+            "wordId": 59498
+        }],
+        "wordDesc": "（はらいこむ）④【他动1】缴纳，交纳",
+        "correctDesc": "缴纳，交纳",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "膨らむ",
+        "wordId": 59499,
+        "optionDtos": [{
+            "wordOptionId": 117158,
+            "wordOptionDesc": "膨胀，鼓起",
+            "isRight": 1,
+            "wordId": 59499
+        }],
+        "wordDesc": "（ふくらむ）⓪【自动1】膨胀，鼓起",
+        "correctDesc": "膨胀，鼓起",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "日頃",
+        "wordId": 59500,
+        "optionDtos": [{
+            "wordOptionId": 117159,
+            "wordOptionDesc": "平常，平时",
+            "isRight": 1,
+            "wordId": 59500
+        }],
+        "wordDesc": "（ひごろ）⓪【名·副】平常，平时",
+        "correctDesc": "平常，平时",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "先程",
+        "wordId": 59501,
+        "optionDtos": [{
+            "wordOptionId": 117160,
+            "wordOptionDesc": "刚才，方寸",
+            "isRight": 1,
+            "wordId": 59501
+        }],
+        "wordDesc": "（さきほど）⓪【副】刚才，方寸",
+        "correctDesc": "刚才，方寸",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "張り切る",
+        "wordId": 59502,
+        "optionDtos": [{
+            "wordOptionId": 117161,
+            "wordOptionDesc": "拉紧，绷紧；干劲十足，精神百倍；紧张",
+            "isRight": 1,
+            "wordId": 59502
+        }],
+        "wordDesc": "（はりきる）③【自动1】拉紧，绷紧；干劲十足，精神百倍；紧张",
+        "correctDesc": "拉紧，绷紧；干劲十足，精神百倍；紧张",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "はるか ",
+        "wordId": 59503,
+        "optionDtos": [{
+            "wordOptionId": 117162,
+            "wordOptionDesc": "遥远，远远；程度相差很大",
+            "isRight": 1,
+            "wordId": 59503
+        }],
+        "wordDesc": "①【ナ形·副】遥远，远远；程度相差很大",
+        "correctDesc": "遥远，远远；程度相差很大",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "反映",
+        "wordId": 59504,
+        "optionDtos": [{
+            "wordOptionId": 117163,
+            "wordOptionDesc": "（光）反射；反映",
+            "isRight": 1,
+            "wordId": 59504
+        }],
+        "wordDesc": "（はんえい）⓪【名·自他动3】（光）反射；反映",
+        "correctDesc": "（光）反射；反映",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "引っ込む",
+        "wordId": 59505,
+        "optionDtos": [{
+            "wordOptionId": 117164,
+            "wordOptionDesc": "隐退，退居；畏缩，退缩；塌，凹进去",
+            "isRight": 1,
+            "wordId": 59505
+        }],
+        "wordDesc": "（ひっこむ）③【自动1】隐退，退居；畏缩，退缩；塌，凹进去",
+        "correctDesc": "隐退，退居；畏缩，退缩；塌，凹进去",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "繁栄",
+        "wordId": 59506,
+        "optionDtos": [{
+            "wordOptionId": 117165,
+            "wordOptionDesc": "繁荣，昌盛",
+            "isRight": 1,
+            "wordId": 59506
+        }],
+        "wordDesc": "（はんえい）⓪【名·自动3】繁荣，昌盛",
+        "correctDesc": "繁荣，昌盛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "必需品",
+        "wordId": 59507,
+        "optionDtos": [{
+            "wordOptionId": 117166,
+            "wordOptionDesc": "必需品",
+            "isRight": 1,
+            "wordId": 59507
+        }],
+        "wordDesc": "（ひつじゅひん）⓪【名】必需品",
+        "correctDesc": "必需品",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ひとまず ",
+        "wordId": 59508,
+        "optionDtos": [{
+            "wordOptionId": 117167,
+            "wordOptionDesc": "暂且，姑且，总之",
+            "isRight": 1,
+            "wordId": 59508
+        }],
+        "wordDesc": "②【副】暂且，姑且，总之",
+        "correctDesc": "暂且，姑且，总之",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ひとりでに ",
+        "wordId": 59509,
+        "optionDtos": [{
+            "wordOptionId": 117168,
+            "wordOptionDesc": "自然而然地；自动地",
+            "isRight": 1,
+            "wordId": 59509
+        }],
+        "wordDesc": "⓪【副】自然而然地；自动地",
+        "correctDesc": "自然而然地；自动地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "避難",
+        "wordId": 59510,
+        "optionDtos": [{
+            "wordOptionId": 117169,
+            "wordOptionDesc": "避难，逃难",
+            "isRight": 1,
+            "wordId": 59510
+        }],
+        "wordDesc": "（ひなん）①【名·自动3】避难，逃难",
+        "correctDesc": "避难，逃难",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "水色",
+        "wordId": 59511,
+        "optionDtos": [{
+            "wordOptionId": 117170,
+            "wordOptionDesc": "淡蓝色",
+            "isRight": 1,
+            "wordId": 59511
+        }],
+        "wordDesc": "（みずいろ）⓪【名】淡蓝色",
+        "correctDesc": "淡蓝色",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "判定",
+        "wordId": 59512,
+        "optionDtos": [{
+            "wordOptionId": 117171,
+            "wordOptionDesc": "判定，判断",
+            "isRight": 1,
+            "wordId": 59512
+        }],
+        "wordDesc": "（はんてい）⓪【名·他动3】判定，判断",
+        "correctDesc": "判定，判断",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "噴水",
+        "wordId": 59513,
+        "optionDtos": [{
+            "wordOptionId": 117172,
+            "wordOptionDesc": "喷泉",
+            "isRight": 1,
+            "wordId": 59513
+        }],
+        "wordDesc": "（ふんすい）⓪【名】喷泉",
+        "correctDesc": "喷泉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "保護",
+        "wordId": 59514,
+        "optionDtos": [{
+            "wordOptionId": 117173,
+            "wordOptionDesc": "保护，庇护",
+            "isRight": 1,
+            "wordId": 59514
+        }],
+        "wordDesc": "（ほご）①【名·他动3】保护，庇护",
+        "correctDesc": "保护，庇护",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "分析",
+        "wordId": 59515,
+        "optionDtos": [{
+            "wordOptionId": 117174,
+            "wordOptionDesc": "（化学用语）分析，化验；分析，剖析（事物）",
+            "isRight": 1,
+            "wordId": 59515
+        }],
+        "wordDesc": "（ぶんせき）⓪【名·他动3】（化学用语）分析，化验；分析，剖析（事物）",
+        "correctDesc": "（化学用语）分析，化验；分析，剖析（事物）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "三日月",
+        "wordId": 59516,
+        "optionDtos": [{
+            "wordOptionId": 117175,
+            "wordOptionDesc": "新月，月牙",
+            "isRight": 1,
+            "wordId": 59516
+        }],
+        "wordDesc": "（みかづき）⓪【名】新月，月牙",
+        "correctDesc": "新月，月牙",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "福祉",
+        "wordId": 59517,
+        "optionDtos": [{
+            "wordOptionId": 117176,
+            "wordOptionDesc": "福祉，福利",
+            "isRight": 1,
+            "wordId": 59517
+        }],
+        "wordDesc": "（ふくし）②【名】福祉，福利",
+        "correctDesc": "福祉，福利",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "生やす",
+        "wordId": 59518,
+        "optionDtos": [{
+            "wordOptionId": 117177,
+            "wordOptionDesc": "使（植物等）生长；留（胡子）",
+            "isRight": 1,
+            "wordId": 59518
+        }],
+        "wordDesc": "（はやす）②【他动1】使（植物等）生长；留（胡子）",
+        "correctDesc": "使（植物等）生长；留（胡子）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不況",
+        "wordId": 59519,
+        "optionDtos": [{
+            "wordOptionId": 117178,
+            "wordOptionDesc": "经济萧条",
+            "isRight": 1,
+            "wordId": 59519
+        }],
+        "wordDesc": "（ふきょう）⓪【名】经济萧条",
+        "correctDesc": "经济萧条",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "皮肉",
+        "wordId": 59520,
+        "optionDtos": [{
+            "wordOptionId": 117179,
+            "wordOptionDesc": "讽刺，挖苦",
+            "isRight": 1,
+            "wordId": 59520
+        }],
+        "wordDesc": "（ひにく）⓪【名·ナ形】讽刺，挖苦",
+        "correctDesc": "讽刺，挖苦",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "莫大",
+        "wordId": 59521,
+        "optionDtos": [{
+            "wordOptionId": 117180,
+            "wordOptionDesc": "莫大，巨大",
+            "isRight": 1,
+            "wordId": 59521
+        }],
+        "wordDesc": "（ばくだい）⓪【名·ナ形】莫大，巨大",
+        "correctDesc": "莫大，巨大",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "望遠鏡",
+        "wordId": 59522,
+        "optionDtos": [{
+            "wordOptionId": 117181,
+            "wordOptionDesc": "望远镜",
+            "isRight": 1,
+            "wordId": 59522
+        }],
+        "wordDesc": "（ぼうえんきょう）⓪【名】望远镜",
+        "correctDesc": "望远镜",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "墓",
+        "wordId": 59523,
+        "optionDtos": [{
+            "wordOptionId": 117182,
+            "wordOptionDesc": "坟墓",
+            "isRight": 1,
+            "wordId": 59523
+        }],
+        "wordDesc": "（はか）②【名】坟墓",
+        "correctDesc": "坟墓",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "日の出",
+        "wordId": 59524,
+        "optionDtos": [{
+            "wordOptionId": 117183,
+            "wordOptionDesc": "日出（时分）",
+            "isRight": 1,
+            "wordId": 59524
+        }],
+        "wordDesc": "（ひので）⓪【名】日出（时分）",
+        "correctDesc": "日出（时分）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "響く",
+        "wordId": 59525,
+        "optionDtos": [{
+            "wordOptionId": 117184,
+            "wordOptionDesc": "响；回响；影响",
+            "isRight": 1,
+            "wordId": 59525
+        }],
+        "wordDesc": "（ひびく）②【自动1】响；回响；影响",
+        "correctDesc": "响；回响；影响",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "博士",
+        "wordId": 59526,
+        "optionDtos": [{
+            "wordOptionId": 117185,
+            "wordOptionDesc": "博士",
+            "isRight": 1,
+            "wordId": 59526
+        }],
+        "wordDesc": "（はかせ）①【名】博士",
+        "correctDesc": "博士",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "青春",
+        "wordId": 59527,
+        "optionDtos": [{
+            "wordOptionId": 117186,
+            "wordOptionDesc": "青春",
+            "isRight": 1,
+            "wordId": 59527
+        }],
+        "wordDesc": "（せいしゅん）⓪【名】青春",
+        "correctDesc": "青春",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "方言",
+        "wordId": 59528,
+        "optionDtos": [{
+            "wordOptionId": 117187,
+            "wordOptionDesc": "方言",
+            "isRight": 1,
+            "wordId": 59528
+        }],
+        "wordDesc": "（ほうげん）③【名】方言",
+        "correctDesc": "方言",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "爆発的",
+        "wordId": 59529,
+        "optionDtos": [{
+            "wordOptionId": 117188,
+            "wordOptionDesc": "爆炸性的；急剧的，惊人的",
+            "isRight": 1,
+            "wordId": 59529
+        }],
+        "wordDesc": "（ばくはつてき）⓪【ナ形】爆炸性的；急剧的，惊人的",
+        "correctDesc": "爆炸性的；急剧的，惊人的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "分量",
+        "wordId": 59530,
+        "optionDtos": [{
+            "wordOptionId": 117189,
+            "wordOptionDesc": "分量；数量；重量",
+            "isRight": 1,
+            "wordId": 59530
+        }],
+        "wordDesc": "（ぶんりょう）③【名】分量；数量；重量",
+        "correctDesc": "分量；数量；重量",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "精神",
+        "wordId": 59531,
+        "optionDtos": [{
+            "wordOptionId": 117190,
+            "wordOptionDesc": "精神；思想",
+            "isRight": 1,
+            "wordId": 59531
+        }],
+        "wordDesc": "（せいしん）①【名】精神；思想",
+        "correctDesc": "精神；思想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "平行",
+        "wordId": 59532,
+        "optionDtos": [{
+            "wordOptionId": 117191,
+            "wordOptionDesc": "平行，并行",
+            "isRight": 1,
+            "wordId": 59532
+        }],
+        "wordDesc": "（へいこう）⓪【名·自动3】平行，并行",
+        "correctDesc": "平行，并行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "民謡",
+        "wordId": 59533,
+        "optionDtos": [{
+            "wordOptionId": 117192,
+            "wordOptionDesc": "民谣",
+            "isRight": 1,
+            "wordId": 59533
+        }],
+        "wordDesc": "（みんよう）⓪【名】民谣",
+        "correctDesc": "民谣",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "信仰",
+        "wordId": 59534,
+        "optionDtos": [{
+            "wordOptionId": 117193,
+            "wordOptionDesc": "信仰",
+            "isRight": 1,
+            "wordId": 59534
+        }],
+        "wordDesc": "（しんこう）⓪【名·他动3】信仰",
+        "correctDesc": "信仰",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不確実",
+        "wordId": 59535,
+        "optionDtos": [{
+            "wordOptionId": 117194,
+            "wordOptionDesc": "不准确，不可靠",
+            "isRight": 1,
+            "wordId": 59535
+        }],
+        "wordDesc": "（ふかくじつ）②【名·ナ形】不准确，不可靠",
+        "correctDesc": "不准确，不可靠",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "民主",
+        "wordId": 59536,
+        "optionDtos": [{
+            "wordOptionId": 117195,
+            "wordOptionDesc": "民主",
+            "isRight": 1,
+            "wordId": 59536
+        }],
+        "wordDesc": "（みんしゅ）①【名】民主",
+        "correctDesc": "民主",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "小銭",
+        "wordId": 59537,
+        "optionDtos": [{
+            "wordOptionId": 117196,
+            "wordOptionDesc": "零钱，零用钱；少量资金",
+            "isRight": 1,
+            "wordId": 59537
+        }],
+        "wordDesc": "（こぜに）⓪【名】零钱，零用钱；少量资金",
+        "correctDesc": "零钱，零用钱；少量资金",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "損害",
+        "wordId": 59538,
+        "optionDtos": [{
+            "wordOptionId": 117197,
+            "wordOptionDesc": "损害，损失，损伤",
+            "isRight": 1,
+            "wordId": 59538
+        }],
+        "wordDesc": "（そんがい）⓪【名·自他动3】损害，损失，损伤",
+        "correctDesc": "损害，损失，损伤",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "透き通る",
+        "wordId": 59539,
+        "optionDtos": [{
+            "wordOptionId": 117198,
+            "wordOptionDesc": "透明，透过去；清澈",
+            "isRight": 1,
+            "wordId": 59539
+        }],
+        "wordDesc": "（すきとおる）③【自动1】透明，透过去；清澈",
+        "correctDesc": "透明，透过去；清澈",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "成熟",
+        "wordId": 59540,
+        "optionDtos": [{
+            "wordOptionId": 117199,
+            "wordOptionDesc": "成熟",
+            "isRight": 1,
+            "wordId": 59540
+        }],
+        "wordDesc": "（せいじゅく）⓪【名·自动3】成熟",
+        "correctDesc": "成熟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ベスト",
+        "wordId": 59541,
+        "optionDtos": [{
+            "wordOptionId": 117200,
+            "wordOptionDesc": "最好，最上等，最优秀；全力",
+            "isRight": 1,
+            "wordId": 59541
+        }],
+        "wordDesc": "（best ）①【名】最好，最上等，最优秀；全力",
+        "correctDesc": "最好，最上等，最优秀；全力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "日焼け",
+        "wordId": 59542,
+        "optionDtos": [{
+            "wordOptionId": 117201,
+            "wordOptionDesc": "（皮肤）晒黑；（土地）晒干",
+            "isRight": 1,
+            "wordId": 59542
+        }],
+        "wordDesc": "（ひやけ）⓪【名·自动3】（皮肤）晒黑；（土地）晒干",
+        "correctDesc": "（皮肤）晒黑；（土地）晒干",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "図形",
+        "wordId": 59543,
+        "optionDtos": [{
+            "wordOptionId": 117202,
+            "wordOptionDesc": "图形",
+            "isRight": 1,
+            "wordId": 59543
+        }],
+        "wordDesc": "（ずけい）⓪【名】图形",
+        "correctDesc": "图形",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "西暦",
+        "wordId": 59544,
+        "optionDtos": [{
+            "wordOptionId": 117203,
+            "wordOptionDesc": "公历",
+            "isRight": 1,
+            "wordId": 59544
+        }],
+        "wordDesc": "（せいれき）⓪【名】公历",
+        "correctDesc": "公历",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "平行線",
+        "wordId": 59545,
+        "optionDtos": [{
+            "wordOptionId": 117204,
+            "wordOptionDesc": "平行线",
+            "isRight": 1,
+            "wordId": 59545
+        }],
+        "wordDesc": "（へいこうせん）⓪【名】平行线",
+        "correctDesc": "平行线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "標本",
+        "wordId": 59546,
+        "optionDtos": [{
+            "wordOptionId": 117205,
+            "wordOptionDesc": "标本，样品",
+            "isRight": 1,
+            "wordId": 59546
+        }],
+        "wordDesc": "（ひょうほん）⓪【名】标本，样品",
+        "correctDesc": "标本，样品",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "兵器",
+        "wordId": 59547,
+        "optionDtos": [{
+            "wordOptionId": 117206,
+            "wordOptionDesc": "兵器，武器",
+            "isRight": 1,
+            "wordId": 59547
+        }],
+        "wordDesc": "（へいき）①【名】兵器，武器",
+        "correctDesc": "兵器，武器",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "制服",
+        "wordId": 59548,
+        "optionDtos": [{
+            "wordOptionId": 117207,
+            "wordOptionDesc": "制服",
+            "isRight": 1,
+            "wordId": 59548
+        }],
+        "wordDesc": "（せいふく）⓪【名】制服",
+        "correctDesc": "制服",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "負かす",
+        "wordId": 59549,
+        "optionDtos": [{
+            "wordOptionId": 117208,
+            "wordOptionDesc": "打败，战胜；讲价",
+            "isRight": 1,
+            "wordId": 59549
+        }],
+        "wordDesc": "（まかす）⓪【他动1】打败，战胜；讲价",
+        "correctDesc": "打败，战胜；讲价",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "本国",
+        "wordId": 59550,
+        "optionDtos": [{
+            "wordOptionId": 117209,
+            "wordOptionDesc": "本国，祖国；故乡",
+            "isRight": 1,
+            "wordId": 59550
+        }],
+        "wordDesc": "（ほんごく）①【名】本国，祖国；故乡",
+        "correctDesc": "本国，祖国；故乡",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "並行",
+        "wordId": 59551,
+        "optionDtos": [{
+            "wordOptionId": 117210,
+            "wordOptionDesc": "并行；同时进行",
+            "isRight": 1,
+            "wordId": 59551
+        }],
+        "wordDesc": "（へいこう）⓪【名·自动3】并行；同时进行",
+        "correctDesc": "并行；同时进行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "風船",
+        "wordId": 59552,
+        "optionDtos": [{
+            "wordOptionId": 117211,
+            "wordOptionDesc": "气球",
+            "isRight": 1,
+            "wordId": 59552
+        }],
+        "wordDesc": "（ふうせん）⓪【名】气球",
+        "correctDesc": "气球",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "繁殖",
+        "wordId": 59553,
+        "optionDtos": [{
+            "wordOptionId": 117212,
+            "wordOptionDesc": "繁殖，滋生",
+            "isRight": 1,
+            "wordId": 59553
+        }],
+        "wordDesc": "（はんしょく）⓪【名·自动3】繁殖，滋生",
+        "correctDesc": "繁殖，滋生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "マーケット",
+        "wordId": 59554,
+        "optionDtos": [{
+            "wordOptionId": 117213,
+            "wordOptionDesc": "市场，商场；销售市场",
+            "isRight": 1,
+            "wordId": 59554
+        }],
+        "wordDesc": "（market）①【名】市场，商场；销售市场",
+        "correctDesc": "市场，商场；销售市场",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "方程式",
+        "wordId": 59555,
+        "optionDtos": [{
+            "wordOptionId": 117214,
+            "wordOptionDesc": "（数学）方程式",
+            "isRight": 1,
+            "wordId": 59555
+        }],
+        "wordDesc": "（ほうていしき）③【名】（数学）方程式",
+        "correctDesc": "（数学）方程式",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "シャープ",
+        "wordId": 59556,
+        "optionDtos": [{
+            "wordOptionId": 117215,
+            "wordOptionDesc": "尖锐的；敏锐的；清晰的",
+            "isRight": 1,
+            "wordId": 59556
+        }],
+        "wordDesc": "（sharp）①【ナ形】尖锐的；敏锐的；清晰的",
+        "correctDesc": "尖锐的；敏锐的；清晰的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "整備",
+        "wordId": 59557,
+        "optionDtos": [{
+            "wordOptionId": 117216,
+            "wordOptionDesc": "整备；配备；整顿",
+            "isRight": 1,
+            "wordId": 59557
+        }],
+        "wordDesc": "（せいび）①【名·他动3】整备；配备；整顿",
+        "correctDesc": "整备；配备；整顿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "評論",
+        "wordId": 59558,
+        "optionDtos": [{
+            "wordOptionId": 117217,
+            "wordOptionDesc": "评论",
+            "isRight": 1,
+            "wordId": 59558
+        }],
+        "wordDesc": "（ひょうろん）⓪【名·他动3】评论",
+        "correctDesc": "评论",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "比率",
+        "wordId": 59559,
+        "optionDtos": [{
+            "wordOptionId": 117218,
+            "wordOptionDesc": "比率",
+            "isRight": 1,
+            "wordId": 59559
+        }],
+        "wordDesc": "（ひりつ）⓪【名】比率",
+        "correctDesc": "比率",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "風土",
+        "wordId": 59560,
+        "optionDtos": [{
+            "wordOptionId": 117219,
+            "wordOptionDesc": "风土，水土",
+            "isRight": 1,
+            "wordId": 59560
+        }],
+        "wordDesc": "（ふうど）①【名】风土，水土",
+        "correctDesc": "风土，水土",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "描写",
+        "wordId": 59561,
+        "optionDtos": [{
+            "wordOptionId": 117220,
+            "wordOptionDesc": "描写，描绘",
+            "isRight": 1,
+            "wordId": 59561
+        }],
+        "wordDesc": "（びょうしゃ）⓪【名·他动3】描写，描绘",
+        "correctDesc": "描写，描绘",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "披露",
+        "wordId": 59562,
+        "optionDtos": [{
+            "wordOptionId": 117221,
+            "wordOptionDesc": "宣布；公布，发表",
+            "isRight": 1,
+            "wordId": 59562
+        }],
+        "wordDesc": "（ひろう）①【名·他动3】宣布；公布，发表",
+        "correctDesc": "宣布；公布，发表",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ベストセラー",
+        "wordId": 59563,
+        "optionDtos": [{
+            "wordOptionId": 117222,
+            "wordOptionDesc": "畅销书",
+            "isRight": 1,
+            "wordId": 59563
+        }],
+        "wordDesc": "（best seller）④【名】畅销书",
+        "correctDesc": "畅销书",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "消え行く",
+        "wordId": 59564,
+        "optionDtos": [{
+            "wordOptionId": 117223,
+            "wordOptionDesc": "消失，行将灭绝",
+            "isRight": 1,
+            "wordId": 59564
+        }],
+        "wordDesc": "（きえゆく）⓪【自动1】消失，行将灭绝",
+        "correctDesc": "消失，行将灭绝",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "晴雨",
+        "wordId": 59565,
+        "optionDtos": [{
+            "wordOptionId": 117224,
+            "wordOptionDesc": "晴天或雨天",
+            "isRight": 1,
+            "wordId": 59565
+        }],
+        "wordDesc": "（せいう）①【名】晴天或雨天",
+        "correctDesc": "晴天或雨天",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "活力",
+        "wordId": 59566,
+        "optionDtos": [{
+            "wordOptionId": 117225,
+            "wordOptionDesc": "活力，生命力",
+            "isRight": 1,
+            "wordId": 59566
+        }],
+        "wordDesc": "（かつりょく）②【名】活力，生命力",
+        "correctDesc": "活力，生命力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "細菌",
+        "wordId": 59567,
+        "optionDtos": [{
+            "wordOptionId": 117226,
+            "wordOptionDesc": "细菌",
+            "isRight": 1,
+            "wordId": 59567
+        }],
+        "wordDesc": "（さいきん）⓪【名】细菌",
+        "correctDesc": "细菌",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "気軽",
+        "wordId": 59568,
+        "optionDtos": [{
+            "wordOptionId": 117227,
+            "wordOptionDesc": "爽快的，轻松愉快的",
+            "isRight": 1,
+            "wordId": 59568
+        }],
+        "wordDesc": "（きがる）⓪【ナ形】爽快的，轻松愉快的",
+        "correctDesc": "爽快的，轻松愉快的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "過程",
+        "wordId": 59569,
+        "optionDtos": [{
+            "wordOptionId": 117228,
+            "wordOptionDesc": "过程",
+            "isRight": 1,
+            "wordId": 59569
+        }],
+        "wordDesc": "（かてい）⓪【名】过程",
+        "correctDesc": "过程",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "方針",
+        "wordId": 59570,
+        "optionDtos": [{
+            "wordOptionId": 117229,
+            "wordOptionDesc": "方针",
+            "isRight": 1,
+            "wordId": 59570
+        }],
+        "wordDesc": "（ほうしん）⓪【名】方针",
+        "correctDesc": "方针",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "かといって ",
+        "wordId": 59571,
+        "optionDtos": [{
+            "wordOptionId": 117230,
+            "wordOptionDesc": "虽然⋯⋯但是⋯⋯",
+            "isRight": 1,
+            "wordId": 59571
+        }],
+        "wordDesc": "①【接续】虽然⋯⋯但是⋯⋯",
+        "correctDesc": "虽然⋯⋯但是⋯⋯",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "危機",
+        "wordId": 59572,
+        "optionDtos": [{
+            "wordOptionId": 117231,
+            "wordOptionDesc": "危机，险关",
+            "isRight": 1,
+            "wordId": 59572
+        }],
+        "wordDesc": "（きき）①【名】危机，险关",
+        "correctDesc": "危机，险关",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "聞き取り",
+        "wordId": 59573,
+        "optionDtos": [{
+            "wordOptionId": 117232,
+            "wordOptionDesc": "听取；听懂",
+            "isRight": 1,
+            "wordId": 59573
+        }],
+        "wordDesc": "（ききとり）⓪【名】听取；听懂",
+        "correctDesc": "听取；听懂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "兼ねる",
+        "wordId": 59574,
+        "optionDtos": [{
+            "wordOptionId": 117233,
+            "wordOptionDesc": "兼，兼任，兼职；难以……，不能……",
+            "isRight": 1,
+            "wordId": 59574
+        }],
+        "wordDesc": "（かねる）②【他动2·接尾】兼，兼任，兼职；难以……，不能……",
+        "correctDesc": "兼，兼任，兼职；难以……，不能……",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "披露宴",
+        "wordId": 59575,
+        "optionDtos": [{
+            "wordOptionId": 117234,
+            "wordOptionDesc": "宴会，婚宴",
+            "isRight": 1,
+            "wordId": 59575
+        }],
+        "wordDesc": "（ひろうえん）②【名】宴会，婚宴",
+        "correctDesc": "宴会，婚宴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "政党",
+        "wordId": 59576,
+        "optionDtos": [{
+            "wordOptionId": 117235,
+            "wordOptionDesc": "政党",
+            "isRight": 1,
+            "wordId": 59576
+        }],
+        "wordDesc": "（せいとう）⓪【名】政党",
+        "correctDesc": "政党",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "文明",
+        "wordId": 59577,
+        "optionDtos": [{
+            "wordOptionId": 117236,
+            "wordOptionDesc": "文明，物质文化",
+            "isRight": 1,
+            "wordId": 59577
+        }],
+        "wordDesc": "（ぶんめい）⓪【名】文明，物质文化",
+        "correctDesc": "文明，物质文化",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "閉鎖",
+        "wordId": 59578,
+        "optionDtos": [{
+            "wordOptionId": 117237,
+            "wordOptionDesc": "关闭，封锁",
+            "isRight": 1,
+            "wordId": 59578
+        }],
+        "wordDesc": "（へいさ）⓪【名·自他动3】关闭，封锁",
+        "correctDesc": "关闭，封锁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ピン",
+        "wordId": 59579,
+        "optionDtos": [{
+            "wordOptionId": 117238,
+            "wordOptionDesc": "别针；大头针",
+            "isRight": 1,
+            "wordId": 59579
+        }],
+        "wordDesc": "（pin）①【名】别针；大头针",
+        "correctDesc": "别针；大头针",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ブーム",
+        "wordId": 59580,
+        "optionDtos": [{
+            "wordOptionId": 117239,
+            "wordOptionDesc": "热潮，潮流",
+            "isRight": 1,
+            "wordId": 59580
+        }],
+        "wordDesc": "（boom）①【名】热潮，潮流",
+        "correctDesc": "热潮，潮流",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不運",
+        "wordId": 59581,
+        "optionDtos": [{
+            "wordOptionId": 117240,
+            "wordOptionDesc": "运气不好",
+            "isRight": 1,
+            "wordId": 59581
+        }],
+        "wordDesc": "（ふうん）①【名·ナ形】运气不好",
+        "correctDesc": "运气不好",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "笛",
+        "wordId": 59582,
+        "optionDtos": [{
+            "wordOptionId": 117241,
+            "wordOptionDesc": "笛子；哨子",
+            "isRight": 1,
+            "wordId": 59582
+        }],
+        "wordDesc": "（ふえ）⓪【名】笛子；哨子",
+        "correctDesc": "笛子；哨子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "編集",
+        "wordId": 59583,
+        "optionDtos": [{
+            "wordOptionId": 117242,
+            "wordOptionDesc": "编辑",
+            "isRight": 1,
+            "wordId": 59583
+        }],
+        "wordDesc": "（へんしゅう）⓪【名·他动3】编辑",
+        "correctDesc": "编辑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不快",
+        "wordId": 59584,
+        "optionDtos": [{
+            "wordOptionId": 117243,
+            "wordOptionDesc": "不愉快；身体不适",
+            "isRight": 1,
+            "wordId": 59584
+        }],
+        "wordDesc": "（ふかい）②【名·ナ形】不愉快；身体不适",
+        "correctDesc": "不愉快；身体不适",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "晴天",
+        "wordId": 59585,
+        "optionDtos": [{
+            "wordOptionId": 117244,
+            "wordOptionDesc": "晴天",
+            "isRight": 1,
+            "wordId": 59585
+        }],
+        "wordDesc": "（せいてん）⓪【名】晴天",
+        "correctDesc": "晴天",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "変動",
+        "wordId": 59586,
+        "optionDtos": [{
+            "wordOptionId": 117245,
+            "wordOptionDesc": "变动，变化",
+            "isRight": 1,
+            "wordId": 59586
+        }],
+        "wordDesc": "（へんどう）⓪【名·自动3】变动，变化",
+        "correctDesc": "变动，变化",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "釣り合う",
+        "wordId": 59587,
+        "optionDtos": [{
+            "wordOptionId": 117246,
+            "wordOptionDesc": "保持平衡；相称",
+            "isRight": 1,
+            "wordId": 59587
+        }],
+        "wordDesc": "（つりあう）③【自动1】保持平衡；相称",
+        "correctDesc": "保持平衡；相称",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "一通り",
+        "wordId": 59588,
+        "optionDtos": [{
+            "wordOptionId": 117247,
+            "wordOptionDesc": "大概，粗略；普通",
+            "isRight": 1,
+            "wordId": 59588
+        }],
+        "wordDesc": "（ひととおり）⓪【名·副】大概，粗略；普通",
+        "correctDesc": "大概，粗略；普通",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "人通り",
+        "wordId": 59589,
+        "optionDtos": [{
+            "wordOptionId": 117248,
+            "wordOptionDesc": "人来人往，来往行人",
+            "isRight": 1,
+            "wordId": 59589
+        }],
+        "wordDesc": "（ひとどおり）⓪【名】人来人往，来往行人",
+        "correctDesc": "人来人往，来往行人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "文脈",
+        "wordId": 59590,
+        "optionDtos": [{
+            "wordOptionId": 117249,
+            "wordOptionDesc": "文章脉络，前后文逻辑",
+            "isRight": 1,
+            "wordId": 59590
+        }],
+        "wordDesc": "（ぶんみゃく）⓪【名】文章脉络，前后文逻辑",
+        "correctDesc": "文章脉络，前后文逻辑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "誠実",
+        "wordId": 59591,
+        "optionDtos": [{
+            "wordOptionId": 117250,
+            "wordOptionDesc": "诚实，真诚",
+            "isRight": 1,
+            "wordId": 59591
+        }],
+        "wordDesc": "（せいじつ）⓪【名·ナ形】诚实，真诚",
+        "correctDesc": "诚实，真诚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "兵隊",
+        "wordId": 59592,
+        "optionDtos": [{
+            "wordOptionId": 117251,
+            "wordOptionDesc": "军队；军人",
+            "isRight": 1,
+            "wordId": 59592
+        }],
+        "wordDesc": "（へいたい）⓪【名】军队；军人",
+        "correctDesc": "军队；军人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不器用",
+        "wordId": 59593,
+        "optionDtos": [{
+            "wordOptionId": 117252,
+            "wordOptionDesc": "笨手笨脚，不灵活",
+            "isRight": 1,
+            "wordId": 59593
+        }],
+        "wordDesc": "（ぶきよう）②【名·ナ形】笨手笨脚，不灵活",
+        "correctDesc": "笨手笨脚，不灵活",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "平和",
+        "wordId": 59594,
+        "optionDtos": [{
+            "wordOptionId": 117253,
+            "wordOptionDesc": "和平，和睦",
+            "isRight": 1,
+            "wordId": 59594
+        }],
+        "wordDesc": "（へいわ）⓪【名·ナ形】和平，和睦",
+        "correctDesc": "和平，和睦",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "臍",
+        "wordId": 59595,
+        "optionDtos": [{
+            "wordOptionId": 117254,
+            "wordOptionDesc": "肚脐",
+            "isRight": 1,
+            "wordId": 59595
+        }],
+        "wordDesc": "（へそ）⓪【名】肚脐",
+        "correctDesc": "肚脐",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "生育",
+        "wordId": 59596,
+        "optionDtos": [{
+            "wordOptionId": 117255,
+            "wordOptionDesc": "生长；生育；繁殖",
+            "isRight": 1,
+            "wordId": 59596
+        }],
+        "wordDesc": "（せいいく）⓪【名·自他动3】生长；生育；繁殖",
+        "correctDesc": "生长；生育；繁殖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "別人",
+        "wordId": 59597,
+        "optionDtos": [{
+            "wordOptionId": 117256,
+            "wordOptionDesc": "别人,其他人",
+            "isRight": 1,
+            "wordId": 59597
+        }],
+        "wordDesc": "（べつじん）⓪【名】别人,其他人",
+        "correctDesc": "别人,其他人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ベテラン",
+        "wordId": 59598,
+        "optionDtos": [{
+            "wordOptionId": 117257,
+            "wordOptionDesc": "老手，经验丰富的人",
+            "isRight": 1,
+            "wordId": 59598
+        }],
+        "wordDesc": "（veteran）⓪【名】老手，经验丰富的人",
+        "correctDesc": "老手，经验丰富的人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "棒",
+        "wordId": 59599,
+        "optionDtos": [{
+            "wordOptionId": 117258,
+            "wordOptionDesc": "棒，棍子",
+            "isRight": 1,
+            "wordId": 59599
+        }],
+        "wordDesc": "（ぼう）⓪【名】棒，棍子",
+        "correctDesc": "棒，棍子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ぐんぐん ",
+        "wordId": 59600,
+        "optionDtos": [{
+            "wordOptionId": 117259,
+            "wordOptionDesc": "用力，使劲儿；很快地，突飞猛进；稳步地",
+            "isRight": 1,
+            "wordId": 59600
+        }],
+        "wordDesc": "①【副】用力，使劲儿；很快地，突飞猛进；稳步地",
+        "correctDesc": "用力，使劲儿；很快地，突飞猛进；稳步地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "方式",
+        "wordId": 59601,
+        "optionDtos": [{
+            "wordOptionId": 117260,
+            "wordOptionDesc": "方式，形式",
+            "isRight": 1,
+            "wordId": 59601
+        }],
+        "wordDesc": "（ほうしき）⓪【名】方式，形式",
+        "correctDesc": "方式，形式",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "噴き出す",
+        "wordId": 59602,
+        "optionDtos": [{
+            "wordOptionId": 117261,
+            "wordOptionDesc": "喷出，冒出；忍不住笑出来",
+            "isRight": 1,
+            "wordId": 59602
+        }],
+        "wordDesc": "（ふきだす）③【自动1】喷出，冒出；忍不住笑出来",
+        "correctDesc": "喷出，冒出；忍不住笑出来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "包帯",
+        "wordId": 59603,
+        "optionDtos": [{
+            "wordOptionId": 117262,
+            "wordOptionDesc": "绷带",
+            "isRight": 1,
+            "wordId": 59603
+        }],
+        "wordDesc": "（ほうたい）⓪【名】绷带",
+        "correctDesc": "绷带",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "膨大",
+        "wordId": 59604,
+        "optionDtos": [{
+            "wordOptionId": 117263,
+            "wordOptionDesc": "庞大，巨大；膨胀",
+            "isRight": 1,
+            "wordId": 59604
+        }],
+        "wordDesc": "（ぼうだい）⓪【名·ナ形·自动3】庞大，巨大；膨胀",
+        "correctDesc": "庞大，巨大；膨胀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "放って置く",
+        "wordId": 59605,
+        "optionDtos": [{
+            "wordOptionId": 117264,
+            "wordOptionDesc": "放置不管，放一边",
+            "isRight": 1,
+            "wordId": 59605
+        }],
+        "wordDesc": "（ほっておく）⓪【连语】放置不管，放一边",
+        "correctDesc": "放置不管，放一边",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "彫る",
+        "wordId": 59606,
+        "optionDtos": [{
+            "wordOptionId": 117265,
+            "wordOptionDesc": "刻，雕刻",
+            "isRight": 1,
+            "wordId": 59606
+        }],
+        "wordDesc": "（ほる）①【他动1】刻，雕刻",
+        "correctDesc": "刻，雕刻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ぼろぼろ ",
+        "wordId": 59607,
+        "optionDtos": [{
+            "wordOptionId": 117266,
+            "wordOptionDesc": "破破烂烂；扑簌扑簌地掉落，哩哩啦啦；身心俱疲",
+            "isRight": 1,
+            "wordId": 59607
+        }],
+        "wordDesc": "①【副·ナ形】破破烂烂；扑簌扑簌地掉落，哩哩啦啦；身心俱疲",
+        "correctDesc": "破破烂烂；扑簌扑簌地掉落，哩哩啦啦；身心俱疲",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "本格的",
+        "wordId": 59608,
+        "optionDtos": [{
+            "wordOptionId": 117267,
+            "wordOptionDesc": "真正的；正式的",
+            "isRight": 1,
+            "wordId": 59608
+        }],
+        "wordDesc": "（ほんかくてき）⓪【ナ形】真正的；正式的",
+        "correctDesc": "真正的；正式的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "本気",
+        "wordId": 59609,
+        "optionDtos": [{
+            "wordOptionId": 117268,
+            "wordOptionDesc": "认真，当真",
+            "isRight": 1,
+            "wordId": 59609
+        }],
+        "wordDesc": "（ほんき）⓪【名·ナ形】认真，当真",
+        "correctDesc": "认真，当真",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "本来",
+        "wordId": 59610,
+        "optionDtos": [{
+            "wordOptionId": 117269,
+            "wordOptionDesc": "本来，原来",
+            "isRight": 1,
+            "wordId": 59610
+        }],
+        "wordDesc": "（ほんらい）①【名·副】本来，原来",
+        "correctDesc": "本来，原来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "摩擦",
+        "wordId": 59611,
+        "optionDtos": [{
+            "wordOptionId": 117270,
+            "wordOptionDesc": "摩擦；闹矛盾，有分歧",
+            "isRight": 1,
+            "wordId": 59611
+        }],
+        "wordDesc": "（まさつ）⓪【名·自他动3】摩擦；闹矛盾，有分歧",
+        "correctDesc": "摩擦；闹矛盾，有分歧",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "まさに ",
+        "wordId": 59612,
+        "optionDtos": [{
+            "wordOptionId": 117271,
+            "wordOptionDesc": "真正，的确；将要，快要 ",
+            "isRight": 1,
+            "wordId": 59612
+        }],
+        "wordDesc": "①【副】真正，的确；将要，快要 ",
+        "correctDesc": "真正，的确；将要，快要 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "混ざる",
+        "wordId": 59613,
+        "optionDtos": [{
+            "wordOptionId": 117272,
+            "wordOptionDesc": "混杂，夹杂，掺杂",
+            "isRight": 1,
+            "wordId": 59613
+        }],
+        "wordDesc": "（まざる）②【自动1】混杂，夹杂，掺杂",
+        "correctDesc": "混杂，夹杂，掺杂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "まして ",
+        "wordId": 59614,
+        "optionDtos": [{
+            "wordOptionId": 117273,
+            "wordOptionDesc": "何况，况且；更，更加 ",
+            "isRight": 1,
+            "wordId": 59614
+        }],
+        "wordDesc": "①【副】何况，况且；更，更加 ",
+        "correctDesc": "何况，况且；更，更加 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "方面",
+        "wordId": 59615,
+        "optionDtos": [{
+            "wordOptionId": 117274,
+            "wordOptionDesc": "方面；领域",
+            "isRight": 1,
+            "wordId": 59615
+        }],
+        "wordDesc": "（ほうめん）③【名】方面；领域",
+        "correctDesc": "方面；领域",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "放り出す",
+        "wordId": 59616,
+        "optionDtos": [{
+            "wordOptionId": 117275,
+            "wordOptionDesc": "扔出去，抛出去；中途放弃；开除",
+            "isRight": 1,
+            "wordId": 59616
+        }],
+        "wordDesc": "（ほうりだす）④【他动1】扔出去，抛出去；中途放弃；开除",
+        "correctDesc": "扔出去，抛出去；中途放弃；开除",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "暴力",
+        "wordId": 59617,
+        "optionDtos": [{
+            "wordOptionId": 117276,
+            "wordOptionDesc": "暴力，武力",
+            "isRight": 1,
+            "wordId": 59617
+        }],
+        "wordDesc": "（ぼうりょく）①【名】暴力，武力",
+        "correctDesc": "暴力，武力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ほぼ ",
+        "wordId": 59618,
+        "optionDtos": [{
+            "wordOptionId": 117277,
+            "wordOptionDesc": "大体上，几乎，大概",
+            "isRight": 1,
+            "wordId": 59618
+        }],
+        "wordDesc": "①【副】大体上，几乎，大概",
+        "correctDesc": "大体上，几乎，大概",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "増す",
+        "wordId": 59619,
+        "optionDtos": [{
+            "wordOptionId": 117278,
+            "wordOptionDesc": "（数量）增加，增多；（程度）增长；胜过",
+            "isRight": 1,
+            "wordId": 59619
+        }],
+        "wordDesc": "（ます）⓪【自他动1】（数量）增加，增多；（程度）增长；胜过",
+        "correctDesc": "（数量）增加，增多；（程度）增长；胜过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "宝石",
+        "wordId": 59620,
+        "optionDtos": [{
+            "wordOptionId": 117279,
+            "wordOptionDesc": "宝石",
+            "isRight": 1,
+            "wordId": 59620
+        }],
+        "wordDesc": "（ほうせき）⓪【名】宝石",
+        "correctDesc": "宝石",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "稀",
+        "wordId": 59621,
+        "optionDtos": [{
+            "wordOptionId": 117280,
+            "wordOptionDesc": "稀罕的，稀奇的，稀少的",
+            "isRight": 1,
+            "wordId": 59621
+        }],
+        "wordDesc": "（まれ）⓪【ナ形】稀罕的，稀奇的，稀少的",
+        "correctDesc": "稀罕的，稀奇的，稀少的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "回り道",
+        "wordId": 59622,
+        "optionDtos": [{
+            "wordOptionId": 117281,
+            "wordOptionDesc": "绕道，绕远",
+            "isRight": 1,
+            "wordId": 59622
+        }],
+        "wordDesc": "（まわりみち）⓪【名·自动3】绕道，绕远",
+        "correctDesc": "绕道，绕远",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "万一",
+        "wordId": 59623,
+        "optionDtos": [{
+            "wordOptionId": 117282,
+            "wordOptionDesc": "万一，倘若，假如",
+            "isRight": 1,
+            "wordId": 59623
+        }],
+        "wordDesc": "（まんいち）①【副】万一，倘若，假如",
+        "correctDesc": "万一，倘若，假如",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "法則",
+        "wordId": 59624,
+        "optionDtos": [{
+            "wordOptionId": 117283,
+            "wordOptionDesc": "法则；定律",
+            "isRight": 1,
+            "wordId": 59624
+        }],
+        "wordDesc": "（ほうそく）⓪【名】法则；定律",
+        "correctDesc": "法则；定律",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "平方メートル",
+        "wordId": 59625,
+        "optionDtos": [{
+            "wordOptionId": 117284,
+            "wordOptionDesc": "平方米",
+            "isRight": 1,
+            "wordId": 59625
+        }],
+        "wordDesc": "（へいほうメートル）⑤【名】平方米",
+        "correctDesc": "平方米",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "幕",
+        "wordId": 59626,
+        "optionDtos": [{
+            "wordOptionId": 117285,
+            "wordOptionDesc": "帷幕；（戏剧）幕；场面",
+            "isRight": 1,
+            "wordId": 59626
+        }],
+        "wordDesc": "（まく）②【名】帷幕；（戏剧）幕；场面",
+        "correctDesc": "帷幕；（戏剧）幕；场面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "まこと ",
+        "wordId": 59627,
+        "optionDtos": [{
+            "wordOptionId": 117286,
+            "wordOptionDesc": "真的，事实；真，实在",
+            "isRight": 1,
+            "wordId": 59627
+        }],
+        "wordDesc": "⓪【名·副】真的，事实；真，实在",
+        "correctDesc": "真的，事实；真，实在",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "平凡",
+        "wordId": 59628,
+        "optionDtos": [{
+            "wordOptionId": 117287,
+            "wordOptionDesc": "平凡，普通",
+            "isRight": 1,
+            "wordId": 59628
+        }],
+        "wordDesc": "（へいぼん）⓪【名·ナ形】平凡，普通",
+        "correctDesc": "平凡，普通",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "保管",
+        "wordId": 59629,
+        "optionDtos": [{
+            "wordOptionId": 117288,
+            "wordOptionDesc": "保管",
+            "isRight": 1,
+            "wordId": 59629
+        }],
+        "wordDesc": "（ほかん）⓪【名·他动3】保管",
+        "correctDesc": "保管",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "並列",
+        "wordId": 59630,
+        "optionDtos": [{
+            "wordOptionId": 117289,
+            "wordOptionDesc": "并列，并排；并联",
+            "isRight": 1,
+            "wordId": 59630
+        }],
+        "wordDesc": "（へいれつ）⓪【名·自他动3】并列，并排；并联",
+        "correctDesc": "并列，并排；并联",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "不可欠",
+        "wordId": 59631,
+        "optionDtos": [{
+            "wordOptionId": 117290,
+            "wordOptionDesc": "不可或缺的，必不可少的",
+            "isRight": 1,
+            "wordId": 59631
+        }],
+        "wordDesc": "（ふかけつ）②【名·ナ形】不可或缺的，必不可少的",
+        "correctDesc": "不可或缺的，必不可少的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "マスコミ ",
+        "wordId": 59632,
+        "optionDtos": [{
+            "wordOptionId": 117291,
+            "wordOptionDesc": "大众传媒，大众传播",
+            "isRight": 1,
+            "wordId": 59632
+        }],
+        "wordDesc": "⓪【名】大众传媒，大众传播",
+        "correctDesc": "大众传媒，大众传播",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "牧畜",
+        "wordId": 59633,
+        "optionDtos": [{
+            "wordOptionId": 117292,
+            "wordOptionDesc": "畜牧，畜牧业",
+            "isRight": 1,
+            "wordId": 59633
+        }],
+        "wordDesc": "（ぼくちく）⓪【名】畜牧，畜牧业",
+        "correctDesc": "畜牧，畜牧业",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "待ち合わせ",
+        "wordId": 59634,
+        "optionDtos": [{
+            "wordOptionId": 117293,
+            "wordOptionDesc": "碰头，会面，见面",
+            "isRight": 1,
+            "wordId": 59634
+        }],
+        "wordDesc": "（まちあわせ）⓪【名】碰头，会面，见面",
+        "correctDesc": "碰头，会面，见面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "保険",
+        "wordId": 59635,
+        "optionDtos": [{
+            "wordOptionId": 117294,
+            "wordOptionDesc": "保险",
+            "isRight": 1,
+            "wordId": 59635
+        }],
+        "wordDesc": "（ほけん）⓪【名】保险",
+        "correctDesc": "保险",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "待ち望む",
+        "wordId": 59636,
+        "optionDtos": [{
+            "wordOptionId": 117295,
+            "wordOptionDesc": "盼望，殷切希望",
+            "isRight": 1,
+            "wordId": 59636
+        }],
+        "wordDesc": "（まちのぞむ）④【他动1】盼望，殷切希望",
+        "correctDesc": "盼望，殷切希望",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "マッサージ",
+        "wordId": 59637,
+        "optionDtos": [{
+            "wordOptionId": 117296,
+            "wordOptionDesc": "按摩，推拿",
+            "isRight": 1,
+            "wordId": 59637
+        }],
+        "wordDesc": "（massage）③【名·他动3】按摩，推拿",
+        "correctDesc": "按摩，推拿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "招き",
+        "wordId": 59638,
+        "optionDtos": [{
+            "wordOptionId": 117297,
+            "wordOptionDesc": "邀请，招待",
+            "isRight": 1,
+            "wordId": 59638
+        }],
+        "wordDesc": "（まねき）③【名】邀请，招待",
+        "correctDesc": "邀请，招待",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "眉",
+        "wordId": 59639,
+        "optionDtos": [{
+            "wordOptionId": 117298,
+            "wordOptionDesc": "眉毛",
+            "isRight": 1,
+            "wordId": 59639
+        }],
+        "wordDesc": "（まゆ）①【名】眉毛",
+        "correctDesc": "眉毛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "誇る",
+        "wordId": 59640,
+        "optionDtos": [{
+            "wordOptionId": 117299,
+            "wordOptionDesc": "夸耀；自豪，骄傲",
+            "isRight": 1,
+            "wordId": 59640
+        }],
+        "wordDesc": "（ほこる）②【自动1】夸耀；自豪，骄傲",
+        "correctDesc": "夸耀；自豪，骄傲",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "まめ ",
+        "wordId": 59641,
+        "optionDtos": [{
+            "wordOptionId": 117300,
+            "wordOptionDesc": "勤快，勤奋；认真；健康",
+            "isRight": 1,
+            "wordId": 59641
+        }],
+        "wordDesc": "⓪【名·ナ形】勤快，勤奋；认真；健康",
+        "correctDesc": "勤快，勤奋；认真；健康",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "丸ごと",
+        "wordId": 59642,
+        "optionDtos": [{
+            "wordOptionId": 117301,
+            "wordOptionDesc": "整个儿，完整，全部",
+            "isRight": 1,
+            "wordId": 59642
+        }],
+        "wordDesc": "（まるごと）⓪【副】整个儿，完整，全部",
+        "correctDesc": "整个儿，完整，全部",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "身",
+        "wordId": 59643,
+        "optionDtos": [{
+            "wordOptionId": 117302,
+            "wordOptionDesc": "身体；身份",
+            "isRight": 1,
+            "wordId": 59643
+        }],
+        "wordDesc": "（み）⓪【名】身体；身份",
+        "correctDesc": "身体；身份",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ミーティング",
+        "wordId": 59644,
+        "optionDtos": [{
+            "wordOptionId": 117303,
+            "wordOptionDesc": "会，会议",
+            "isRight": 1,
+            "wordId": 59644
+        }],
+        "wordDesc": "（meeting）⓪【名】会，会议",
+        "correctDesc": "会，会议",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "保守",
+        "wordId": 59645,
+        "optionDtos": [{
+            "wordOptionId": 117304,
+            "wordOptionDesc": "（思想）保守；保养（机器）",
+            "isRight": 1,
+            "wordId": 59645
+        }],
+        "wordDesc": "（ほしゅ）①【名·他动3】（思想）保守；保养（机器）",
+        "correctDesc": "（思想）保守；保养（机器）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "傷付く",
+        "wordId": 59646,
+        "optionDtos": [{
+            "wordOptionId": 117305,
+            "wordOptionDesc": "受伤；遭受损坏",
+            "isRight": 1,
+            "wordId": 59646
+        }],
+        "wordDesc": "（きずつく）③【自动1】受伤；遭受损坏",
+        "correctDesc": "受伤；遭受损坏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "見覚え",
+        "wordId": 59647,
+        "optionDtos": [{
+            "wordOptionId": 117306,
+            "wordOptionDesc": "眼熟，熟悉，认识",
+            "isRight": 1,
+            "wordId": 59647
+        }],
+        "wordDesc": "（みおぼえ）⓪【名】眼熟，熟悉，认识",
+        "correctDesc": "眼熟，熟悉，认识",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "儀式",
+        "wordId": 59648,
+        "optionDtos": [{
+            "wordOptionId": 117307,
+            "wordOptionDesc": "仪式，典礼",
+            "isRight": 1,
+            "wordId": 59648
+        }],
+        "wordDesc": "（ぎしき）①【名】仪式，典礼",
+        "correctDesc": "仪式，典礼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "武器",
+        "wordId": 59649,
+        "optionDtos": [{
+            "wordOptionId": 117308,
+            "wordOptionDesc": "武器",
+            "isRight": 1,
+            "wordId": 59649
+        }],
+        "wordDesc": "（ぶき）①【名】武器",
+        "correctDesc": "武器",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "暴風雨",
+        "wordId": 59650,
+        "optionDtos": [{
+            "wordOptionId": 117309,
+            "wordOptionDesc": "暴风雨",
+            "isRight": 1,
+            "wordId": 59650
+        }],
+        "wordDesc": "（ぼうふうう）③【名】暴风雨",
+        "correctDesc": "暴风雨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "暴風雪",
+        "wordId": 59651,
+        "optionDtos": [{
+            "wordOptionId": 117310,
+            "wordOptionDesc": "暴风雪",
+            "isRight": 1,
+            "wordId": 59651
+        }],
+        "wordDesc": "（ぼうふうせつ）③【名】暴风雪",
+        "correctDesc": "暴风雪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "観測",
+        "wordId": 59652,
+        "optionDtos": [{
+            "wordOptionId": 117311,
+            "wordOptionDesc": "观测；观察",
+            "isRight": 1,
+            "wordId": 59652
+        }],
+        "wordDesc": "（かんそく）⓪【名·他动3】观测；观察",
+        "correctDesc": "观测；观察",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "跳ぶ",
+        "wordId": 59653,
+        "optionDtos": [{
+            "wordOptionId": 117312,
+            "wordOptionDesc": "跳；飞跑；越过，跳过",
+            "isRight": 1,
+            "wordId": 59653
+        }],
+        "wordDesc": "（とぶ）⓪【自动1】跳；飞跑；越过，跳过",
+        "correctDesc": "跳；飞跑；越过，跳过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "細やか",
+        "wordId": 59654,
+        "optionDtos": [{
+            "wordOptionId": 117313,
+            "wordOptionDesc": "细致的，详细的；细腻的",
+            "isRight": 1,
+            "wordId": 59654
+        }],
+        "wordDesc": "（こまやか）②【ナ形】细致的，详细的；细腻的",
+        "correctDesc": "细致的，详细的；细腻的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ホームページ",
+        "wordId": 59655,
+        "optionDtos": [{
+            "wordOptionId": 117314,
+            "wordOptionDesc": "（网站）主页，首页",
+            "isRight": 1,
+            "wordId": 59655
+        }],
+        "wordDesc": "（home page）④【名】（网站）主页，首页",
+        "correctDesc": "（网站）主页，首页",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "参る",
+        "wordId": 59656,
+        "optionDtos": [{
+            "wordOptionId": 117315,
+            "wordOptionDesc": "去；来；参拜；服输，受不了",
+            "isRight": 1,
+            "wordId": 59656
+        }],
+        "wordDesc": "（まいる）①【自动1】去；来；参拜；服输，受不了",
+        "correctDesc": "去；来；参拜；服输，受不了",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "共に",
+        "wordId": 59657,
+        "optionDtos": [{
+            "wordOptionId": 117316,
+            "wordOptionDesc": "一起，共同",
+            "isRight": 1,
+            "wordId": 59657
+        }],
+        "wordDesc": "（ともに）⓪ 【副】一起，共同",
+        "correctDesc": "一起，共同",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "妊娠",
+        "wordId": 59658,
+        "optionDtos": [{
+            "wordOptionId": 117317,
+            "wordOptionDesc": "妊娠，怀孕",
+            "isRight": 1,
+            "wordId": 59658
+        }],
+        "wordDesc": "（にんしん）⓪【名·自动3】妊娠，怀孕",
+        "correctDesc": "妊娠，怀孕",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "器械",
+        "wordId": 59659,
+        "optionDtos": [{
+            "wordOptionId": 117318,
+            "wordOptionDesc": "机器，器械；仪器",
+            "isRight": 1,
+            "wordId": 59659
+        }],
+        "wordDesc": "（きかい）②【名】机器，器械；仪器",
+        "correctDesc": "机器，器械；仪器",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "活躍",
+        "wordId": 59660,
+        "optionDtos": [{
+            "wordOptionId": 117319,
+            "wordOptionDesc": "活跃，活动",
+            "isRight": 1,
+            "wordId": 59660
+        }],
+        "wordDesc": "（かつやく）⓪【名·自动3】活跃，活动",
+        "correctDesc": "活跃，活动",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "前もって",
+        "wordId": 59661,
+        "optionDtos": [{
+            "wordOptionId": 117320,
+            "wordOptionDesc": "事先，预先",
+            "isRight": 1,
+            "wordId": 59661
+        }],
+        "wordDesc": "（まえもって）③【副】事先，预先",
+        "correctDesc": "事先，预先",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "被災",
+        "wordId": 59662,
+        "optionDtos": [{
+            "wordOptionId": 117321,
+            "wordOptionDesc": "受灾，遭灾",
+            "isRight": 1,
+            "wordId": 59662
+        }],
+        "wordDesc": "（ひさい）⓪【名·自动3】受灾，遭灾",
+        "correctDesc": "受灾，遭灾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "補助",
+        "wordId": 59663,
+        "optionDtos": [{
+            "wordOptionId": 117322,
+            "wordOptionDesc": "补助，辅助",
+            "isRight": 1,
+            "wordId": 59663
+        }],
+        "wordDesc": "（ほじょ）①【名·他动3】补助，辅助",
+        "correctDesc": "补助，辅助",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "見捨てる",
+        "wordId": 59664,
+        "optionDtos": [{
+            "wordOptionId": 117323,
+            "wordOptionDesc": "抛弃，弃之不顾",
+            "isRight": 1,
+            "wordId": 59664
+        }],
+        "wordDesc": "（みすてる）⓪【他动2】抛弃，弃之不顾",
+        "correctDesc": "抛弃，弃之不顾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "返答",
+        "wordId": 59665,
+        "optionDtos": [{
+            "wordOptionId": 117324,
+            "wordOptionDesc": "回答，回复",
+            "isRight": 1,
+            "wordId": 59665
+        }],
+        "wordDesc": "（へんとう）③【名·自动3】回答，回复",
+        "correctDesc": "回答，回复",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "非難",
+        "wordId": 59666,
+        "optionDtos": [{
+            "wordOptionId": 117325,
+            "wordOptionDesc": "非难，谴责",
+            "isRight": 1,
+            "wordId": 59666
+        }],
+        "wordDesc": "（ひなん）①【名·他动3】非难，谴责",
+        "correctDesc": "非难，谴责",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "同級生",
+        "wordId": 59667,
+        "optionDtos": [{
+            "wordOptionId": 117326,
+            "wordOptionDesc": "同年级的学生",
+            "isRight": 1,
+            "wordId": 59667
+        }],
+        "wordDesc": "（どうきゅうせい）③【名】同年级的学生",
+        "correctDesc": "同年级的学生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "認識",
+        "wordId": 59668,
+        "optionDtos": [{
+            "wordOptionId": 117327,
+            "wordOptionDesc": "认识，了解，理解",
+            "isRight": 1,
+            "wordId": 59668
+        }],
+        "wordDesc": "（にんしき）⓪【名·他动3】认识，了解，理解",
+        "correctDesc": "认识，了解，理解",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "標準",
+        "wordId": 59669,
+        "optionDtos": [{
+            "wordOptionId": 117328,
+            "wordOptionDesc": "标准",
+            "isRight": 1,
+            "wordId": 59669
+        }],
+        "wordDesc": "（ひょうじゅん）⓪【名】标准",
+        "correctDesc": "标准",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "弁論",
+        "wordId": 59670,
+        "optionDtos": [{
+            "wordOptionId": 117329,
+            "wordOptionDesc": "辩论，争辩",
+            "isRight": 1,
+            "wordId": 59670
+        }],
+        "wordDesc": "（べんろん）⓪【名·自动3】辩论，争辩",
+        "correctDesc": "辩论，争辩",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "墓参り",
+        "wordId": 59671,
+        "optionDtos": [{
+            "wordOptionId": 117330,
+            "wordOptionDesc": "扫墓",
+            "isRight": 1,
+            "wordId": 59671
+        }],
+        "wordDesc": "（はかまいり）③【名·自动3】扫墓",
+        "correctDesc": "扫墓",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "起動",
+        "wordId": 59672,
+        "optionDtos": [{
+            "wordOptionId": 117331,
+            "wordOptionDesc": "启动，开始运转",
+            "isRight": 1,
+            "wordId": 59672
+        }],
+        "wordDesc": "（きどう）⓪【名·自动3】启动，开始运转",
+        "correctDesc": "启动，开始运转",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "保障",
+        "wordId": 59673,
+        "optionDtos": [{
+            "wordOptionId": 117332,
+            "wordOptionDesc": "保障",
+            "isRight": 1,
+            "wordId": 59673
+        }],
+        "wordDesc": "（ほしょう）⓪【名·他动3】保障",
+        "correctDesc": "保障",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "ともかく ",
+        "wordId": 59674,
+        "optionDtos": [{
+            "wordOptionId": 117333,
+            "wordOptionDesc": "暂且不论；无论如何，总之",
+            "isRight": 1,
+            "wordId": 59674
+        }],
+        "wordDesc": "①【副】暂且不论；无论如何，总之",
+        "correctDesc": "暂且不论；无论如何，总之",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "真っ白い",
+        "wordId": 59675,
+        "optionDtos": [{
+            "wordOptionId": 117334,
+            "wordOptionDesc": "雪白的，洁白的",
+            "isRight": 1,
+            "wordId": 59675
+        }],
+        "wordDesc": "（まっしろい）④【イ形】雪白的，洁白的",
+        "correctDesc": "雪白的，洁白的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "当時",
+        "wordId": 59676,
+        "optionDtos": [{
+            "wordOptionId": 117335,
+            "wordOptionDesc": "当时，那个时候",
+            "isRight": 1,
+            "wordId": 59676
+        }],
+        "wordDesc": "（とうじ）①【名】当时，那个时候",
+        "correctDesc": "当时，那个时候",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "垂直",
+        "wordId": 59677,
+        "optionDtos": [{
+            "wordOptionId": 117336,
+            "wordOptionDesc": "垂直",
+            "isRight": 1,
+            "wordId": 59677
+        }],
+        "wordDesc": "（すいちょく）⓪【名·ナ形】垂直",
+        "correctDesc": "垂直",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "剥がれる",
+        "wordId": 59678,
+        "optionDtos": [{
+            "wordOptionId": 117337,
+            "wordOptionDesc": "剥落，剥下",
+            "isRight": 1,
+            "wordId": 59678
+        }],
+        "wordDesc": "（はがれる）③【自动2】剥落，剥下",
+        "correctDesc": "剥落，剥下",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "動脈",
+        "wordId": 59679,
+        "optionDtos": [{
+            "wordOptionId": 117338,
+            "wordOptionDesc": "动脉",
+            "isRight": 1,
+            "wordId": 59679
+        }],
+        "wordDesc": "（どうみゃく）⓪【名】动脉",
+        "correctDesc": "动脉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "瞳",
+        "wordId": 59680,
+        "optionDtos": [{
+            "wordOptionId": 117339,
+            "wordOptionDesc": "瞳孔；眼睛",
+            "isRight": 1,
+            "wordId": 59680
+        }],
+        "wordDesc": "（ひとみ）⓪【名】瞳孔；眼睛",
+        "correctDesc": "瞳孔；眼睛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "水っぽい",
+        "wordId": 59681,
+        "optionDtos": [{
+            "wordOptionId": 117340,
+            "wordOptionDesc": "水分多的，淡而无味的",
+            "isRight": 1,
+            "wordId": 59681
+        }],
+        "wordDesc": "（みずっぽい）④【イ形】水分多的，淡而无味的",
+        "correctDesc": "水分多的，淡而无味的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "紛争",
+        "wordId": 59682,
+        "optionDtos": [{
+            "wordOptionId": 117341,
+            "wordOptionDesc": "纷争，纠纷",
+            "isRight": 1,
+            "wordId": 59682
+        }],
+        "wordDesc": "（ふんそう）⓪【名·自动3】纷争，纠纷",
+        "correctDesc": "纷争，纠纷",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "飛ばす",
+        "wordId": 59683,
+        "optionDtos": [{
+            "wordOptionId": 117342,
+            "wordOptionDesc": "使……飞起；吹跑；（驱车）疾驰；跳过，越过",
+            "isRight": 1,
+            "wordId": 59683
+        }],
+        "wordDesc": "（とばす）⓪【他动1】使……飞起；吹跑；（驱车）疾驰；跳过，越过",
+        "correctDesc": "使……飞起；吹跑；（驱车）疾驰；跳过，越过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第七天",
+        "wordName": "探す",
+        "wordId": 59684,
+        "optionDtos": [{
+            "wordOptionId": 117343,
+            "wordOptionDesc": "寻找；追求；搜寻",
+            "isRight": 1,
+            "wordId": 59684
+        }],
+        "wordDesc": "（さがす）⓪【他动1】寻找；追求；搜寻",
+        "correctDesc": "寻找；追求；搜寻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

@@ -1,0 +1,3805 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "手数料",
+        "wordId": 47455,
+        "optionDtos": [{
+            "wordOptionId": 98701,
+            "wordOptionDesc": "手续费",
+            "isRight": 1,
+            "wordId": 47455
+        }],
+        "wordDesc": "（てすうりょう）②【名】手续费",
+        "correctDesc": "手续费",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "同僚",
+        "wordId": 47456,
+        "optionDtos": [{
+            "wordOptionId": 98702,
+            "wordOptionDesc": "同事",
+            "isRight": 1,
+            "wordId": 47456
+        }],
+        "wordDesc": "（どうりょう）⓪【名】同事",
+        "correctDesc": "同事",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "中身/中味",
+        "wordId": 47457,
+        "optionDtos": [{
+            "wordOptionId": 98703,
+            "wordOptionDesc": "内容，装在里面的东西",
+            "isRight": 1,
+            "wordId": 47457
+        }],
+        "wordDesc": "（なかみ）②【名】内容，装在里面的东西",
+        "correctDesc": "内容，装在里面的东西",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ネット",
+        "wordId": 47458,
+        "optionDtos": [{
+            "wordOptionId": 98704,
+            "wordOptionDesc": "网；球网",
+            "isRight": 1,
+            "wordId": 47458
+        }],
+        "wordDesc": "（net）①【名】网；球网",
+        "correctDesc": "网；球网",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "吐き気",
+        "wordId": 47459,
+        "optionDtos": [{
+            "wordOptionId": 98705,
+            "wordOptionDesc": "恶心，想吐",
+            "isRight": 1,
+            "wordId": 47459
+        }],
+        "wordDesc": "（はきけ）③【名】恶心，想吐",
+        "correctDesc": "恶心，想吐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "人出",
+        "wordId": 47460,
+        "optionDtos": [{
+            "wordOptionId": 98706,
+            "wordOptionDesc": "外出的人群",
+            "isRight": 1,
+            "wordId": 47460
+        }],
+        "wordDesc": "（ひとで）⓪【名】外出的人群",
+        "correctDesc": "外出的人群",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "普及",
+        "wordId": 47461,
+        "optionDtos": [{
+            "wordOptionId": 98707,
+            "wordOptionDesc": "普及",
+            "isRight": 1,
+            "wordId": 47461
+        }],
+        "wordDesc": "（ふきゅう）⓪【名·自动3】普及",
+        "correctDesc": "普及",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "包丁",
+        "wordId": 47462,
+        "optionDtos": [{
+            "wordOptionId": 98708,
+            "wordOptionDesc": "菜刀",
+            "isRight": 1,
+            "wordId": 47462
+        }],
+        "wordDesc": "（ほうちょう）⓪【名】菜刀",
+        "correctDesc": "菜刀",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "井戸",
+        "wordId": 47463,
+        "optionDtos": [{
+            "wordOptionId": 98709,
+            "wordOptionDesc": "井",
+            "isRight": 1,
+            "wordId": 47463
+        }],
+        "wordDesc": "（いど）①【名】井",
+        "correctDesc": "井",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "申込者",
+        "wordId": 47464,
+        "optionDtos": [{
+            "wordOptionId": 98710,
+            "wordOptionDesc": "申请者",
+            "isRight": 1,
+            "wordId": 47464
+        }],
+        "wordDesc": "（もうしこみしゃ）⑤【名】申请者",
+        "correctDesc": "申请者",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "フランス",
+        "wordId": 47465,
+        "optionDtos": [{
+            "wordOptionId": 98711,
+            "wordOptionDesc": "法国",
+            "isRight": 1,
+            "wordId": 47465
+        }],
+        "wordDesc": "（France）⓪【名】法国",
+        "correctDesc": "法国",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "近道",
+        "wordId": 47466,
+        "optionDtos": [{
+            "wordOptionId": 98712,
+            "wordOptionDesc": "近路，近道",
+            "isRight": 1,
+            "wordId": 47466
+        }],
+        "wordDesc": "（ちかみち）②【名】近路，近道",
+        "correctDesc": "近路，近道",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "刺す",
+        "wordId": 47467,
+        "optionDtos": [{
+            "wordOptionId": 98713,
+            "wordOptionDesc": "刺，扎",
+            "isRight": 1,
+            "wordId": 47467
+        }],
+        "wordDesc": "（さす）①【他动1】刺，扎",
+        "correctDesc": "刺，扎",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "挿す",
+        "wordId": 47468,
+        "optionDtos": [{
+            "wordOptionId": 98714,
+            "wordOptionDesc": "插，插入",
+            "isRight": 1,
+            "wordId": 47468
+        }],
+        "wordDesc": "（さす）①【他动1】插，插入",
+        "correctDesc": "插，插入",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "事実",
+        "wordId": 47469,
+        "optionDtos": [{
+            "wordOptionId": 98715,
+            "wordOptionDesc": "事实；实际上",
+            "isRight": 1,
+            "wordId": 47469
+        }],
+        "wordDesc": "（じじつ）①【名·副】事实；实际上",
+        "correctDesc": "事实；实际上",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "嫌い",
+        "wordId": 47470,
+        "optionDtos": [{
+            "wordOptionId": 98716,
+            "wordOptionDesc": "讨厌，厌恶；有⋯⋯之嫌",
+            "isRight": 1,
+            "wordId": 47470
+        }],
+        "wordDesc": "（きらい）⓪【名·ナ形】讨厌，厌恶；有⋯⋯之嫌",
+        "correctDesc": "讨厌，厌恶；有⋯⋯之嫌",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "嫌う",
+        "wordId": 47471,
+        "optionDtos": [{
+            "wordOptionId": 98717,
+            "wordOptionDesc": "讨厌，厌恶",
+            "isRight": 1,
+            "wordId": 47471
+        }],
+        "wordDesc": "（きらう）⓪【他动1】讨厌，厌恶",
+        "correctDesc": "讨厌，厌恶",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "計算",
+        "wordId": 47472,
+        "optionDtos": [{
+            "wordOptionId": 98718,
+            "wordOptionDesc": "计算；考虑，估计",
+            "isRight": 1,
+            "wordId": 47472
+        }],
+        "wordDesc": "（けいさん）⓪【名·他动3】计算；考虑，估计",
+        "correctDesc": "计算；考虑，估计",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "形式",
+        "wordId": 47473,
+        "optionDtos": [{
+            "wordOptionId": 98719,
+            "wordOptionDesc": "形式",
+            "isRight": 1,
+            "wordId": 47473
+        }],
+        "wordDesc": "（けいしき）⓪【名】形式",
+        "correctDesc": "形式",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "～号",
+        "wordId": 47474,
+        "optionDtos": [{
+            "wordOptionId": 98720,
+            "wordOptionDesc": "（车、飞机等）号；（杂志等）号，期",
+            "isRight": 1,
+            "wordId": 47474
+        }],
+        "wordDesc": "（～ごう）【接尾】（车、飞机等）号；（杂志等）号，期",
+        "correctDesc": "（车、飞机等）号；（杂志等）号，期",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "故郷",
+        "wordId": 47475,
+        "optionDtos": [{
+            "wordOptionId": 98721,
+            "wordOptionDesc": "故乡",
+            "isRight": 1,
+            "wordId": 47475
+        }],
+        "wordDesc": "（こきょう）①【名】故乡",
+        "correctDesc": "故乡",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "酒場",
+        "wordId": 47476,
+        "optionDtos": [{
+            "wordOptionId": 98722,
+            "wordOptionDesc": "酒馆，酒吧",
+            "isRight": 1,
+            "wordId": 47476
+        }],
+        "wordDesc": "（さかば）⓪【名】酒馆，酒吧",
+        "correctDesc": "酒馆，酒吧",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "～先",
+        "wordId": 47477,
+        "optionDtos": [{
+            "wordOptionId": 98723,
+            "wordOptionDesc": "⋯⋯地点，⋯⋯目的地",
+            "isRight": 1,
+            "wordId": 47477
+        }],
+        "wordDesc": "（～さき）【接尾】⋯⋯地点，⋯⋯目的地",
+        "correctDesc": "⋯⋯地点，⋯⋯目的地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "自動",
+        "wordId": 47478,
+        "optionDtos": [{
+            "wordOptionId": 98724,
+            "wordOptionDesc": "自动",
+            "isRight": 1,
+            "wordId": 47478
+        }],
+        "wordDesc": "（じどう）⓪【名】自动",
+        "correctDesc": "自动",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "始発",
+        "wordId": 47479,
+        "optionDtos": [{
+            "wordOptionId": 98725,
+            "wordOptionDesc": "始发；首班车",
+            "isRight": 1,
+            "wordId": 47479
+        }],
+        "wordDesc": "（しはつ）⓪【名】始发；首班车",
+        "correctDesc": "始发；首班车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "初旬",
+        "wordId": 47480,
+        "optionDtos": [{
+            "wordOptionId": 98726,
+            "wordOptionDesc": "上旬",
+            "isRight": 1,
+            "wordId": 47480
+        }],
+        "wordDesc": "（しょじゅん）⓪【名】上旬",
+        "correctDesc": "上旬",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "適する",
+        "wordId": 47481,
+        "optionDtos": [{
+            "wordOptionId": 98727,
+            "wordOptionDesc": "适合，适于",
+            "isRight": 1,
+            "wordId": 47481
+        }],
+        "wordDesc": "（てきする）③【自动3】适合，适于",
+        "correctDesc": "适合，适于",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "泣き声",
+        "wordId": 47482,
+        "optionDtos": [{
+            "wordOptionId": 98728,
+            "wordOptionDesc": "哭声",
+            "isRight": 1,
+            "wordId": 47482
+        }],
+        "wordDesc": "（なきごえ）③【名】哭声",
+        "correctDesc": "哭声",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ぶらぶら",
+        "wordId": 47483,
+        "optionDtos": [{
+            "wordOptionId": 98729,
+            "wordOptionDesc": "摇晃；溜达；无所事事",
+            "isRight": 1,
+            "wordId": 47483
+        }],
+        "wordDesc": "①【副·自动3】摇晃；溜达；无所事事",
+        "correctDesc": "摇晃；溜达；无所事事",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "大根",
+        "wordId": 47484,
+        "optionDtos": [{
+            "wordOptionId": 98730,
+            "wordOptionDesc": "白萝卜",
+            "isRight": 1,
+            "wordId": 47484
+        }],
+        "wordDesc": "（だいこん）⓪【名】白萝卜",
+        "correctDesc": "白萝卜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "そういう",
+        "wordId": 47485,
+        "optionDtos": [{
+            "wordOptionId": 98731,
+            "wordOptionDesc": "那种，那样",
+            "isRight": 1,
+            "wordId": 47485
+        }],
+        "wordDesc": "⓪【连体】那种，那样",
+        "correctDesc": "那种，那样",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "こういう",
+        "wordId": 47486,
+        "optionDtos": [{
+            "wordOptionId": 98732,
+            "wordOptionDesc": "这种，这样",
+            "isRight": 1,
+            "wordId": 47486
+        }],
+        "wordDesc": "⓪【连体】这种，这样",
+        "correctDesc": "这种，这样",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "交換",
+        "wordId": 47487,
+        "optionDtos": [{
+            "wordOptionId": 98733,
+            "wordOptionDesc": "交换，互换",
+            "isRight": 1,
+            "wordId": 47487
+        }],
+        "wordDesc": "（こうかん）⓪【名·他动3】交换，互换",
+        "correctDesc": "交换，互换",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "強調",
+        "wordId": 47488,
+        "optionDtos": [{
+            "wordOptionId": 98734,
+            "wordOptionDesc": "强调",
+            "isRight": 1,
+            "wordId": 47488
+        }],
+        "wordDesc": "（きょうちょう）⓪【名·他动3】强调",
+        "correctDesc": "强调",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "インストール",
+        "wordId": 47489,
+        "optionDtos": [{
+            "wordOptionId": 98735,
+            "wordOptionDesc": "安装（计算机软件）",
+            "isRight": 1,
+            "wordId": 47489
+        }],
+        "wordDesc": "（install）④【名·他动3】安装（计算机软件）",
+        "correctDesc": "安装（计算机软件）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "跡",
+        "wordId": 47490,
+        "optionDtos": [{
+            "wordOptionId": 98736,
+            "wordOptionDesc": "痕迹；迹象；行踪",
+            "isRight": 1,
+            "wordId": 47490
+        }],
+        "wordDesc": "（あと）①【名】痕迹；迹象；行踪",
+        "correctDesc": "痕迹；迹象；行踪",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "休暇",
+        "wordId": 47491,
+        "optionDtos": [{
+            "wordOptionId": 98737,
+            "wordOptionDesc": "休假",
+            "isRight": 1,
+            "wordId": 47491
+        }],
+        "wordDesc": "（きゅうか）⓪【名】休假",
+        "correctDesc": "休假",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "機器/器機",
+        "wordId": 47492,
+        "optionDtos": [{
+            "wordOptionId": 98738,
+            "wordOptionDesc": "机械，器具",
+            "isRight": 1,
+            "wordId": 47492
+        }],
+        "wordDesc": "（きき）①【名】机械，器具",
+        "correctDesc": "机械，器具",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "間隔",
+        "wordId": 47493,
+        "optionDtos": [{
+            "wordOptionId": 98739,
+            "wordOptionDesc": "间隔，距离",
+            "isRight": 1,
+            "wordId": 47493
+        }],
+        "wordDesc": "（かんかく）⓪【名】间隔，距离",
+        "correctDesc": "间隔，距离",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "機嫌",
+        "wordId": 47494,
+        "optionDtos": [{
+            "wordOptionId": 98740,
+            "wordOptionDesc": "心情，情绪；畅快，痛快",
+            "isRight": 1,
+            "wordId": 47494
+        }],
+        "wordDesc": "（きげん）⓪【名】心情，情绪；畅快，痛快",
+        "correctDesc": "心情，情绪；畅快，痛快",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "借家",
+        "wordId": 47495,
+        "optionDtos": [{
+            "wordOptionId": 98741,
+            "wordOptionDesc": "租房",
+            "isRight": 1,
+            "wordId": 47495
+        }],
+        "wordDesc": "（しゃくや）⓪【名·自动3】租房",
+        "correctDesc": "租房",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "巡査",
+        "wordId": 47496,
+        "optionDtos": [{
+            "wordOptionId": 98742,
+            "wordOptionDesc": "警察，巡警",
+            "isRight": 1,
+            "wordId": 47496
+        }],
+        "wordDesc": "（じゅんさ）①【名】警察，巡警",
+        "correctDesc": "警察，巡警",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "職員",
+        "wordId": 47497,
+        "optionDtos": [{
+            "wordOptionId": 98743,
+            "wordOptionDesc": "职员",
+            "isRight": 1,
+            "wordId": 47497
+        }],
+        "wordDesc": "（しょくいん）②【名】职员",
+        "correctDesc": "职员",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "畳む",
+        "wordId": 47498,
+        "optionDtos": [{
+            "wordOptionId": 98744,
+            "wordOptionDesc": "叠，折叠；合上",
+            "isRight": 1,
+            "wordId": 47498
+        }],
+        "wordDesc": "（たたむ）⓪【他动1】叠，折叠；合上",
+        "correctDesc": "叠，折叠；合上",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "茶の間",
+        "wordId": 47499,
+        "optionDtos": [{
+            "wordOptionId": 98745,
+            "wordOptionDesc": "餐厅；茶室",
+            "isRight": 1,
+            "wordId": 47499
+        }],
+        "wordDesc": "（ちゃのま）⓪【名】餐厅；茶室",
+        "correctDesc": "餐厅；茶室",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "統計",
+        "wordId": 47500,
+        "optionDtos": [{
+            "wordOptionId": 98746,
+            "wordOptionDesc": "统计",
+            "isRight": 1,
+            "wordId": 47500
+        }],
+        "wordDesc": "（とうけい）⓪【名·他动3】统计",
+        "correctDesc": "统计",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "飛び出す",
+        "wordId": 47501,
+        "optionDtos": [{
+            "wordOptionId": 98747,
+            "wordOptionDesc": "飞起来，跳出来；突然出现",
+            "isRight": 1,
+            "wordId": 47501
+        }],
+        "wordDesc": "（とびだす）③【自动1】飞起来，跳出来；突然出现",
+        "correctDesc": "飞起来，跳出来；突然出现",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "乗せる",
+        "wordId": 47502,
+        "optionDtos": [{
+            "wordOptionId": 98748,
+            "wordOptionDesc": "装载，使搭乘；骗人",
+            "isRight": 1,
+            "wordId": 47502
+        }],
+        "wordDesc": "（のせる）⓪【他动2】装载，使搭乘；骗人",
+        "correctDesc": "装载，使搭乘；骗人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "そうして",
+        "wordId": 47503,
+        "optionDtos": [{
+            "wordOptionId": 98749,
+            "wordOptionDesc": "然后，于是；而且",
+            "isRight": 1,
+            "wordId": 47503
+        }],
+        "wordDesc": "⓪【接续】然后，于是；而且",
+        "correctDesc": "然后，于是；而且",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "宇宙",
+        "wordId": 47504,
+        "optionDtos": [{
+            "wordOptionId": 98750,
+            "wordOptionDesc": "宇宙",
+            "isRight": 1,
+            "wordId": 47504
+        }],
+        "wordDesc": "（うちゅう）①【名】宇宙",
+        "correctDesc": "宇宙",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "スクール",
+        "wordId": 47505,
+        "optionDtos": [{
+            "wordOptionId": 98751,
+            "wordOptionDesc": "学校",
+            "isRight": 1,
+            "wordId": 47505
+        }],
+        "wordDesc": "（school）②【名】学校",
+        "correctDesc": "学校",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "焦げる",
+        "wordId": 47506,
+        "optionDtos": [{
+            "wordOptionId": 98752,
+            "wordOptionDesc": "焦，糊；晒褪色",
+            "isRight": 1,
+            "wordId": 47506
+        }],
+        "wordDesc": "（こげる）②【自动2】焦，糊；晒褪色",
+        "correctDesc": "焦，糊；晒褪色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "下り",
+        "wordId": 47507,
+        "optionDtos": [{
+            "wordOptionId": 98753,
+            "wordOptionDesc": "下；下行；下坡；从首都到地方",
+            "isRight": 1,
+            "wordId": 47507
+        }],
+        "wordDesc": "（くだり）⓪【名】下；下行；下坡；从首都到地方",
+        "correctDesc": "下；下行；下坡；从首都到地方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "唇",
+        "wordId": 47508,
+        "optionDtos": [{
+            "wordOptionId": 98754,
+            "wordOptionDesc": "嘴唇",
+            "isRight": 1,
+            "wordId": 47508
+        }],
+        "wordDesc": "（くちびる）⓪【名】嘴唇",
+        "correctDesc": "嘴唇",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "得る",
+        "wordId": 47509,
+        "optionDtos": [{
+            "wordOptionId": 98755,
+            "wordOptionDesc": "得到，获得；能够，可能",
+            "isRight": 1,
+            "wordId": 47509
+        }],
+        "wordDesc": "（うる）①【他动2·接尾】得到，获得；能够，可能",
+        "correctDesc": "得到，获得；能够，可能",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "グリーン",
+        "wordId": 47510,
+        "optionDtos": [{
+            "wordOptionId": 98756,
+            "wordOptionDesc": "绿色；草地",
+            "isRight": 1,
+            "wordId": 47510
+        }],
+        "wordDesc": "（green）②【名】绿色；草地",
+        "correctDesc": "绿色；草地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "もしも",
+        "wordId": 47511,
+        "optionDtos": [{
+            "wordOptionId": 98757,
+            "wordOptionDesc": "假如，万一",
+            "isRight": 1,
+            "wordId": 47511
+        }],
+        "wordDesc": "①【副】假如，万一",
+        "correctDesc": "假如，万一",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "金額",
+        "wordId": 47512,
+        "optionDtos": [{
+            "wordOptionId": 98758,
+            "wordOptionDesc": "金额",
+            "isRight": 1,
+            "wordId": 47512
+        }],
+        "wordDesc": "（きんがく）⓪【名】金额",
+        "correctDesc": "金额",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "金銭",
+        "wordId": 47513,
+        "optionDtos": [{
+            "wordOptionId": 98759,
+            "wordOptionDesc": "金钱",
+            "isRight": 1,
+            "wordId": 47513
+        }],
+        "wordDesc": "（きんせん）①【名】金钱",
+        "correctDesc": "金钱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "金属",
+        "wordId": 47514,
+        "optionDtos": [{
+            "wordOptionId": 98760,
+            "wordOptionDesc": "金属",
+            "isRight": 1,
+            "wordId": 47514
+        }],
+        "wordDesc": "（きんぞく）①【名】金属",
+        "correctDesc": "金属",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "勤勉",
+        "wordId": 47515,
+        "optionDtos": [{
+            "wordOptionId": 98761,
+            "wordOptionDesc": "勤勉，勤劳",
+            "isRight": 1,
+            "wordId": 47515
+        }],
+        "wordDesc": "（きんべん）⓪【名·ナ形】勤勉，勤劳",
+        "correctDesc": "勤勉，勤劳",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "小指",
+        "wordId": 47516,
+        "optionDtos": [{
+            "wordOptionId": 98762,
+            "wordOptionDesc": "小指",
+            "isRight": 1,
+            "wordId": 47516
+        }],
+        "wordDesc": "（こゆび）⓪【名】小指",
+        "correctDesc": "小指",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "終電車",
+        "wordId": 47517,
+        "optionDtos": [{
+            "wordOptionId": 98763,
+            "wordOptionDesc": "末班电车",
+            "isRight": 1,
+            "wordId": 47517
+        }],
+        "wordDesc": "（しゅうでんしゃ）③【名】末班电车",
+        "correctDesc": "末班电车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "少々",
+        "wordId": 47518,
+        "optionDtos": [{
+            "wordOptionId": 98764,
+            "wordOptionDesc": "少许，稍微",
+            "isRight": 1,
+            "wordId": 47518
+        }],
+        "wordDesc": "（しょうしょう）①【副】少许，稍微",
+        "correctDesc": "少许，稍微",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "たまたま",
+        "wordId": 47519,
+        "optionDtos": [{
+            "wordOptionId": 98765,
+            "wordOptionDesc": "偶尔，有时；偶然，碰巧",
+            "isRight": 1,
+            "wordId": 47519
+        }],
+        "wordDesc": "⓪【副】偶尔，有时；偶然，碰巧",
+        "correctDesc": "偶尔，有时；偶然，碰巧",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "月日",
+        "wordId": 47520,
+        "optionDtos": [{
+            "wordOptionId": 98766,
+            "wordOptionDesc": "月亮和太阳；时光，岁月",
+            "isRight": 1,
+            "wordId": 47520
+        }],
+        "wordDesc": "（つきひ）②【名】月亮和太阳；时光，岁月",
+        "correctDesc": "月亮和太阳；时光，岁月",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "定年",
+        "wordId": 47521,
+        "optionDtos": [{
+            "wordOptionId": 98767,
+            "wordOptionDesc": "退休，退休年龄",
+            "isRight": 1,
+            "wordId": 47521
+        }],
+        "wordDesc": "（ていねん）⓪【名】退休，退休年龄",
+        "correctDesc": "退休，退休年龄",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "とにかく",
+        "wordId": 47522,
+        "optionDtos": [{
+            "wordOptionId": 98768,
+            "wordOptionDesc": "总之，姑且，暂且不论",
+            "isRight": 1,
+            "wordId": 47522
+        }],
+        "wordDesc": "①【副】总之，姑且，暂且不论",
+        "correctDesc": "总之，姑且，暂且不论",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "尤も",
+        "wordId": 47523,
+        "optionDtos": [{
+            "wordOptionId": 98769,
+            "wordOptionDesc": "话虽如此，不过",
+            "isRight": 1,
+            "wordId": 47523
+        }],
+        "wordDesc": "（もっとも）③【接续】话虽如此，不过",
+        "correctDesc": "话虽如此，不过",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "這う",
+        "wordId": 47524,
+        "optionDtos": [{
+            "wordOptionId": 98770,
+            "wordOptionDesc": "爬行；（植物）攀缘，爬",
+            "isRight": 1,
+            "wordId": 47524
+        }],
+        "wordDesc": "（はう）①【自动1】爬行；（植物）攀缘，爬",
+        "correctDesc": "爬行；（植物）攀缘，爬",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "夫妻",
+        "wordId": 47525,
+        "optionDtos": [{
+            "wordOptionId": 98771,
+            "wordOptionDesc": "夫妻",
+            "isRight": 1,
+            "wordId": 47525
+        }],
+        "wordDesc": "（ふさい）②【名】夫妻",
+        "correctDesc": "夫妻",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "フライパン",
+        "wordId": 47526,
+        "optionDtos": [{
+            "wordOptionId": 98772,
+            "wordOptionDesc": "平底锅，煎锅",
+            "isRight": 1,
+            "wordId": 47526
+        }],
+        "wordDesc": "（fryingpan）⓪【名】平底锅，煎锅",
+        "correctDesc": "平底锅，煎锅",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "変更",
+        "wordId": 47527,
+        "optionDtos": [{
+            "wordOptionId": 98773,
+            "wordOptionDesc": "变更，更改",
+            "isRight": 1,
+            "wordId": 47527
+        }],
+        "wordDesc": "（へんこう）⓪【名·他动3】变更，更改",
+        "correctDesc": "变更，更改",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "閲覧室",
+        "wordId": 47528,
+        "optionDtos": [{
+            "wordOptionId": 98774,
+            "wordOptionDesc": "阅览室",
+            "isRight": 1,
+            "wordId": 47528
+        }],
+        "wordDesc": "（えつらんしつ）③【名】阅览室",
+        "correctDesc": "阅览室",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "両方",
+        "wordId": 47529,
+        "optionDtos": [{
+            "wordOptionId": 98775,
+            "wordOptionDesc": "双方",
+            "isRight": 1,
+            "wordId": 47529
+        }],
+        "wordDesc": "（りょうほう）③【名】双方",
+        "correctDesc": "双方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "フリー",
+        "wordId": 47530,
+        "optionDtos": [{
+            "wordOptionId": 98776,
+            "wordOptionDesc": "自由；免费",
+            "isRight": 1,
+            "wordId": 47530
+        }],
+        "wordDesc": "（free）②【名·ナ形】自由；免费",
+        "correctDesc": "自由；免费",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "招く",
+        "wordId": 47531,
+        "optionDtos": [{
+            "wordOptionId": 98777,
+            "wordOptionDesc": "招呼；招待，宴请；聘请；招致",
+            "isRight": 1,
+            "wordId": 47531
+        }],
+        "wordDesc": "（まねく）②【他动1】招呼；招待，宴请；聘请；招致",
+        "correctDesc": "招呼；招待，宴请；聘请；招致",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "真似",
+        "wordId": 47532,
+        "optionDtos": [{
+            "wordOptionId": 98778,
+            "wordOptionDesc": "举止，动作；模仿，效仿",
+            "isRight": 1,
+            "wordId": 47532
+        }],
+        "wordDesc": "（まね）⓪【名·自他动3】举止，动作；模仿，效仿",
+        "correctDesc": "举止，动作；模仿，效仿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "真似る",
+        "wordId": 47533,
+        "optionDtos": [{
+            "wordOptionId": 98779,
+            "wordOptionDesc": "模仿，效仿",
+            "isRight": 1,
+            "wordId": 47533
+        }],
+        "wordDesc": "（まねる）⓪【他动2】模仿，效仿",
+        "correctDesc": "模仿，效仿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "心臓",
+        "wordId": 47534,
+        "optionDtos": [{
+            "wordOptionId": 98780,
+            "wordOptionDesc": "心脏",
+            "isRight": 1,
+            "wordId": 47534
+        }],
+        "wordDesc": "（しんぞう）⓪【名】心脏",
+        "correctDesc": "心脏",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "自慢",
+        "wordId": 47535,
+        "optionDtos": [{
+            "wordOptionId": 98781,
+            "wordOptionDesc": "骄傲，夸耀，炫耀",
+            "isRight": 1,
+            "wordId": 47535
+        }],
+        "wordDesc": "（じまん）⓪【名·他动3】骄傲，夸耀，炫耀",
+        "correctDesc": "骄傲，夸耀，炫耀",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "先々",
+        "wordId": 47536,
+        "optionDtos": [{
+            "wordOptionId": 98782,
+            "wordOptionDesc": "将来，日后；所到之处；很早之前",
+            "isRight": 1,
+            "wordId": 47536
+        }],
+        "wordDesc": "（さきざき）②【名】将来，日后；所到之处；很早之前",
+        "correctDesc": "将来，日后；所到之处；很早之前",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "月末",
+        "wordId": 47537,
+        "optionDtos": [{
+            "wordOptionId": 98783,
+            "wordOptionDesc": "月底",
+            "isRight": 1,
+            "wordId": 47537
+        }],
+        "wordDesc": "（げつまつ）⓪【名】月底",
+        "correctDesc": "月底",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "組む",
+        "wordId": 47538,
+        "optionDtos": [{
+            "wordOptionId": 98784,
+            "wordOptionDesc": "合伙；组成组；扭打；交叉",
+            "isRight": 1,
+            "wordId": 47538
+        }],
+        "wordDesc": "（くむ）①【自他动1】合伙；组成组；扭打；交叉",
+        "correctDesc": "合伙；组成组；扭打；交叉",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "汲む",
+        "wordId": 47539,
+        "optionDtos": [{
+            "wordOptionId": 98785,
+            "wordOptionDesc": "打水；斟，倒（茶、酒等）",
+            "isRight": 1,
+            "wordId": 47539
+        }],
+        "wordDesc": "（くむ）⓪【他动1】打水；斟，倒（茶、酒等）",
+        "correctDesc": "打水；斟，倒（茶、酒等）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "酌む",
+        "wordId": 47540,
+        "optionDtos": [{
+            "wordOptionId": 98786,
+            "wordOptionDesc": "体谅，理解",
+            "isRight": 1,
+            "wordId": 47540
+        }],
+        "wordDesc": "（くむ）⓪【他动1】体谅，理解",
+        "correctDesc": "体谅，理解",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "恐縮",
+        "wordId": 47541,
+        "optionDtos": [{
+            "wordOptionId": 98787,
+            "wordOptionDesc": "惶恐；不好意思",
+            "isRight": 1,
+            "wordId": 47541
+        }],
+        "wordDesc": "（きょうしゅく）⓪【名·自动3】惶恐；不好意思",
+        "correctDesc": "惶恐；不好意思",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "刻む",
+        "wordId": 47542,
+        "optionDtos": [{
+            "wordOptionId": 98788,
+            "wordOptionDesc": "刻，雕刻；铭记",
+            "isRight": 1,
+            "wordId": 47542
+        }],
+        "wordDesc": "（きざむ）⓪【他动1】刻，雕刻；铭记",
+        "correctDesc": "刻，雕刻；铭记",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "歓迎",
+        "wordId": 47543,
+        "optionDtos": [{
+            "wordOptionId": 98789,
+            "wordOptionDesc": "欢迎",
+            "isRight": 1,
+            "wordId": 47543
+        }],
+        "wordDesc": "（かんげい）⓪【名·他动3】欢迎",
+        "correctDesc": "欢迎",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "泣ける",
+        "wordId": 47544,
+        "optionDtos": [{
+            "wordOptionId": 98790,
+            "wordOptionDesc": "禁不住哭出来",
+            "isRight": 1,
+            "wordId": 47544
+        }],
+        "wordDesc": "（なける）⓪【自动2】禁不住哭出来",
+        "correctDesc": "禁不住哭出来",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "載る",
+        "wordId": 47545,
+        "optionDtos": [{
+            "wordOptionId": 98791,
+            "wordOptionDesc": "放，搁；刊载，登载",
+            "isRight": 1,
+            "wordId": 47545
+        }],
+        "wordDesc": "（のる）⓪【自动1】放，搁；刊载，登载",
+        "correctDesc": "放，搁；刊载，登载",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "場面",
+        "wordId": 47546,
+        "optionDtos": [{
+            "wordOptionId": 98792,
+            "wordOptionDesc": "场面，场景",
+            "isRight": 1,
+            "wordId": 47546
+        }],
+        "wordDesc": "（ばめん）①【名】场面，场景",
+        "correctDesc": "场面，场景",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "申し訳ない",
+        "wordId": 47547,
+        "optionDtos": [{
+            "wordOptionId": 98793,
+            "wordOptionDesc": "对不起",
+            "isRight": 1,
+            "wordId": 47547
+        }],
+        "wordDesc": "（もうしわけない）⑥【イ形】对不起",
+        "correctDesc": "对不起",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "優秀",
+        "wordId": 47548,
+        "optionDtos": [{
+            "wordOptionId": 98794,
+            "wordOptionDesc": "优秀",
+            "isRight": 1,
+            "wordId": 47548
+        }],
+        "wordDesc": "（ゆうしゅう）⓪【名·ナ形】优秀",
+        "correctDesc": "优秀",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "洋室",
+        "wordId": 47549,
+        "optionDtos": [{
+            "wordOptionId": 98795,
+            "wordOptionDesc": "西式房间",
+            "isRight": 1,
+            "wordId": 47549
+        }],
+        "wordDesc": "（ようしつ）⓪【名】西式房间",
+        "correctDesc": "西式房间",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "洋食",
+        "wordId": 47550,
+        "optionDtos": [{
+            "wordOptionId": 98796,
+            "wordOptionDesc": "西餐",
+            "isRight": 1,
+            "wordId": 47550
+        }],
+        "wordDesc": "（ようしょく）⓪【名】西餐",
+        "correctDesc": "西餐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "駐車",
+        "wordId": 47551,
+        "optionDtos": [{
+            "wordOptionId": 98797,
+            "wordOptionDesc": "停车",
+            "isRight": 1,
+            "wordId": 47551
+        }],
+        "wordDesc": "（ちゅうしゃ）⓪【名·自动3】停车",
+        "correctDesc": "停车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "性能",
+        "wordId": 47552,
+        "optionDtos": [{
+            "wordOptionId": 98798,
+            "wordOptionDesc": "性能",
+            "isRight": 1,
+            "wordId": 47552
+        }],
+        "wordDesc": "（せいのう）⓪【名】性能",
+        "correctDesc": "性能",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "商店",
+        "wordId": 47553,
+        "optionDtos": [{
+            "wordOptionId": 98799,
+            "wordOptionDesc": "商店",
+            "isRight": 1,
+            "wordId": 47553
+        }],
+        "wordDesc": "（しょうてん）①【名】商店",
+        "correctDesc": "商店",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "じゃんけん",
+        "wordId": 47554,
+        "optionDtos": [{
+            "wordOptionId": 98800,
+            "wordOptionDesc": "猜拳，划拳",
+            "isRight": 1,
+            "wordId": 47554
+        }],
+        "wordDesc": "③【名·自动3】猜拳，划拳",
+        "correctDesc": "猜拳，划拳",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "抱く",
+        "wordId": 47555,
+        "optionDtos": [{
+            "wordOptionId": 98801,
+            "wordOptionDesc": "抱",
+            "isRight": 1,
+            "wordId": 47555
+        }],
+        "wordDesc": "（だく）⓪【他动1】抱",
+        "correctDesc": "抱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "溶かす",
+        "wordId": 47556,
+        "optionDtos": [{
+            "wordOptionId": 98802,
+            "wordOptionDesc": "熔化，融化，溶化",
+            "isRight": 1,
+            "wordId": 47556
+        }],
+        "wordDesc": "（とかす）②【他动1】熔化，融化，溶化",
+        "correctDesc": "熔化，融化，溶化",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "不十分",
+        "wordId": 47557,
+        "optionDtos": [{
+            "wordOptionId": 98803,
+            "wordOptionDesc": "不充足，不够",
+            "isRight": 1,
+            "wordId": 47557
+        }],
+        "wordDesc": "（ふじゅうぶん）②【名·ナ形】不充足，不够",
+        "correctDesc": "不充足，不够",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "無関心",
+        "wordId": 47558,
+        "optionDtos": [{
+            "wordOptionId": 98804,
+            "wordOptionDesc": "不关心，不感兴趣",
+            "isRight": 1,
+            "wordId": 47558
+        }],
+        "wordDesc": "（むかんしん）②【名·ナ形】不关心，不感兴趣",
+        "correctDesc": "不关心，不感兴趣",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "元",
+        "wordId": 47559,
+        "optionDtos": [{
+            "wordOptionId": 98805,
+            "wordOptionDesc": "以前，原来",
+            "isRight": 1,
+            "wordId": 47559
+        }],
+        "wordDesc": "（もと）①【名】以前，原来",
+        "correctDesc": "以前，原来",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "元/本",
+        "wordId": 47560,
+        "optionDtos": [{
+            "wordOptionId": 98806,
+            "wordOptionDesc": "根源；根本；原因",
+            "isRight": 1,
+            "wordId": 47560
+        }],
+        "wordDesc": "（もと）②【名】根源；根本；原因",
+        "correctDesc": "根源；根本；原因",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "尻尾",
+        "wordId": 47561,
+        "optionDtos": [{
+            "wordOptionId": 98807,
+            "wordOptionDesc": "尾巴；末端",
+            "isRight": 1,
+            "wordId": 47561
+        }],
+        "wordDesc": "（しっぽ）③【名】尾巴；末端",
+        "correctDesc": "尾巴；末端",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "景気",
+        "wordId": 47562,
+        "optionDtos": [{
+            "wordOptionId": 98808,
+            "wordOptionDesc": "（经济）景气，繁荣",
+            "isRight": 1,
+            "wordId": 47562
+        }],
+        "wordDesc": "（けいき）⓪【名】（经济）景气，繁荣",
+        "correctDesc": "（经济）景气，繁荣",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "聞き返す",
+        "wordId": 47563,
+        "optionDtos": [{
+            "wordOptionId": 98809,
+            "wordOptionDesc": "反复听；反复问；反问",
+            "isRight": 1,
+            "wordId": 47563
+        }],
+        "wordDesc": "（ききかえす）③【他动1】反复听；反复问；反问",
+        "correctDesc": "反复听；反复问；反问",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "がらがら",
+        "wordId": 47564,
+        "optionDtos": [{
+            "wordOptionId": 98810,
+            "wordOptionDesc": "轰隆声；性格直爽；人很少，空荡荡",
+            "isRight": 1,
+            "wordId": 47564
+        }],
+        "wordDesc": "⓪【ナ形·副·自动3】轰隆声；性格直爽；人很少，空荡荡",
+        "correctDesc": "轰隆声；性格直爽；人很少，空荡荡",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "往復",
+        "wordId": 47565,
+        "optionDtos": [{
+            "wordOptionId": 98811,
+            "wordOptionDesc": "往返，来回",
+            "isRight": 1,
+            "wordId": 47565
+        }],
+        "wordDesc": "（おうふく）⓪【名·自动3】往返，来回",
+        "correctDesc": "往返，来回",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "刈る",
+        "wordId": 47566,
+        "optionDtos": [{
+            "wordOptionId": 98812,
+            "wordOptionDesc": "割，修剪",
+            "isRight": 1,
+            "wordId": 47566
+        }],
+        "wordDesc": "（かる）⓪【他动1】割，修剪",
+        "correctDesc": "割，修剪",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ジュース",
+        "wordId": 47567,
+        "optionDtos": [{
+            "wordOptionId": 98813,
+            "wordOptionDesc": "果汁，蔬菜汁",
+            "isRight": 1,
+            "wordId": 47567
+        }],
+        "wordDesc": "（juice）①【名】果汁，蔬菜汁",
+        "correctDesc": "果汁，蔬菜汁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "戦い/闘い",
+        "wordId": 47568,
+        "optionDtos": [{
+            "wordOptionId": 98814,
+            "wordOptionDesc": "战争；战斗；比赛",
+            "isRight": 1,
+            "wordId": 47568
+        }],
+        "wordDesc": "（たたかい）⓪【名】战争；战斗；比赛",
+        "correctDesc": "战争；战斗；比赛",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "登録",
+        "wordId": 47569,
+        "optionDtos": [{
+            "wordOptionId": 98815,
+            "wordOptionDesc": "登记，注册",
+            "isRight": 1,
+            "wordId": 47569
+        }],
+        "wordDesc": "（とうろく）⓪【名·他动3】登记，注册",
+        "correctDesc": "登记，注册",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "干す",
+        "wordId": 47570,
+        "optionDtos": [{
+            "wordOptionId": 98816,
+            "wordOptionDesc": "晒干，烘干；喝完",
+            "isRight": 1,
+            "wordId": 47570
+        }],
+        "wordDesc": "（ほす）①【他动1】晒干，烘干；喝完",
+        "correctDesc": "晒干，烘干；喝完",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "申し込む",
+        "wordId": 47571,
+        "optionDtos": [{
+            "wordOptionId": 98817,
+            "wordOptionDesc": "提议；报名；预约",
+            "isRight": 1,
+            "wordId": 47571
+        }],
+        "wordDesc": "（もうしこむ）④【他动1】提议；报名；预约",
+        "correctDesc": "提议；报名；预约",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "虫歯",
+        "wordId": 47572,
+        "optionDtos": [{
+            "wordOptionId": 98818,
+            "wordOptionDesc": "虫牙，龋齿",
+            "isRight": 1,
+            "wordId": 47572
+        }],
+        "wordDesc": "（むしば）⓪【名】虫牙，龋齿",
+        "correctDesc": "虫牙，龋齿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "しゃもじ",
+        "wordId": 47573,
+        "optionDtos": [{
+            "wordOptionId": 98819,
+            "wordOptionDesc": "勺子，饭勺",
+            "isRight": 1,
+            "wordId": 47573
+        }],
+        "wordDesc": "①【名】勺子，饭勺",
+        "correctDesc": "勺子，饭勺",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "昨年",
+        "wordId": 47574,
+        "optionDtos": [{
+            "wordOptionId": 98820,
+            "wordOptionDesc": "去年",
+            "isRight": 1,
+            "wordId": 47574
+        }],
+        "wordDesc": "（さくねん）⓪【名】去年",
+        "correctDesc": "去年",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "聞き取る",
+        "wordId": 47575,
+        "optionDtos": [{
+            "wordOptionId": 98821,
+            "wordOptionDesc": "听见；听懂；听取",
+            "isRight": 1,
+            "wordId": 47575
+        }],
+        "wordDesc": "（ききとる）③【他动1】听见；听懂；听取",
+        "correctDesc": "听见；听懂；听取",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "断定",
+        "wordId": 47576,
+        "optionDtos": [{
+            "wordOptionId": 98822,
+            "wordOptionDesc": "断定，判断",
+            "isRight": 1,
+            "wordId": 47576
+        }],
+        "wordDesc": "（だんてい）⓪【名·他动3】断定，判断",
+        "correctDesc": "断定，判断",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "沿岸",
+        "wordId": 47577,
+        "optionDtos": [{
+            "wordOptionId": 98823,
+            "wordOptionDesc": "沿岸，沿海",
+            "isRight": 1,
+            "wordId": 47577
+        }],
+        "wordDesc": "（えんがん）⓪【名】沿岸，沿海",
+        "correctDesc": "沿岸，沿海",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "物音",
+        "wordId": 47578,
+        "optionDtos": [{
+            "wordOptionId": 98824,
+            "wordOptionDesc": "声音，声响",
+            "isRight": 1,
+            "wordId": 47578
+        }],
+        "wordDesc": "（ものおと）③【名】声音，声响",
+        "correctDesc": "声音，声响",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "完了",
+        "wordId": 47579,
+        "optionDtos": [{
+            "wordOptionId": 98825,
+            "wordOptionDesc": "完结，完毕",
+            "isRight": 1,
+            "wordId": 47579
+        }],
+        "wordDesc": "（かんりょう）⓪【名·自他动3】完结，完毕",
+        "correctDesc": "完结，完毕",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "可愛がる",
+        "wordId": 47580,
+        "optionDtos": [{
+            "wordOptionId": 98826,
+            "wordOptionDesc": "喜爱，疼爱",
+            "isRight": 1,
+            "wordId": 47580
+        }],
+        "wordDesc": "（かわいがる）④【他动1】喜爱，疼爱",
+        "correctDesc": "喜爱，疼爱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "寄付",
+        "wordId": 47581,
+        "optionDtos": [{
+            "wordOptionId": 98827,
+            "wordOptionDesc": "捐献，捐赠",
+            "isRight": 1,
+            "wordId": 47581
+        }],
+        "wordDesc": "（きふ）①【名·他动3】捐献，捐赠",
+        "correctDesc": "捐献，捐赠",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "加える",
+        "wordId": 47582,
+        "optionDtos": [{
+            "wordOptionId": 98828,
+            "wordOptionDesc": "加上；附加；包括；施加",
+            "isRight": 1,
+            "wordId": 47582
+        }],
+        "wordDesc": "（くわえる）⓪【他动2】加上；附加；包括；施加",
+        "correctDesc": "加上；附加；包括；施加",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "行動",
+        "wordId": 47583,
+        "optionDtos": [{
+            "wordOptionId": 98829,
+            "wordOptionDesc": "行动，行为",
+            "isRight": 1,
+            "wordId": 47583
+        }],
+        "wordDesc": "（こうどう）⓪【名·自动3】行动，行为",
+        "correctDesc": "行动，行为",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "公平",
+        "wordId": 47584,
+        "optionDtos": [{
+            "wordOptionId": 98830,
+            "wordOptionDesc": "公平，公正",
+            "isRight": 1,
+            "wordId": 47584
+        }],
+        "wordDesc": "（こうへい）⓪【名·ナ形】公平，公正",
+        "correctDesc": "公平，公正",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "これほど",
+        "wordId": 47585,
+        "optionDtos": [{
+            "wordOptionId": 98831,
+            "wordOptionDesc": "这样，这么",
+            "isRight": 1,
+            "wordId": 47585
+        }],
+        "wordDesc": "⓪【副】这样，这么",
+        "correctDesc": "这样，这么",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "サイドミラー",
+        "wordId": 47586,
+        "optionDtos": [{
+            "wordOptionId": 98832,
+            "wordOptionDesc": "（汽车两侧）后视镜",
+            "isRight": 1,
+            "wordId": 47586
+        }],
+        "wordDesc": "（sidemirror）④【名】（汽车两侧）后视镜",
+        "correctDesc": "（汽车两侧）后视镜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "手作り",
+        "wordId": 47587,
+        "optionDtos": [{
+            "wordOptionId": 98833,
+            "wordOptionDesc": "自制，亲手做",
+            "isRight": 1,
+            "wordId": 47587
+        }],
+        "wordDesc": "（てづくり）②【名】自制，亲手做",
+        "correctDesc": "自制，亲手做",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "二度と再び",
+        "wordId": 47588,
+        "optionDtos": [{
+            "wordOptionId": 98834,
+            "wordOptionDesc": "（后接否定）再（也不）",
+            "isRight": 1,
+            "wordId": 47588
+        }],
+        "wordDesc": "（にどとふたたび）②【副】（后接否定）再（也不）",
+        "correctDesc": "（后接否定）再（也不）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "満員",
+        "wordId": 47589,
+        "optionDtos": [{
+            "wordOptionId": 98835,
+            "wordOptionDesc": "满员；名额已满",
+            "isRight": 1,
+            "wordId": 47589
+        }],
+        "wordDesc": "（まんいん）⓪【名】满员；名额已满",
+        "correctDesc": "满员；名额已满",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "満開",
+        "wordId": 47590,
+        "optionDtos": [{
+            "wordOptionId": 98836,
+            "wordOptionDesc": "（花）盛开",
+            "isRight": 1,
+            "wordId": 47590
+        }],
+        "wordDesc": "（まんかい）⓪【名·自动3】（花）盛开",
+        "correctDesc": "（花）盛开",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "満席",
+        "wordId": 47591,
+        "optionDtos": [{
+            "wordOptionId": 98837,
+            "wordOptionDesc": "满座，没有空座",
+            "isRight": 1,
+            "wordId": 47591
+        }],
+        "wordDesc": "（まんせき）⓪【名】满座，没有空座",
+        "correctDesc": "满座，没有空座",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ブローチ",
+        "wordId": 47592,
+        "optionDtos": [{
+            "wordOptionId": 98838,
+            "wordOptionDesc": "别针，胸针",
+            "isRight": 1,
+            "wordId": 47592
+        }],
+        "wordDesc": "（brooch）②【名】别针，胸针",
+        "correctDesc": "别针，胸针",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "夕立",
+        "wordId": 47593,
+        "optionDtos": [{
+            "wordOptionId": 98839,
+            "wordOptionDesc": "（夏季傍晚下的）骤雨，雷阵雨",
+            "isRight": 1,
+            "wordId": 47593
+        }],
+        "wordDesc": "（ゆうだち）⓪【名】（夏季傍晚下的）骤雨，雷阵雨",
+        "correctDesc": "（夏季傍晚下的）骤雨，雷阵雨",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "白髪",
+        "wordId": 47594,
+        "optionDtos": [{
+            "wordOptionId": 98840,
+            "wordOptionDesc": "白发",
+            "isRight": 1,
+            "wordId": 47594
+        }],
+        "wordDesc": "（しらが）③【名】白发",
+        "correctDesc": "白发",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "～畳",
+        "wordId": 47595,
+        "optionDtos": [{
+            "wordOptionId": 98841,
+            "wordOptionDesc": "（计算榻榻米的单位）⋯⋯张",
+            "isRight": 1,
+            "wordId": 47595
+        }],
+        "wordDesc": "（～じょう）【接尾】（计算榻榻米的单位）⋯⋯张",
+        "correctDesc": "（计算榻榻米的单位）⋯⋯张",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "字引",
+        "wordId": 47596,
+        "optionDtos": [{
+            "wordOptionId": 98842,
+            "wordOptionDesc": "字典，词典",
+            "isRight": 1,
+            "wordId": 47596
+        }],
+        "wordDesc": "（じびき）③【名】字典，词典",
+        "correctDesc": "字典，词典",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "昨日",
+        "wordId": 47597,
+        "optionDtos": [{
+            "wordOptionId": 98843,
+            "wordOptionDesc": "昨天",
+            "isRight": 1,
+            "wordId": 47597
+        }],
+        "wordDesc": "（さくじつ）②【名】昨天",
+        "correctDesc": "昨天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "物事",
+        "wordId": 47598,
+        "optionDtos": [{
+            "wordOptionId": 98844,
+            "wordOptionDesc": "事物，事情",
+            "isRight": 1,
+            "wordId": 47598
+        }],
+        "wordDesc": "（ものごと）②【名】事物，事情",
+        "correctDesc": "事物，事情",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "下車",
+        "wordId": 47599,
+        "optionDtos": [{
+            "wordOptionId": 98845,
+            "wordOptionDesc": "下车",
+            "isRight": 1,
+            "wordId": 47599
+        }],
+        "wordDesc": "（げしゃ）①【名·自动3】下车",
+        "correctDesc": "下车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "教材",
+        "wordId": 47600,
+        "optionDtos": [{
+            "wordOptionId": 98846,
+            "wordOptionDesc": "教材",
+            "isRight": 1,
+            "wordId": 47600
+        }],
+        "wordDesc": "（きょうざい）⓪【名】教材",
+        "correctDesc": "教材",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "乾電池",
+        "wordId": 47601,
+        "optionDtos": [{
+            "wordOptionId": 98847,
+            "wordOptionDesc": "干电池",
+            "isRight": 1,
+            "wordId": 47601
+        }],
+        "wordDesc": "（かんでんち）③【名】干电池",
+        "correctDesc": "干电池",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "紙くず",
+        "wordId": 47602,
+        "optionDtos": [{
+            "wordOptionId": 98848,
+            "wordOptionDesc": "废纸",
+            "isRight": 1,
+            "wordId": 47602
+        }],
+        "wordDesc": "（かみくず）③【名】废纸",
+        "correctDesc": "废纸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "対象",
+        "wordId": 47603,
+        "optionDtos": [{
+            "wordOptionId": 98849,
+            "wordOptionDesc": "对象",
+            "isRight": 1,
+            "wordId": 47603
+        }],
+        "wordDesc": "（たいしょう）⓪【名】对象",
+        "correctDesc": "对象",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "作り出す",
+        "wordId": 47604,
+        "optionDtos": [{
+            "wordOptionId": 98850,
+            "wordOptionDesc": "开始做；制造；创作",
+            "isRight": 1,
+            "wordId": 47604
+        }],
+        "wordDesc": "（つくりだす）④【他动1】开始做；制造；创作",
+        "correctDesc": "开始做；制造；创作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "熱する",
+        "wordId": 47605,
+        "optionDtos": [{
+            "wordOptionId": 98851,
+            "wordOptionDesc": "变热；加热；热衷",
+            "isRight": 1,
+            "wordId": 47605
+        }],
+        "wordDesc": "（ねっする）⓪【自他动3】变热；加热；热衷",
+        "correctDesc": "变热；加热；热衷",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ファスナー",
+        "wordId": 47606,
+        "optionDtos": [{
+            "wordOptionId": 98852,
+            "wordOptionDesc": "拉链，拉锁",
+            "isRight": 1,
+            "wordId": 47606
+        }],
+        "wordDesc": "（fastener）①【名】拉链，拉锁",
+        "correctDesc": "拉链，拉锁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ホール",
+        "wordId": 47607,
+        "optionDtos": [{
+            "wordOptionId": 98853,
+            "wordOptionDesc": "大厅，礼堂",
+            "isRight": 1,
+            "wordId": 47607
+        }],
+        "wordDesc": "（hall）①【名】大厅，礼堂",
+        "correctDesc": "大厅，礼堂",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "真っ青",
+        "wordId": 47608,
+        "optionDtos": [{
+            "wordOptionId": 98854,
+            "wordOptionDesc": "蔚蓝，深蓝；（脸色）苍白",
+            "isRight": 1,
+            "wordId": 47608
+        }],
+        "wordDesc": "（まっさお）③【名·ナ形】蔚蓝，深蓝；（脸色）苍白",
+        "correctDesc": "蔚蓝，深蓝；（脸色）苍白",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "真っ先",
+        "wordId": 47609,
+        "optionDtos": [{
+            "wordOptionId": 98855,
+            "wordOptionDesc": "最先，首先",
+            "isRight": 1,
+            "wordId": 47609
+        }],
+        "wordDesc": "（まっさき）③【名·ナ形】最先，首先",
+        "correctDesc": "最先，首先",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "燃やす",
+        "wordId": 47610,
+        "optionDtos": [{
+            "wordOptionId": 98856,
+            "wordOptionDesc": "燃烧；激发（情感）",
+            "isRight": 1,
+            "wordId": 47610
+        }],
+        "wordDesc": "（もやす）⓪【他动1】燃烧；激发（情感）",
+        "correctDesc": "燃烧；激发（情感）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "寄せる",
+        "wordId": 47611,
+        "optionDtos": [{
+            "wordOptionId": 98857,
+            "wordOptionDesc": "使⋯⋯靠近；聚集；寄托",
+            "isRight": 1,
+            "wordId": 47611
+        }],
+        "wordDesc": "（よせる）⓪【自他动2】使⋯⋯靠近；聚集；寄托",
+        "correctDesc": "使⋯⋯靠近；聚集；寄托",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "利口",
+        "wordId": 47612,
+        "optionDtos": [{
+            "wordOptionId": 98858,
+            "wordOptionDesc": "聪明的，伶俐的",
+            "isRight": 1,
+            "wordId": 47612
+        }],
+        "wordDesc": "（りこう）⓪【ナ形】聪明的，伶俐的",
+        "correctDesc": "聪明的，伶俐的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "穴",
+        "wordId": 47613,
+        "optionDtos": [{
+            "wordOptionId": 98859,
+            "wordOptionDesc": "洞，孔，穴",
+            "isRight": 1,
+            "wordId": 47613
+        }],
+        "wordDesc": "（あな）②【名】洞，孔，穴",
+        "correctDesc": "洞，孔，穴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "理科",
+        "wordId": 47614,
+        "optionDtos": [{
+            "wordOptionId": 98860,
+            "wordOptionDesc": "理科",
+            "isRight": 1,
+            "wordId": 47614
+        }],
+        "wordDesc": "（りか）①【名】理科",
+        "correctDesc": "理科",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "わずか",
+        "wordId": 47615,
+        "optionDtos": [{
+            "wordOptionId": 98861,
+            "wordOptionDesc": "一点点；稍微",
+            "isRight": 1,
+            "wordId": 47615
+        }],
+        "wordDesc": "①【名·ナ形·副】一点点；稍微",
+        "correctDesc": "一点点；稍微",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "寄る",
+        "wordId": 47616,
+        "optionDtos": [{
+            "wordOptionId": 98862,
+            "wordOptionDesc": "靠近，挨近；集中；顺路去",
+            "isRight": 1,
+            "wordId": 47616
+        }],
+        "wordDesc": "（よる）⓪【自动1】靠近，挨近；集中；顺路去",
+        "correctDesc": "靠近，挨近；集中；顺路去",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "優勝",
+        "wordId": 47617,
+        "optionDtos": [{
+            "wordOptionId": 98863,
+            "wordOptionDesc": "冠军；优胜，获胜",
+            "isRight": 1,
+            "wordId": 47617
+        }],
+        "wordDesc": "（ゆうしょう）⓪【名·自动3】冠军；优胜，获胜",
+        "correctDesc": "冠军；优胜，获胜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "メディア",
+        "wordId": 47618,
+        "optionDtos": [{
+            "wordOptionId": 98864,
+            "wordOptionDesc": "媒体；手段，媒介",
+            "isRight": 1,
+            "wordId": 47618
+        }],
+        "wordDesc": "（media）①【名】媒体；手段，媒介",
+        "correctDesc": "媒体；手段，媒介",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "祭る",
+        "wordId": 47619,
+        "optionDtos": [{
+            "wordOptionId": 98865,
+            "wordOptionDesc": "祭奠，供奉",
+            "isRight": 1,
+            "wordId": 47619
+        }],
+        "wordDesc": "（まつる）⓪【他动1】祭奠，供奉",
+        "correctDesc": "祭奠，供奉",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "減る",
+        "wordId": 47620,
+        "optionDtos": [{
+            "wordOptionId": 98866,
+            "wordOptionDesc": "减少；饿肚子",
+            "isRight": 1,
+            "wordId": 47620
+        }],
+        "wordDesc": "（へる）⓪【自动1】减少；饿肚子",
+        "correctDesc": "减少；饿肚子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "付近",
+        "wordId": 47621,
+        "optionDtos": [{
+            "wordOptionId": 98867,
+            "wordOptionDesc": "附近",
+            "isRight": 1,
+            "wordId": 47621
+        }],
+        "wordDesc": "（ふきん）①【名】附近",
+        "correctDesc": "附近",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "一人一人",
+        "wordId": 47622,
+        "optionDtos": [{
+            "wordOptionId": 98868,
+            "wordOptionDesc": "每个人，各自",
+            "isRight": 1,
+            "wordId": 47622
+        }],
+        "wordDesc": "（ひとりひとり）⑤【副】每个人，各自",
+        "correctDesc": "每个人，各自",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "繁華街",
+        "wordId": 47623,
+        "optionDtos": [{
+            "wordOptionId": 98869,
+            "wordOptionDesc": "繁华街区",
+            "isRight": 1,
+            "wordId": 47623
+        }],
+        "wordDesc": "（はんかがい）③【名】繁华街区",
+        "correctDesc": "繁华街区",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "取り替える",
+        "wordId": 47624,
+        "optionDtos": [{
+            "wordOptionId": 98870,
+            "wordOptionDesc": "交换，互换；更换，换成新的",
+            "isRight": 1,
+            "wordId": 47624
+        }],
+        "wordDesc": "（とりかえる）⓪【他动2】交换，互换；更换，换成新的",
+        "correctDesc": "交换，互换；更换，换成新的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "応用",
+        "wordId": 47625,
+        "optionDtos": [{
+            "wordOptionId": 98871,
+            "wordOptionDesc": "应用，运用",
+            "isRight": 1,
+            "wordId": 47625
+        }],
+        "wordDesc": "（おうよう）⓪【名·他动3】应用，运用",
+        "correctDesc": "应用，运用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "宿",
+        "wordId": 47626,
+        "optionDtos": [{
+            "wordOptionId": 98872,
+            "wordOptionDesc": "房屋；旅馆",
+            "isRight": 1,
+            "wordId": 47626
+        }],
+        "wordDesc": "（やど）①【名】房屋；旅馆",
+        "correctDesc": "房屋；旅馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "設備",
+        "wordId": 47627,
+        "optionDtos": [{
+            "wordOptionId": 98873,
+            "wordOptionDesc": "设备",
+            "isRight": 1,
+            "wordId": 47627
+        }],
+        "wordDesc": "（せつび）①【名】设备",
+        "correctDesc": "设备",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "品数",
+        "wordId": 47628,
+        "optionDtos": [{
+            "wordOptionId": 98874,
+            "wordOptionDesc": "物品的品种或数量",
+            "isRight": 1,
+            "wordId": 47628
+        }],
+        "wordDesc": "（しなかず）⓪【名】物品的品种或数量",
+        "correctDesc": "物品的品种或数量",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "小雨",
+        "wordId": 47629,
+        "optionDtos": [{
+            "wordOptionId": 98875,
+            "wordOptionDesc": "小雨",
+            "isRight": 1,
+            "wordId": 47629
+        }],
+        "wordDesc": "（こさめ）⓪【名】小雨",
+        "correctDesc": "小雨",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "結局",
+        "wordId": 47630,
+        "optionDtos": [{
+            "wordOptionId": 98876,
+            "wordOptionDesc": "结果；到底，终究",
+            "isRight": 1,
+            "wordId": 47630
+        }],
+        "wordDesc": "（けっきょく）⓪【名·副】结果；到底，终究",
+        "correctDesc": "结果；到底，终究",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "生地",
+        "wordId": 47631,
+        "optionDtos": [{
+            "wordOptionId": 98877,
+            "wordOptionDesc": "质地，布料；本来面目",
+            "isRight": 1,
+            "wordId": 47631
+        }],
+        "wordDesc": "（きじ）①【名】质地，布料；本来面目",
+        "correctDesc": "质地，布料；本来面目",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "カンニング",
+        "wordId": 47632,
+        "optionDtos": [{
+            "wordOptionId": 98878,
+            "wordOptionDesc": "（考试）作弊",
+            "isRight": 1,
+            "wordId": 47632
+        }],
+        "wordDesc": "（cunning）⓪【名·自动3】（考试）作弊",
+        "correctDesc": "（考试）作弊",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "彼氏",
+        "wordId": 47633,
+        "optionDtos": [{
+            "wordOptionId": 98879,
+            "wordOptionDesc": "男朋友；他",
+            "isRight": 1,
+            "wordId": 47633
+        }],
+        "wordDesc": "（かれし）①【名·代】男朋友；他",
+        "correctDesc": "男朋友；他",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ベビー",
+        "wordId": 47634,
+        "optionDtos": [{
+            "wordOptionId": 98880,
+            "wordOptionDesc": "婴儿",
+            "isRight": 1,
+            "wordId": 47634
+        }],
+        "wordDesc": "（baby）①【名】婴儿",
+        "correctDesc": "婴儿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "餅",
+        "wordId": 47635,
+        "optionDtos": [{
+            "wordOptionId": 98881,
+            "wordOptionDesc": "年糕",
+            "isRight": 1,
+            "wordId": 47635
+        }],
+        "wordDesc": "（もち）⓪【名】年糕",
+        "correctDesc": "年糕",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ユーモア",
+        "wordId": 47636,
+        "optionDtos": [{
+            "wordOptionId": 98882,
+            "wordOptionDesc": "幽默，滑稽",
+            "isRight": 1,
+            "wordId": 47636
+        }],
+        "wordDesc": "（humor）①【名】幽默，滑稽",
+        "correctDesc": "幽默，滑稽",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "古く",
+        "wordId": 47637,
+        "optionDtos": [{
+            "wordOptionId": 98883,
+            "wordOptionDesc": "以前",
+            "isRight": 1,
+            "wordId": 47637
+        }],
+        "wordDesc": "（ふるく）①【名·副】以前",
+        "correctDesc": "以前",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ファン",
+        "wordId": 47638,
+        "optionDtos": [{
+            "wordOptionId": 98884,
+            "wordOptionDesc": "风扇；粉丝，爱好者",
+            "isRight": 1,
+            "wordId": 47638
+        }],
+        "wordDesc": "（fan）①【名】风扇；粉丝，爱好者",
+        "correctDesc": "风扇；粉丝，爱好者",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "パンダ",
+        "wordId": 47639,
+        "optionDtos": [{
+            "wordOptionId": 98885,
+            "wordOptionDesc": "熊猫",
+            "isRight": 1,
+            "wordId": 47639
+        }],
+        "wordDesc": "（panda）①【名】熊猫",
+        "correctDesc": "熊猫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "仲良し",
+        "wordId": 47640,
+        "optionDtos": [{
+            "wordOptionId": 98886,
+            "wordOptionDesc": "好朋友；关系好",
+            "isRight": 1,
+            "wordId": 47640
+        }],
+        "wordDesc": "（なかよし）②【名】好朋友；关系好",
+        "correctDesc": "好朋友；关系好",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "試しに",
+        "wordId": 47641,
+        "optionDtos": [{
+            "wordOptionId": 98887,
+            "wordOptionDesc": "尝试，试着",
+            "isRight": 1,
+            "wordId": 47641
+        }],
+        "wordDesc": "（ためしに）③【副】尝试，试着",
+        "correctDesc": "尝试，试着",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "白黒",
+        "wordId": 47642,
+        "optionDtos": [{
+            "wordOptionId": 98888,
+            "wordOptionDesc": "白与黑；是非曲直；黑白（电视等）",
+            "isRight": 1,
+            "wordId": 47642
+        }],
+        "wordDesc": "（しろくろ）⓪【名】白与黑；是非曲直；黑白（电视等）",
+        "correctDesc": "白与黑；是非曲直；黑白（电视等）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "洗濯物",
+        "wordId": 47643,
+        "optionDtos": [{
+            "wordOptionId": 98889,
+            "wordOptionDesc": "要洗的衣服；洗过的衣服",
+            "isRight": 1,
+            "wordId": 47643
+        }],
+        "wordDesc": "（せんたくもの）⓪【名】要洗的衣服；洗过的衣服",
+        "correctDesc": "要洗的衣服；洗过的衣服",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "田圃",
+        "wordId": 47644,
+        "optionDtos": [{
+            "wordOptionId": 98890,
+            "wordOptionDesc": "田地，庄稼地",
+            "isRight": 1,
+            "wordId": 47644
+        }],
+        "wordDesc": "（たんぼ）⓪【名】田地，庄稼地",
+        "correctDesc": "田地，庄稼地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "通り過ぎる",
+        "wordId": 47645,
+        "optionDtos": [{
+            "wordOptionId": 98891,
+            "wordOptionDesc": "走过，经过",
+            "isRight": 1,
+            "wordId": 47645
+        }],
+        "wordDesc": "（とおりすぎる）⑤【自动2】走过，经过",
+        "correctDesc": "走过，经过",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "登山",
+        "wordId": 47646,
+        "optionDtos": [{
+            "wordOptionId": 98892,
+            "wordOptionDesc": "登山，爬山",
+            "isRight": 1,
+            "wordId": 47646
+        }],
+        "wordDesc": "（とざん）①【名·自动3】登山，爬山",
+        "correctDesc": "登山，爬山",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "便り",
+        "wordId": 47647,
+        "optionDtos": [{
+            "wordOptionId": 98893,
+            "wordOptionDesc": "消息，音信",
+            "isRight": 1,
+            "wordId": 47647
+        }],
+        "wordDesc": "（たより）①【名】消息，音信",
+        "correctDesc": "消息，音信",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ストップ",
+        "wordId": 47648,
+        "optionDtos": [{
+            "wordOptionId": 98894,
+            "wordOptionDesc": "停止，终止；停下",
+            "isRight": 1,
+            "wordId": 47648
+        }],
+        "wordDesc": "（stop）②【名·自他动3】停止，终止；停下",
+        "correctDesc": "停止，终止；停下",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "日当たり",
+        "wordId": 47649,
+        "optionDtos": [{
+            "wordOptionId": 98895,
+            "wordOptionDesc": "向阳处，阳光照射处",
+            "isRight": 1,
+            "wordId": 47649
+        }],
+        "wordDesc": "（ひあたり）⓪【名】向阳处，阳光照射处",
+        "correctDesc": "向阳处，阳光照射处",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ブルー",
+        "wordId": 47650,
+        "optionDtos": [{
+            "wordOptionId": 98896,
+            "wordOptionDesc": "蓝色",
+            "isRight": 1,
+            "wordId": 47650
+        }],
+        "wordDesc": "（blue）②【名】蓝色",
+        "correctDesc": "蓝色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "郵便",
+        "wordId": 47651,
+        "optionDtos": [{
+            "wordOptionId": 98897,
+            "wordOptionDesc": "邮政，邮件",
+            "isRight": 1,
+            "wordId": 47651
+        }],
+        "wordDesc": "（ゆうびん）⓪【名】邮政，邮件",
+        "correctDesc": "邮政，邮件",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "夜空",
+        "wordId": 47652,
+        "optionDtos": [{
+            "wordOptionId": 98898,
+            "wordOptionDesc": "夜空",
+            "isRight": 1,
+            "wordId": 47652
+        }],
+        "wordDesc": "（よぞら）①【名】夜空",
+        "correctDesc": "夜空",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "礼儀",
+        "wordId": 47653,
+        "optionDtos": [{
+            "wordOptionId": 98899,
+            "wordOptionDesc": "礼仪，礼节",
+            "isRight": 1,
+            "wordId": 47653
+        }],
+        "wordDesc": "（れいぎ）③【名】礼仪，礼节",
+        "correctDesc": "礼仪，礼节",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "09 N3词汇 第九天",
+        "wordName": "ワイシャツ",
+        "wordId": 47654,
+        "optionDtos": [{
+            "wordOptionId": 98900,
+            "wordOptionDesc": "男士衬衫",
+            "isRight": 1,
+            "wordId": 47654
+        }],
+        "wordDesc": "（white shirt）⓪【名】男士衬衫",
+        "correctDesc": "男士衬衫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

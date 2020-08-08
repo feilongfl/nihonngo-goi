@@ -1,0 +1,3805 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "操作",
+        "wordId": 40579,
+        "optionDtos": [{
+            "wordOptionId": 85955,
+            "wordOptionDesc": "操作",
+            "isRight": 1,
+            "wordId": 40579
+        }],
+        "wordDesc": "（そうさ）①【名·他动3】操作",
+        "correctDesc": "操作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "黒字",
+        "wordId": 40580,
+        "optionDtos": [{
+            "wordOptionId": 85956,
+            "wordOptionDesc": "盈余，赚钱",
+            "isRight": 1,
+            "wordId": 40580
+        }],
+        "wordDesc": "（くろじ）⓪【名】盈余，赚钱",
+        "correctDesc": "盈余，赚钱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "盗む",
+        "wordId": 40581,
+        "optionDtos": [{
+            "wordOptionId": 85957,
+            "wordOptionDesc": "偷，偷盗",
+            "isRight": 1,
+            "wordId": 40581
+        }],
+        "wordDesc": "（ぬすむ）②【他动1】偷，偷盗",
+        "correctDesc": "偷，偷盗",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "宅配便",
+        "wordId": 40582,
+        "optionDtos": [{
+            "wordOptionId": 85958,
+            "wordOptionDesc": "快递",
+            "isRight": 1,
+            "wordId": 40582
+        }],
+        "wordDesc": "（たくはいびん）⓪【名】快递",
+        "correctDesc": "快递",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "蝦/海老",
+        "wordId": 40583,
+        "optionDtos": [{
+            "wordOptionId": 85959,
+            "wordOptionDesc": "虾",
+            "isRight": 1,
+            "wordId": 40583
+        }],
+        "wordDesc": "（えび）⓪【名】虾",
+        "correctDesc": "虾",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "鋭い",
+        "wordId": 40584,
+        "optionDtos": [{
+            "wordOptionId": 85960,
+            "wordOptionDesc": "锋利的；敏锐的",
+            "isRight": 1,
+            "wordId": 40584
+        }],
+        "wordDesc": "（するどい）③【イ形】锋利的；敏锐的",
+        "correctDesc": "锋利的；敏锐的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "入国",
+        "wordId": 40585,
+        "optionDtos": [{
+            "wordOptionId": 85961,
+            "wordOptionDesc": "入境",
+            "isRight": 1,
+            "wordId": 40585
+        }],
+        "wordDesc": "（にゅうこく）⓪【名·自动3】入境",
+        "correctDesc": "入境",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ミステリー",
+        "wordId": 40586,
+        "optionDtos": [{
+            "wordOptionId": 85962,
+            "wordOptionDesc": "神秘；推理小说",
+            "isRight": 1,
+            "wordId": 40586
+        }],
+        "wordDesc": "（mystery）①【名】神秘；推理小说",
+        "correctDesc": "神秘；推理小说",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "理想",
+        "wordId": 40587,
+        "optionDtos": [{
+            "wordOptionId": 85963,
+            "wordOptionDesc": "理想",
+            "isRight": 1,
+            "wordId": 40587
+        }],
+        "wordDesc": "（りそう）⓪【名】理想",
+        "correctDesc": "理想",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "毎日",
+        "wordId": 40588,
+        "optionDtos": [{
+            "wordOptionId": 85964,
+            "wordOptionDesc": "每天",
+            "isRight": 1,
+            "wordId": 40588
+        }],
+        "wordDesc": "（まいにち）①【名】每天",
+        "correctDesc": "每天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "設定",
+        "wordId": 40589,
+        "optionDtos": [{
+            "wordOptionId": 85965,
+            "wordOptionDesc": "设立，制定",
+            "isRight": 1,
+            "wordId": 40589
+        }],
+        "wordDesc": "（せってい）⓪【名·他动3】设立，制定",
+        "correctDesc": "设立，制定",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "カラス",
+        "wordId": 40590,
+        "optionDtos": [{
+            "wordOptionId": 85966,
+            "wordOptionDesc": "乌鸦",
+            "isRight": 1,
+            "wordId": 40590
+        }],
+        "wordDesc": "①【名】乌鸦",
+        "correctDesc": "乌鸦",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "いかが",
+        "wordId": 40591,
+        "optionDtos": [{
+            "wordOptionId": 85967,
+            "wordOptionDesc": "怎么样，怎么办",
+            "isRight": 1,
+            "wordId": 40591
+        }],
+        "wordDesc": "②【副】怎么样，怎么办",
+        "correctDesc": "怎么样，怎么办",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "時間割",
+        "wordId": 40592,
+        "optionDtos": [{
+            "wordOptionId": 85968,
+            "wordOptionDesc": "时间表；课程表",
+            "isRight": 1,
+            "wordId": 40592
+        }],
+        "wordDesc": "（じかんわり）⓪【名】时间表；课程表",
+        "correctDesc": "时间表；课程表",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "熱",
+        "wordId": 40593,
+        "optionDtos": [{
+            "wordOptionId": 85969,
+            "wordOptionDesc": "发烧",
+            "isRight": 1,
+            "wordId": 40593
+        }],
+        "wordDesc": "（ねつ）②【名】发烧",
+        "correctDesc": "发烧",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "集める",
+        "wordId": 40594,
+        "optionDtos": [{
+            "wordOptionId": 85970,
+            "wordOptionDesc": "集中，召集",
+            "isRight": 1,
+            "wordId": 40594
+        }],
+        "wordDesc": "（あつめる）③【他动2】集中，召集",
+        "correctDesc": "集中，召集",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "両方",
+        "wordId": 40595,
+        "optionDtos": [{
+            "wordOptionId": 85971,
+            "wordOptionDesc": "双方",
+            "isRight": 1,
+            "wordId": 40595
+        }],
+        "wordDesc": "（りょうほう）③【名】双方",
+        "correctDesc": "双方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "マニュアル",
+        "wordId": 40596,
+        "optionDtos": [{
+            "wordOptionId": 85972,
+            "wordOptionDesc": "说明书，操作指南",
+            "isRight": 1,
+            "wordId": 40596
+        }],
+        "wordDesc": "（manual）⓪【名】说明书，操作指南",
+        "correctDesc": "说明书，操作指南",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "建てる",
+        "wordId": 40597,
+        "optionDtos": [{
+            "wordOptionId": 85973,
+            "wordOptionDesc": "建，盖",
+            "isRight": 1,
+            "wordId": 40597
+        }],
+        "wordDesc": "（たてる）②【他动2】建，盖",
+        "correctDesc": "建，盖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "例",
+        "wordId": 40598,
+        "optionDtos": [{
+            "wordOptionId": 85974,
+            "wordOptionDesc": "例子",
+            "isRight": 1,
+            "wordId": 40598
+        }],
+        "wordDesc": "（れい）①【名】例子",
+        "correctDesc": "例子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "封筒",
+        "wordId": 40599,
+        "optionDtos": [{
+            "wordOptionId": 85975,
+            "wordOptionDesc": "信封",
+            "isRight": 1,
+            "wordId": 40599
+        }],
+        "wordDesc": "（ふうとう）⓪【名】信封",
+        "correctDesc": "信封",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "すると",
+        "wordId": 40600,
+        "optionDtos": [{
+            "wordOptionId": 85976,
+            "wordOptionDesc": "于是；那么，那样的话",
+            "isRight": 1,
+            "wordId": 40600
+        }],
+        "wordDesc": "⓪【接续】于是；那么，那样的话",
+        "correctDesc": "于是；那么，那样的话",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "離婚",
+        "wordId": 40601,
+        "optionDtos": [{
+            "wordOptionId": 85977,
+            "wordOptionDesc": "离婚",
+            "isRight": 1,
+            "wordId": 40601
+        }],
+        "wordDesc": "（りこん）⓪【名·自动3】离婚",
+        "correctDesc": "离婚",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "訳",
+        "wordId": 40602,
+        "optionDtos": [{
+            "wordOptionId": 85978,
+            "wordOptionDesc": "意思；原因",
+            "isRight": 1,
+            "wordId": 40602
+        }],
+        "wordDesc": "（わけ）①【名】意思；原因",
+        "correctDesc": "意思；原因",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "寿司/鮨",
+        "wordId": 40603,
+        "optionDtos": [{
+            "wordOptionId": 85979,
+            "wordOptionDesc": "寿司",
+            "isRight": 1,
+            "wordId": 40603
+        }],
+        "wordDesc": "（すし）②【名】寿司",
+        "correctDesc": "寿司",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "社長",
+        "wordId": 40604,
+        "optionDtos": [{
+            "wordOptionId": 85980,
+            "wordOptionDesc": "社长，总经理",
+            "isRight": 1,
+            "wordId": 40604
+        }],
+        "wordDesc": "（しゃちょう）⓪【名】社长，总经理",
+        "correctDesc": "社长，总经理",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "缶",
+        "wordId": 40605,
+        "optionDtos": [{
+            "wordOptionId": 85981,
+            "wordOptionDesc": "（金属制的）罐子",
+            "isRight": 1,
+            "wordId": 40605
+        }],
+        "wordDesc": "（かん）①【名】（金属制的）罐子",
+        "correctDesc": "（金属制的）罐子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "祝う",
+        "wordId": 40606,
+        "optionDtos": [{
+            "wordOptionId": 85982,
+            "wordOptionDesc": "庆祝",
+            "isRight": 1,
+            "wordId": 40606
+        }],
+        "wordDesc": "（いわう）②【他动1】庆祝",
+        "correctDesc": "庆祝",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "賛成",
+        "wordId": 40607,
+        "optionDtos": [{
+            "wordOptionId": 85983,
+            "wordOptionDesc": "赞成",
+            "isRight": 1,
+            "wordId": 40607
+        }],
+        "wordDesc": "（さんせい）⓪【名·自动3】赞成",
+        "correctDesc": "赞成",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "倍",
+        "wordId": 40608,
+        "optionDtos": [{
+            "wordOptionId": 85984,
+            "wordOptionDesc": "倍；两倍",
+            "isRight": 1,
+            "wordId": 40608
+        }],
+        "wordDesc": "（ばい）⓪【名】倍；两倍",
+        "correctDesc": "倍；两倍",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "リラックス",
+        "wordId": 40609,
+        "optionDtos": [{
+            "wordOptionId": 85985,
+            "wordOptionDesc": "放松",
+            "isRight": 1,
+            "wordId": 40609
+        }],
+        "wordDesc": "（relax）②【名·自动3】放松",
+        "correctDesc": "放松",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "または",
+        "wordId": 40610,
+        "optionDtos": [{
+            "wordOptionId": 85986,
+            "wordOptionDesc": "或者",
+            "isRight": 1,
+            "wordId": 40610
+        }],
+        "wordDesc": "②【接续】或者",
+        "correctDesc": "或者",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "天気予報",
+        "wordId": 40611,
+        "optionDtos": [{
+            "wordOptionId": 85987,
+            "wordOptionDesc": "天气预报",
+            "isRight": 1,
+            "wordId": 40611
+        }],
+        "wordDesc": "（てんきよほう）④【名】天气预报",
+        "correctDesc": "天气预报",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "触る",
+        "wordId": 40612,
+        "optionDtos": [{
+            "wordOptionId": 85988,
+            "wordOptionDesc": "触，碰",
+            "isRight": 1,
+            "wordId": 40612
+        }],
+        "wordDesc": "（さわる）⓪【自动1】触，碰",
+        "correctDesc": "触，碰",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "教育",
+        "wordId": 40613,
+        "optionDtos": [{
+            "wordOptionId": 85989,
+            "wordOptionDesc": "教育",
+            "isRight": 1,
+            "wordId": 40613
+        }],
+        "wordDesc": "（きょういく）⓪【名·他动3】教育",
+        "correctDesc": "教育",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "今日",
+        "wordId": 40614,
+        "optionDtos": [{
+            "wordOptionId": 85990,
+            "wordOptionDesc": "今天",
+            "isRight": 1,
+            "wordId": 40614
+        }],
+        "wordDesc": "（きょう）①【名】今天",
+        "correctDesc": "今天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "さっき",
+        "wordId": 40615,
+        "optionDtos": [{
+            "wordOptionId": 85991,
+            "wordOptionDesc": "刚才",
+            "isRight": 1,
+            "wordId": 40615
+        }],
+        "wordDesc": "①【名·副】刚才",
+        "correctDesc": "刚才",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "低下",
+        "wordId": 40616,
+        "optionDtos": [{
+            "wordOptionId": 85992,
+            "wordOptionDesc": "降低，下降",
+            "isRight": 1,
+            "wordId": 40616
+        }],
+        "wordDesc": "（ていか）⓪【名·自动3】降低，下降",
+        "correctDesc": "降低，下降",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "開く",
+        "wordId": 40617,
+        "optionDtos": [{
+            "wordOptionId": 85993,
+            "wordOptionDesc": "开；打开；开张；召开",
+            "isRight": 1,
+            "wordId": 40617
+        }],
+        "wordDesc": "（ひらく）②【自他动1】开；打开；开张；召开",
+        "correctDesc": "开；打开；开张；召开",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "リーダー",
+        "wordId": 40618,
+        "optionDtos": [{
+            "wordOptionId": 85994,
+            "wordOptionDesc": "领导，领袖",
+            "isRight": 1,
+            "wordId": 40618
+        }],
+        "wordDesc": "（leader）①【名】领导，领袖",
+        "correctDesc": "领导，领袖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "住宅",
+        "wordId": 40619,
+        "optionDtos": [{
+            "wordOptionId": 85995,
+            "wordOptionDesc": "住宅",
+            "isRight": 1,
+            "wordId": 40619
+        }],
+        "wordDesc": "（じゅうたく）⓪【名】住宅",
+        "correctDesc": "住宅",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "訪れる",
+        "wordId": 40620,
+        "optionDtos": [{
+            "wordOptionId": 85996,
+            "wordOptionDesc": "访问，拜访；到来",
+            "isRight": 1,
+            "wordId": 40620
+        }],
+        "wordDesc": "（おとずれる）④【自动2】访问，拜访；到来",
+        "correctDesc": "访问，拜访；到来",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "傷",
+        "wordId": 40621,
+        "optionDtos": [{
+            "wordOptionId": 85997,
+            "wordOptionDesc": "创伤；瑕疵",
+            "isRight": 1,
+            "wordId": 40621
+        }],
+        "wordDesc": "（きず）⓪【名】创伤；瑕疵",
+        "correctDesc": "创伤；瑕疵",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ライター",
+        "wordId": 40622,
+        "optionDtos": [{
+            "wordOptionId": 85998,
+            "wordOptionDesc": "打火机",
+            "isRight": 1,
+            "wordId": 40622
+        }],
+        "wordDesc": "（lighter）①【名】打火机",
+        "correctDesc": "打火机",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "恋しい",
+        "wordId": 40623,
+        "optionDtos": [{
+            "wordOptionId": 85999,
+            "wordOptionDesc": "爱慕的；怀念的，眷恋的",
+            "isRight": 1,
+            "wordId": 40623
+        }],
+        "wordDesc": "（こいしい）③【イ形】爱慕的；怀念的，眷恋的",
+        "correctDesc": "爱慕的；怀念的，眷恋的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "意見",
+        "wordId": 40624,
+        "optionDtos": [{
+            "wordOptionId": 86000,
+            "wordOptionDesc": "意见；提建议，劝告",
+            "isRight": 1,
+            "wordId": 40624
+        }],
+        "wordDesc": "（いけん）①【名·自他动3】意见；提建议，劝告",
+        "correctDesc": "意见；提建议，劝告",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "夜中",
+        "wordId": 40625,
+        "optionDtos": [{
+            "wordOptionId": 86001,
+            "wordOptionDesc": "夜间",
+            "isRight": 1,
+            "wordId": 40625
+        }],
+        "wordDesc": "（よなか）③【名】夜间",
+        "correctDesc": "夜间",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "女の子",
+        "wordId": 40626,
+        "optionDtos": [{
+            "wordOptionId": 86002,
+            "wordOptionDesc": "女孩子",
+            "isRight": 1,
+            "wordId": 40626
+        }],
+        "wordDesc": "（おんなのこ）③【名】女孩子",
+        "correctDesc": "女孩子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ジャム",
+        "wordId": 40627,
+        "optionDtos": [{
+            "wordOptionId": 86003,
+            "wordOptionDesc": "果酱",
+            "isRight": 1,
+            "wordId": 40627
+        }],
+        "wordDesc": "（jam）①【名】果酱",
+        "correctDesc": "果酱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "休日",
+        "wordId": 40628,
+        "optionDtos": [{
+            "wordOptionId": 86004,
+            "wordOptionDesc": "休息日",
+            "isRight": 1,
+            "wordId": 40628
+        }],
+        "wordDesc": "（きゅうじつ）⓪【名】休息日",
+        "correctDesc": "休息日",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "理由",
+        "wordId": 40629,
+        "optionDtos": [{
+            "wordOptionId": 86005,
+            "wordOptionDesc": "理由",
+            "isRight": 1,
+            "wordId": 40629
+        }],
+        "wordDesc": "（りゆう）⓪【名】理由",
+        "correctDesc": "理由",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "致す",
+        "wordId": 40630,
+        "optionDtos": [{
+            "wordOptionId": 86006,
+            "wordOptionDesc": "(する的自谦语）做",
+            "isRight": 1,
+            "wordId": 40630
+        }],
+        "wordDesc": "（いたす）②【他动1】(する的自谦语）做",
+        "correctDesc": "(する的自谦语）做",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "湯",
+        "wordId": 40631,
+        "optionDtos": [{
+            "wordOptionId": 86007,
+            "wordOptionDesc": "热水；洗澡水",
+            "isRight": 1,
+            "wordId": 40631
+        }],
+        "wordDesc": "（ゆ）①【名】热水；洗澡水",
+        "correctDesc": "热水；洗澡水",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "準備",
+        "wordId": 40632,
+        "optionDtos": [{
+            "wordOptionId": 86008,
+            "wordOptionDesc": "准备",
+            "isRight": 1,
+            "wordId": 40632
+        }],
+        "wordDesc": "（じゅんび）①【名·他动3】准备",
+        "correctDesc": "准备",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "父親",
+        "wordId": 40633,
+        "optionDtos": [{
+            "wordOptionId": 86009,
+            "wordOptionDesc": "父亲",
+            "isRight": 1,
+            "wordId": 40633
+        }],
+        "wordDesc": "（ちちおや）⓪【名】父亲",
+        "correctDesc": "父亲",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "植える",
+        "wordId": 40634,
+        "optionDtos": [{
+            "wordOptionId": 86010,
+            "wordOptionDesc": "种植",
+            "isRight": 1,
+            "wordId": 40634
+        }],
+        "wordDesc": "（うえる）⓪【他动2】种植",
+        "correctDesc": "种植",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "色鉛筆",
+        "wordId": 40635,
+        "optionDtos": [{
+            "wordOptionId": 86011,
+            "wordOptionDesc": "彩色铅笔",
+            "isRight": 1,
+            "wordId": 40635
+        }],
+        "wordDesc": "（いろえんぴつ）③【名】彩色铅笔",
+        "correctDesc": "彩色铅笔",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "作品",
+        "wordId": 40636,
+        "optionDtos": [{
+            "wordOptionId": 86012,
+            "wordOptionDesc": "作品",
+            "isRight": 1,
+            "wordId": 40636
+        }],
+        "wordDesc": "（さくひん）⓪【名】作品",
+        "correctDesc": "作品",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ウイスキー",
+        "wordId": 40637,
+        "optionDtos": [{
+            "wordOptionId": 86013,
+            "wordOptionDesc": "威士忌",
+            "isRight": 1,
+            "wordId": 40637
+        }],
+        "wordDesc": "（whiskey）③【名】威士忌",
+        "correctDesc": "威士忌",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "断る",
+        "wordId": 40638,
+        "optionDtos": [{
+            "wordOptionId": 86014,
+            "wordOptionDesc": "拒绝",
+            "isRight": 1,
+            "wordId": 40638
+        }],
+        "wordDesc": "（ことわる）③【他动1】拒绝",
+        "correctDesc": "拒绝",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "庭園",
+        "wordId": 40639,
+        "optionDtos": [{
+            "wordOptionId": 86015,
+            "wordOptionDesc": "庭园",
+            "isRight": 1,
+            "wordId": 40639
+        }],
+        "wordDesc": "（ていえん）⓪【名】庭园",
+        "correctDesc": "庭园",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "双子",
+        "wordId": 40640,
+        "optionDtos": [{
+            "wordOptionId": 86016,
+            "wordOptionDesc": "双胞胎",
+            "isRight": 1,
+            "wordId": 40640
+        }],
+        "wordDesc": "（ふたご）⓪【名】双胞胎",
+        "correctDesc": "双胞胎",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "大事",
+        "wordId": 40641,
+        "optionDtos": [{
+            "wordOptionId": 86017,
+            "wordOptionDesc": "重要，宝贵；珍视",
+            "isRight": 1,
+            "wordId": 40641
+        }],
+        "wordDesc": "（だいじ）③【名·ナ形】重要，宝贵；珍视",
+        "correctDesc": "重要，宝贵；珍视",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "一",
+        "wordId": 40642,
+        "optionDtos": [{
+            "wordOptionId": 86018,
+            "wordOptionDesc": "一",
+            "isRight": 1,
+            "wordId": 40642
+        }],
+        "wordDesc": "（いち）②【数】一",
+        "correctDesc": "一",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "人出",
+        "wordId": 40643,
+        "optionDtos": [{
+            "wordOptionId": 86019,
+            "wordOptionDesc": "外出的人群",
+            "isRight": 1,
+            "wordId": 40643
+        }],
+        "wordDesc": "（ひとで）⓪【名】外出的人群",
+        "correctDesc": "外出的人群",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "流行",
+        "wordId": 40644,
+        "optionDtos": [{
+            "wordOptionId": 86020,
+            "wordOptionDesc": "流行，时髦；（疾病）蔓延",
+            "isRight": 1,
+            "wordId": 40644
+        }],
+        "wordDesc": "（りゅうこう）⓪【名·自动3】流行，时髦；（疾病）蔓延",
+        "correctDesc": "流行，时髦；（疾病）蔓延",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "四",
+        "wordId": 40645,
+        "optionDtos": [{
+            "wordOptionId": 86021,
+            "wordOptionDesc": "四",
+            "isRight": 1,
+            "wordId": 40645
+        }],
+        "wordDesc": "（し/よん）①【数】四",
+        "correctDesc": "四",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "字",
+        "wordId": 40646,
+        "optionDtos": [{
+            "wordOptionId": 86022,
+            "wordOptionDesc": "文字；笔迹",
+            "isRight": 1,
+            "wordId": 40646
+        }],
+        "wordDesc": "（じ）①【名】文字；笔迹",
+        "correctDesc": "文字；笔迹",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ガム",
+        "wordId": 40647,
+        "optionDtos": [{
+            "wordOptionId": 86023,
+            "wordOptionDesc": "口香糖",
+            "isRight": 1,
+            "wordId": 40647
+        }],
+        "wordDesc": "（gum）①【名】口香糖",
+        "correctDesc": "口香糖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "当てる",
+        "wordId": 40648,
+        "optionDtos": [{
+            "wordOptionId": 86024,
+            "wordOptionDesc": "碰，撞；贴上；猜",
+            "isRight": 1,
+            "wordId": 40648
+        }],
+        "wordDesc": "（あてる）⓪【他动2】碰，撞；贴上；猜",
+        "correctDesc": "碰，撞；贴上；猜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "海岸",
+        "wordId": 40649,
+        "optionDtos": [{
+            "wordOptionId": 86025,
+            "wordOptionDesc": "海岸",
+            "isRight": 1,
+            "wordId": 40649
+        }],
+        "wordDesc": "（かいがん）⓪【名】海岸",
+        "correctDesc": "海岸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "十",
+        "wordId": 40650,
+        "optionDtos": [{
+            "wordOptionId": 86026,
+            "wordOptionDesc": "十",
+            "isRight": 1,
+            "wordId": 40650
+        }],
+        "wordDesc": "（じゅう）①【数】十",
+        "correctDesc": "十",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "手軽",
+        "wordId": 40651,
+        "optionDtos": [{
+            "wordOptionId": 86027,
+            "wordOptionDesc": "简便，轻易",
+            "isRight": 1,
+            "wordId": 40651
+        }],
+        "wordDesc": "（てがる）⓪【名·ナ形】简便，轻易",
+        "correctDesc": "简便，轻易",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ブラウス",
+        "wordId": 40652,
+        "optionDtos": [{
+            "wordOptionId": 86028,
+            "wordOptionDesc": "女士衬衫",
+            "isRight": 1,
+            "wordId": 40652
+        }],
+        "wordDesc": "（blouse）②【名】女士衬衫",
+        "correctDesc": "女士衬衫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "叫ぶ",
+        "wordId": 40653,
+        "optionDtos": [{
+            "wordOptionId": 86029,
+            "wordOptionDesc": "喊叫；呼吁",
+            "isRight": 1,
+            "wordId": 40653
+        }],
+        "wordDesc": "（さけぶ）②【自动1】喊叫；呼吁",
+        "correctDesc": "喊叫；呼吁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "黄金",
+        "wordId": 40654,
+        "optionDtos": [{
+            "wordOptionId": 86030,
+            "wordOptionDesc": "黄金",
+            "isRight": 1,
+            "wordId": 40654
+        }],
+        "wordDesc": "（おうごん）⓪【名】黄金",
+        "correctDesc": "黄金",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "両足",
+        "wordId": 40655,
+        "optionDtos": [{
+            "wordOptionId": 86031,
+            "wordOptionDesc": "双脚；双腿",
+            "isRight": 1,
+            "wordId": 40655
+        }],
+        "wordDesc": "（りょうあし）⓪【名】双脚；双腿",
+        "correctDesc": "双脚；双腿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "知らせる",
+        "wordId": 40656,
+        "optionDtos": [{
+            "wordOptionId": 86032,
+            "wordOptionDesc": "通知，告知",
+            "isRight": 1,
+            "wordId": 40656
+        }],
+        "wordDesc": "（しらせる）⓪【他动2】通知，告知",
+        "correctDesc": "通知，告知",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "会社員",
+        "wordId": 40657,
+        "optionDtos": [{
+            "wordOptionId": 86033,
+            "wordOptionDesc": "公司职员",
+            "isRight": 1,
+            "wordId": 40657
+        }],
+        "wordDesc": "（かいしゃいん）③【名】公司职员",
+        "correctDesc": "公司职员",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "葡萄",
+        "wordId": 40658,
+        "optionDtos": [{
+            "wordOptionId": 86034,
+            "wordOptionDesc": "葡萄",
+            "isRight": 1,
+            "wordId": 40658
+        }],
+        "wordDesc": "（ぶどう）⓪【名】葡萄",
+        "correctDesc": "葡萄",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "随分",
+        "wordId": 40659,
+        "optionDtos": [{
+            "wordOptionId": 86035,
+            "wordOptionDesc": "相当，非常",
+            "isRight": 1,
+            "wordId": 40659
+        }],
+        "wordDesc": "（ずいぶん）①【副】相当，非常",
+        "correctDesc": "相当，非常",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "お嬢さん",
+        "wordId": 40660,
+        "optionDtos": [{
+            "wordOptionId": 86036,
+            "wordOptionDesc": "令爱；小姐",
+            "isRight": 1,
+            "wordId": 40660
+        }],
+        "wordDesc": "（おじょうさん）②【名】令爱；小姐",
+        "correctDesc": "令爱；小姐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "打ち上げる",
+        "wordId": 40661,
+        "optionDtos": [{
+            "wordOptionId": 86037,
+            "wordOptionDesc": "发射",
+            "isRight": 1,
+            "wordId": 40661
+        }],
+        "wordDesc": "（うちあげる）④【他动2】发射",
+        "correctDesc": "发射",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "電子辞書",
+        "wordId": 40662,
+        "optionDtos": [{
+            "wordOptionId": 86038,
+            "wordOptionDesc": "电子词典",
+            "isRight": 1,
+            "wordId": 40662
+        }],
+        "wordDesc": "（でんしじしょ）④【名】电子词典",
+        "correctDesc": "电子词典",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ソース",
+        "wordId": 40663,
+        "optionDtos": [{
+            "wordOptionId": 86039,
+            "wordOptionDesc": "调味汁",
+            "isRight": 1,
+            "wordId": 40663
+        }],
+        "wordDesc": "（sauce）①【名】调味汁",
+        "correctDesc": "调味汁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "茶碗",
+        "wordId": 40664,
+        "optionDtos": [{
+            "wordOptionId": 86040,
+            "wordOptionDesc": "茶杯；饭碗",
+            "isRight": 1,
+            "wordId": 40664
+        }],
+        "wordDesc": "（ちゃわん）⓪【名】茶杯；饭碗",
+        "correctDesc": "茶杯；饭碗",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "退院",
+        "wordId": 40665,
+        "optionDtos": [{
+            "wordOptionId": 86041,
+            "wordOptionDesc": "出院",
+            "isRight": 1,
+            "wordId": 40665
+        }],
+        "wordDesc": "（たいいん）⓪【名·自动3】出院",
+        "correctDesc": "出院",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "試合",
+        "wordId": 40666,
+        "optionDtos": [{
+            "wordOptionId": 86042,
+            "wordOptionDesc": "比赛",
+            "isRight": 1,
+            "wordId": 40666
+        }],
+        "wordDesc": "（しあい）⓪【名·自动3】比赛",
+        "correctDesc": "比赛",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "大通り",
+        "wordId": 40667,
+        "optionDtos": [{
+            "wordOptionId": 86043,
+            "wordOptionDesc": "大街，主路",
+            "isRight": 1,
+            "wordId": 40667
+        }],
+        "wordDesc": "（おおどおり）③【名】大街，主路",
+        "correctDesc": "大街，主路",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "堅い",
+        "wordId": 40668,
+        "optionDtos": [{
+            "wordOptionId": 86044,
+            "wordOptionDesc": "坚硬的",
+            "isRight": 1,
+            "wordId": 40668
+        }],
+        "wordDesc": "（かたい）⓪【イ形】坚硬的",
+        "correctDesc": "坚硬的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "品物",
+        "wordId": 40669,
+        "optionDtos": [{
+            "wordOptionId": 86045,
+            "wordOptionDesc": "物品，商品",
+            "isRight": 1,
+            "wordId": 40669
+        }],
+        "wordDesc": "（しなもの）⓪【名】物品，商品",
+        "correctDesc": "物品，商品",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "夕べ",
+        "wordId": 40670,
+        "optionDtos": [{
+            "wordOptionId": 86046,
+            "wordOptionDesc": "昨天晚上",
+            "isRight": 1,
+            "wordId": 40670
+        }],
+        "wordDesc": "（ゆうべ）③【名】昨天晚上",
+        "correctDesc": "昨天晚上",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "通じる",
+        "wordId": 40671,
+        "optionDtos": [{
+            "wordOptionId": 86047,
+            "wordOptionDesc": "通；精通；通过；通晓",
+            "isRight": 1,
+            "wordId": 40671
+        }],
+        "wordDesc": "（つうじる）⓪【自他动2】通；精通；通过；通晓",
+        "correctDesc": "通；精通；通过；通晓",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "成績",
+        "wordId": 40672,
+        "optionDtos": [{
+            "wordOptionId": 86048,
+            "wordOptionDesc": "成绩",
+            "isRight": 1,
+            "wordId": 40672
+        }],
+        "wordDesc": "（せいせき）⓪【名】成绩",
+        "correctDesc": "成绩",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "看護師",
+        "wordId": 40673,
+        "optionDtos": [{
+            "wordOptionId": 86049,
+            "wordOptionDesc": "护士",
+            "isRight": 1,
+            "wordId": 40673
+        }],
+        "wordDesc": "（かんごし）③【名】护士",
+        "correctDesc": "护士",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "写す",
+        "wordId": 40674,
+        "optionDtos": [{
+            "wordOptionId": 86050,
+            "wordOptionDesc": "誊，抄；拍照",
+            "isRight": 1,
+            "wordId": 40674
+        }],
+        "wordDesc": "（うつす）②【他动1】誊，抄；拍照",
+        "correctDesc": "誊，抄；拍照",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "容器",
+        "wordId": 40675,
+        "optionDtos": [{
+            "wordOptionId": 86051,
+            "wordOptionDesc": "容器",
+            "isRight": 1,
+            "wordId": 40675
+        }],
+        "wordDesc": "（ようき）①【名】容器",
+        "correctDesc": "容器",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "老人",
+        "wordId": 40676,
+        "optionDtos": [{
+            "wordOptionId": 86052,
+            "wordOptionDesc": "老年人",
+            "isRight": 1,
+            "wordId": 40676
+        }],
+        "wordDesc": "（ろうじん）⓪【名】老年人",
+        "correctDesc": "老年人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "六",
+        "wordId": 40677,
+        "optionDtos": [{
+            "wordOptionId": 86053,
+            "wordOptionDesc": "六",
+            "isRight": 1,
+            "wordId": 40677
+        }],
+        "wordDesc": "（ろく）②【数】六",
+        "correctDesc": "六",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "遺産",
+        "wordId": 40678,
+        "optionDtos": [{
+            "wordOptionId": 86054,
+            "wordOptionDesc": "遗产",
+            "isRight": 1,
+            "wordId": 40678
+        }],
+        "wordDesc": "（いさん）⓪【名】遗产",
+        "correctDesc": "遗产",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "握手",
+        "wordId": 40679,
+        "optionDtos": [{
+            "wordOptionId": 86055,
+            "wordOptionDesc": "握手；和好；妥协",
+            "isRight": 1,
+            "wordId": 40679
+        }],
+        "wordDesc": "（あくしゅ）①【名·自动3】握手；和好；妥协",
+        "correctDesc": "握手；和好；妥协",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "形",
+        "wordId": 40680,
+        "optionDtos": [{
+            "wordOptionId": 86056,
+            "wordOptionDesc": "形状，形式",
+            "isRight": 1,
+            "wordId": 40680
+        }],
+        "wordDesc": "（かたち）⓪【名】形状，形式",
+        "correctDesc": "形状，形式",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "空く",
+        "wordId": 40681,
+        "optionDtos": [{
+            "wordOptionId": 86057,
+            "wordOptionDesc": "有空隙，空旷",
+            "isRight": 1,
+            "wordId": 40681
+        }],
+        "wordDesc": "（すく）⓪【自动1】有空隙，空旷",
+        "correctDesc": "有空隙，空旷",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "湖",
+        "wordId": 40682,
+        "optionDtos": [{
+            "wordOptionId": 86058,
+            "wordOptionDesc": "湖泊",
+            "isRight": 1,
+            "wordId": 40682
+        }],
+        "wordDesc": "（みずうみ）③【名】湖泊",
+        "correctDesc": "湖泊",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "評価",
+        "wordId": 40683,
+        "optionDtos": [{
+            "wordOptionId": 86059,
+            "wordOptionDesc": "评价",
+            "isRight": 1,
+            "wordId": 40683
+        }],
+        "wordDesc": "（ひょうか）①【名·他动3】评价",
+        "correctDesc": "评价",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "時には",
+        "wordId": 40684,
+        "optionDtos": [{
+            "wordOptionId": 86060,
+            "wordOptionDesc": "有时",
+            "isRight": 1,
+            "wordId": 40684
+        }],
+        "wordDesc": "（ときには）②【副】有时",
+        "correctDesc": "有时",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "春",
+        "wordId": 40685,
+        "optionDtos": [{
+            "wordOptionId": 86061,
+            "wordOptionDesc": "春季",
+            "isRight": 1,
+            "wordId": 40685
+        }],
+        "wordDesc": "（はる）①【名】春季",
+        "correctDesc": "春季",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "居間",
+        "wordId": 40686,
+        "optionDtos": [{
+            "wordOptionId": 86062,
+            "wordOptionDesc": "起居室",
+            "isRight": 1,
+            "wordId": 40686
+        }],
+        "wordDesc": "（いま）②【名】起居室",
+        "correctDesc": "起居室",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "嗅ぐ",
+        "wordId": 40687,
+        "optionDtos": [{
+            "wordOptionId": 86063,
+            "wordOptionDesc": "闻，嗅",
+            "isRight": 1,
+            "wordId": 40687
+        }],
+        "wordDesc": "（かぐ）⓪【他动1】闻，嗅",
+        "correctDesc": "闻，嗅",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "布",
+        "wordId": 40688,
+        "optionDtos": [{
+            "wordOptionId": 86064,
+            "wordOptionDesc": "布",
+            "isRight": 1,
+            "wordId": 40688
+        }],
+        "wordDesc": "（ぬの）⓪【名】布",
+        "correctDesc": "布",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "隅",
+        "wordId": 40689,
+        "optionDtos": [{
+            "wordOptionId": 86065,
+            "wordOptionDesc": "角落",
+            "isRight": 1,
+            "wordId": 40689
+        }],
+        "wordDesc": "（すみ）①【名】角落",
+        "correctDesc": "角落",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "煙い",
+        "wordId": 40690,
+        "optionDtos": [{
+            "wordOptionId": 86066,
+            "wordOptionDesc": "呛人的，熏人的",
+            "isRight": 1,
+            "wordId": 40690
+        }],
+        "wordDesc": "（けむい）⓪【イ形】呛人的，熏人的",
+        "correctDesc": "呛人的，熏人的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "押し入れ",
+        "wordId": 40691,
+        "optionDtos": [{
+            "wordOptionId": 86067,
+            "wordOptionDesc": "壁橱",
+            "isRight": 1,
+            "wordId": 40691
+        }],
+        "wordDesc": "（おしいれ）⓪【名】壁橱",
+        "correctDesc": "壁橱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "旅館",
+        "wordId": 40692,
+        "optionDtos": [{
+            "wordOptionId": 86068,
+            "wordOptionDesc": "（日式）旅馆",
+            "isRight": 1,
+            "wordId": 40692
+        }],
+        "wordDesc": "（りょかん）⓪【名】（日式）旅馆",
+        "correctDesc": "（日式）旅馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "持ち帰る",
+        "wordId": 40693,
+        "optionDtos": [{
+            "wordOptionId": 86069,
+            "wordOptionDesc": "拿回，打包",
+            "isRight": 1,
+            "wordId": 40693
+        }],
+        "wordDesc": "（もちかえる）⓪【他动1】拿回，打包",
+        "correctDesc": "拿回，打包",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "転校",
+        "wordId": 40694,
+        "optionDtos": [{
+            "wordOptionId": 86070,
+            "wordOptionDesc": "转校",
+            "isRight": 1,
+            "wordId": 40694
+        }],
+        "wordDesc": "（てんこう）⓪【名·自动3】转校",
+        "correctDesc": "转校",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "数学",
+        "wordId": 40695,
+        "optionDtos": [{
+            "wordOptionId": 86071,
+            "wordOptionDesc": "数学",
+            "isRight": 1,
+            "wordId": 40695
+        }],
+        "wordDesc": "（すうがく）⓪【名】数学",
+        "correctDesc": "数学",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "驚く",
+        "wordId": 40696,
+        "optionDtos": [{
+            "wordOptionId": 86072,
+            "wordOptionDesc": "惊讶；惊恐",
+            "isRight": 1,
+            "wordId": 40696
+        }],
+        "wordDesc": "（おどろく）③【自动1】惊讶；惊恐",
+        "correctDesc": "惊讶；惊恐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "白菜",
+        "wordId": 40697,
+        "optionDtos": [{
+            "wordOptionId": 86073,
+            "wordOptionDesc": "白菜",
+            "isRight": 1,
+            "wordId": 40697
+        }],
+        "wordDesc": "（はくさい）③【名】白菜",
+        "correctDesc": "白菜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ミルク",
+        "wordId": 40698,
+        "optionDtos": [{
+            "wordOptionId": 86074,
+            "wordOptionDesc": "牛奶",
+            "isRight": 1,
+            "wordId": 40698
+        }],
+        "wordDesc": "（milk）①【名】牛奶",
+        "correctDesc": "牛奶",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "広がる",
+        "wordId": 40699,
+        "optionDtos": [{
+            "wordOptionId": 86075,
+            "wordOptionDesc": "扩展，蔓延",
+            "isRight": 1,
+            "wordId": 40699
+        }],
+        "wordDesc": "（ひろがる）⓪【自动1】扩展，蔓延",
+        "correctDesc": "扩展，蔓延",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "～センチ",
+        "wordId": 40700,
+        "optionDtos": [{
+            "wordOptionId": 86076,
+            "wordOptionDesc": "……厘米",
+            "isRight": 1,
+            "wordId": 40700
+        }],
+        "wordDesc": "【接尾】……厘米",
+        "correctDesc": "……厘米",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "石",
+        "wordId": 40701,
+        "optionDtos": [{
+            "wordOptionId": 86077,
+            "wordOptionDesc": "石头",
+            "isRight": 1,
+            "wordId": 40701
+        }],
+        "wordDesc": "（いし）②【名】石头",
+        "correctDesc": "石头",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "壊す",
+        "wordId": 40702,
+        "optionDtos": [{
+            "wordOptionId": 86078,
+            "wordOptionDesc": "弄坏；破坏",
+            "isRight": 1,
+            "wordId": 40702
+        }],
+        "wordDesc": "（こわす）②【他动1】弄坏；破坏",
+        "correctDesc": "弄坏；破坏",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "早退",
+        "wordId": 40703,
+        "optionDtos": [{
+            "wordOptionId": 86079,
+            "wordOptionDesc": "早退",
+            "isRight": 1,
+            "wordId": 40703
+        }],
+        "wordDesc": "（そうたい）⓪【名·自动3】早退",
+        "correctDesc": "早退",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "部品",
+        "wordId": 40704,
+        "optionDtos": [{
+            "wordOptionId": 86080,
+            "wordOptionDesc": "零件",
+            "isRight": 1,
+            "wordId": 40704
+        }],
+        "wordDesc": "（ぶひん）⓪【名】零件",
+        "correctDesc": "零件",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "物語",
+        "wordId": 40705,
+        "optionDtos": [{
+            "wordOptionId": 86081,
+            "wordOptionDesc": "故事",
+            "isRight": 1,
+            "wordId": 40705
+        }],
+        "wordDesc": "（ものがたり）③【名】故事",
+        "correctDesc": "故事",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "受ける",
+        "wordId": 40706,
+        "optionDtos": [{
+            "wordOptionId": 86082,
+            "wordOptionDesc": "接住；受到，接受",
+            "isRight": 1,
+            "wordId": 40706
+        }],
+        "wordDesc": "（うける）②【他动2】接住；受到，接受",
+        "correctDesc": "接住；受到，接受",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "人間",
+        "wordId": 40707,
+        "optionDtos": [{
+            "wordOptionId": 86083,
+            "wordOptionDesc": "人，人类",
+            "isRight": 1,
+            "wordId": 40707
+        }],
+        "wordDesc": "（にんげん）⓪【名】人，人类",
+        "correctDesc": "人，人类",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "生産",
+        "wordId": 40708,
+        "optionDtos": [{
+            "wordOptionId": 86084,
+            "wordOptionDesc": "生产",
+            "isRight": 1,
+            "wordId": 40708
+        }],
+        "wordDesc": "（せいさん）⓪【名·他动3】生产",
+        "correctDesc": "生产",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ブラシ",
+        "wordId": 40709,
+        "optionDtos": [{
+            "wordOptionId": 86085,
+            "wordOptionDesc": "刷子",
+            "isRight": 1,
+            "wordId": 40709
+        }],
+        "wordDesc": "（brush）①【名】刷子",
+        "correctDesc": "刷子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "越える",
+        "wordId": 40710,
+        "optionDtos": [{
+            "wordOptionId": 86086,
+            "wordOptionDesc": "越过(山峰等)；超越",
+            "isRight": 1,
+            "wordId": 40710
+        }],
+        "wordDesc": "（こえる）⓪【自动2】越过(山峰等)；超越",
+        "correctDesc": "越过(山峰等)；超越",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "いっぱい",
+        "wordId": 40711,
+        "optionDtos": [{
+            "wordOptionId": 86087,
+            "wordOptionDesc": "充满；全部",
+            "isRight": 1,
+            "wordId": 40711
+        }],
+        "wordDesc": "⓪【名·副】充满；全部",
+        "correctDesc": "充满；全部",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "白い",
+        "wordId": 40712,
+        "optionDtos": [{
+            "wordOptionId": 86088,
+            "wordOptionDesc": "白色的",
+            "isRight": 1,
+            "wordId": 40712
+        }],
+        "wordDesc": "（しろい）②【イ形】白色的",
+        "correctDesc": "白色的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ボーリング",
+        "wordId": 40713,
+        "optionDtos": [{
+            "wordOptionId": 86089,
+            "wordOptionDesc": "保龄球",
+            "isRight": 1,
+            "wordId": 40713
+        }],
+        "wordDesc": "（bowling）⓪【名】保龄球",
+        "correctDesc": "保龄球",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "叱る",
+        "wordId": 40714,
+        "optionDtos": [{
+            "wordOptionId": 86090,
+            "wordOptionDesc": "责备，训斥",
+            "isRight": 1,
+            "wordId": 40714
+        }],
+        "wordDesc": "（しかる）⓪【他动1】责备，训斥",
+        "correctDesc": "责备，训斥",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "小包",
+        "wordId": 40715,
+        "optionDtos": [{
+            "wordOptionId": 86091,
+            "wordOptionDesc": "包裹",
+            "isRight": 1,
+            "wordId": 40715
+        }],
+        "wordDesc": "（こづつみ）②【名】包裹",
+        "correctDesc": "包裹",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "借りる",
+        "wordId": 40716,
+        "optionDtos": [{
+            "wordOptionId": 86092,
+            "wordOptionDesc": "借入；借助",
+            "isRight": 1,
+            "wordId": 40716
+        }],
+        "wordDesc": "（かりる）⓪【他动2】借入；借助",
+        "correctDesc": "借入；借助",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ぴったり",
+        "wordId": 40717,
+        "optionDtos": [{
+            "wordOptionId": 86093,
+            "wordOptionDesc": "紧密，严实；正合适",
+            "isRight": 1,
+            "wordId": 40717
+        }],
+        "wordDesc": "③【副·自动3】紧密，严实；正合适",
+        "correctDesc": "紧密，严实；正合适",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "責任",
+        "wordId": 40718,
+        "optionDtos": [{
+            "wordOptionId": 86094,
+            "wordOptionDesc": "责任",
+            "isRight": 1,
+            "wordId": 40718
+        }],
+        "wordDesc": "（せきにん）⓪【名】责任",
+        "correctDesc": "责任",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "進出",
+        "wordId": 40719,
+        "optionDtos": [{
+            "wordOptionId": 86095,
+            "wordOptionDesc": "进入",
+            "isRight": 1,
+            "wordId": 40719
+        }],
+        "wordDesc": "（しんしゅつ）⓪【名·自动3】进入",
+        "correctDesc": "进入",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "伺う",
+        "wordId": 40720,
+        "optionDtos": [{
+            "wordOptionId": 86096,
+            "wordOptionDesc": "拜访；请教",
+            "isRight": 1,
+            "wordId": 40720
+        }],
+        "wordDesc": "（うかがう）⓪【他动1】拜访；请教",
+        "correctDesc": "拜访；请教",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "履く",
+        "wordId": 40721,
+        "optionDtos": [{
+            "wordOptionId": 86097,
+            "wordOptionDesc": "穿（鞋）",
+            "isRight": 1,
+            "wordId": 40721
+        }],
+        "wordDesc": "（はく）⓪【他动1】穿（鞋）",
+        "correctDesc": "穿（鞋）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "最初",
+        "wordId": 40722,
+        "optionDtos": [{
+            "wordOptionId": 86098,
+            "wordOptionDesc": "最初，最开始",
+            "isRight": 1,
+            "wordId": 40722
+        }],
+        "wordDesc": "（さいしょ）⓪【名】最初，最开始",
+        "correctDesc": "最初，最开始",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "引っ越す",
+        "wordId": 40723,
+        "optionDtos": [{
+            "wordOptionId": 86099,
+            "wordOptionDesc": "搬家，搬迁",
+            "isRight": 1,
+            "wordId": 40723
+        }],
+        "wordDesc": "（ひっこす）③【他动1】搬家，搬迁",
+        "correctDesc": "搬家，搬迁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "礼",
+        "wordId": 40724,
+        "optionDtos": [{
+            "wordOptionId": 86100,
+            "wordOptionDesc": "行礼；礼貌；礼物；道谢",
+            "isRight": 1,
+            "wordId": 40724
+        }],
+        "wordDesc": "（れい）①【名】行礼；礼貌；礼物；道谢",
+        "correctDesc": "行礼；礼貌；礼物；道谢",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "夜景",
+        "wordId": 40725,
+        "optionDtos": [{
+            "wordOptionId": 86101,
+            "wordOptionDesc": "夜景",
+            "isRight": 1,
+            "wordId": 40725
+        }],
+        "wordDesc": "（やけい）⓪【名】夜景",
+        "correctDesc": "夜景",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "毎年",
+        "wordId": 40726,
+        "optionDtos": [{
+            "wordOptionId": 86102,
+            "wordOptionDesc": "每年",
+            "isRight": 1,
+            "wordId": 40726
+        }],
+        "wordDesc": "（まいとし）⓪【名】每年",
+        "correctDesc": "每年",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "視野",
+        "wordId": 40727,
+        "optionDtos": [{
+            "wordOptionId": 86103,
+            "wordOptionDesc": "视野；眼界",
+            "isRight": 1,
+            "wordId": 40727
+        }],
+        "wordDesc": "（しや）①【名】视野；眼界",
+        "correctDesc": "视野；眼界",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "結果",
+        "wordId": 40728,
+        "optionDtos": [{
+            "wordOptionId": 86104,
+            "wordOptionDesc": "结果",
+            "isRight": 1,
+            "wordId": 40728
+        }],
+        "wordDesc": "（けっか）⓪【名】结果",
+        "correctDesc": "结果",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "折れる",
+        "wordId": 40729,
+        "optionDtos": [{
+            "wordOptionId": 86105,
+            "wordOptionDesc": "折，折断",
+            "isRight": 1,
+            "wordId": 40729
+        }],
+        "wordDesc": "（おれる）②【自动2】折，折断",
+        "correctDesc": "折，折断",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "リサイクル",
+        "wordId": 40730,
+        "optionDtos": [{
+            "wordOptionId": 86106,
+            "wordOptionDesc": "再利用",
+            "isRight": 1,
+            "wordId": 40730
+        }],
+        "wordDesc": "（recycle）②【名】再利用",
+        "correctDesc": "再利用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "文字",
+        "wordId": 40731,
+        "optionDtos": [{
+            "wordOptionId": 86107,
+            "wordOptionDesc": "文字",
+            "isRight": 1,
+            "wordId": 40731
+        }],
+        "wordDesc": "（もじ）①【名】文字",
+        "correctDesc": "文字",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "詩",
+        "wordId": 40732,
+        "optionDtos": [{
+            "wordOptionId": 86108,
+            "wordOptionDesc": "诗",
+            "isRight": 1,
+            "wordId": 40732
+        }],
+        "wordDesc": "（し）⓪【名】诗",
+        "correctDesc": "诗",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "大地",
+        "wordId": 40733,
+        "optionDtos": [{
+            "wordOptionId": 86109,
+            "wordOptionDesc": "大地",
+            "isRight": 1,
+            "wordId": 40733
+        }],
+        "wordDesc": "（だいち）①【名】大地",
+        "correctDesc": "大地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "以降",
+        "wordId": 40734,
+        "optionDtos": [{
+            "wordOptionId": 86110,
+            "wordOptionDesc": "以后",
+            "isRight": 1,
+            "wordId": 40734
+        }],
+        "wordDesc": "（いこう）①【名】以后",
+        "correctDesc": "以后",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "苦手",
+        "wordId": 40735,
+        "optionDtos": [{
+            "wordOptionId": 86111,
+            "wordOptionDesc": "不擅长",
+            "isRight": 1,
+            "wordId": 40735
+        }],
+        "wordDesc": "（にがて）⓪【名·ナ形】不擅长",
+        "correctDesc": "不擅长",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ビデオカメラ",
+        "wordId": 40736,
+        "optionDtos": [{
+            "wordOptionId": 86112,
+            "wordOptionDesc": "摄像机",
+            "isRight": 1,
+            "wordId": 40736
+        }],
+        "wordDesc": "（video camera）④【名】摄像机",
+        "correctDesc": "摄像机",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "冷暖房",
+        "wordId": 40737,
+        "optionDtos": [{
+            "wordOptionId": 86113,
+            "wordOptionDesc": "冷暖气设备",
+            "isRight": 1,
+            "wordId": 40737
+        }],
+        "wordDesc": "（れいだんぼう）③【名】冷暖气设备",
+        "correctDesc": "冷暖气设备",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "積もる",
+        "wordId": 40738,
+        "optionDtos": [{
+            "wordOptionId": 86114,
+            "wordOptionDesc": "堆积；积累",
+            "isRight": 1,
+            "wordId": 40738
+        }],
+        "wordDesc": "（つもる）②【自他动1】堆积；积累",
+        "correctDesc": "堆积；积累",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "住所",
+        "wordId": 40739,
+        "optionDtos": [{
+            "wordOptionId": 86115,
+            "wordOptionDesc": "住址",
+            "isRight": 1,
+            "wordId": 40739
+        }],
+        "wordDesc": "（じゅうしょ）①【名】住址",
+        "correctDesc": "住址",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "景色",
+        "wordId": 40740,
+        "optionDtos": [{
+            "wordOptionId": 86116,
+            "wordOptionDesc": "景色",
+            "isRight": 1,
+            "wordId": 40740
+        }],
+        "wordDesc": "（けしき）①【名】景色",
+        "correctDesc": "景色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "家具",
+        "wordId": 40741,
+        "optionDtos": [{
+            "wordOptionId": 86117,
+            "wordOptionDesc": "家具",
+            "isRight": 1,
+            "wordId": 40741
+        }],
+        "wordDesc": "（かぐ）①【名】家具",
+        "correctDesc": "家具",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "列",
+        "wordId": 40742,
+        "optionDtos": [{
+            "wordOptionId": 86118,
+            "wordOptionDesc": "列；队伍",
+            "isRight": 1,
+            "wordId": 40742
+        }],
+        "wordDesc": "（れつ）①【名】列；队伍",
+        "correctDesc": "列；队伍",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "髭",
+        "wordId": 40743,
+        "optionDtos": [{
+            "wordOptionId": 86119,
+            "wordOptionDesc": "胡子",
+            "isRight": 1,
+            "wordId": 40743
+        }],
+        "wordDesc": "（ひげ）⓪【名】胡子",
+        "correctDesc": "胡子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "スープ",
+        "wordId": 40744,
+        "optionDtos": [{
+            "wordOptionId": 86120,
+            "wordOptionDesc": "（西餐）汤",
+            "isRight": 1,
+            "wordId": 40744
+        }],
+        "wordDesc": "（soup）①【名】（西餐）汤",
+        "correctDesc": "（西餐）汤",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "殺人",
+        "wordId": 40745,
+        "optionDtos": [{
+            "wordOptionId": 86121,
+            "wordOptionDesc": "杀人",
+            "isRight": 1,
+            "wordId": 40745
+        }],
+        "wordDesc": "（さつじん）⓪【名】杀人",
+        "correctDesc": "杀人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "会場",
+        "wordId": 40746,
+        "optionDtos": [{
+            "wordOptionId": 86122,
+            "wordOptionDesc": "会场",
+            "isRight": 1,
+            "wordId": 40746
+        }],
+        "wordDesc": "（かいじょう）⓪【名】会场",
+        "correctDesc": "会场",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "うっかり",
+        "wordId": 40747,
+        "optionDtos": [{
+            "wordOptionId": 86123,
+            "wordOptionDesc": "不留神，不小心",
+            "isRight": 1,
+            "wordId": 40747
+        }],
+        "wordDesc": "③【副·自动3】不留神，不小心",
+        "correctDesc": "不留神，不小心",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "グラフ",
+        "wordId": 40748,
+        "optionDtos": [{
+            "wordOptionId": 86124,
+            "wordOptionDesc": "图表",
+            "isRight": 1,
+            "wordId": 40748
+        }],
+        "wordDesc": "（graph）①【名】图表",
+        "correctDesc": "图表",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "空気",
+        "wordId": 40749,
+        "optionDtos": [{
+            "wordOptionId": 86125,
+            "wordOptionDesc": "空气；气氛",
+            "isRight": 1,
+            "wordId": 40749
+        }],
+        "wordDesc": "（くうき）①【名】空气；气氛",
+        "correctDesc": "空气；气氛",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "直す",
+        "wordId": 40750,
+        "optionDtos": [{
+            "wordOptionId": 86126,
+            "wordOptionDesc": "改正；修改；修理",
+            "isRight": 1,
+            "wordId": 40750
+        }],
+        "wordDesc": "（なおす）②【他动1】改正；修改；修理",
+        "correctDesc": "改正；修改；修理",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "部下",
+        "wordId": 40751,
+        "optionDtos": [{
+            "wordOptionId": 86127,
+            "wordOptionDesc": "部下，下属",
+            "isRight": 1,
+            "wordId": 40751
+        }],
+        "wordDesc": "（ぶか）①【名】部下，下属",
+        "correctDesc": "部下，下属",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "柳",
+        "wordId": 40752,
+        "optionDtos": [{
+            "wordOptionId": 86128,
+            "wordOptionDesc": "柳树",
+            "isRight": 1,
+            "wordId": 40752
+        }],
+        "wordDesc": "（やなぎ）⓪【名】柳树",
+        "correctDesc": "柳树",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "溜める",
+        "wordId": 40753,
+        "optionDtos": [{
+            "wordOptionId": 86129,
+            "wordOptionDesc": "积，积攒；停滞",
+            "isRight": 1,
+            "wordId": 40753
+        }],
+        "wordDesc": "（ためる）⓪【他动2】积，积攒；停滞",
+        "correctDesc": "积，积攒；停滞",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "事故",
+        "wordId": 40754,
+        "optionDtos": [{
+            "wordOptionId": 86130,
+            "wordOptionDesc": "事故",
+            "isRight": 1,
+            "wordId": 40754
+        }],
+        "wordDesc": "（じこ）①【名】事故",
+        "correctDesc": "事故",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "イベント",
+        "wordId": 40755,
+        "optionDtos": [{
+            "wordOptionId": 86131,
+            "wordOptionDesc": "事件；集会，活动",
+            "isRight": 1,
+            "wordId": 40755
+        }],
+        "wordDesc": "（event）⓪【名】事件；集会，活动",
+        "correctDesc": "事件；集会，活动",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "すごい",
+        "wordId": 40756,
+        "optionDtos": [{
+            "wordOptionId": 86132,
+            "wordOptionDesc": "了不起的；厉害的",
+            "isRight": 1,
+            "wordId": 40756
+        }],
+        "wordDesc": "②【イ形】了不起的；厉害的",
+        "correctDesc": "了不起的；厉害的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "警官",
+        "wordId": 40757,
+        "optionDtos": [{
+            "wordOptionId": 86133,
+            "wordOptionDesc": "警察，警官",
+            "isRight": 1,
+            "wordId": 40757
+        }],
+        "wordDesc": "（けいかん）⓪【名】警察，警官",
+        "correctDesc": "警察，警官",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "用事",
+        "wordId": 40758,
+        "optionDtos": [{
+            "wordOptionId": 86134,
+            "wordOptionDesc": "事情",
+            "isRight": 1,
+            "wordId": 40758
+        }],
+        "wordDesc": "（ようじ）⓪【名】事情",
+        "correctDesc": "事情",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "伝える",
+        "wordId": 40759,
+        "optionDtos": [{
+            "wordOptionId": 86135,
+            "wordOptionDesc": "传达，转告；传授",
+            "isRight": 1,
+            "wordId": 40759
+        }],
+        "wordDesc": "（つたえる）⓪【他动2】传达，转告；传授",
+        "correctDesc": "传达，转告；传授",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "食器",
+        "wordId": 40760,
+        "optionDtos": [{
+            "wordOptionId": 86136,
+            "wordOptionDesc": "餐具",
+            "isRight": 1,
+            "wordId": 40760
+        }],
+        "wordDesc": "（しょっき）⓪【名】餐具",
+        "correctDesc": "餐具",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "教科書",
+        "wordId": 40761,
+        "optionDtos": [{
+            "wordOptionId": 86137,
+            "wordOptionDesc": "课本，教科书",
+            "isRight": 1,
+            "wordId": 40761
+        }],
+        "wordDesc": "（きょうかしょ）③【名】课本，教科书",
+        "correctDesc": "课本，教科书",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "飼う",
+        "wordId": 40762,
+        "optionDtos": [{
+            "wordOptionId": 86138,
+            "wordOptionDesc": "饲养",
+            "isRight": 1,
+            "wordId": 40762
+        }],
+        "wordDesc": "（かう）①【他动1】饲养",
+        "correctDesc": "饲养",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "ママ",
+        "wordId": 40763,
+        "optionDtos": [{
+            "wordOptionId": 86139,
+            "wordOptionDesc": "妈妈",
+            "isRight": 1,
+            "wordId": 40763
+        }],
+        "wordDesc": "①【名】妈妈",
+        "correctDesc": "妈妈",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "点数",
+        "wordId": 40764,
+        "optionDtos": [{
+            "wordOptionId": 86140,
+            "wordOptionDesc": "分数；件数",
+            "isRight": 1,
+            "wordId": 40764
+        }],
+        "wordDesc": "（てんすう）③【名】分数；件数",
+        "correctDesc": "分数；件数",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "まず",
+        "wordId": 40765,
+        "optionDtos": [{
+            "wordOptionId": 86141,
+            "wordOptionDesc": "首先，最初",
+            "isRight": 1,
+            "wordId": 40765
+        }],
+        "wordDesc": "①【副】首先，最初",
+        "correctDesc": "首先，最初",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "遊園地",
+        "wordId": 40766,
+        "optionDtos": [{
+            "wordOptionId": 86142,
+            "wordOptionDesc": "游乐场",
+            "isRight": 1,
+            "wordId": 40766
+        }],
+        "wordDesc": "（ゆうえんち）③【名】游乐场",
+        "correctDesc": "游乐场",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "液",
+        "wordId": 40767,
+        "optionDtos": [{
+            "wordOptionId": 86143,
+            "wordOptionDesc": "液体",
+            "isRight": 1,
+            "wordId": 40767
+        }],
+        "wordDesc": "（えき）①【名】液体",
+        "correctDesc": "液体",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "郵便局",
+        "wordId": 40768,
+        "optionDtos": [{
+            "wordOptionId": 86144,
+            "wordOptionDesc": "邮局",
+            "isRight": 1,
+            "wordId": 40768
+        }],
+        "wordDesc": "（ゆうびんきょく）③【名】邮局",
+        "correctDesc": "邮局",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "先日",
+        "wordId": 40769,
+        "optionDtos": [{
+            "wordOptionId": 86145,
+            "wordOptionDesc": "前几天",
+            "isRight": 1,
+            "wordId": 40769
+        }],
+        "wordDesc": "（せんじつ）⓪【名】前几天",
+        "correctDesc": "前几天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "昼間",
+        "wordId": 40770,
+        "optionDtos": [{
+            "wordOptionId": 86146,
+            "wordOptionDesc": "白天",
+            "isRight": 1,
+            "wordId": 40770
+        }],
+        "wordDesc": "（ひるま）③【名】白天",
+        "correctDesc": "白天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "分かれる",
+        "wordId": 40771,
+        "optionDtos": [{
+            "wordOptionId": 86147,
+            "wordOptionDesc": "分开；区分",
+            "isRight": 1,
+            "wordId": 40771
+        }],
+        "wordDesc": "（わかれる）③【自动2】分开；区分",
+        "correctDesc": "分开；区分",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "貿易",
+        "wordId": 40772,
+        "optionDtos": [{
+            "wordOptionId": 86148,
+            "wordOptionDesc": "贸易",
+            "isRight": 1,
+            "wordId": 40772
+        }],
+        "wordDesc": "（ぼうえき）⓪【名·自动3】贸易",
+        "correctDesc": "贸易",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "バレンタインデー",
+        "wordId": 40773,
+        "optionDtos": [{
+            "wordOptionId": 86149,
+            "wordOptionDesc": "情人节",
+            "isRight": 1,
+            "wordId": 40773
+        }],
+        "wordDesc": "（Valentine’s Day）⑤【名】情人节",
+        "correctDesc": "情人节",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "掏る",
+        "wordId": 40774,
+        "optionDtos": [{
+            "wordOptionId": 86150,
+            "wordOptionDesc": "偷窃",
+            "isRight": 1,
+            "wordId": 40774
+        }],
+        "wordDesc": "（する）①【他动1】偷窃",
+        "correctDesc": "偷窃",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "市民",
+        "wordId": 40775,
+        "optionDtos": [{
+            "wordOptionId": 86151,
+            "wordOptionDesc": "市民；公民",
+            "isRight": 1,
+            "wordId": 40775
+        }],
+        "wordDesc": "（しみん）①【名】市民；公民",
+        "correctDesc": "市民；公民",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "化学",
+        "wordId": 40776,
+        "optionDtos": [{
+            "wordOptionId": 86152,
+            "wordOptionDesc": "化学",
+            "isRight": 1,
+            "wordId": 40776
+        }],
+        "wordDesc": "（かがく）①【名】化学",
+        "correctDesc": "化学",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "植わる",
+        "wordId": 40777,
+        "optionDtos": [{
+            "wordOptionId": 86153,
+            "wordOptionDesc": "种植",
+            "isRight": 1,
+            "wordId": 40777
+        }],
+        "wordDesc": "（うわる）⓪【自动1】种植",
+        "correctDesc": "种植",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第七天",
+        "wordName": "妻",
+        "wordId": 40778,
+        "optionDtos": [{
+            "wordOptionId": 86154,
+            "wordOptionDesc": "妻子",
+            "isRight": 1,
+            "wordId": 40778
+        }],
+        "wordDesc": "（つま）①【名】妻子",
+        "correctDesc": "妻子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

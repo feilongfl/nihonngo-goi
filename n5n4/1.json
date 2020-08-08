@@ -1,0 +1,3805 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "アイスクリーム",
+        "wordId": 39379,
+        "optionDtos": [{
+            "wordOptionId": 84755,
+            "wordOptionDesc": "冰激凌",
+            "isRight": 1,
+            "wordId": 39379
+        }],
+        "wordDesc": "（ice cream）⑤【名】冰激凌",
+        "correctDesc": "冰激凌",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "意外",
+        "wordId": 39380,
+        "optionDtos": [{
+            "wordOptionId": 84756,
+            "wordOptionDesc": "意外；意想不到的",
+            "isRight": 1,
+            "wordId": 39380
+        }],
+        "wordDesc": "（いがい）⓪【名·ナ形】意外；意想不到的",
+        "correctDesc": "意外；意想不到的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "紙",
+        "wordId": 39381,
+        "optionDtos": [{
+            "wordOptionId": 84757,
+            "wordOptionDesc": "纸",
+            "isRight": 1,
+            "wordId": 39381
+        }],
+        "wordDesc": "（かみ）②【名】纸",
+        "correctDesc": "纸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "長い",
+        "wordId": 39382,
+        "optionDtos": [{
+            "wordOptionId": 84758,
+            "wordOptionDesc": "长的；久远的",
+            "isRight": 1,
+            "wordId": 39382
+        }],
+        "wordDesc": "（ながい）②【イ形】长的；久远的",
+        "correctDesc": "长的；久远的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ひまわり",
+        "wordId": 39383,
+        "optionDtos": [{
+            "wordOptionId": 84759,
+            "wordOptionDesc": "向日葵",
+            "isRight": 1,
+            "wordId": 39383
+        }],
+        "wordDesc": "②【名】向日葵",
+        "correctDesc": "向日葵",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "会う",
+        "wordId": 39384,
+        "optionDtos": [{
+            "wordOptionId": 84760,
+            "wordOptionDesc": "见面；遇上",
+            "isRight": 1,
+            "wordId": 39384
+        }],
+        "wordDesc": "（あう）①【自动1】见面；遇上",
+        "correctDesc": "见面；遇上",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "特別",
+        "wordId": 39385,
+        "optionDtos": [{
+            "wordOptionId": 84761,
+            "wordOptionDesc": "特别，格外",
+            "isRight": 1,
+            "wordId": 39385
+        }],
+        "wordDesc": "（とくべつ）⓪【副·ナ形】特别，格外",
+        "correctDesc": "特别，格外",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "病気",
+        "wordId": 39386,
+        "optionDtos": [{
+            "wordOptionId": 84762,
+            "wordOptionDesc": "疾病；毛病，缺点",
+            "isRight": 1,
+            "wordId": 39386
+        }],
+        "wordDesc": "（びょうき）⓪【名】疾病；毛病，缺点",
+        "correctDesc": "疾病；毛病，缺点",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "メール",
+        "wordId": 39387,
+        "optionDtos": [{
+            "wordOptionId": 84763,
+            "wordOptionDesc": "邮件",
+            "isRight": 1,
+            "wordId": 39387
+        }],
+        "wordDesc": "（mail）①【名】邮件",
+        "correctDesc": "邮件",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "青い",
+        "wordId": 39388,
+        "optionDtos": [{
+            "wordOptionId": 84764,
+            "wordOptionDesc": "蓝色的；绿色的",
+            "isRight": 1,
+            "wordId": 39388
+        }],
+        "wordDesc": "（あおい）②【イ形】蓝色的；绿色的",
+        "correctDesc": "蓝色的；绿色的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "右",
+        "wordId": 39389,
+        "optionDtos": [{
+            "wordOptionId": 84765,
+            "wordOptionDesc": "右边，右侧",
+            "isRight": 1,
+            "wordId": 39389
+        }],
+        "wordDesc": "（みぎ）⓪【名】右边，右侧",
+        "correctDesc": "右边，右侧",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "楽しい",
+        "wordId": 39390,
+        "optionDtos": [{
+            "wordOptionId": 84766,
+            "wordOptionDesc": "高兴的，快乐的",
+            "isRight": 1,
+            "wordId": 39390
+        }],
+        "wordDesc": "（たのしい）③【イ形】高兴的，快乐的",
+        "correctDesc": "高兴的，快乐的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "あまり",
+        "wordId": 39391,
+        "optionDtos": [{
+            "wordOptionId": 84767,
+            "wordOptionDesc": "（不）太，（不）怎么样；过分",
+            "isRight": 1,
+            "wordId": 39391
+        }],
+        "wordDesc": "⓪【副·ナ形】（不）太，（不）怎么样；过分",
+        "correctDesc": "（不）太，（不）怎么样；过分",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "レポート",
+        "wordId": 39392,
+        "optionDtos": [{
+            "wordOptionId": 84768,
+            "wordOptionDesc": "报告；报道",
+            "isRight": 1,
+            "wordId": 39392
+        }],
+        "wordDesc": "（report）②【名·他动3】报告；报道",
+        "correctDesc": "报告；报道",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "磨く",
+        "wordId": 39393,
+        "optionDtos": [{
+            "wordOptionId": 84769,
+            "wordOptionDesc": "磨；刷",
+            "isRight": 1,
+            "wordId": 39393
+        }],
+        "wordDesc": "（みがく）⓪【他动1】磨；刷",
+        "correctDesc": "磨；刷",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "足",
+        "wordId": 39394,
+        "optionDtos": [{
+            "wordOptionId": 84770,
+            "wordOptionDesc": "脚；腿；脚步",
+            "isRight": 1,
+            "wordId": 39394
+        }],
+        "wordDesc": "（あし）②【名】脚；腿；脚步",
+        "correctDesc": "脚；腿；脚步",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "勉強",
+        "wordId": 39395,
+        "optionDtos": [{
+            "wordOptionId": 84771,
+            "wordOptionDesc": "学习",
+            "isRight": 1,
+            "wordId": 39395
+        }],
+        "wordDesc": "（べんきょう）⓪【名·自他动3】学习",
+        "correctDesc": "学习",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "遊ぶ",
+        "wordId": 39396,
+        "optionDtos": [{
+            "wordOptionId": 84772,
+            "wordOptionDesc": "玩耍",
+            "isRight": 1,
+            "wordId": 39396
+        }],
+        "wordDesc": "（あそぶ）⓪【自动1】玩耍",
+        "correctDesc": "玩耍",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "雰囲気",
+        "wordId": 39397,
+        "optionDtos": [{
+            "wordOptionId": 84773,
+            "wordOptionDesc": "气氛，氛围",
+            "isRight": 1,
+            "wordId": 39397
+        }],
+        "wordDesc": "（ふんいき）③【名】气氛，氛围",
+        "correctDesc": "气氛，氛围",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "赤",
+        "wordId": 39398,
+        "optionDtos": [{
+            "wordOptionId": 84774,
+            "wordOptionDesc": "红色",
+            "isRight": 1,
+            "wordId": 39398
+        }],
+        "wordDesc": "（あか）①【名】红色",
+        "correctDesc": "红色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "赤い",
+        "wordId": 39399,
+        "optionDtos": [{
+            "wordOptionId": 84775,
+            "wordOptionDesc": "红色的",
+            "isRight": 1,
+            "wordId": 39399
+        }],
+        "wordDesc": "（あかい）⓪【イ形】红色的",
+        "correctDesc": "红色的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "似る",
+        "wordId": 39400,
+        "optionDtos": [{
+            "wordOptionId": 84776,
+            "wordOptionDesc": "相似，像",
+            "isRight": 1,
+            "wordId": 39400
+        }],
+        "wordDesc": "（にる）⓪【自动2】相似，像",
+        "correctDesc": "相似，像",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "スカート",
+        "wordId": 39401,
+        "optionDtos": [{
+            "wordOptionId": 84777,
+            "wordOptionDesc": "裙子",
+            "isRight": 1,
+            "wordId": 39401
+        }],
+        "wordDesc": "（skirt）②【名】裙子",
+        "correctDesc": "裙子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "年末",
+        "wordId": 39402,
+        "optionDtos": [{
+            "wordOptionId": 84778,
+            "wordOptionDesc": "年底",
+            "isRight": 1,
+            "wordId": 39402
+        }],
+        "wordDesc": "（ねんまつ）⓪【名】年底",
+        "correctDesc": "年底",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "明るい",
+        "wordId": 39403,
+        "optionDtos": [{
+            "wordOptionId": 84779,
+            "wordOptionDesc": "明亮的；开朗的",
+            "isRight": 1,
+            "wordId": 39403
+        }],
+        "wordDesc": "（あかるい）⓪【イ形】明亮的；开朗的",
+        "correctDesc": "明亮的；开朗的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "パン",
+        "wordId": 39404,
+        "optionDtos": [{
+            "wordOptionId": 84780,
+            "wordOptionDesc": "面包",
+            "isRight": 1,
+            "wordId": 39404
+        }],
+        "wordDesc": "①【名】面包",
+        "correctDesc": "面包",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "地味",
+        "wordId": 39405,
+        "optionDtos": [{
+            "wordOptionId": 84781,
+            "wordOptionDesc": "（生活）质朴；（外观）朴素；（想法）朴实",
+            "isRight": 1,
+            "wordId": 39405
+        }],
+        "wordDesc": "（じみ）②【名·ナ形】（生活）质朴；（外观）朴素；（想法）朴实",
+        "correctDesc": "（生活）质朴；（外观）朴素；（想法）朴实",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "留学",
+        "wordId": 39406,
+        "optionDtos": [{
+            "wordOptionId": 84782,
+            "wordOptionDesc": "留学",
+            "isRight": 1,
+            "wordId": 39406
+        }],
+        "wordDesc": "（りゅうがく）⓪【名·自动3】留学",
+        "correctDesc": "留学",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "アクション",
+        "wordId": 39407,
+        "optionDtos": [{
+            "wordOptionId": 84783,
+            "wordOptionDesc": "动作",
+            "isRight": 1,
+            "wordId": 39407
+        }],
+        "wordDesc": "（action）①【名】动作",
+        "correctDesc": "动作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "飛ぶ",
+        "wordId": 39408,
+        "optionDtos": [{
+            "wordOptionId": 84784,
+            "wordOptionDesc": "飞；吹走，刮跑",
+            "isRight": 1,
+            "wordId": 39408
+        }],
+        "wordDesc": "（とぶ）⓪【自动1】飞；吹走，刮跑",
+        "correctDesc": "飞；吹走，刮跑",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "忙しい",
+        "wordId": 39409,
+        "optionDtos": [{
+            "wordOptionId": 84785,
+            "wordOptionDesc": "忙碌的",
+            "isRight": 1,
+            "wordId": 39409
+        }],
+        "wordDesc": "（いそがしい）④【イ形】忙碌的",
+        "correctDesc": "忙碌的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "洗う",
+        "wordId": 39410,
+        "optionDtos": [{
+            "wordOptionId": 84786,
+            "wordOptionDesc": "洗，清洗",
+            "isRight": 1,
+            "wordId": 39410
+        }],
+        "wordDesc": "（あらう）⓪【他动1】洗，清洗",
+        "correctDesc": "洗，清洗",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "豚肉",
+        "wordId": 39411,
+        "optionDtos": [{
+            "wordOptionId": 84787,
+            "wordOptionDesc": "猪肉",
+            "isRight": 1,
+            "wordId": 39411
+        }],
+        "wordDesc": "（ぶたにく）⓪【名】猪肉",
+        "correctDesc": "猪肉",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "歩く",
+        "wordId": 39412,
+        "optionDtos": [{
+            "wordOptionId": 84788,
+            "wordOptionDesc": "走路，步行",
+            "isRight": 1,
+            "wordId": 39412
+        }],
+        "wordDesc": "（あるく）②【自动1】走路，步行",
+        "correctDesc": "走路，步行",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "秋",
+        "wordId": 39413,
+        "optionDtos": [{
+            "wordOptionId": 84789,
+            "wordOptionDesc": "秋季",
+            "isRight": 1,
+            "wordId": 39413
+        }],
+        "wordDesc": "（あき）①【名】秋季",
+        "correctDesc": "秋季",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "通る",
+        "wordId": 39414,
+        "optionDtos": [{
+            "wordOptionId": 84790,
+            "wordOptionDesc": "通过，经过",
+            "isRight": 1,
+            "wordId": 39414
+        }],
+        "wordDesc": "（とおる）①【自动1】通过，经过",
+        "correctDesc": "通过，经过",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "晩ご飯",
+        "wordId": 39415,
+        "optionDtos": [{
+            "wordOptionId": 84791,
+            "wordOptionDesc": "晚饭",
+            "isRight": 1,
+            "wordId": 39415
+        }],
+        "wordDesc": "（ばんごはん）③【名】晚饭",
+        "correctDesc": "晚饭",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "新しい",
+        "wordId": 39416,
+        "optionDtos": [{
+            "wordOptionId": 84792,
+            "wordOptionDesc": "新的；新鲜的",
+            "isRight": 1,
+            "wordId": 39416
+        }],
+        "wordDesc": "（あたらしい）④【イ形】新的；新鲜的",
+        "correctDesc": "新的；新鲜的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "無事",
+        "wordId": 39417,
+        "optionDtos": [{
+            "wordOptionId": 84793,
+            "wordOptionDesc": "安全；顺利",
+            "isRight": 1,
+            "wordId": 39417
+        }],
+        "wordDesc": "（ぶじ）⓪【名·ナ形】安全；顺利",
+        "correctDesc": "安全；顺利",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "プロジェクト",
+        "wordId": 39418,
+        "optionDtos": [{
+            "wordOptionId": 84794,
+            "wordOptionDesc": "课题，项目",
+            "isRight": 1,
+            "wordId": 39418
+        }],
+        "wordDesc": "（project）②【名】课题，项目",
+        "correctDesc": "课题，项目",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "開く",
+        "wordId": 39419,
+        "optionDtos": [{
+            "wordOptionId": 84795,
+            "wordOptionDesc": "开着；开始，（商店等）开门",
+            "isRight": 1,
+            "wordId": 39419
+        }],
+        "wordDesc": "（あく）⓪【自动1】开着；开始，（商店等）开门",
+        "correctDesc": "开着；开始，（商店等）开门",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "病院",
+        "wordId": 39420,
+        "optionDtos": [{
+            "wordOptionId": 84796,
+            "wordOptionDesc": "医院",
+            "isRight": 1,
+            "wordId": 39420
+        }],
+        "wordDesc": "（びょういん）⓪【名】医院",
+        "correctDesc": "医院",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "また",
+        "wordId": 39421,
+        "optionDtos": [{
+            "wordOptionId": 84797,
+            "wordOptionDesc": "又，再",
+            "isRight": 1,
+            "wordId": 39421
+        }],
+        "wordDesc": "⓪【副】又，再",
+        "correctDesc": "又，再",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "悪い",
+        "wordId": 39422,
+        "optionDtos": [{
+            "wordOptionId": 84798,
+            "wordOptionDesc": "坏的",
+            "isRight": 1,
+            "wordId": 39422
+        }],
+        "wordDesc": "（わるい）②【イ形】坏的",
+        "correctDesc": "坏的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "上げる",
+        "wordId": 39423,
+        "optionDtos": [{
+            "wordOptionId": 84799,
+            "wordOptionDesc": "举起；提高",
+            "isRight": 1,
+            "wordId": 39423
+        }],
+        "wordDesc": "（あげる）⓪【他动2】举起；提高",
+        "correctDesc": "举起；提高",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "机",
+        "wordId": 39424,
+        "optionDtos": [{
+            "wordOptionId": 84800,
+            "wordOptionDesc": "桌子",
+            "isRight": 1,
+            "wordId": 39424
+        }],
+        "wordDesc": "（つくえ）⓪【名】桌子",
+        "correctDesc": "桌子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "嫌",
+        "wordId": 39425,
+        "optionDtos": [{
+            "wordOptionId": 84801,
+            "wordOptionDesc": "厌烦的，反感的；不愿意的",
+            "isRight": 1,
+            "wordId": 39425
+        }],
+        "wordDesc": "（いや）②【ナ形】厌烦的，反感的；不愿意的",
+        "correctDesc": "厌烦的，反感的；不愿意的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "家賃",
+        "wordId": 39426,
+        "optionDtos": [{
+            "wordOptionId": 84802,
+            "wordOptionDesc": "房租",
+            "isRight": 1,
+            "wordId": 39426
+        }],
+        "wordDesc": "（やちん）①【名】房租",
+        "correctDesc": "房租",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "行く",
+        "wordId": 39427,
+        "optionDtos": [{
+            "wordOptionId": 84803,
+            "wordOptionDesc": "去，到",
+            "isRight": 1,
+            "wordId": 39427
+        }],
+        "wordDesc": "（いく）⓪【自动1】去，到",
+        "correctDesc": "去，到",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "意味",
+        "wordId": 39428,
+        "optionDtos": [{
+            "wordOptionId": 84804,
+            "wordOptionDesc": "意思",
+            "isRight": 1,
+            "wordId": 39428
+        }],
+        "wordDesc": "（いみ）①【名】意思",
+        "correctDesc": "意思",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "薄い",
+        "wordId": 39429,
+        "optionDtos": [{
+            "wordOptionId": 84805,
+            "wordOptionDesc": "薄的；淡的",
+            "isRight": 1,
+            "wordId": 39429
+        }],
+        "wordDesc": "（うすい）⓪【イ形】薄的；淡的",
+        "correctDesc": "薄的；淡的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "脱ぐ",
+        "wordId": 39430,
+        "optionDtos": [{
+            "wordOptionId": 84806,
+            "wordOptionDesc": "脱掉，摘掉",
+            "isRight": 1,
+            "wordId": 39430
+        }],
+        "wordDesc": "（ぬぐ）①【他动1】脱掉，摘掉",
+        "correctDesc": "脱掉，摘掉",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "牛",
+        "wordId": 39431,
+        "optionDtos": [{
+            "wordOptionId": 84807,
+            "wordOptionDesc": "牛",
+            "isRight": 1,
+            "wordId": 39431
+        }],
+        "wordDesc": "（うし）⓪【名】牛",
+        "correctDesc": "牛",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "丸い/円い",
+        "wordId": 39432,
+        "optionDtos": [{
+            "wordOptionId": 84808,
+            "wordOptionDesc": "圆的",
+            "isRight": 1,
+            "wordId": 39432
+        }],
+        "wordDesc": "（まるい）⓪【イ形】圆的",
+        "correctDesc": "圆的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "二十歳",
+        "wordId": 39433,
+        "optionDtos": [{
+            "wordOptionId": 84809,
+            "wordOptionDesc": "二十岁",
+            "isRight": 1,
+            "wordId": 39433
+        }],
+        "wordDesc": "（はたち）①【名】二十岁",
+        "correctDesc": "二十岁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "とても",
+        "wordId": 39434,
+        "optionDtos": [{
+            "wordOptionId": 84810,
+            "wordOptionDesc": "非常，很",
+            "isRight": 1,
+            "wordId": 39434
+        }],
+        "wordDesc": "⓪【副】非常，很",
+        "correctDesc": "非常，很",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "言う",
+        "wordId": 39435,
+        "optionDtos": [{
+            "wordOptionId": 84811,
+            "wordOptionDesc": "说话；告诉；叫作",
+            "isRight": 1,
+            "wordId": 39435
+        }],
+        "wordDesc": "（いう）⓪【他动1】说话；告诉；叫作",
+        "correctDesc": "说话；告诉；叫作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "料理",
+        "wordId": 39436,
+        "optionDtos": [{
+            "wordOptionId": 84812,
+            "wordOptionDesc": "菜肴；做菜",
+            "isRight": 1,
+            "wordId": 39436
+        }],
+        "wordDesc": "（りょうり）①【名·他动3】菜肴；做菜",
+        "correctDesc": "菜肴；做菜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "浴びる",
+        "wordId": 39437,
+        "optionDtos": [{
+            "wordOptionId": 84813,
+            "wordOptionDesc": "淋；沐浴",
+            "isRight": 1,
+            "wordId": 39437
+        }],
+        "wordDesc": "（あびる）⓪【他动2】淋；沐浴",
+        "correctDesc": "淋；沐浴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "豊か",
+        "wordId": 39438,
+        "optionDtos": [{
+            "wordOptionId": 84814,
+            "wordOptionDesc": "丰富的；富裕的",
+            "isRight": 1,
+            "wordId": 39438
+        }],
+        "wordDesc": "（ゆたか）①【ナ形】丰富的；富裕的",
+        "correctDesc": "丰富的；富裕的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "甘い",
+        "wordId": 39439,
+        "optionDtos": [{
+            "wordOptionId": 84815,
+            "wordOptionDesc": "（味道）甜的；（想法）乐观的",
+            "isRight": 1,
+            "wordId": 39439
+        }],
+        "wordDesc": "（あまい）⓪【イ形】（味道）甜的；（想法）乐观的",
+        "correctDesc": "（味道）甜的；（想法）乐观的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ビール",
+        "wordId": 39440,
+        "optionDtos": [{
+            "wordOptionId": 84816,
+            "wordOptionDesc": "啤酒",
+            "isRight": 1,
+            "wordId": 39440
+        }],
+        "wordDesc": "①【名】啤酒",
+        "correctDesc": "啤酒",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "生まれる",
+        "wordId": 39441,
+        "optionDtos": [{
+            "wordOptionId": 84817,
+            "wordOptionDesc": "出生，诞生；产生",
+            "isRight": 1,
+            "wordId": 39441
+        }],
+        "wordDesc": "（うまれる）⓪【自动2】出生，诞生；产生",
+        "correctDesc": "出生，诞生；产生",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "初詣",
+        "wordId": 39442,
+        "optionDtos": [{
+            "wordOptionId": 84818,
+            "wordOptionDesc": "新年首次去神社参拜",
+            "isRight": 1,
+            "wordId": 39442
+        }],
+        "wordDesc": "（はつもうで）③【名·自动3】新年首次去神社参拜",
+        "correctDesc": "新年首次去神社参拜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "デパート",
+        "wordId": 39443,
+        "optionDtos": [{
+            "wordOptionId": 84819,
+            "wordOptionDesc": "商场",
+            "isRight": 1,
+            "wordId": 39443
+        }],
+        "wordDesc": "②【名】商场",
+        "correctDesc": "商场",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "弱い",
+        "wordId": 39444,
+        "optionDtos": [{
+            "wordOptionId": 84820,
+            "wordOptionDesc": "弱的；脆弱的",
+            "isRight": 1,
+            "wordId": 39444
+        }],
+        "wordDesc": "（よわい）②【イ形】弱的；脆弱的",
+        "correctDesc": "弱的；脆弱的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "朝",
+        "wordId": 39445,
+        "optionDtos": [{
+            "wordOptionId": 84821,
+            "wordOptionDesc": "早晨",
+            "isRight": 1,
+            "wordId": 39445
+        }],
+        "wordDesc": "（あさ）①【名】早晨",
+        "correctDesc": "早晨",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "渡す",
+        "wordId": 39446,
+        "optionDtos": [{
+            "wordOptionId": 84822,
+            "wordOptionDesc": "交给，转交",
+            "isRight": 1,
+            "wordId": 39446
+        }],
+        "wordDesc": "（わたす）⓪【他动1】交给，转交",
+        "correctDesc": "交给，转交",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "嬉しい",
+        "wordId": 39447,
+        "optionDtos": [{
+            "wordOptionId": 84823,
+            "wordOptionDesc": "愉快的",
+            "isRight": 1,
+            "wordId": 39447
+        }],
+        "wordDesc": "（うれしい）③【イ形】愉快的",
+        "correctDesc": "愉快的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "緑",
+        "wordId": 39448,
+        "optionDtos": [{
+            "wordOptionId": 84824,
+            "wordOptionDesc": "绿色",
+            "isRight": 1,
+            "wordId": 39448
+        }],
+        "wordDesc": "（みどり）①【名】绿色",
+        "correctDesc": "绿色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "痛い",
+        "wordId": 39449,
+        "optionDtos": [{
+            "wordOptionId": 84825,
+            "wordOptionDesc": "疼的,痛的",
+            "isRight": 1,
+            "wordId": 39449
+        }],
+        "wordDesc": "（いたい）②【イ形】疼的,痛的",
+        "correctDesc": "疼的,痛的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "冷蔵庫",
+        "wordId": 39450,
+        "optionDtos": [{
+            "wordOptionId": 84826,
+            "wordOptionDesc": "冰箱",
+            "isRight": 1,
+            "wordId": 39450
+        }],
+        "wordDesc": "（れいぞうこ）③【名】冰箱",
+        "correctDesc": "冰箱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "美しい",
+        "wordId": 39451,
+        "optionDtos": [{
+            "wordOptionId": 84827,
+            "wordOptionDesc": "美丽的，漂亮的；美好的",
+            "isRight": 1,
+            "wordId": 39451
+        }],
+        "wordDesc": "（うつくしい）④【イ形】美丽的，漂亮的；美好的",
+        "correctDesc": "美丽的，漂亮的；美好的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "始まる",
+        "wordId": 39452,
+        "optionDtos": [{
+            "wordOptionId": 84828,
+            "wordOptionDesc": "开始",
+            "isRight": 1,
+            "wordId": 39452
+        }],
+        "wordDesc": "（はじまる）⓪【自动1】开始",
+        "correctDesc": "开始",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "あさって",
+        "wordId": 39453,
+        "optionDtos": [{
+            "wordOptionId": 84829,
+            "wordOptionDesc": "后天",
+            "isRight": 1,
+            "wordId": 39453
+        }],
+        "wordDesc": "②【名】后天",
+        "correctDesc": "后天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "売り場",
+        "wordId": 39454,
+        "optionDtos": [{
+            "wordOptionId": 84830,
+            "wordOptionDesc": "柜台，售货处",
+            "isRight": 1,
+            "wordId": 39454
+        }],
+        "wordDesc": "（うりば）⓪【名】柜台，售货处",
+        "correctDesc": "柜台，售货处",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ちょっと",
+        "wordId": 39455,
+        "optionDtos": [{
+            "wordOptionId": 84831,
+            "wordOptionDesc": "稍微，一点（儿）",
+            "isRight": 1,
+            "wordId": 39455
+        }],
+        "wordDesc": "①【副】稍微，一点（儿）",
+        "correctDesc": "稍微，一点（儿）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "隣り",
+        "wordId": 39456,
+        "optionDtos": [{
+            "wordOptionId": 84832,
+            "wordOptionDesc": "旁边；邻居",
+            "isRight": 1,
+            "wordId": 39456
+        }],
+        "wordDesc": "（となり）⓪【名】旁边；邻居",
+        "correctDesc": "旁边；邻居",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "売る",
+        "wordId": 39457,
+        "optionDtos": [{
+            "wordOptionId": 84833,
+            "wordOptionDesc": "卖，售卖",
+            "isRight": 1,
+            "wordId": 39457
+        }],
+        "wordDesc": "（うる）⓪【他动1】卖，售卖",
+        "correctDesc": "卖，售卖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "旅行",
+        "wordId": 39458,
+        "optionDtos": [{
+            "wordOptionId": 84834,
+            "wordOptionDesc": "旅行",
+            "isRight": 1,
+            "wordId": 39458
+        }],
+        "wordDesc": "（りょこう）⓪【名·自动3】旅行",
+        "correctDesc": "旅行",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "エレベーター",
+        "wordId": 39459,
+        "optionDtos": [{
+            "wordOptionId": 84835,
+            "wordOptionDesc": "升降电梯，直梯",
+            "isRight": 1,
+            "wordId": 39459
+        }],
+        "wordDesc": "（elevator）③【名】升降电梯，直梯",
+        "correctDesc": "升降电梯，直梯",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "運転",
+        "wordId": 39460,
+        "optionDtos": [{
+            "wordOptionId": 84836,
+            "wordOptionDesc": "驾驶；操纵，操控",
+            "isRight": 1,
+            "wordId": 39460
+        }],
+        "wordDesc": "（うんてん）⓪【名·自他动3】驾驶；操纵，操控",
+        "correctDesc": "驾驶；操纵，操控",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "丈夫",
+        "wordId": 39461,
+        "optionDtos": [{
+            "wordOptionId": 84837,
+            "wordOptionDesc": "（身体等）健康的；（物品等）结实的，耐用的",
+            "isRight": 1,
+            "wordId": 39461
+        }],
+        "wordDesc": "（じょうぶ）⓪【ナ形】（身体等）健康的；（物品等）结实的，耐用的",
+        "correctDesc": "（身体等）健康的；（物品等）结实的，耐用的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "インターネット",
+        "wordId": 39462,
+        "optionDtos": [{
+            "wordOptionId": 84838,
+            "wordOptionDesc": "因特网",
+            "isRight": 1,
+            "wordId": 39462
+        }],
+        "wordDesc": "（internet）⑤【名】因特网",
+        "correctDesc": "因特网",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ただし",
+        "wordId": 39463,
+        "optionDtos": [{
+            "wordOptionId": 84839,
+            "wordOptionDesc": "但是",
+            "isRight": 1,
+            "wordId": 39463
+        }],
+        "wordDesc": "①【接续】但是",
+        "correctDesc": "但是",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "上",
+        "wordId": 39464,
+        "optionDtos": [{
+            "wordOptionId": 84840,
+            "wordOptionDesc": "（方位）上；（年龄）大",
+            "isRight": 1,
+            "wordId": 39464
+        }],
+        "wordDesc": "（うえ）⓪【名】（方位）上；（年龄）大",
+        "correctDesc": "（方位）上；（年龄）大",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "華やか",
+        "wordId": 39465,
+        "optionDtos": [{
+            "wordOptionId": 84841,
+            "wordOptionDesc": "华丽的",
+            "isRight": 1,
+            "wordId": 39465
+        }],
+        "wordDesc": "（はなやか）②【ナ形】华丽的",
+        "correctDesc": "华丽的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "居酒屋",
+        "wordId": 39466,
+        "optionDtos": [{
+            "wordOptionId": 84842,
+            "wordOptionDesc": "（日式）小酒馆",
+            "isRight": 1,
+            "wordId": 39466
+        }],
+        "wordDesc": "（いざかや）⓪【名】（日式）小酒馆",
+        "correctDesc": "（日式）小酒馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "おいしい",
+        "wordId": 39467,
+        "optionDtos": [{
+            "wordOptionId": 84843,
+            "wordOptionDesc": "好吃的，美味的",
+            "isRight": 1,
+            "wordId": 39467
+        }],
+        "wordDesc": "③【イ形】好吃的，美味的",
+        "correctDesc": "好吃的，美味的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "冬",
+        "wordId": 39468,
+        "optionDtos": [{
+            "wordOptionId": 84844,
+            "wordOptionDesc": "冬季",
+            "isRight": 1,
+            "wordId": 39468
+        }],
+        "wordDesc": "（ふゆ）②【名】冬季",
+        "correctDesc": "冬季",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "売り切れ",
+        "wordId": 39469,
+        "optionDtos": [{
+            "wordOptionId": 84845,
+            "wordOptionDesc": "售罄，销售一空",
+            "isRight": 1,
+            "wordId": 39469
+        }],
+        "wordDesc": "（うりきれ）⓪【名】售罄，销售一空",
+        "correctDesc": "售罄，销售一空",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "辞書",
+        "wordId": 39470,
+        "optionDtos": [{
+            "wordOptionId": 84846,
+            "wordOptionDesc": "辞典，字典",
+            "isRight": 1,
+            "wordId": 39470
+        }],
+        "wordDesc": "（じしょ）①【名】辞典，字典",
+        "correctDesc": "辞典，字典",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "色",
+        "wordId": 39471,
+        "optionDtos": [{
+            "wordOptionId": 84847,
+            "wordOptionDesc": "颜色",
+            "isRight": 1,
+            "wordId": 39471
+        }],
+        "wordDesc": "（いろ）②【名】颜色",
+        "correctDesc": "颜色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大きい",
+        "wordId": 39472,
+        "optionDtos": [{
+            "wordOptionId": 84848,
+            "wordOptionDesc": "（规模、年龄等）大的",
+            "isRight": 1,
+            "wordId": 39472
+        }],
+        "wordDesc": "（おおきい）③【イ形】（规模、年龄等）大的",
+        "correctDesc": "（规模、年龄等）大的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "布団",
+        "wordId": 39473,
+        "optionDtos": [{
+            "wordOptionId": 84849,
+            "wordOptionDesc": "被子，褥子",
+            "isRight": 1,
+            "wordId": 39473
+        }],
+        "wordDesc": "（ふとん）⓪【名】被子，褥子",
+        "correctDesc": "被子，褥子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "乗る",
+        "wordId": 39474,
+        "optionDtos": [{
+            "wordOptionId": 84850,
+            "wordOptionDesc": "乘坐",
+            "isRight": 1,
+            "wordId": 39474
+        }],
+        "wordDesc": "（のる）⓪【自动1】乘坐",
+        "correctDesc": "乘坐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "エアコン",
+        "wordId": 39475,
+        "optionDtos": [{
+            "wordOptionId": 84851,
+            "wordOptionDesc": "空调",
+            "isRight": 1,
+            "wordId": 39475
+        }],
+        "wordDesc": "⓪【名】空调",
+        "correctDesc": "空调",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "シンプル",
+        "wordId": 39476,
+        "optionDtos": [{
+            "wordOptionId": 84852,
+            "wordOptionDesc": "简单的，单纯的；质朴的",
+            "isRight": 1,
+            "wordId": 39476
+        }],
+        "wordDesc": "（simple）①【ナ形】简单的，单纯的；质朴的",
+        "correctDesc": "简单的，单纯的；质朴的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "池",
+        "wordId": 39477,
+        "optionDtos": [{
+            "wordOptionId": 84853,
+            "wordOptionDesc": "池塘，水池",
+            "isRight": 1,
+            "wordId": 39477
+        }],
+        "wordDesc": "（いけ）②【名】池塘，水池",
+        "correctDesc": "池塘，水池",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "立つ",
+        "wordId": 39478,
+        "optionDtos": [{
+            "wordOptionId": 84854,
+            "wordOptionDesc": "站立；出发，离开",
+            "isRight": 1,
+            "wordId": 39478
+        }],
+        "wordDesc": "（たつ）①【自动1】站立；出发，离开",
+        "correctDesc": "站立；出发，离开",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "きれい",
+        "wordId": 39479,
+        "optionDtos": [{
+            "wordOptionId": 84855,
+            "wordOptionDesc": "漂亮的，美丽的；干净的",
+            "isRight": 1,
+            "wordId": 39479
+        }],
+        "wordDesc": "①【ナ形】漂亮的，美丽的；干净的",
+        "correctDesc": "漂亮的，美丽的；干净的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "今のうち",
+        "wordId": 39480,
+        "optionDtos": [{
+            "wordOptionId": 84856,
+            "wordOptionDesc": "现在；马上，立刻",
+            "isRight": 1,
+            "wordId": 39480
+        }],
+        "wordDesc": "（いまのうち）⓪【名】现在；马上，立刻",
+        "correctDesc": "现在；马上，立刻",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "後ろ",
+        "wordId": 39481,
+        "optionDtos": [{
+            "wordOptionId": 84857,
+            "wordOptionDesc": "（空间）后面",
+            "isRight": 1,
+            "wordId": 39481
+        }],
+        "wordDesc": "（うしろ）⓪【名】（空间）后面",
+        "correctDesc": "（空间）后面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "どうして",
+        "wordId": 39482,
+        "optionDtos": [{
+            "wordOptionId": 84858,
+            "wordOptionDesc": "为什么",
+            "isRight": 1,
+            "wordId": 39482
+        }],
+        "wordDesc": "①【副】为什么",
+        "correctDesc": "为什么",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "打ち合わせ",
+        "wordId": 39483,
+        "optionDtos": [{
+            "wordOptionId": 84859,
+            "wordOptionDesc": "事先商量，碰头商议",
+            "isRight": 1,
+            "wordId": 39483
+        }],
+        "wordDesc": "（うちあわせ）⓪【名】事先商量，碰头商议",
+        "correctDesc": "事先商量，碰头商议",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "事",
+        "wordId": 39484,
+        "optionDtos": [{
+            "wordOptionId": 84860,
+            "wordOptionDesc": "事情",
+            "isRight": 1,
+            "wordId": 39484
+        }],
+        "wordDesc": "（こと）②【名】事情",
+        "correctDesc": "事情",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "映画",
+        "wordId": 39485,
+        "optionDtos": [{
+            "wordOptionId": 84861,
+            "wordOptionDesc": "电影",
+            "isRight": 1,
+            "wordId": 39485
+        }],
+        "wordDesc": "（えいが）①【名】电影",
+        "correctDesc": "电影",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "上手",
+        "wordId": 39486,
+        "optionDtos": [{
+            "wordOptionId": 84862,
+            "wordOptionDesc": "擅长，拿手",
+            "isRight": 1,
+            "wordId": 39486
+        }],
+        "wordDesc": "（じょうず）③【名·ナ形】擅长，拿手",
+        "correctDesc": "擅长，拿手",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "うるさい",
+        "wordId": 39487,
+        "optionDtos": [{
+            "wordOptionId": 84863,
+            "wordOptionDesc": "吵闹的；厌烦的；爱唠叨的",
+            "isRight": 1,
+            "wordId": 39487
+        }],
+        "wordDesc": "③【イ形】吵闹的；厌烦的；爱唠叨的",
+        "correctDesc": "吵闹的；厌烦的；爱唠叨的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "吸う",
+        "wordId": 39488,
+        "optionDtos": [{
+            "wordOptionId": 84864,
+            "wordOptionDesc": "吸，吸入",
+            "isRight": 1,
+            "wordId": 39488
+        }],
+        "wordDesc": "（すう）⓪【他动1】吸，吸入",
+        "correctDesc": "吸，吸入",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "医者",
+        "wordId": 39489,
+        "optionDtos": [{
+            "wordOptionId": 84865,
+            "wordOptionDesc": "医生",
+            "isRight": 1,
+            "wordId": 39489
+        }],
+        "wordDesc": "（いしゃ）⓪【名】医生",
+        "correctDesc": "医生",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "小さい",
+        "wordId": 39490,
+        "optionDtos": [{
+            "wordOptionId": 84866,
+            "wordOptionDesc": "（规模、年龄等）小的",
+            "isRight": 1,
+            "wordId": 39490
+        }],
+        "wordDesc": "（ちいさい）③【イ形】（规模、年龄等）小的",
+        "correctDesc": "（规模、年龄等）小的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "運動",
+        "wordId": 39491,
+        "optionDtos": [{
+            "wordOptionId": 84867,
+            "wordOptionDesc": "运动",
+            "isRight": 1,
+            "wordId": 39491
+        }],
+        "wordDesc": "（うんどう）⓪【名·自动3】运动",
+        "correctDesc": "运动",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "更に",
+        "wordId": 39492,
+        "optionDtos": [{
+            "wordOptionId": 84868,
+            "wordOptionDesc": "更加；并且",
+            "isRight": 1,
+            "wordId": 39492
+        }],
+        "wordDesc": "（さらに）①【副】更加；并且",
+        "correctDesc": "更加；并且",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "妹",
+        "wordId": 39493,
+        "optionDtos": [{
+            "wordOptionId": 84869,
+            "wordOptionDesc": "妹妹",
+            "isRight": 1,
+            "wordId": 39493
+        }],
+        "wordDesc": "（いもうと）④【名】妹妹",
+        "correctDesc": "妹妹",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "止まる",
+        "wordId": 39494,
+        "optionDtos": [{
+            "wordOptionId": 84870,
+            "wordOptionDesc": "停止，停下来",
+            "isRight": 1,
+            "wordId": 39494
+        }],
+        "wordDesc": "（とまる）⓪【自动1】停止，停下来",
+        "correctDesc": "停止，停下来",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ケーキ",
+        "wordId": 39495,
+        "optionDtos": [{
+            "wordOptionId": 84871,
+            "wordOptionDesc": "蛋糕",
+            "isRight": 1,
+            "wordId": 39495
+        }],
+        "wordDesc": "（cake）①【名】蛋糕",
+        "correctDesc": "蛋糕",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "遠足",
+        "wordId": 39496,
+        "optionDtos": [{
+            "wordOptionId": 84872,
+            "wordOptionDesc": "远足，徒步旅行；郊游",
+            "isRight": 1,
+            "wordId": 39496
+        }],
+        "wordDesc": "（えんそく）⓪【名·自动3】远足，徒步旅行；郊游",
+        "correctDesc": "远足，徒步旅行；郊游",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "狭い",
+        "wordId": 39497,
+        "optionDtos": [{
+            "wordOptionId": 84873,
+            "wordOptionDesc": "狭窄的；狭隘的",
+            "isRight": 1,
+            "wordId": 39497
+        }],
+        "wordDesc": "（せまい）②【イ形】狭窄的；狭隘的",
+        "correctDesc": "狭窄的；狭隘的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大晦日",
+        "wordId": 39498,
+        "optionDtos": [{
+            "wordOptionId": 84874,
+            "wordOptionDesc": "除夕",
+            "isRight": 1,
+            "wordId": 39498
+        }],
+        "wordDesc": "（おおみそか）③【名】除夕",
+        "correctDesc": "除夕",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大変",
+        "wordId": 39499,
+        "optionDtos": [{
+            "wordOptionId": 84875,
+            "wordOptionDesc": "重大的，不容易的；非常",
+            "isRight": 1,
+            "wordId": 39499
+        }],
+        "wordDesc": "（たいへん）⓪【ナ形·副】重大的，不容易的；非常",
+        "correctDesc": "重大的，不容易的；非常",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "枕",
+        "wordId": 39500,
+        "optionDtos": [{
+            "wordOptionId": 84876,
+            "wordOptionDesc": "枕头",
+            "isRight": 1,
+            "wordId": 39500
+        }],
+        "wordDesc": "（まくら）①【名】枕头",
+        "correctDesc": "枕头",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "出す",
+        "wordId": 39501,
+        "optionDtos": [{
+            "wordOptionId": 84877,
+            "wordOptionDesc": "拿出；伸出；提出",
+            "isRight": 1,
+            "wordId": 39501
+        }],
+        "wordDesc": "（だす）①【他动1】拿出；伸出；提出",
+        "correctDesc": "拿出；伸出；提出",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "以前",
+        "wordId": 39502,
+        "optionDtos": [{
+            "wordOptionId": 84878,
+            "wordOptionDesc": "以前，之前",
+            "isRight": 1,
+            "wordId": 39502
+        }],
+        "wordDesc": "（いぜん）①【名】以前，之前",
+        "correctDesc": "以前，之前",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "覚える",
+        "wordId": 39503,
+        "optionDtos": [{
+            "wordOptionId": 84879,
+            "wordOptionDesc": "记住；学会，掌握",
+            "isRight": 1,
+            "wordId": 39503
+        }],
+        "wordDesc": "（おぼえる）③【他动2】记住；学会，掌握",
+        "correctDesc": "记住；学会，掌握",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "たくさん",
+        "wordId": 39504,
+        "optionDtos": [{
+            "wordOptionId": 84880,
+            "wordOptionDesc": "很多",
+            "isRight": 1,
+            "wordId": 39504
+        }],
+        "wordDesc": "③【名·副】很多",
+        "correctDesc": "很多",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "鉛筆",
+        "wordId": 39505,
+        "optionDtos": [{
+            "wordOptionId": 84881,
+            "wordOptionDesc": "铅笔",
+            "isRight": 1,
+            "wordId": 39505
+        }],
+        "wordDesc": "（えんぴつ）⓪【名】铅笔",
+        "correctDesc": "铅笔",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "頃",
+        "wordId": 39506,
+        "optionDtos": [{
+            "wordOptionId": 84882,
+            "wordOptionDesc": "时候，时期",
+            "isRight": 1,
+            "wordId": 39506
+        }],
+        "wordDesc": "（ころ）①【名】时候，时期",
+        "correctDesc": "时候，时期",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "来月",
+        "wordId": 39507,
+        "optionDtos": [{
+            "wordOptionId": 84883,
+            "wordOptionDesc": "下个月",
+            "isRight": 1,
+            "wordId": 39507
+        }],
+        "wordDesc": "（らいげつ）①【名】下个月",
+        "correctDesc": "下个月",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "朗らか",
+        "wordId": 39508,
+        "optionDtos": [{
+            "wordOptionId": 84884,
+            "wordOptionDesc": "开朗的，爽快的",
+            "isRight": 1,
+            "wordId": 39508
+        }],
+        "wordDesc": "（ほがらか）②【ナ形】开朗的，爽快的",
+        "correctDesc": "开朗的，爽快的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "内",
+        "wordId": 39509,
+        "optionDtos": [{
+            "wordOptionId": 84885,
+            "wordOptionDesc": "里面",
+            "isRight": 1,
+            "wordId": 39509
+        }],
+        "wordDesc": "（うち）⓪【名】里面",
+        "correctDesc": "里面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "先週",
+        "wordId": 39510,
+        "optionDtos": [{
+            "wordOptionId": 84886,
+            "wordOptionDesc": "上个星期",
+            "isRight": 1,
+            "wordId": 39510
+        }],
+        "wordDesc": "（せんしゅう）⓪【名】上个星期",
+        "correctDesc": "上个星期",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "疲れる",
+        "wordId": 39511,
+        "optionDtos": [{
+            "wordOptionId": 84887,
+            "wordOptionDesc": "疲倦，累",
+            "isRight": 1,
+            "wordId": 39511
+        }],
+        "wordDesc": "（つかれる）③【自动2】疲倦，累",
+        "correctDesc": "疲倦，累",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大勢",
+        "wordId": 39512,
+        "optionDtos": [{
+            "wordOptionId": 84888,
+            "wordOptionDesc": "众多（人）",
+            "isRight": 1,
+            "wordId": 39512
+        }],
+        "wordDesc": "（おおぜい）③【名·副】众多（人）",
+        "correctDesc": "众多（人）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "返す",
+        "wordId": 39513,
+        "optionDtos": [{
+            "wordOptionId": 84889,
+            "wordOptionDesc": "归还；送回",
+            "isRight": 1,
+            "wordId": 39513
+        }],
+        "wordDesc": "（かえす）①【他动1】归还；送回",
+        "correctDesc": "归还；送回",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "多い",
+        "wordId": 39514,
+        "optionDtos": [{
+            "wordOptionId": 84890,
+            "wordOptionDesc": "多的",
+            "isRight": 1,
+            "wordId": 39514
+        }],
+        "wordDesc": "（おおい）①【イ形】多的",
+        "correctDesc": "多的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "手",
+        "wordId": 39515,
+        "optionDtos": [{
+            "wordOptionId": 84891,
+            "wordOptionDesc": "手；手腕",
+            "isRight": 1,
+            "wordId": 39515
+        }],
+        "wordDesc": "（て）①【名】手；手腕",
+        "correctDesc": "手；手腕",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "飲む",
+        "wordId": 39516,
+        "optionDtos": [{
+            "wordOptionId": 84892,
+            "wordOptionDesc": "喝",
+            "isRight": 1,
+            "wordId": 39516
+        }],
+        "wordDesc": "（のむ）①【他动１】喝",
+        "correctDesc": "喝",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大切",
+        "wordId": 39517,
+        "optionDtos": [{
+            "wordOptionId": 84893,
+            "wordOptionDesc": "重要的，贵重的；珍惜的",
+            "isRight": 1,
+            "wordId": 39517
+        }],
+        "wordDesc": "（たいせつ）⓪【ナ形】重要的，贵重的；珍惜的",
+        "correctDesc": "重要的，贵重的；珍惜的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "一緒",
+        "wordId": 39518,
+        "optionDtos": [{
+            "wordOptionId": 84894,
+            "wordOptionDesc": "一起，一同",
+            "isRight": 1,
+            "wordId": 39518
+        }],
+        "wordDesc": "（いっしょ）⓪【名·ナ形】一起，一同",
+        "correctDesc": "一起，一同",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "押す",
+        "wordId": 39519,
+        "optionDtos": [{
+            "wordOptionId": 84895,
+            "wordOptionDesc": "压，按；推",
+            "isRight": 1,
+            "wordId": 39519
+        }],
+        "wordDesc": "（おす）⓪【他动1】压，按；推",
+        "correctDesc": "压，按；推",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "タオル",
+        "wordId": 39520,
+        "optionDtos": [{
+            "wordOptionId": 84896,
+            "wordOptionDesc": "毛巾",
+            "isRight": 1,
+            "wordId": 39520
+        }],
+        "wordDesc": "（towel）①【名】毛巾",
+        "correctDesc": "毛巾",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "帰る",
+        "wordId": 39521,
+        "optionDtos": [{
+            "wordOptionId": 84897,
+            "wordOptionDesc": "回来,回去",
+            "isRight": 1,
+            "wordId": 39521
+        }],
+        "wordDesc": "（かえる）①【自动1】回来,回去",
+        "correctDesc": "回来,回去",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "上着",
+        "wordId": 39522,
+        "optionDtos": [{
+            "wordOptionId": 84898,
+            "wordOptionDesc": "外套，上衣",
+            "isRight": 1,
+            "wordId": 39522
+        }],
+        "wordDesc": "（うわぎ）⓪【名】外套，上衣",
+        "correctDesc": "外套，上衣",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "しかし",
+        "wordId": 39523,
+        "optionDtos": [{
+            "wordOptionId": 84899,
+            "wordOptionDesc": "可是，不过",
+            "isRight": 1,
+            "wordId": 39523
+        }],
+        "wordDesc": "②【接续】可是，不过",
+        "correctDesc": "可是，不过",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "黄色",
+        "wordId": 39524,
+        "optionDtos": [{
+            "wordOptionId": 84900,
+            "wordOptionDesc": "黄色",
+            "isRight": 1,
+            "wordId": 39524
+        }],
+        "wordDesc": "（きいろ）⓪【名】黄色",
+        "correctDesc": "黄色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "起きる",
+        "wordId": 39525,
+        "optionDtos": [{
+            "wordOptionId": 84901,
+            "wordOptionDesc": "起床，起身",
+            "isRight": 1,
+            "wordId": 39525
+        }],
+        "wordDesc": "（おきる）②【自动2】起床，起身",
+        "correctDesc": "起床，起身",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "中学校",
+        "wordId": 39526,
+        "optionDtos": [{
+            "wordOptionId": 84902,
+            "wordOptionDesc": "中学，初中",
+            "isRight": 1,
+            "wordId": 39526
+        }],
+        "wordDesc": "（ちゅうがっこう）③【名】中学，初中",
+        "correctDesc": "中学，初中",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "スケート",
+        "wordId": 39527,
+        "optionDtos": [{
+            "wordOptionId": 84903,
+            "wordOptionDesc": "滑冰",
+            "isRight": 1,
+            "wordId": 39527
+        }],
+        "wordDesc": "（skate）⓪【名·自动3】滑冰",
+        "correctDesc": "滑冰",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "重い",
+        "wordId": 39528,
+        "optionDtos": [{
+            "wordOptionId": 84904,
+            "wordOptionDesc": "（物品）重的；（心情）沉重的；（程度）严重的",
+            "isRight": 1,
+            "wordId": 39528
+        }],
+        "wordDesc": "（おもい）⓪【イ形】（物品）重的；（心情）沉重的；（程度）严重的",
+        "correctDesc": "（物品）重的；（心情）沉重的；（程度）严重的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "スニーカー",
+        "wordId": 39529,
+        "optionDtos": [{
+            "wordOptionId": 84905,
+            "wordOptionDesc": "运动鞋",
+            "isRight": 1,
+            "wordId": 39529
+        }],
+        "wordDesc": "（sneaker）⓪【名】运动鞋",
+        "correctDesc": "运动鞋",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "教える",
+        "wordId": 39530,
+        "optionDtos": [{
+            "wordOptionId": 84906,
+            "wordOptionDesc": "教，教导；告诉",
+            "isRight": 1,
+            "wordId": 39530
+        }],
+        "wordDesc": "（おしえる）⓪【他动2】教，教导；告诉",
+        "correctDesc": "教，教导；告诉",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "町",
+        "wordId": 39531,
+        "optionDtos": [{
+            "wordOptionId": 84907,
+            "wordOptionDesc": "城镇；地区",
+            "isRight": 1,
+            "wordId": 39531
+        }],
+        "wordDesc": "（まち）②【名】城镇；地区",
+        "correctDesc": "城镇；地区",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "掛かる",
+        "wordId": 39532,
+        "optionDtos": [{
+            "wordOptionId": 84908,
+            "wordOptionDesc": "悬挂；花费",
+            "isRight": 1,
+            "wordId": 39532
+        }],
+        "wordDesc": "（かかる）②【自动1】悬挂；花费",
+        "correctDesc": "悬挂；花费",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "英語",
+        "wordId": 39533,
+        "optionDtos": [{
+            "wordOptionId": 84909,
+            "wordOptionDesc": "英语",
+            "isRight": 1,
+            "wordId": 39533
+        }],
+        "wordDesc": "（えいご）⓪【名】英语",
+        "correctDesc": "英语",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "差す",
+        "wordId": 39534,
+        "optionDtos": [{
+            "wordOptionId": 84910,
+            "wordOptionDesc": "照射；撑着，打着",
+            "isRight": 1,
+            "wordId": 39534
+        }],
+        "wordDesc": "（さす）①【自他动1】照射；撑着，打着",
+        "correctDesc": "照射；撑着，打着",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "大人",
+        "wordId": 39535,
+        "optionDtos": [{
+            "wordOptionId": 84911,
+            "wordOptionDesc": "成年人，大人",
+            "isRight": 1,
+            "wordId": 39535
+        }],
+        "wordDesc": "（おとな）⓪【名】成年人，大人",
+        "correctDesc": "成年人，大人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "展示",
+        "wordId": 39536,
+        "optionDtos": [{
+            "wordOptionId": 84912,
+            "wordOptionDesc": "展示，展览",
+            "isRight": 1,
+            "wordId": 39536
+        }],
+        "wordDesc": "（てんじ）⓪【名·他动3】展示，展览",
+        "correctDesc": "展示，展览",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "遅い",
+        "wordId": 39537,
+        "optionDtos": [{
+            "wordOptionId": 84913,
+            "wordOptionDesc": "（速度）慢的；（时间）晚的",
+            "isRight": 1,
+            "wordId": 39537
+        }],
+        "wordDesc": "（おそい）⓪【イ形】（速度）慢的；（时间）晚的",
+        "correctDesc": "（速度）慢的；（时间）晚的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "顔",
+        "wordId": 39538,
+        "optionDtos": [{
+            "wordOptionId": 84914,
+            "wordOptionDesc": "脸；表情；脸面",
+            "isRight": 1,
+            "wordId": 39538
+        }],
+        "wordDesc": "（かお）⓪【名】脸；表情；脸面",
+        "correctDesc": "脸；表情；脸面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "出かける",
+        "wordId": 39539,
+        "optionDtos": [{
+            "wordOptionId": 84915,
+            "wordOptionDesc": "出发，出门",
+            "isRight": 1,
+            "wordId": 39539
+        }],
+        "wordDesc": "（でかける）⓪【自动2】出发，出门",
+        "correctDesc": "出发，出门",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "絵",
+        "wordId": 39540,
+        "optionDtos": [{
+            "wordOptionId": 84916,
+            "wordOptionDesc": "画，图画",
+            "isRight": 1,
+            "wordId": 39540
+        }],
+        "wordDesc": "（え）①【名】画，图画",
+        "correctDesc": "画，图画",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "それから",
+        "wordId": 39541,
+        "optionDtos": [{
+            "wordOptionId": 84917,
+            "wordOptionDesc": "然后；还有",
+            "isRight": 1,
+            "wordId": 39541
+        }],
+        "wordDesc": "⓪【接续】然后；还有",
+        "correctDesc": "然后；还有",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "泳ぐ",
+        "wordId": 39542,
+        "optionDtos": [{
+            "wordOptionId": 84918,
+            "wordOptionDesc": "游泳",
+            "isRight": 1,
+            "wordId": 39542
+        }],
+        "wordDesc": "（およぐ）②【自动1】游泳",
+        "correctDesc": "游泳",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "肉",
+        "wordId": 39543,
+        "optionDtos": [{
+            "wordOptionId": 84919,
+            "wordOptionDesc": "肉，肉类",
+            "isRight": 1,
+            "wordId": 39543
+        }],
+        "wordDesc": "（にく）②【名】肉，肉类",
+        "correctDesc": "肉，肉类",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "面白い",
+        "wordId": 39544,
+        "optionDtos": [{
+            "wordOptionId": 84920,
+            "wordOptionDesc": "有趣的；愉快的，高兴的",
+            "isRight": 1,
+            "wordId": 39544
+        }],
+        "wordDesc": "（おもしろい）④【イ形】有趣的；愉快的，高兴的",
+        "correctDesc": "有趣的；愉快的，高兴的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "背",
+        "wordId": 39545,
+        "optionDtos": [{
+            "wordOptionId": 84921,
+            "wordOptionDesc": "后背；身高",
+            "isRight": 1,
+            "wordId": 39545
+        }],
+        "wordDesc": "（せ）①【名】后背；身高",
+        "correctDesc": "后背；身高",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "期間",
+        "wordId": 39546,
+        "optionDtos": [{
+            "wordOptionId": 84922,
+            "wordOptionDesc": "期间，时间段",
+            "isRight": 1,
+            "wordId": 39546
+        }],
+        "wordDesc": "（きかん）①【名】期间，时间段",
+        "correctDesc": "期间，时间段",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "思う",
+        "wordId": 39547,
+        "optionDtos": [{
+            "wordOptionId": 84923,
+            "wordOptionDesc": "想，思考；觉得；思念",
+            "isRight": 1,
+            "wordId": 39547
+        }],
+        "wordDesc": "（おもう）②【他动1】想，思考；觉得；思念",
+        "correctDesc": "想，思考；觉得；思念",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "知らせ",
+        "wordId": 39548,
+        "optionDtos": [{
+            "wordOptionId": 84924,
+            "wordOptionDesc": "通知，告知",
+            "isRight": 1,
+            "wordId": 39548
+        }],
+        "wordDesc": "（しらせ）⓪【名】通知，告知",
+        "correctDesc": "通知，告知",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "皆さん",
+        "wordId": 39549,
+        "optionDtos": [{
+            "wordOptionId": 84925,
+            "wordOptionDesc": "大家",
+            "isRight": 1,
+            "wordId": 39549
+        }],
+        "wordDesc": "（みなさん）②【名】大家",
+        "correctDesc": "大家",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "好き",
+        "wordId": 39550,
+        "optionDtos": [{
+            "wordOptionId": 84926,
+            "wordOptionDesc": "喜欢的",
+            "isRight": 1,
+            "wordId": 39550
+        }],
+        "wordDesc": "（すき）②【ナ形】喜欢的",
+        "correctDesc": "喜欢的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "駅",
+        "wordId": 39551,
+        "optionDtos": [{
+            "wordOptionId": 84927,
+            "wordOptionDesc": "车站",
+            "isRight": 1,
+            "wordId": 39551
+        }],
+        "wordDesc": "（えき）①【名】车站",
+        "correctDesc": "车站",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "それでは",
+        "wordId": 39552,
+        "optionDtos": [{
+            "wordOptionId": 84928,
+            "wordOptionDesc": "那么",
+            "isRight": 1,
+            "wordId": 39552
+        }],
+        "wordDesc": "③【接续】那么",
+        "correctDesc": "那么",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "会社",
+        "wordId": 39553,
+        "optionDtos": [{
+            "wordOptionId": 84929,
+            "wordOptionDesc": "公司",
+            "isRight": 1,
+            "wordId": 39553
+        }],
+        "wordDesc": "（かいしゃ）⓪【名】公司",
+        "correctDesc": "公司",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "影",
+        "wordId": 39554,
+        "optionDtos": [{
+            "wordOptionId": 84930,
+            "wordOptionDesc": "影子",
+            "isRight": 1,
+            "wordId": 39554
+        }],
+        "wordDesc": "（かげ）①【名】影子",
+        "correctDesc": "影子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "天気",
+        "wordId": 39555,
+        "optionDtos": [{
+            "wordOptionId": 84931,
+            "wordOptionDesc": "天气",
+            "isRight": 1,
+            "wordId": 39555
+        }],
+        "wordDesc": "（てんき）①【名】天气",
+        "correctDesc": "天气",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "会話",
+        "wordId": 39556,
+        "optionDtos": [{
+            "wordOptionId": 84932,
+            "wordOptionDesc": "会话；交流",
+            "isRight": 1,
+            "wordId": 39556
+        }],
+        "wordDesc": "（かいわ）⓪【名·自动3】会话；交流",
+        "correctDesc": "会话；交流",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "高い",
+        "wordId": 39557,
+        "optionDtos": [{
+            "wordOptionId": 84933,
+            "wordOptionDesc": "（高度、地位等）高的；（价格）贵的",
+            "isRight": 1,
+            "wordId": 39557
+        }],
+        "wordDesc": "（たかい）②【イ形】（高度、地位等）高的；（价格）贵的",
+        "correctDesc": "（高度、地位等）高的；（价格）贵的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "書留",
+        "wordId": 39558,
+        "optionDtos": [{
+            "wordOptionId": 84934,
+            "wordOptionDesc": "挂号（信）",
+            "isRight": 1,
+            "wordId": 39558
+        }],
+        "wordDesc": "（かきとめ）⓪【名】挂号（信）",
+        "correctDesc": "挂号（信）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "終わる",
+        "wordId": 39559,
+        "optionDtos": [{
+            "wordOptionId": 84935,
+            "wordOptionDesc": "完毕，结束；做完，完结",
+            "isRight": 1,
+            "wordId": 39559
+        }],
+        "wordDesc": "（おわる）⓪【自他动1】完毕，结束；做完，完结",
+        "correctDesc": "完毕，结束；做完，完结",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "雛祭り",
+        "wordId": 39560,
+        "optionDtos": [{
+            "wordOptionId": 84936,
+            "wordOptionDesc": "女儿节",
+            "isRight": 1,
+            "wordId": 39560
+        }],
+        "wordDesc": "（ひなまつり）③【名】女儿节",
+        "correctDesc": "女儿节",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "音楽",
+        "wordId": 39561,
+        "optionDtos": [{
+            "wordOptionId": 84937,
+            "wordOptionDesc": "音乐",
+            "isRight": 1,
+            "wordId": 39561
+        }],
+        "wordDesc": "（おんがく）①【名】音乐",
+        "correctDesc": "音乐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "お宅",
+        "wordId": 39562,
+        "optionDtos": [{
+            "wordOptionId": 84938,
+            "wordOptionDesc": "（您）府上；宅在家里",
+            "isRight": 1,
+            "wordId": 39562
+        }],
+        "wordDesc": "（おたく）⓪【名】（您）府上；宅在家里",
+        "correctDesc": "（您）府上；宅在家里",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "入り口",
+        "wordId": 39563,
+        "optionDtos": [{
+            "wordOptionId": 84939,
+            "wordOptionDesc": "入口",
+            "isRight": 1,
+            "wordId": 39563
+        }],
+        "wordDesc": "（いりぐち）⓪【名】入口",
+        "correctDesc": "入口",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "感謝",
+        "wordId": 39564,
+        "optionDtos": [{
+            "wordOptionId": 84940,
+            "wordOptionDesc": "感谢",
+            "isRight": 1,
+            "wordId": 39564
+        }],
+        "wordDesc": "（かんしゃ）①【名·自他动3】感谢",
+        "correctDesc": "感谢",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "つまらない",
+        "wordId": 39565,
+        "optionDtos": [{
+            "wordOptionId": 84941,
+            "wordOptionDesc": "无聊的，没意思的",
+            "isRight": 1,
+            "wordId": 39565
+        }],
+        "wordDesc": "③【イ形】无聊的，没意思的",
+        "correctDesc": "无聊的，没意思的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "公園",
+        "wordId": 39566,
+        "optionDtos": [{
+            "wordOptionId": 84942,
+            "wordOptionDesc": "公园",
+            "isRight": 1,
+            "wordId": 39566
+        }],
+        "wordDesc": "（こうえん）⓪【名】公园",
+        "correctDesc": "公园",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "知る",
+        "wordId": 39567,
+        "optionDtos": [{
+            "wordOptionId": 84943,
+            "wordOptionDesc": "知道，懂得；认识",
+            "isRight": 1,
+            "wordId": 39567
+        }],
+        "wordDesc": "（しる）⓪【他动1】知道，懂得；认识",
+        "correctDesc": "知道，懂得；认识",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "鍵",
+        "wordId": 39568,
+        "optionDtos": [{
+            "wordOptionId": 84944,
+            "wordOptionDesc": "钥匙",
+            "isRight": 1,
+            "wordId": 39568
+        }],
+        "wordDesc": "（かぎ）②【名】钥匙",
+        "correctDesc": "钥匙",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "物価",
+        "wordId": 39569,
+        "optionDtos": [{
+            "wordOptionId": 84945,
+            "wordOptionDesc": "物价",
+            "isRight": 1,
+            "wordId": 39569
+        }],
+        "wordDesc": "（ぶっか）⓪【名】物价",
+        "correctDesc": "物价",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "同じ",
+        "wordId": 39570,
+        "optionDtos": [{
+            "wordOptionId": 84946,
+            "wordOptionDesc": "相同，同样",
+            "isRight": 1,
+            "wordId": 39570
+        }],
+        "wordDesc": "（おなじ）⓪【连体】相同，同样",
+        "correctDesc": "相同，同样",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "ナイフ",
+        "wordId": 39571,
+        "optionDtos": [{
+            "wordOptionId": 84947,
+            "wordOptionDesc": "小刀，餐刀",
+            "isRight": 1,
+            "wordId": 39571
+        }],
+        "wordDesc": "（knife）①【名】小刀，餐刀",
+        "correctDesc": "小刀，餐刀",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "置く",
+        "wordId": 39572,
+        "optionDtos": [{
+            "wordOptionId": 84948,
+            "wordOptionDesc": "放置，放；留下",
+            "isRight": 1,
+            "wordId": 39572
+        }],
+        "wordDesc": "（おく）⓪【自他动1】放置，放；留下",
+        "correctDesc": "放置，放；留下",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "冬休み",
+        "wordId": 39573,
+        "optionDtos": [{
+            "wordOptionId": 84949,
+            "wordOptionDesc": "寒假",
+            "isRight": 1,
+            "wordId": 39573
+        }],
+        "wordDesc": "（ふゆやすみ）③【名】寒假",
+        "correctDesc": "寒假",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "撮影",
+        "wordId": 39574,
+        "optionDtos": [{
+            "wordOptionId": 84950,
+            "wordOptionDesc": "拍照，摄影",
+            "isRight": 1,
+            "wordId": 39574
+        }],
+        "wordDesc": "（さつえい）⓪【名·他动3】拍照，摄影",
+        "correctDesc": "拍照，摄影",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "為",
+        "wordId": 39575,
+        "optionDtos": [{
+            "wordOptionId": 84951,
+            "wordOptionDesc": "为了；因为",
+            "isRight": 1,
+            "wordId": 39575
+        }],
+        "wordDesc": "（ため）②【名】为了；因为",
+        "correctDesc": "为了；因为",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "待つ",
+        "wordId": 39576,
+        "optionDtos": [{
+            "wordOptionId": 84952,
+            "wordOptionDesc": "等，等待",
+            "isRight": 1,
+            "wordId": 39576
+        }],
+        "wordDesc": "（まつ）①【他动1】等，等待",
+        "correctDesc": "等，等待",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "コーラ",
+        "wordId": 39577,
+        "optionDtos": [{
+            "wordOptionId": 84953,
+            "wordOptionDesc": "可乐",
+            "isRight": 1,
+            "wordId": 39577
+        }],
+        "wordDesc": "（cola）①【名】可乐",
+        "correctDesc": "可乐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第一天",
+        "wordName": "喫茶店",
+        "wordId": 39578,
+        "optionDtos": [{
+            "wordOptionId": 84954,
+            "wordOptionDesc": "咖啡馆，茶馆",
+            "isRight": 1,
+            "wordId": 39578
+        }],
+        "wordDesc": "（きっさてん）⓪【名】咖啡馆，茶馆",
+        "correctDesc": "咖啡馆，茶馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

@@ -1,0 +1,3805 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "一家",
+        "wordId": 47255,
+        "optionDtos": [{
+            "wordOptionId": 98501,
+            "wordOptionDesc": "一家，一户；一家人",
+            "isRight": 1,
+            "wordId": 47255
+        }],
+        "wordDesc": "（いっか）①【名】一家，一户；一家人",
+        "correctDesc": "一家，一户；一家人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "米国",
+        "wordId": 47256,
+        "optionDtos": [{
+            "wordOptionId": 98502,
+            "wordOptionDesc": "美国",
+            "isRight": 1,
+            "wordId": 47256
+        }],
+        "wordDesc": "（べいこく）⓪【名】美国",
+        "correctDesc": "美国",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "画面",
+        "wordId": 47257,
+        "optionDtos": [{
+            "wordOptionId": 98503,
+            "wordOptionDesc": "画面",
+            "isRight": 1,
+            "wordId": 47257
+        }],
+        "wordDesc": "（がめん）①【名】画面",
+        "correctDesc": "画面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "猿",
+        "wordId": 47258,
+        "optionDtos": [{
+            "wordOptionId": 98504,
+            "wordOptionDesc": "猴子",
+            "isRight": 1,
+            "wordId": 47258
+        }],
+        "wordDesc": "（さる）①【名】猴子",
+        "correctDesc": "猴子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "充電",
+        "wordId": 47259,
+        "optionDtos": [{
+            "wordOptionId": 98505,
+            "wordOptionDesc": "充电",
+            "isRight": 1,
+            "wordId": 47259
+        }],
+        "wordDesc": "（じゅうでん）⓪【名·自动3】充电",
+        "correctDesc": "充电",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "とうとう",
+        "wordId": 47260,
+        "optionDtos": [{
+            "wordOptionId": 98506,
+            "wordOptionDesc": "终于，终究",
+            "isRight": 1,
+            "wordId": 47260
+        }],
+        "wordDesc": "①【副】终于，终究",
+        "correctDesc": "终于，终究",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "乗り過ごす",
+        "wordId": 47261,
+        "optionDtos": [{
+            "wordOptionId": 98507,
+            "wordOptionDesc": "坐过站",
+            "isRight": 1,
+            "wordId": 47261
+        }],
+        "wordDesc": "（のりすごす）④【自动1】坐过站",
+        "correctDesc": "坐过站",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "入れ物",
+        "wordId": 47262,
+        "optionDtos": [{
+            "wordOptionId": 98508,
+            "wordOptionDesc": "容器，器皿",
+            "isRight": 1,
+            "wordId": 47262
+        }],
+        "wordDesc": "（いれもの）⓪【名】容器，器皿",
+        "correctDesc": "容器，器皿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "拝啓",
+        "wordId": 47263,
+        "optionDtos": [{
+            "wordOptionId": 98509,
+            "wordOptionDesc": "（书信）敬启",
+            "isRight": 1,
+            "wordId": 47263
+        }],
+        "wordDesc": "（はいけい）①【名】（书信）敬启",
+        "correctDesc": "（书信）敬启",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "袖",
+        "wordId": 47264,
+        "optionDtos": [{
+            "wordOptionId": 98510,
+            "wordOptionDesc": "袖子",
+            "isRight": 1,
+            "wordId": 47264
+        }],
+        "wordDesc": "（そで）⓪【名】袖子",
+        "correctDesc": "袖子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "忘年会",
+        "wordId": 47265,
+        "optionDtos": [{
+            "wordOptionId": 98511,
+            "wordOptionDesc": "年终联欢会",
+            "isRight": 1,
+            "wordId": 47265
+        }],
+        "wordDesc": "（ぼうねんかい）③【名】年终联欢会",
+        "correctDesc": "年终联欢会",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "長方形",
+        "wordId": 47266,
+        "optionDtos": [{
+            "wordOptionId": 98512,
+            "wordOptionDesc": "长方形",
+            "isRight": 1,
+            "wordId": 47266
+        }],
+        "wordDesc": "（ちょうほうけい）③【名】长方形",
+        "correctDesc": "长方形",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "先ほど",
+        "wordId": 47267,
+        "optionDtos": [{
+            "wordOptionId": 98513,
+            "wordOptionDesc": "刚才，方才",
+            "isRight": 1,
+            "wordId": 47267
+        }],
+        "wordDesc": "（さきほど）⓪【副】刚才，方才",
+        "correctDesc": "刚才，方才",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ウール",
+        "wordId": 47268,
+        "optionDtos": [{
+            "wordOptionId": 98514,
+            "wordOptionDesc": "羊毛，毛织品",
+            "isRight": 1,
+            "wordId": 47268
+        }],
+        "wordDesc": "（wool）①【名】羊毛，毛织品",
+        "correctDesc": "羊毛，毛织品",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "支える",
+        "wordId": 47269,
+        "optionDtos": [{
+            "wordOptionId": 98515,
+            "wordOptionDesc": "支，支撑；维持",
+            "isRight": 1,
+            "wordId": 47269
+        }],
+        "wordDesc": "（ささえる）⓪【他动2】支，支撑；维持",
+        "correctDesc": "支，支撑；维持",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "傾向",
+        "wordId": 47270,
+        "optionDtos": [{
+            "wordOptionId": 98516,
+            "wordOptionDesc": "倾向，趋势",
+            "isRight": 1,
+            "wordId": 47270
+        }],
+        "wordDesc": "（けいこう）⓪【名】倾向，趋势",
+        "correctDesc": "倾向，趋势",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "高まる",
+        "wordId": 47271,
+        "optionDtos": [{
+            "wordOptionId": 98517,
+            "wordOptionDesc": "高涨，提高",
+            "isRight": 1,
+            "wordId": 47271
+        }],
+        "wordDesc": "（たかまる）③【自动1】高涨，提高",
+        "correctDesc": "高涨，提高",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "高める",
+        "wordId": 47272,
+        "optionDtos": [{
+            "wordOptionId": 98518,
+            "wordOptionDesc": "提高",
+            "isRight": 1,
+            "wordId": 47272
+        }],
+        "wordDesc": "（たかめる）③【他动2】提高",
+        "correctDesc": "提高",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "聴講",
+        "wordId": 47273,
+        "optionDtos": [{
+            "wordOptionId": 98519,
+            "wordOptionDesc": "听课；旁听",
+            "isRight": 1,
+            "wordId": 47273
+        }],
+        "wordDesc": "（ちょうこう）⓪【名·他动3】听课；旁听",
+        "correctDesc": "听课；旁听",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "明日",
+        "wordId": 47274,
+        "optionDtos": [{
+            "wordOptionId": 98520,
+            "wordOptionDesc": "明天",
+            "isRight": 1,
+            "wordId": 47274
+        }],
+        "wordDesc": "（あす）⓪【名】明天",
+        "correctDesc": "明天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "売り手",
+        "wordId": 47275,
+        "optionDtos": [{
+            "wordOptionId": 98521,
+            "wordOptionDesc": "卖方",
+            "isRight": 1,
+            "wordId": 47275
+        }],
+        "wordDesc": "（うりて）⓪【名】卖方",
+        "correctDesc": "卖方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "積む",
+        "wordId": 47276,
+        "optionDtos": [{
+            "wordOptionId": 98522,
+            "wordOptionDesc": "堆积；装载；积累",
+            "isRight": 1,
+            "wordId": 47276
+        }],
+        "wordDesc": "（つむ）⓪【自他动1】堆积；装载；积累",
+        "correctDesc": "堆积；装载；积累",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "常識",
+        "wordId": 47277,
+        "optionDtos": [{
+            "wordOptionId": 98523,
+            "wordOptionDesc": "常识",
+            "isRight": 1,
+            "wordId": 47277
+        }],
+        "wordDesc": "（じょうしき）⓪【名】常识",
+        "correctDesc": "常识",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "停車",
+        "wordId": 47278,
+        "optionDtos": [{
+            "wordOptionId": 98524,
+            "wordOptionDesc": "停车",
+            "isRight": 1,
+            "wordId": 47278
+        }],
+        "wordDesc": "（ていしゃ）⓪【名·自动3】停车",
+        "correctDesc": "停车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "何事",
+        "wordId": 47279,
+        "optionDtos": [{
+            "wordOptionId": 98525,
+            "wordOptionDesc": "什么事情；怎么回事",
+            "isRight": 1,
+            "wordId": 47279
+        }],
+        "wordDesc": "（なにごと）⓪【名】什么事情；怎么回事",
+        "correctDesc": "什么事情；怎么回事",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実感",
+        "wordId": 47280,
+        "optionDtos": [{
+            "wordOptionId": 98526,
+            "wordOptionDesc": "真实体会，体会到",
+            "isRight": 1,
+            "wordId": 47280
+        }],
+        "wordDesc": "（じっかん）⓪【名·他动3】真实体会，体会到",
+        "correctDesc": "真实体会，体会到",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実現",
+        "wordId": 47281,
+        "optionDtos": [{
+            "wordOptionId": 98527,
+            "wordOptionDesc": "实现",
+            "isRight": 1,
+            "wordId": 47281
+        }],
+        "wordDesc": "（じつげん）⓪【名·自他动3】实现",
+        "correctDesc": "实现",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実行",
+        "wordId": 47282,
+        "optionDtos": [{
+            "wordOptionId": 98528,
+            "wordOptionDesc": "实行，执行",
+            "isRight": 1,
+            "wordId": 47282
+        }],
+        "wordDesc": "（じっこう）⓪【名·他动3】实行，执行",
+        "correctDesc": "实行，执行",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実習",
+        "wordId": 47283,
+        "optionDtos": [{
+            "wordOptionId": 98529,
+            "wordOptionDesc": "实习，见习",
+            "isRight": 1,
+            "wordId": 47283
+        }],
+        "wordDesc": "（じっしゅう）⓪【名·他动3】实习，见习",
+        "correctDesc": "实习，见习",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実生活",
+        "wordId": 47284,
+        "optionDtos": [{
+            "wordOptionId": 98530,
+            "wordOptionDesc": "实际生活",
+            "isRight": 1,
+            "wordId": 47284
+        }],
+        "wordDesc": "（じっせいかつ）③【名】实际生活",
+        "correctDesc": "实际生活",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実社会",
+        "wordId": 47285,
+        "optionDtos": [{
+            "wordOptionId": 98531,
+            "wordOptionDesc": "现实社会",
+            "isRight": 1,
+            "wordId": 47285
+        }],
+        "wordDesc": "（じっしゃかい）③【名】现实社会",
+        "correctDesc": "现实社会",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "末っ子",
+        "wordId": 47286,
+        "optionDtos": [{
+            "wordOptionId": 98532,
+            "wordOptionDesc": "最小的孩子",
+            "isRight": 1,
+            "wordId": 47286
+        }],
+        "wordDesc": "（すえっこ）⓪【名】最小的孩子",
+        "correctDesc": "最小的孩子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "前期",
+        "wordId": 47287,
+        "optionDtos": [{
+            "wordOptionId": 98533,
+            "wordOptionDesc": "初期",
+            "isRight": 1,
+            "wordId": 47287
+        }],
+        "wordDesc": "（ぜんき）①【名】初期",
+        "correctDesc": "初期",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "連れる",
+        "wordId": 47288,
+        "optionDtos": [{
+            "wordOptionId": 98534,
+            "wordOptionDesc": "带，领",
+            "isRight": 1,
+            "wordId": 47288
+        }],
+        "wordDesc": "（つれる）⓪【他动2】带，领",
+        "correctDesc": "带，领",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "得意先",
+        "wordId": 47289,
+        "optionDtos": [{
+            "wordOptionId": 98535,
+            "wordOptionDesc": "主顾，客户",
+            "isRight": 1,
+            "wordId": 47289
+        }],
+        "wordDesc": "（とくいさき）⓪【名】主顾，客户",
+        "correctDesc": "主顾，客户",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "マーケット",
+        "wordId": 47290,
+        "optionDtos": [{
+            "wordOptionId": 98536,
+            "wordOptionDesc": "商场；（经济学）市场",
+            "isRight": 1,
+            "wordId": 47290
+        }],
+        "wordDesc": "（market）①【名】商场；（经济学）市场",
+        "correctDesc": "商场；（经济学）市场",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ベランダ",
+        "wordId": 47291,
+        "optionDtos": [{
+            "wordOptionId": 98537,
+            "wordOptionDesc": "阳台",
+            "isRight": 1,
+            "wordId": 47291
+        }],
+        "wordDesc": "（veranda）⓪【名】阳台",
+        "correctDesc": "阳台",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "結ぶ",
+        "wordId": 47292,
+        "optionDtos": [{
+            "wordOptionId": 98538,
+            "wordOptionDesc": "系，绑；缔结，建立关系",
+            "isRight": 1,
+            "wordId": 47292
+        }],
+        "wordDesc": "（むすぶ）⓪【他动1】系，绑；缔结，建立关系",
+        "correctDesc": "系，绑；缔结，建立关系",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ボーイ",
+        "wordId": 47293,
+        "optionDtos": [{
+            "wordOptionId": 98539,
+            "wordOptionDesc": "男孩；男服务员",
+            "isRight": 1,
+            "wordId": 47293
+        }],
+        "wordDesc": "（boy）⓪【名】男孩；男服务员",
+        "correctDesc": "男孩；男服务员",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "崩れる",
+        "wordId": 47294,
+        "optionDtos": [{
+            "wordOptionId": 98540,
+            "wordOptionDesc": "坍塌；走样；被打垮；换成零钱",
+            "isRight": 1,
+            "wordId": 47294
+        }],
+        "wordDesc": "（くずれる）③【自动2】坍塌；走样；被打垮；换成零钱",
+        "correctDesc": "坍塌；走样；被打垮；换成零钱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "崩す",
+        "wordId": 47295,
+        "optionDtos": [{
+            "wordOptionId": 98541,
+            "wordOptionDesc": "拆毁；打乱，搅乱；换成零钱",
+            "isRight": 1,
+            "wordId": 47295
+        }],
+        "wordDesc": "（くずす）②【他动1】拆毁；打乱，搅乱；换成零钱",
+        "correctDesc": "拆毁；打乱，搅乱；换成零钱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "解ける",
+        "wordId": 47296,
+        "optionDtos": [{
+            "wordOptionId": 98542,
+            "wordOptionDesc": "解开；消（气）；解除",
+            "isRight": 1,
+            "wordId": 47296
+        }],
+        "wordDesc": "（とける）②【自动2】解开；消（气）；解除",
+        "correctDesc": "解开；消（气）；解除",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "省く",
+        "wordId": 47297,
+        "optionDtos": [{
+            "wordOptionId": 98543,
+            "wordOptionDesc": "省，节省；省略",
+            "isRight": 1,
+            "wordId": 47297
+        }],
+        "wordDesc": "（はぶく）②【他动1】省，节省；省略",
+        "correctDesc": "省，节省；省略",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ファッション",
+        "wordId": 47298,
+        "optionDtos": [{
+            "wordOptionId": 98544,
+            "wordOptionDesc": "流行，时尚",
+            "isRight": 1,
+            "wordId": 47298
+        }],
+        "wordDesc": "（fashion）①【名】流行，时尚",
+        "correctDesc": "流行，时尚",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "別々",
+        "wordId": 47299,
+        "optionDtos": [{
+            "wordOptionId": 98545,
+            "wordOptionDesc": "分别，各自",
+            "isRight": 1,
+            "wordId": 47299
+        }],
+        "wordDesc": "（べつべつ）⓪【名·ナ形】分别，各自",
+        "correctDesc": "分别，各自",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "検査",
+        "wordId": 47300,
+        "optionDtos": [{
+            "wordOptionId": 98546,
+            "wordOptionDesc": "检查，检验",
+            "isRight": 1,
+            "wordId": 47300
+        }],
+        "wordDesc": "（けんさ）①【名·他动3】检查，检验",
+        "correctDesc": "检查，检验",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "謙譲",
+        "wordId": 47301,
+        "optionDtos": [{
+            "wordOptionId": 98547,
+            "wordOptionDesc": "谦让，谦逊",
+            "isRight": 1,
+            "wordId": 47301
+        }],
+        "wordDesc": "（けんじょう）⓪【名·ナ形】谦让，谦逊",
+        "correctDesc": "谦让，谦逊",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "指導",
+        "wordId": 47302,
+        "optionDtos": [{
+            "wordOptionId": 98548,
+            "wordOptionDesc": "指导，教导",
+            "isRight": 1,
+            "wordId": 47302
+        }],
+        "wordDesc": "（しどう）⓪【名·他动3】指导，教导",
+        "correctDesc": "指导，教导",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "確かめる",
+        "wordId": 47303,
+        "optionDtos": [{
+            "wordOptionId": 98549,
+            "wordOptionDesc": "弄清，查明",
+            "isRight": 1,
+            "wordId": 47303
+        }],
+        "wordDesc": "（たしかめる）④【他动2】弄清，查明",
+        "correctDesc": "弄清，查明",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "出鱈目",
+        "wordId": 47304,
+        "optionDtos": [{
+            "wordOptionId": 98550,
+            "wordOptionDesc": "胡来，荒唐",
+            "isRight": 1,
+            "wordId": 47304
+        }],
+        "wordDesc": "（でたらめ）⓪【名·ナ形】胡来，荒唐",
+        "correctDesc": "胡来，荒唐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "被害",
+        "wordId": 47305,
+        "optionDtos": [{
+            "wordOptionId": 98551,
+            "wordOptionDesc": "受害，受灾；损失",
+            "isRight": 1,
+            "wordId": 47305
+        }],
+        "wordDesc": "（ひがい）①【名】受害，受灾；损失",
+        "correctDesc": "受害，受灾；损失",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ホーム",
+        "wordId": 47306,
+        "optionDtos": [{
+            "wordOptionId": 98552,
+            "wordOptionDesc": "家，家庭；疗养院",
+            "isRight": 1,
+            "wordId": 47306
+        }],
+        "wordDesc": "（home）①【名】家，家庭；疗养院",
+        "correctDesc": "家，家庭；疗养院",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ばらばら",
+        "wordId": 47307,
+        "optionDtos": [{
+            "wordOptionId": 98553,
+            "wordOptionDesc": "分散，零乱",
+            "isRight": 1,
+            "wordId": 47307
+        }],
+        "wordDesc": "⓪【副】分散，零乱",
+        "correctDesc": "分散，零乱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "公害",
+        "wordId": 47308,
+        "optionDtos": [{
+            "wordOptionId": 98554,
+            "wordOptionDesc": "公害",
+            "isRight": 1,
+            "wordId": 47308
+        }],
+        "wordDesc": "（こうがい）⓪【名】公害",
+        "correctDesc": "公害",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "欠席",
+        "wordId": 47309,
+        "optionDtos": [{
+            "wordOptionId": 98555,
+            "wordOptionDesc": "缺席",
+            "isRight": 1,
+            "wordId": 47309
+        }],
+        "wordDesc": "（けっせき）⓪【名·自动3】缺席",
+        "correctDesc": "缺席",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "速達",
+        "wordId": 47310,
+        "optionDtos": [{
+            "wordOptionId": 98556,
+            "wordOptionDesc": "快件；快信",
+            "isRight": 1,
+            "wordId": 47310
+        }],
+        "wordDesc": "（そくたつ）⓪【名】快件；快信",
+        "correctDesc": "快件；快信",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "パート",
+        "wordId": 47311,
+        "optionDtos": [{
+            "wordOptionId": 98557,
+            "wordOptionDesc": "部分；打零工",
+            "isRight": 1,
+            "wordId": 47311
+        }],
+        "wordDesc": "①【名】部分；打零工",
+        "correctDesc": "部分；打零工",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ステーション",
+        "wordId": 47312,
+        "optionDtos": [{
+            "wordOptionId": 98558,
+            "wordOptionDesc": "车站，火车站",
+            "isRight": 1,
+            "wordId": 47312
+        }],
+        "wordDesc": "（station）②【名】车站，火车站",
+        "correctDesc": "车站，火车站",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "しゃべる",
+        "wordId": 47313,
+        "optionDtos": [{
+            "wordOptionId": 98559,
+            "wordOptionDesc": "说，讲；喋喋不休",
+            "isRight": 1,
+            "wordId": 47313
+        }],
+        "wordDesc": "②【他动1】说，讲；喋喋不休",
+        "correctDesc": "说，讲；喋喋不休",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "仕送り",
+        "wordId": 47314,
+        "optionDtos": [{
+            "wordOptionId": 98560,
+            "wordOptionDesc": "汇寄（生活费）",
+            "isRight": 1,
+            "wordId": 47314
+        }],
+        "wordDesc": "（しおくり）⓪【名·自他动3】汇寄（生活费）",
+        "correctDesc": "汇寄（生活费）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "坊ちゃん",
+        "wordId": 47315,
+        "optionDtos": [{
+            "wordOptionId": 98561,
+            "wordOptionDesc": "小弟弟，小朋友；大少爷，公子哥",
+            "isRight": 1,
+            "wordId": 47315
+        }],
+        "wordDesc": "（ぼっちゃん）①【名】小弟弟，小朋友；大少爷，公子哥",
+        "correctDesc": "小弟弟，小朋友；大少爷，公子哥",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "登場",
+        "wordId": 47316,
+        "optionDtos": [{
+            "wordOptionId": 98562,
+            "wordOptionDesc": "登场，出场",
+            "isRight": 1,
+            "wordId": 47316
+        }],
+        "wordDesc": "（とうじょう）⓪【名·自动3】登场，出场",
+        "correctDesc": "登场，出场",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "年賀状",
+        "wordId": 47317,
+        "optionDtos": [{
+            "wordOptionId": 98563,
+            "wordOptionDesc": "贺年卡",
+            "isRight": 1,
+            "wordId": 47317
+        }],
+        "wordDesc": "（ねんがじょう）③【名】贺年卡",
+        "correctDesc": "贺年卡",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "引き算",
+        "wordId": 47318,
+        "optionDtos": [{
+            "wordOptionId": 98564,
+            "wordOptionDesc": "（数学）减法",
+            "isRight": 1,
+            "wordId": 47318
+        }],
+        "wordDesc": "（ひきざん）②【名】（数学）减法",
+        "correctDesc": "（数学）减法",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "拭く",
+        "wordId": 47319,
+        "optionDtos": [{
+            "wordOptionId": 98565,
+            "wordOptionDesc": "擦，拭",
+            "isRight": 1,
+            "wordId": 47319
+        }],
+        "wordDesc": "（ふく）⓪【他动1】擦，拭",
+        "correctDesc": "擦，拭",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "間に合う",
+        "wordId": 47320,
+        "optionDtos": [{
+            "wordOptionId": 98566,
+            "wordOptionDesc": "赶得上，来得及；够用",
+            "isRight": 1,
+            "wordId": 47320
+        }],
+        "wordDesc": "（まにあう）③【自动1】赶得上，来得及；够用",
+        "correctDesc": "赶得上，来得及；够用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "剥く",
+        "wordId": 47321,
+        "optionDtos": [{
+            "wordOptionId": 98567,
+            "wordOptionDesc": "剥，削皮",
+            "isRight": 1,
+            "wordId": 47321
+        }],
+        "wordDesc": "（むく）⓪【他动1】剥，削皮",
+        "correctDesc": "剥，削皮",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "処理",
+        "wordId": 47322,
+        "optionDtos": [{
+            "wordOptionId": 98568,
+            "wordOptionDesc": "处理，处置",
+            "isRight": 1,
+            "wordId": 47322
+        }],
+        "wordDesc": "（しょり）①【名·他动3】处理，处置",
+        "correctDesc": "处理，处置",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "手術",
+        "wordId": 47323,
+        "optionDtos": [{
+            "wordOptionId": 98569,
+            "wordOptionDesc": "手术",
+            "isRight": 1,
+            "wordId": 47323
+        }],
+        "wordDesc": "（しゅじゅつ）①【名】手术",
+        "correctDesc": "手术",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "頬",
+        "wordId": 47324,
+        "optionDtos": [{
+            "wordOptionId": 98570,
+            "wordOptionDesc": "脸颊",
+            "isRight": 1,
+            "wordId": 47324
+        }],
+        "wordDesc": "（ほほ/ほお）①【名】脸颊",
+        "correctDesc": "脸颊",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "欠点",
+        "wordId": 47325,
+        "optionDtos": [{
+            "wordOptionId": 98571,
+            "wordOptionDesc": "缺点",
+            "isRight": 1,
+            "wordId": 47325
+        }],
+        "wordDesc": "（けってん）③【名】缺点",
+        "correctDesc": "缺点",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "携帯電話",
+        "wordId": 47326,
+        "optionDtos": [{
+            "wordOptionId": 98572,
+            "wordOptionDesc": "手机",
+            "isRight": 1,
+            "wordId": 47326
+        }],
+        "wordDesc": "（けいたいでんわ）⑤【名】手机",
+        "correctDesc": "手机",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "繰り返す",
+        "wordId": 47327,
+        "optionDtos": [{
+            "wordOptionId": 98573,
+            "wordOptionDesc": "反复，重复",
+            "isRight": 1,
+            "wordId": 47327
+        }],
+        "wordDesc": "（くりかえす）③【他动1】反复，重复",
+        "correctDesc": "反复，重复",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "網戸",
+        "wordId": 47328,
+        "optionDtos": [{
+            "wordOptionId": 98574,
+            "wordOptionDesc": "纱窗，纱门",
+            "isRight": 1,
+            "wordId": 47328
+        }],
+        "wordDesc": "（あみど）②【名】纱窗，纱门",
+        "correctDesc": "纱窗，纱门",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "包む",
+        "wordId": 47329,
+        "optionDtos": [{
+            "wordOptionId": 98575,
+            "wordOptionDesc": "包，裹",
+            "isRight": 1,
+            "wordId": 47329
+        }],
+        "wordDesc": "（くるむ）②【他动1】包，裹",
+        "correctDesc": "包，裹",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "進んで",
+        "wordId": 47330,
+        "optionDtos": [{
+            "wordOptionId": 98576,
+            "wordOptionDesc": "主动地，积极地",
+            "isRight": 1,
+            "wordId": 47330
+        }],
+        "wordDesc": "（すすんで）④【副】主动地，积极地",
+        "correctDesc": "主动地，积极地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "パチンコ",
+        "wordId": 47331,
+        "optionDtos": [{
+            "wordOptionId": 98577,
+            "wordOptionDesc": "弹珠游戏",
+            "isRight": 1,
+            "wordId": 47331
+        }],
+        "wordDesc": "⓪【名】弹珠游戏",
+        "correctDesc": "弹珠游戏",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "見頃",
+        "wordId": 47332,
+        "optionDtos": [{
+            "wordOptionId": 98578,
+            "wordOptionDesc": "（景色）正好看的时候",
+            "isRight": 1,
+            "wordId": 47332
+        }],
+        "wordDesc": "（みごろ）⓪【名】（景色）正好看的时候",
+        "correctDesc": "（景色）正好看的时候",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "縫う",
+        "wordId": 47333,
+        "optionDtos": [{
+            "wordOptionId": 98579,
+            "wordOptionDesc": "缝；缝合；刺绣",
+            "isRight": 1,
+            "wordId": 47333
+        }],
+        "wordDesc": "（ぬう）①【他动1】缝；缝合；刺绣",
+        "correctDesc": "缝；缝合；刺绣",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "罰金",
+        "wordId": 47334,
+        "optionDtos": [{
+            "wordOptionId": 98580,
+            "wordOptionDesc": "罚款",
+            "isRight": 1,
+            "wordId": 47334
+        }],
+        "wordDesc": "（ばっきん）⓪【名】罚款",
+        "correctDesc": "罚款",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "額",
+        "wordId": 47335,
+        "optionDtos": [{
+            "wordOptionId": 98581,
+            "wordOptionDesc": "额头",
+            "isRight": 1,
+            "wordId": 47335
+        }],
+        "wordDesc": "（ひたい）⓪【名】额头",
+        "correctDesc": "额头",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "エプロン",
+        "wordId": 47336,
+        "optionDtos": [{
+            "wordOptionId": 98582,
+            "wordOptionDesc": "围裙",
+            "isRight": 1,
+            "wordId": 47336
+        }],
+        "wordDesc": "（apron）①【名】围裙",
+        "correctDesc": "围裙",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "無駄",
+        "wordId": 47337,
+        "optionDtos": [{
+            "wordOptionId": 98583,
+            "wordOptionDesc": "无用，浪费",
+            "isRight": 1,
+            "wordId": 47337
+        }],
+        "wordDesc": "（むだ）⓪【名·ナ形】无用，浪费",
+        "correctDesc": "无用，浪费",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "司会",
+        "wordId": 47338,
+        "optionDtos": [{
+            "wordOptionId": 98584,
+            "wordOptionDesc": "司仪；主持会议",
+            "isRight": 1,
+            "wordId": 47338
+        }],
+        "wordDesc": "（しかい）⓪【名·自动3】司仪；主持会议",
+        "correctDesc": "司仪；主持会议",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "絵画",
+        "wordId": 47339,
+        "optionDtos": [{
+            "wordOptionId": 98585,
+            "wordOptionDesc": "绘画",
+            "isRight": 1,
+            "wordId": 47339
+        }],
+        "wordDesc": "（かいが）①【名】绘画",
+        "correctDesc": "绘画",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ハワイ",
+        "wordId": 47340,
+        "optionDtos": [{
+            "wordOptionId": 98586,
+            "wordOptionDesc": "夏威夷",
+            "isRight": 1,
+            "wordId": 47340
+        }],
+        "wordDesc": "（Hawaii）①【名】夏威夷",
+        "correctDesc": "夏威夷",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "作製",
+        "wordId": 47341,
+        "optionDtos": [{
+            "wordOptionId": 98587,
+            "wordOptionDesc": "制造，制作",
+            "isRight": 1,
+            "wordId": 47341
+        }],
+        "wordDesc": "（さくせい）⓪【名·他动3】制造，制作",
+        "correctDesc": "制造，制作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "～書",
+        "wordId": 47342,
+        "optionDtos": [{
+            "wordOptionId": 98588,
+            "wordOptionDesc": "⋯⋯书",
+            "isRight": 1,
+            "wordId": 47342
+        }],
+        "wordDesc": "（～しょ）【接尾】⋯⋯书",
+        "correctDesc": "⋯⋯书",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "例える",
+        "wordId": 47343,
+        "optionDtos": [{
+            "wordOptionId": 98589,
+            "wordOptionDesc": "比喻，比方",
+            "isRight": 1,
+            "wordId": 47343
+        }],
+        "wordDesc": "（たとえる）③【他动2】比喻，比方",
+        "correctDesc": "比喻，比方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "呼び方",
+        "wordId": 47344,
+        "optionDtos": [{
+            "wordOptionId": 98590,
+            "wordOptionDesc": "叫法，称呼的方法",
+            "isRight": 1,
+            "wordId": 47344
+        }],
+        "wordDesc": "（よびかた）④【名】叫法，称呼的方法",
+        "correctDesc": "叫法，称呼的方法",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "カーナビ",
+        "wordId": 47345,
+        "optionDtos": [{
+            "wordOptionId": 98591,
+            "wordOptionDesc": "汽车导航仪",
+            "isRight": 1,
+            "wordId": 47345
+        }],
+        "wordDesc": "⓪【名】汽车导航仪",
+        "correctDesc": "汽车导航仪",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "外食",
+        "wordId": 47346,
+        "optionDtos": [{
+            "wordOptionId": 98592,
+            "wordOptionDesc": "在外面吃饭",
+            "isRight": 1,
+            "wordId": 47346
+        }],
+        "wordDesc": "（がいしょく）⓪【名·自动3】在外面吃饭",
+        "correctDesc": "在外面吃饭",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "都内",
+        "wordId": 47347,
+        "optionDtos": [{
+            "wordOptionId": 98593,
+            "wordOptionDesc": "整个东京都，东京都中心区",
+            "isRight": 1,
+            "wordId": 47347
+        }],
+        "wordDesc": "（とない）①【名】整个东京都，东京都中心区",
+        "correctDesc": "整个东京都，东京都中心区",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ストレス",
+        "wordId": 47348,
+        "optionDtos": [{
+            "wordOptionId": 98594,
+            "wordOptionDesc": "紧张，精神压力",
+            "isRight": 1,
+            "wordId": 47348
+        }],
+        "wordDesc": "（stress）②【名】紧张，精神压力",
+        "correctDesc": "紧张，精神压力",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "心理",
+        "wordId": 47349,
+        "optionDtos": [{
+            "wordOptionId": 98595,
+            "wordOptionDesc": "心理",
+            "isRight": 1,
+            "wordId": 47349
+        }],
+        "wordDesc": "（しんり）①【名】心理",
+        "correctDesc": "心理",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "出身",
+        "wordId": 47350,
+        "optionDtos": [{
+            "wordOptionId": 98596,
+            "wordOptionDesc": "出生地，籍贯；毕业学校",
+            "isRight": 1,
+            "wordId": 47350
+        }],
+        "wordDesc": "（しゅっしん）⓪【名】出生地，籍贯；毕业学校",
+        "correctDesc": "出生地，籍贯；毕业学校",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "外科",
+        "wordId": 47351,
+        "optionDtos": [{
+            "wordOptionId": 98597,
+            "wordOptionDesc": "外科",
+            "isRight": 1,
+            "wordId": 47351
+        }],
+        "wordDesc": "（げか）⓪【名】外科",
+        "correctDesc": "外科",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "区別",
+        "wordId": 47352,
+        "optionDtos": [{
+            "wordOptionId": 98598,
+            "wordOptionDesc": "区别，差异，辨别",
+            "isRight": 1,
+            "wordId": 47352
+        }],
+        "wordDesc": "（くべつ）①【名·他动3】区别，差异，辨别",
+        "correctDesc": "区别，差异，辨别",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "孫",
+        "wordId": 47353,
+        "optionDtos": [{
+            "wordOptionId": 98599,
+            "wordOptionDesc": "孙子；孙女",
+            "isRight": 1,
+            "wordId": 47353
+        }],
+        "wordDesc": "（まご）②【名】孙子；孙女",
+        "correctDesc": "孙子；孙女",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "好む",
+        "wordId": 47354,
+        "optionDtos": [{
+            "wordOptionId": 98600,
+            "wordOptionDesc": "爱好，喜欢",
+            "isRight": 1,
+            "wordId": 47354
+        }],
+        "wordDesc": "（このむ）②【他动1】爱好，喜欢",
+        "correctDesc": "爱好，喜欢",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "くしゃみ",
+        "wordId": 47355,
+        "optionDtos": [{
+            "wordOptionId": 98601,
+            "wordOptionDesc": "喷嚏",
+            "isRight": 1,
+            "wordId": 47355
+        }],
+        "wordDesc": "②【名】喷嚏",
+        "correctDesc": "喷嚏",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "～同士",
+        "wordId": 47356,
+        "optionDtos": [{
+            "wordOptionId": 98602,
+            "wordOptionDesc": "⋯⋯同伴，⋯⋯伙伴",
+            "isRight": 1,
+            "wordId": 47356
+        }],
+        "wordDesc": "（どうし）【接尾】⋯⋯同伴，⋯⋯伙伴",
+        "correctDesc": "⋯⋯同伴，⋯⋯伙伴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "香り",
+        "wordId": 47357,
+        "optionDtos": [{
+            "wordOptionId": 98603,
+            "wordOptionDesc": "香气，芬芳",
+            "isRight": 1,
+            "wordId": 47357
+        }],
+        "wordDesc": "（かおり）⓪【名】香气，芬芳",
+        "correctDesc": "香气，芬芳",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "引かれる",
+        "wordId": 47358,
+        "optionDtos": [{
+            "wordOptionId": 98604,
+            "wordOptionDesc": "被吸引住，被迷住",
+            "isRight": 1,
+            "wordId": 47358
+        }],
+        "wordDesc": "（ひかれる）⓪【自动2】被吸引住，被迷住",
+        "correctDesc": "被吸引住，被迷住",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "判断",
+        "wordId": 47359,
+        "optionDtos": [{
+            "wordOptionId": 98605,
+            "wordOptionDesc": "判断，推断",
+            "isRight": 1,
+            "wordId": 47359
+        }],
+        "wordDesc": "（はんだん）①【名·他动3】判断，推断",
+        "correctDesc": "判断，推断",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "自身",
+        "wordId": 47360,
+        "optionDtos": [{
+            "wordOptionId": 98606,
+            "wordOptionDesc": "自己，自身",
+            "isRight": 1,
+            "wordId": 47360
+        }],
+        "wordDesc": "（じしん）①【名】自己，自身",
+        "correctDesc": "自己，自身",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "親しむ",
+        "wordId": 47361,
+        "optionDtos": [{
+            "wordOptionId": 98607,
+            "wordOptionDesc": "亲切，亲密；爱好，喜好",
+            "isRight": 1,
+            "wordId": 47361
+        }],
+        "wordDesc": "（したしむ）③【自动1】亲切，亲密；爱好，喜好",
+        "correctDesc": "亲切，亲密；爱好，喜好",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "気温",
+        "wordId": 47362,
+        "optionDtos": [{
+            "wordOptionId": 98608,
+            "wordOptionDesc": "气温",
+            "isRight": 1,
+            "wordId": 47362
+        }],
+        "wordDesc": "（きおん）⓪【名】气温",
+        "correctDesc": "气温",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "マスター",
+        "wordId": 47363,
+        "optionDtos": [{
+            "wordOptionId": 98609,
+            "wordOptionDesc": "老板；掌握，精通",
+            "isRight": 1,
+            "wordId": 47363
+        }],
+        "wordDesc": "（master）①【名·他动3】老板；掌握，精通",
+        "correctDesc": "老板；掌握，精通",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "正確",
+        "wordId": 47364,
+        "optionDtos": [{
+            "wordOptionId": 98610,
+            "wordOptionDesc": "正确，准确",
+            "isRight": 1,
+            "wordId": 47364
+        }],
+        "wordDesc": "（せいかく）⓪【名·ナ形】正确，准确",
+        "correctDesc": "正确，准确",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "購入",
+        "wordId": 47365,
+        "optionDtos": [{
+            "wordOptionId": 98611,
+            "wordOptionDesc": "购买，采购",
+            "isRight": 1,
+            "wordId": 47365
+        }],
+        "wordDesc": "（こうにゅう）⓪【名·他动3】购买，采购",
+        "correctDesc": "购买，采购",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "友人",
+        "wordId": 47366,
+        "optionDtos": [{
+            "wordOptionId": 98612,
+            "wordOptionDesc": "朋友，友人",
+            "isRight": 1,
+            "wordId": 47366
+        }],
+        "wordDesc": "（ゆうじん）⓪【名】朋友，友人",
+        "correctDesc": "朋友，友人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "緩い",
+        "wordId": 47367,
+        "optionDtos": [{
+            "wordOptionId": 98613,
+            "wordOptionDesc": "宽松的；缓慢的；不严格的",
+            "isRight": 1,
+            "wordId": 47367
+        }],
+        "wordDesc": "（ゆるい）②【イ形】宽松的；缓慢的；不严格的",
+        "correctDesc": "宽松的；缓慢的；不严格的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "役目",
+        "wordId": 47368,
+        "optionDtos": [{
+            "wordOptionId": 98614,
+            "wordOptionDesc": "任务，职责",
+            "isRight": 1,
+            "wordId": 47368
+        }],
+        "wordDesc": "（やくめ）③【名】任务，职责",
+        "correctDesc": "任务，职责",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "その代わり",
+        "wordId": 47369,
+        "optionDtos": [{
+            "wordOptionId": 98615,
+            "wordOptionDesc": "但是，另一方面",
+            "isRight": 1,
+            "wordId": 47369
+        }],
+        "wordDesc": "（そのかわり）⓪【接续】但是，另一方面",
+        "correctDesc": "但是，另一方面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "スタート",
+        "wordId": 47370,
+        "optionDtos": [{
+            "wordOptionId": 98616,
+            "wordOptionDesc": "出发点，起点；开始",
+            "isRight": 1,
+            "wordId": 47370
+        }],
+        "wordDesc": "（start）②【名·自动3】出发点，起点；开始",
+        "correctDesc": "出发点，起点；开始",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "参考",
+        "wordId": 47371,
+        "optionDtos": [{
+            "wordOptionId": 98617,
+            "wordOptionDesc": "参考，借鉴",
+            "isRight": 1,
+            "wordId": 47371
+        }],
+        "wordDesc": "（さんこう）⓪【名·他动3】参考，借鉴",
+        "correctDesc": "参考，借鉴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "順番",
+        "wordId": 47372,
+        "optionDtos": [{
+            "wordOptionId": 98618,
+            "wordOptionDesc": "顺序，轮流",
+            "isRight": 1,
+            "wordId": 47372
+        }],
+        "wordDesc": "（じゅんばん）⓪【名】顺序，轮流",
+        "correctDesc": "顺序，轮流",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "叩く",
+        "wordId": 47373,
+        "optionDtos": [{
+            "wordOptionId": 98619,
+            "wordOptionDesc": "敲，叩",
+            "isRight": 1,
+            "wordId": 47373
+        }],
+        "wordDesc": "（たたく）②【他动1】敲，叩",
+        "correctDesc": "敲，叩",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "集中",
+        "wordId": 47374,
+        "optionDtos": [{
+            "wordOptionId": 98620,
+            "wordOptionDesc": "集中",
+            "isRight": 1,
+            "wordId": 47374
+        }],
+        "wordDesc": "（しゅうちゅう）⓪【名·自他动3】集中",
+        "correctDesc": "集中",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "けち",
+        "wordId": 47375,
+        "optionDtos": [{
+            "wordOptionId": 98621,
+            "wordOptionDesc": "小气，吝啬",
+            "isRight": 1,
+            "wordId": 47375
+        }],
+        "wordDesc": "①【名·ナ形】小气，吝啬",
+        "correctDesc": "小气，吝啬",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "器用",
+        "wordId": 47376,
+        "optionDtos": [{
+            "wordOptionId": 98622,
+            "wordOptionDesc": "灵巧，精巧；巧妙",
+            "isRight": 1,
+            "wordId": 47376
+        }],
+        "wordDesc": "（きよう）①【名·ナ形】灵巧，精巧；巧妙",
+        "correctDesc": "灵巧，精巧；巧妙",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "缶詰",
+        "wordId": 47377,
+        "optionDtos": [{
+            "wordOptionId": 98623,
+            "wordOptionDesc": "罐头",
+            "isRight": 1,
+            "wordId": 47377
+        }],
+        "wordDesc": "（かんづめ）③【名】罐头",
+        "correctDesc": "罐头",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "騙す",
+        "wordId": 47378,
+        "optionDtos": [{
+            "wordOptionId": 98624,
+            "wordOptionDesc": "欺骗，哄骗",
+            "isRight": 1,
+            "wordId": 47378
+        }],
+        "wordDesc": "（だます）②【他动1】欺骗，哄骗",
+        "correctDesc": "欺骗，哄骗",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "麺類",
+        "wordId": 47379,
+        "optionDtos": [{
+            "wordOptionId": 98625,
+            "wordOptionDesc": "面条类",
+            "isRight": 1,
+            "wordId": 47379
+        }],
+        "wordDesc": "（めんるい）①【名】面条类",
+        "correctDesc": "面条类",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "見つめる",
+        "wordId": 47380,
+        "optionDtos": [{
+            "wordOptionId": 98626,
+            "wordOptionDesc": "凝视，注视",
+            "isRight": 1,
+            "wordId": 47380
+        }],
+        "wordDesc": "（みつめる）⓪【他动2】凝视，注视",
+        "correctDesc": "凝视，注视",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "インフォメーション",
+        "wordId": 47381,
+        "optionDtos": [{
+            "wordOptionId": 98627,
+            "wordOptionDesc": "信息，消息；问讯处",
+            "isRight": 1,
+            "wordId": 47381
+        }],
+        "wordDesc": "（information）④【名】信息，消息；问讯处",
+        "correctDesc": "信息，消息；问讯处",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "予想外",
+        "wordId": 47382,
+        "optionDtos": [{
+            "wordOptionId": 98628,
+            "wordOptionDesc": "出乎意料",
+            "isRight": 1,
+            "wordId": 47382
+        }],
+        "wordDesc": "（よそうがい）②【名·ナ形】出乎意料",
+        "correctDesc": "出乎意料",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "溜まる",
+        "wordId": 47383,
+        "optionDtos": [{
+            "wordOptionId": 98629,
+            "wordOptionDesc": "积攒，积存",
+            "isRight": 1,
+            "wordId": 47383
+        }],
+        "wordDesc": "（たまる）⓪【自动1】积攒，积存",
+        "correctDesc": "积攒，积存",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "衣食住",
+        "wordId": 47384,
+        "optionDtos": [{
+            "wordOptionId": 98630,
+            "wordOptionDesc": "吃穿住",
+            "isRight": 1,
+            "wordId": 47384
+        }],
+        "wordDesc": "（いしょくじゅう）③【名】吃穿住",
+        "correctDesc": "吃穿住",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "書き直す",
+        "wordId": 47385,
+        "optionDtos": [{
+            "wordOptionId": 98631,
+            "wordOptionDesc": "重写，改写",
+            "isRight": 1,
+            "wordId": 47385
+        }],
+        "wordDesc": "（かきなおす）④【他动1】重写，改写",
+        "correctDesc": "重写，改写",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "全体",
+        "wordId": 47386,
+        "optionDtos": [{
+            "wordOptionId": 98632,
+            "wordOptionDesc": "全体，整体",
+            "isRight": 1,
+            "wordId": 47386
+        }],
+        "wordDesc": "（ぜんたい）⓪【名】全体，整体",
+        "correctDesc": "全体，整体",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実に",
+        "wordId": 47387,
+        "optionDtos": [{
+            "wordOptionId": 98633,
+            "wordOptionDesc": "实在，确实，的确",
+            "isRight": 1,
+            "wordId": 47387
+        }],
+        "wordDesc": "（じつに）②【副】实在，确实，的确",
+        "correctDesc": "实在，确实，的确",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "最大",
+        "wordId": 47388,
+        "optionDtos": [{
+            "wordOptionId": 98634,
+            "wordOptionDesc": "最大",
+            "isRight": 1,
+            "wordId": 47388
+        }],
+        "wordDesc": "（さいだい）⓪【名】最大",
+        "correctDesc": "最大",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "消費",
+        "wordId": 47389,
+        "optionDtos": [{
+            "wordOptionId": 98635,
+            "wordOptionDesc": "消费，花费",
+            "isRight": 1,
+            "wordId": 47389
+        }],
+        "wordDesc": "（しょうひ）⓪【名·他动3】消费，花费",
+        "correctDesc": "消费，花费",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "力仕事",
+        "wordId": 47390,
+        "optionDtos": [{
+            "wordOptionId": 98636,
+            "wordOptionDesc": "体力劳动，力气活儿",
+            "isRight": 1,
+            "wordId": 47390
+        }],
+        "wordDesc": "（ちからしごと）④【名】体力劳动，力气活儿",
+        "correctDesc": "体力劳动，力气活儿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "似合う",
+        "wordId": 47391,
+        "optionDtos": [{
+            "wordOptionId": 98637,
+            "wordOptionDesc": "合适，相称",
+            "isRight": 1,
+            "wordId": 47391
+        }],
+        "wordDesc": "（にあう）②【自动1】合适，相称",
+        "correctDesc": "合适，相称",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "表",
+        "wordId": 47392,
+        "optionDtos": [{
+            "wordOptionId": 98638,
+            "wordOptionDesc": "表格，图表",
+            "isRight": 1,
+            "wordId": 47392
+        }],
+        "wordDesc": "（ひょう）⓪【名】表格，图表",
+        "correctDesc": "表格，图表",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "飯",
+        "wordId": 47393,
+        "optionDtos": [{
+            "wordOptionId": 98639,
+            "wordOptionDesc": "饭；饭碗，生计",
+            "isRight": 1,
+            "wordId": 47393
+        }],
+        "wordDesc": "（めし）②【名】饭；饭碗，生计",
+        "correctDesc": "饭；饭碗，生计",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ピンク",
+        "wordId": 47394,
+        "optionDtos": [{
+            "wordOptionId": 98640,
+            "wordOptionDesc": "粉红色",
+            "isRight": 1,
+            "wordId": 47394
+        }],
+        "wordDesc": "（pink）①【名】粉红色",
+        "correctDesc": "粉红色",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "指輪",
+        "wordId": 47395,
+        "optionDtos": [{
+            "wordOptionId": 98641,
+            "wordOptionDesc": "戒指",
+            "isRight": 1,
+            "wordId": 47395
+        }],
+        "wordDesc": "（ゆびわ）⓪【名】戒指",
+        "correctDesc": "戒指",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "過去",
+        "wordId": 47396,
+        "optionDtos": [{
+            "wordOptionId": 98642,
+            "wordOptionDesc": "过去",
+            "isRight": 1,
+            "wordId": 47396
+        }],
+        "wordDesc": "（かこ）①【名】过去",
+        "correctDesc": "过去",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "雇う",
+        "wordId": 47397,
+        "optionDtos": [{
+            "wordOptionId": 98643,
+            "wordOptionDesc": "雇，雇佣",
+            "isRight": 1,
+            "wordId": 47397
+        }],
+        "wordDesc": "（やとう）②【他动1】雇，雇佣",
+        "correctDesc": "雇，雇佣",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "揉む",
+        "wordId": 47398,
+        "optionDtos": [{
+            "wordOptionId": 98644,
+            "wordOptionDesc": "揉，搓；捏（肩）；争论，纠纷",
+            "isRight": 1,
+            "wordId": 47398
+        }],
+        "wordDesc": "（もむ）⓪【他动1】揉，搓；捏（肩）；争论，纠纷",
+        "correctDesc": "揉，搓；捏（肩）；争论，纠纷",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "無視",
+        "wordId": 47399,
+        "optionDtos": [{
+            "wordOptionId": 98645,
+            "wordOptionDesc": "无视，忽视",
+            "isRight": 1,
+            "wordId": 47399
+        }],
+        "wordDesc": "（むし）①【名·他动3】无视，忽视",
+        "correctDesc": "无视，忽视",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "麦",
+        "wordId": 47400,
+        "optionDtos": [{
+            "wordOptionId": 98646,
+            "wordOptionDesc": "麦子，小麦",
+            "isRight": 1,
+            "wordId": 47400
+        }],
+        "wordDesc": "（むぎ）①【名】麦子，小麦",
+        "correctDesc": "麦子，小麦",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "窓口",
+        "wordId": 47401,
+        "optionDtos": [{
+            "wordOptionId": 98647,
+            "wordOptionDesc": "（办理业务的）窗口",
+            "isRight": 1,
+            "wordId": 47401
+        }],
+        "wordDesc": "（まどぐち）②【名】（办理业务的）窗口",
+        "correctDesc": "（办理业务的）窗口",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "保証",
+        "wordId": 47402,
+        "optionDtos": [{
+            "wordOptionId": 98648,
+            "wordOptionDesc": "保证，担保",
+            "isRight": 1,
+            "wordId": 47402
+        }],
+        "wordDesc": "（ほしょう）⓪【名·他动3】保证，担保",
+        "correctDesc": "保证，担保",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "籠",
+        "wordId": 47403,
+        "optionDtos": [{
+            "wordOptionId": 98649,
+            "wordOptionDesc": "筐，篮，笼子",
+            "isRight": 1,
+            "wordId": 47403
+        }],
+        "wordDesc": "（かご）⓪【名】筐，篮，笼子",
+        "correctDesc": "筐，篮，笼子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "手前",
+        "wordId": 47404,
+        "optionDtos": [{
+            "wordOptionId": 98650,
+            "wordOptionDesc": "眼前，靠近自己的一边",
+            "isRight": 1,
+            "wordId": 47404
+        }],
+        "wordDesc": "（てまえ）⓪【名】眼前，靠近自己的一边",
+        "correctDesc": "眼前，靠近自己的一边",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "フィルム",
+        "wordId": 47405,
+        "optionDtos": [{
+            "wordOptionId": 98651,
+            "wordOptionDesc": "（相机）胶卷；影片；薄膜",
+            "isRight": 1,
+            "wordId": 47405
+        }],
+        "wordDesc": "（film）①【名】（相机）胶卷；影片；薄膜",
+        "correctDesc": "（相机）胶卷；影片；薄膜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "～箇所",
+        "wordId": 47406,
+        "optionDtos": [{
+            "wordOptionId": 98652,
+            "wordOptionDesc": "⋯⋯处，⋯⋯的地方",
+            "isRight": 1,
+            "wordId": 47406
+        }],
+        "wordDesc": "（～かしょ）【接尾】⋯⋯处，⋯⋯的地方",
+        "correctDesc": "⋯⋯处，⋯⋯的地方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "社内",
+        "wordId": 47407,
+        "optionDtos": [{
+            "wordOptionId": 98653,
+            "wordOptionDesc": "公司内部",
+            "isRight": 1,
+            "wordId": 47407
+        }],
+        "wordDesc": "（しゃない）①【名】公司内部",
+        "correctDesc": "公司内部",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "実力",
+        "wordId": 47408,
+        "optionDtos": [{
+            "wordOptionId": 98654,
+            "wordOptionDesc": "实力",
+            "isRight": 1,
+            "wordId": 47408
+        }],
+        "wordDesc": "（じつりょく）⓪【名】实力",
+        "correctDesc": "实力",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "見掛け",
+        "wordId": 47409,
+        "optionDtos": [{
+            "wordOptionId": 98655,
+            "wordOptionDesc": "外观，外表",
+            "isRight": 1,
+            "wordId": 47409
+        }],
+        "wordDesc": "（みかけ）⓪【名】外观，外表",
+        "correctDesc": "外观，外表",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "生命",
+        "wordId": 47410,
+        "optionDtos": [{
+            "wordOptionId": 98656,
+            "wordOptionDesc": "生命",
+            "isRight": 1,
+            "wordId": 47410
+        }],
+        "wordDesc": "（せいめい）①【名】生命",
+        "correctDesc": "生命",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "絶えず",
+        "wordId": 47411,
+        "optionDtos": [{
+            "wordOptionId": 98657,
+            "wordOptionDesc": "不断地，总是",
+            "isRight": 1,
+            "wordId": 47411
+        }],
+        "wordDesc": "（たえず）①【副】不断地，总是",
+        "correctDesc": "不断地，总是",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "だらしない",
+        "wordId": 47412,
+        "optionDtos": [{
+            "wordOptionId": 98658,
+            "wordOptionDesc": "散漫的；没出息的，不争气的",
+            "isRight": 1,
+            "wordId": 47412
+        }],
+        "wordDesc": "④【イ形】散漫的；没出息的，不争气的",
+        "correctDesc": "散漫的；没出息的，不争气的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "歌手",
+        "wordId": 47413,
+        "optionDtos": [{
+            "wordOptionId": 98659,
+            "wordOptionDesc": "歌手",
+            "isRight": 1,
+            "wordId": 47413
+        }],
+        "wordDesc": "（かしゅ）①【名】歌手",
+        "correctDesc": "歌手",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "雑巾",
+        "wordId": 47414,
+        "optionDtos": [{
+            "wordOptionId": 98660,
+            "wordOptionDesc": "抹布",
+            "isRight": 1,
+            "wordId": 47414
+        }],
+        "wordDesc": "（ぞうきん）⓪【名】抹布",
+        "correctDesc": "抹布",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "セット",
+        "wordId": 47415,
+        "optionDtos": [{
+            "wordOptionId": 98661,
+            "wordOptionDesc": "一组，一套；组装",
+            "isRight": 1,
+            "wordId": 47415
+        }],
+        "wordDesc": "（set）①【名·他动3】一组，一套；组装",
+        "correctDesc": "一组，一套；组装",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "親友",
+        "wordId": 47416,
+        "optionDtos": [{
+            "wordOptionId": 98662,
+            "wordOptionDesc": "好友，亲密的朋友",
+            "isRight": 1,
+            "wordId": 47416
+        }],
+        "wordDesc": "（しんゆう）⓪【名】好友，亲密的朋友",
+        "correctDesc": "好友，亲密的朋友",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "自習",
+        "wordId": 47417,
+        "optionDtos": [{
+            "wordOptionId": 98663,
+            "wordOptionDesc": "自习，自学",
+            "isRight": 1,
+            "wordId": 47417
+        }],
+        "wordDesc": "（じしゅう）⓪【名·他动3】自习，自学",
+        "correctDesc": "自习，自学",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ブーツ",
+        "wordId": 47418,
+        "optionDtos": [{
+            "wordOptionId": 98664,
+            "wordOptionDesc": "长筒靴",
+            "isRight": 1,
+            "wordId": 47418
+        }],
+        "wordDesc": "（boots）①【名】长筒靴",
+        "correctDesc": "长筒靴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "紺",
+        "wordId": 47419,
+        "optionDtos": [{
+            "wordOptionId": 98665,
+            "wordOptionDesc": "藏青，藏蓝",
+            "isRight": 1,
+            "wordId": 47419
+        }],
+        "wordDesc": "（こん）①【名】藏青，藏蓝",
+        "correctDesc": "藏青，藏蓝",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "足りない",
+        "wordId": 47420,
+        "optionDtos": [{
+            "wordOptionId": 98666,
+            "wordOptionDesc": "不足，不够",
+            "isRight": 1,
+            "wordId": 47420
+        }],
+        "wordDesc": "（たりない）⓪【连语】不足，不够",
+        "correctDesc": "不足，不够",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "足りる",
+        "wordId": 47421,
+        "optionDtos": [{
+            "wordOptionId": 98667,
+            "wordOptionDesc": "足够；值得",
+            "isRight": 1,
+            "wordId": 47421
+        }],
+        "wordDesc": "（たりる）⓪【自动2】足够；值得",
+        "correctDesc": "足够；值得",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "独特",
+        "wordId": 47422,
+        "optionDtos": [{
+            "wordOptionId": 98668,
+            "wordOptionDesc": "独特的，独有的",
+            "isRight": 1,
+            "wordId": 47422
+        }],
+        "wordDesc": "（どくとく）⓪【ナ形】独特的，独有的",
+        "correctDesc": "独特的，独有的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "火山",
+        "wordId": 47423,
+        "optionDtos": [{
+            "wordOptionId": 98669,
+            "wordOptionDesc": "火山",
+            "isRight": 1,
+            "wordId": 47423
+        }],
+        "wordDesc": "（かざん）①【名】火山",
+        "correctDesc": "火山",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "不安定",
+        "wordId": 47424,
+        "optionDtos": [{
+            "wordOptionId": 98670,
+            "wordOptionDesc": "不稳定，不安定",
+            "isRight": 1,
+            "wordId": 47424
+        }],
+        "wordDesc": "（ふあんてい）②【名·ナ形】不稳定，不安定",
+        "correctDesc": "不稳定，不安定",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "ブラジル",
+        "wordId": 47425,
+        "optionDtos": [{
+            "wordOptionId": 98671,
+            "wordOptionDesc": "巴西",
+            "isRight": 1,
+            "wordId": 47425
+        }],
+        "wordDesc": "（Brazil）⓪【名】巴西",
+        "correctDesc": "巴西",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "埃",
+        "wordId": 47426,
+        "optionDtos": [{
+            "wordOptionId": 98672,
+            "wordOptionDesc": "灰尘",
+            "isRight": 1,
+            "wordId": 47426
+        }],
+        "wordDesc": "（ほこり）⓪【名】灰尘",
+        "correctDesc": "灰尘",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "瞼",
+        "wordId": 47427,
+        "optionDtos": [{
+            "wordOptionId": 98673,
+            "wordOptionDesc": "眼睑，眼皮",
+            "isRight": 1,
+            "wordId": 47427
+        }],
+        "wordDesc": "（まぶた）①【名】眼睑，眼皮",
+        "correctDesc": "眼睑，眼皮",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "迎え",
+        "wordId": 47428,
+        "optionDtos": [{
+            "wordOptionId": 98674,
+            "wordOptionDesc": "迎接",
+            "isRight": 1,
+            "wordId": 47428
+        }],
+        "wordDesc": "（むかえ）⓪【名】迎接",
+        "correctDesc": "迎接",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "塗る",
+        "wordId": 47429,
+        "optionDtos": [{
+            "wordOptionId": 98675,
+            "wordOptionDesc": "涂（颜料），擦，抹",
+            "isRight": 1,
+            "wordId": 47429
+        }],
+        "wordDesc": "（ぬる）⓪【他动1】涂（颜料），擦，抹",
+        "correctDesc": "涂（颜料），擦，抹",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "看病",
+        "wordId": 47430,
+        "optionDtos": [{
+            "wordOptionId": 98676,
+            "wordOptionDesc": "护理，看护",
+            "isRight": 1,
+            "wordId": 47430
+        }],
+        "wordDesc": "（かんびょう）①【名·他动3】护理，看护",
+        "correctDesc": "护理，看护",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "歌舞伎",
+        "wordId": 47431,
+        "optionDtos": [{
+            "wordOptionId": 98677,
+            "wordOptionDesc": "歌舞伎",
+            "isRight": 1,
+            "wordId": 47431
+        }],
+        "wordDesc": "（かぶき）⓪【名】歌舞伎",
+        "correctDesc": "歌舞伎",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "三角形",
+        "wordId": 47432,
+        "optionDtos": [{
+            "wordOptionId": 98678,
+            "wordOptionDesc": "三角形",
+            "isRight": 1,
+            "wordId": 47432
+        }],
+        "wordDesc": "（さんかくけい/さんかっけい）③【名】三角形",
+        "correctDesc": "三角形",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "シートベルト",
+        "wordId": 47433,
+        "optionDtos": [{
+            "wordOptionId": 98679,
+            "wordOptionDesc": "安全带",
+            "isRight": 1,
+            "wordId": 47433
+        }],
+        "wordDesc": "（seat belt）④【名】安全带",
+        "correctDesc": "安全带",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "お手伝いさん",
+        "wordId": 47434,
+        "optionDtos": [{
+            "wordOptionId": 98680,
+            "wordOptionDesc": "保姆，家政人员",
+            "isRight": 1,
+            "wordId": 47434
+        }],
+        "wordDesc": "（おてつだいさん）②【名】保姆，家政人员",
+        "correctDesc": "保姆，家政人员",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "頼る",
+        "wordId": 47435,
+        "optionDtos": [{
+            "wordOptionId": 98681,
+            "wordOptionDesc": "依靠，依赖",
+            "isRight": 1,
+            "wordId": 47435
+        }],
+        "wordDesc": "（たよる）②【自动1】依靠，依赖",
+        "correctDesc": "依靠，依赖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "引き返す",
+        "wordId": 47436,
+        "optionDtos": [{
+            "wordOptionId": 98682,
+            "wordOptionDesc": "返回，折回",
+            "isRight": 1,
+            "wordId": 47436
+        }],
+        "wordDesc": "（ひきかえす）③【自动1】返回，折回",
+        "correctDesc": "返回，折回",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "頼み",
+        "wordId": 47437,
+        "optionDtos": [{
+            "wordOptionId": 98683,
+            "wordOptionDesc": "请求，恳求；依靠，依赖",
+            "isRight": 1,
+            "wordId": 47437
+        }],
+        "wordDesc": "（たのみ）③【名】请求，恳求；依靠，依赖",
+        "correctDesc": "请求，恳求；依靠，依赖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "オープン",
+        "wordId": 47438,
+        "optionDtos": [{
+            "wordOptionId": 98684,
+            "wordOptionDesc": "开业；开放",
+            "isRight": 1,
+            "wordId": 47438
+        }],
+        "wordDesc": "（open）①【名·自动3】开业；开放",
+        "correctDesc": "开业；开放",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "設計",
+        "wordId": 47439,
+        "optionDtos": [{
+            "wordOptionId": 98685,
+            "wordOptionDesc": "设计；计划，规划",
+            "isRight": 1,
+            "wordId": 47439
+        }],
+        "wordDesc": "（せっけい）⓪【名·他动3】设计；计划，规划",
+        "correctDesc": "设计；计划，规划",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "密",
+        "wordId": 47440,
+        "optionDtos": [{
+            "wordOptionId": 98686,
+            "wordOptionDesc": "秘密；紧密；周密",
+            "isRight": 1,
+            "wordId": 47440
+        }],
+        "wordDesc": "（みつ）①【名·ナ形】秘密；紧密；周密",
+        "correctDesc": "秘密；紧密；周密",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "浮く",
+        "wordId": 47441,
+        "optionDtos": [{
+            "wordOptionId": 98687,
+            "wordOptionDesc": "漂浮；浮起",
+            "isRight": 1,
+            "wordId": 47441
+        }],
+        "wordDesc": "（うく）⓪【自动1】漂浮；浮起",
+        "correctDesc": "漂浮；浮起",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "皆",
+        "wordId": 47442,
+        "optionDtos": [{
+            "wordOptionId": 98688,
+            "wordOptionDesc": "大家，全体",
+            "isRight": 1,
+            "wordId": 47442
+        }],
+        "wordDesc": "（みんな）③【名】大家，全体",
+        "correctDesc": "大家，全体",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "帰宅",
+        "wordId": 47443,
+        "optionDtos": [{
+            "wordOptionId": 98689,
+            "wordOptionDesc": "回家",
+            "isRight": 1,
+            "wordId": 47443
+        }],
+        "wordDesc": "（きたく）⓪【名·自动3】回家",
+        "correctDesc": "回家",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "土日",
+        "wordId": 47444,
+        "optionDtos": [{
+            "wordOptionId": 98690,
+            "wordOptionDesc": "周六和周日，周末",
+            "isRight": 1,
+            "wordId": 47444
+        }],
+        "wordDesc": "（どにち）⓪【名】周六和周日，周末",
+        "correctDesc": "周六和周日，周末",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "指定席",
+        "wordId": 47445,
+        "optionDtos": [{
+            "wordOptionId": 98691,
+            "wordOptionDesc": "指定席位",
+            "isRight": 1,
+            "wordId": 47445
+        }],
+        "wordDesc": "（していせき）②【名】指定席位",
+        "correctDesc": "指定席位",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "借金",
+        "wordId": 47446,
+        "optionDtos": [{
+            "wordOptionId": 98692,
+            "wordOptionDesc": "借钱，欠债",
+            "isRight": 1,
+            "wordId": 47446
+        }],
+        "wordDesc": "（しゃっきん）③【名·自动3】借钱，欠债",
+        "correctDesc": "借钱，欠债",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "生存",
+        "wordId": 47447,
+        "optionDtos": [{
+            "wordOptionId": 98693,
+            "wordOptionDesc": "生存",
+            "isRight": 1,
+            "wordId": 47447
+        }],
+        "wordDesc": "（せいぞん）⓪【名·自动3】生存",
+        "correctDesc": "生存",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "目下",
+        "wordId": 47448,
+        "optionDtos": [{
+            "wordOptionId": 98694,
+            "wordOptionDesc": "晚辈；下属",
+            "isRight": 1,
+            "wordId": 47448
+        }],
+        "wordDesc": "（めした）③【名】晚辈；下属",
+        "correctDesc": "晚辈；下属",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "近々",
+        "wordId": 47449,
+        "optionDtos": [{
+            "wordOptionId": 98695,
+            "wordOptionDesc": "不久，过几天",
+            "isRight": 1,
+            "wordId": 47449
+        }],
+        "wordDesc": "（ちかぢか）⓪【副】不久，过几天",
+        "correctDesc": "不久，过几天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "解く",
+        "wordId": 47450,
+        "optionDtos": [{
+            "wordOptionId": 98696,
+            "wordOptionDesc": "解开；解除；解答",
+            "isRight": 1,
+            "wordId": 47450
+        }],
+        "wordDesc": "（とく）①【他动1】解开；解除；解答",
+        "correctDesc": "解开；解除；解答",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "並木",
+        "wordId": 47451,
+        "optionDtos": [{
+            "wordOptionId": 98697,
+            "wordOptionDesc": "街道上成排的树",
+            "isRight": 1,
+            "wordId": 47451
+        }],
+        "wordDesc": "（なみき）⓪【名】街道上成排的树",
+        "correctDesc": "街道上成排的树",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "にきび",
+        "wordId": 47452,
+        "optionDtos": [{
+            "wordOptionId": 98698,
+            "wordOptionDesc": "痤疮，粉刺",
+            "isRight": 1,
+            "wordId": 47452
+        }],
+        "wordDesc": "①【名】痤疮，粉刺",
+        "correctDesc": "痤疮，粉刺",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "轢く",
+        "wordId": 47453,
+        "optionDtos": [{
+            "wordOptionId": 98699,
+            "wordOptionDesc": "（汽车）轧",
+            "isRight": 1,
+            "wordId": 47453
+        }],
+        "wordDesc": "（ひく）⓪【他动1】（汽车）轧",
+        "correctDesc": "（汽车）轧",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "08 N3词汇 第八天",
+        "wordName": "触れる",
+        "wordId": 47454,
+        "optionDtos": [{
+            "wordOptionId": 98700,
+            "wordOptionDesc": "接触，触碰；涉及，提到；感觉到",
+            "isRight": 1,
+            "wordId": 47454
+        }],
+        "wordDesc": "（ふれる）⓪【自他动2】接触，触碰；涉及，提到；感觉到",
+        "correctDesc": "接触，触碰；涉及，提到；感觉到",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

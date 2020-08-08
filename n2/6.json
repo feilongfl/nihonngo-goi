@@ -1,0 +1,4755 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "姓名",
+        "wordId": 59185,
+        "optionDtos": [{
+            "wordOptionId": 116844,
+            "wordOptionDesc": "姓名",
+            "isRight": 1,
+            "wordId": 59185
+        }],
+        "wordDesc": "（せいめい）①【名】姓名",
+        "correctDesc": "姓名",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "声優",
+        "wordId": 59186,
+        "optionDtos": [{
+            "wordOptionId": 116845,
+            "wordOptionDesc": "配音演员，声优",
+            "isRight": 1,
+            "wordId": 59186
+        }],
+        "wordDesc": "（せいゆう）⓪【名】配音演员，声优",
+        "correctDesc": "配音演员，声优",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "新人",
+        "wordId": 59187,
+        "optionDtos": [{
+            "wordOptionId": 116846,
+            "wordOptionDesc": "新人，新手",
+            "isRight": 1,
+            "wordId": 59187
+        }],
+        "wordDesc": "（しんじん）⓪【名】新人，新手",
+        "correctDesc": "新人，新手",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "人造",
+        "wordId": 59188,
+        "optionDtos": [{
+            "wordOptionId": 116847,
+            "wordOptionDesc": "人造，人工制造",
+            "isRight": 1,
+            "wordId": 59188
+        }],
+        "wordDesc": "（じんぞう）⓪【名】人造，人工制造",
+        "correctDesc": "人造，人工制造",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "戦力",
+        "wordId": 59189,
+        "optionDtos": [{
+            "wordOptionId": 116848,
+            "wordOptionDesc": "军事力量，作战能力",
+            "isRight": 1,
+            "wordId": 59189
+        }],
+        "wordDesc": "（せんりょく）①【名】军事力量，作战能力",
+        "correctDesc": "军事力量，作战能力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "線路",
+        "wordId": 59190,
+        "optionDtos": [{
+            "wordOptionId": 116849,
+            "wordOptionDesc": "（火车、电车的）线路，轨道",
+            "isRight": 1,
+            "wordId": 59190
+        }],
+        "wordDesc": "（せんろ）①【名】（火车、电车的）线路，轨道",
+        "correctDesc": "（火车、电车的）线路，轨道",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "送金",
+        "wordId": 59191,
+        "optionDtos": [{
+            "wordOptionId": 116850,
+            "wordOptionDesc": "汇款，寄钱",
+            "isRight": 1,
+            "wordId": 59191
+        }],
+        "wordDesc": "（そうきん）⓪【名·自他动3】汇款，寄钱",
+        "correctDesc": "汇款，寄钱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "相互",
+        "wordId": 59192,
+        "optionDtos": [{
+            "wordOptionId": 116851,
+            "wordOptionDesc": "互相，相互；轮流，交替",
+            "isRight": 1,
+            "wordId": 59192
+        }],
+        "wordDesc": "（そうご）①【名】互相，相互；轮流，交替",
+        "correctDesc": "互相，相互；轮流，交替",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "古代",
+        "wordId": 59193,
+        "optionDtos": [{
+            "wordOptionId": 116852,
+            "wordOptionDesc": "古代",
+            "isRight": 1,
+            "wordId": 59193
+        }],
+        "wordDesc": "（こだい）①【名】古代",
+        "correctDesc": "古代",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "損失",
+        "wordId": 59194,
+        "optionDtos": [{
+            "wordOptionId": 116853,
+            "wordOptionDesc": "损失；损耗",
+            "isRight": 1,
+            "wordId": 59194
+        }],
+        "wordDesc": "（そんしつ）⓪【名·自他动3】损失；损耗",
+        "correctDesc": "损失；损耗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "救う",
+        "wordId": 59195,
+        "optionDtos": [{
+            "wordOptionId": 116854,
+            "wordOptionDesc": "救，救助；救济；挽救",
+            "isRight": 1,
+            "wordId": 59195
+        }],
+        "wordDesc": "（すくう）⓪【他动1】救，救助；救济；挽救",
+        "correctDesc": "救，救助；救济；挽救",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "総合",
+        "wordId": 59196,
+        "optionDtos": [{
+            "wordOptionId": 116855,
+            "wordOptionDesc": "综合（考虑、开发等）",
+            "isRight": 1,
+            "wordId": 59196
+        }],
+        "wordDesc": "（そうごう）⓪【名·他动3】综合（考虑、开发等）",
+        "correctDesc": "综合（考虑、开发等）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "装飾",
+        "wordId": 59197,
+        "optionDtos": [{
+            "wordOptionId": 116856,
+            "wordOptionDesc": "装饰，点缀",
+            "isRight": 1,
+            "wordId": 59197
+        }],
+        "wordDesc": "（そうしょく）⓪【名·他动3】装饰，点缀",
+        "correctDesc": "装饰，点缀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "選定",
+        "wordId": 59198,
+        "optionDtos": [{
+            "wordOptionId": 116857,
+            "wordOptionDesc": "选定",
+            "isRight": 1,
+            "wordId": 59198
+        }],
+        "wordDesc": "（せんてい）⓪【名·他动3】选定",
+        "correctDesc": "选定",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "優れる",
+        "wordId": 59199,
+        "optionDtos": [{
+            "wordOptionId": 116858,
+            "wordOptionDesc": "优秀，出众，卓越",
+            "isRight": 1,
+            "wordId": 59199
+        }],
+        "wordDesc": "（すぐれる）③【自动2】优秀，出众，卓越",
+        "correctDesc": "优秀，出众，卓越",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "先頭",
+        "wordId": 59200,
+        "optionDtos": [{
+            "wordOptionId": 116859,
+            "wordOptionDesc": "前头，最前列；最先",
+            "isRight": 1,
+            "wordId": 59200
+        }],
+        "wordDesc": "（せんとう）⓪【名】前头，最前列；最先",
+        "correctDesc": "前头，最前列；最先",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "すかすか ",
+        "wordId": 59201,
+        "optionDtos": [{
+            "wordOptionId": 116860,
+            "wordOptionDesc": "顺利地；空荡荡，空隙很多",
+            "isRight": 1,
+            "wordId": 59201
+        }],
+        "wordDesc": "⓪【副·ナ形】顺利地；空荡荡，空隙很多",
+        "correctDesc": "顺利地；空荡荡，空隙很多",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "それどころか ",
+        "wordId": 59202,
+        "optionDtos": [{
+            "wordOptionId": 116861,
+            "wordOptionDesc": "岂止如此，别说那个，甚至",
+            "isRight": 1,
+            "wordId": 59202
+        }],
+        "wordDesc": "③【接续】岂止如此，别说那个，甚至",
+        "correctDesc": "岂止如此，别说那个，甚至",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "それにしては ",
+        "wordId": 59203,
+        "optionDtos": [{
+            "wordOptionId": 116862,
+            "wordOptionDesc": "那么说",
+            "isRight": 1,
+            "wordId": 59203
+        }],
+        "wordDesc": "⑤【接续】那么说",
+        "correctDesc": "那么说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "それにしても ",
+        "wordId": 59204,
+        "optionDtos": [{
+            "wordOptionId": 116863,
+            "wordOptionDesc": "尽管如此，即使那样",
+            "isRight": 1,
+            "wordId": 59204
+        }],
+        "wordDesc": "⑤【接续】尽管如此，即使那样",
+        "correctDesc": "尽管如此，即使那样",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "揃い",
+        "wordId": 59205,
+        "optionDtos": [{
+            "wordOptionId": 116864,
+            "wordOptionDesc": "成套，成组；（多人）聚在一起",
+            "isRight": 1,
+            "wordId": 59205
+        }],
+        "wordDesc": "（そろい）②【名】成套，成组；（多人）聚在一起",
+        "correctDesc": "成套，成组；（多人）聚在一起",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "肯定",
+        "wordId": 59206,
+        "optionDtos": [{
+            "wordOptionId": 116865,
+            "wordOptionDesc": "肯定，承认",
+            "isRight": 1,
+            "wordId": 59206
+        }],
+        "wordDesc": "（こうてい）⓪【名·他动3】肯定，承认",
+        "correctDesc": "肯定，承认",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "創造",
+        "wordId": 59207,
+        "optionDtos": [{
+            "wordOptionId": 116866,
+            "wordOptionDesc": "创造",
+            "isRight": 1,
+            "wordId": 59207
+        }],
+        "wordDesc": "（そうぞう）⓪【名·他动3】创造",
+        "correctDesc": "创造",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "せめて ",
+        "wordId": 59208,
+        "optionDtos": [{
+            "wordOptionId": 116867,
+            "wordOptionDesc": "至少，起码，哪怕是",
+            "isRight": 1,
+            "wordId": 59208
+        }],
+        "wordDesc": "①【副】至少，起码，哪怕是",
+        "correctDesc": "至少，起码，哪怕是",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "増大",
+        "wordId": 59209,
+        "optionDtos": [{
+            "wordOptionId": 116868,
+            "wordOptionDesc": "增大；增多",
+            "isRight": 1,
+            "wordId": 59209
+        }],
+        "wordDesc": "（ぞうだい）⓪【名·自他动3】增大；增多",
+        "correctDesc": "增大；增多",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "公衆",
+        "wordId": 59210,
+        "optionDtos": [{
+            "wordOptionId": 116869,
+            "wordOptionDesc": "公共，公众",
+            "isRight": 1,
+            "wordId": 59210
+        }],
+        "wordDesc": "（こうしゅう）⓪【名】公共，公众",
+        "correctDesc": "公共，公众",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "体温",
+        "wordId": 59211,
+        "optionDtos": [{
+            "wordOptionId": 116870,
+            "wordOptionDesc": "体温",
+            "isRight": 1,
+            "wordId": 59211
+        }],
+        "wordDesc": "（たいおん）①【名】体温",
+        "correctDesc": "体温",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "体格",
+        "wordId": 59212,
+        "optionDtos": [{
+            "wordOptionId": 116871,
+            "wordOptionDesc": "体格，身体",
+            "isRight": 1,
+            "wordId": 59212
+        }],
+        "wordDesc": "（たいかく）⓪【名】体格，身体",
+        "correctDesc": "体格，身体",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "退学",
+        "wordId": 59213,
+        "optionDtos": [{
+            "wordOptionId": 116872,
+            "wordOptionDesc": "退学",
+            "isRight": 1,
+            "wordId": 59213
+        }],
+        "wordDesc": "（たいがく）⓪【名·自动3】退学",
+        "correctDesc": "退学",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "学級",
+        "wordId": 59214,
+        "optionDtos": [{
+            "wordOptionId": 116873,
+            "wordOptionDesc": "班级",
+            "isRight": 1,
+            "wordId": 59214
+        }],
+        "wordDesc": "（がっきゅう）⓪【名】班级",
+        "correctDesc": "班级",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "送別",
+        "wordId": 59215,
+        "optionDtos": [{
+            "wordOptionId": 116874,
+            "wordOptionDesc": "送别，送行",
+            "isRight": 1,
+            "wordId": 59215
+        }],
+        "wordDesc": "（そうべつ）⓪【名·他动3】送别，送行",
+        "correctDesc": "送别，送行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ソース",
+        "wordId": 59216,
+        "optionDtos": [{
+            "wordOptionId": 116875,
+            "wordOptionDesc": "酱料，调味汁",
+            "isRight": 1,
+            "wordId": 59216
+        }],
+        "wordDesc": "（sauce）①【名】酱料，调味汁",
+        "correctDesc": "酱料，调味汁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "麻",
+        "wordId": 59217,
+        "optionDtos": [{
+            "wordOptionId": 116876,
+            "wordOptionDesc": "麻，麻布",
+            "isRight": 1,
+            "wordId": 59217
+        }],
+        "wordDesc": "（あさ）②【名】麻，麻布",
+        "correctDesc": "麻，麻布",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "等しい",
+        "wordId": 59218,
+        "optionDtos": [{
+            "wordOptionId": 116877,
+            "wordOptionDesc": "相等的，相同的，一样的",
+            "isRight": 1,
+            "wordId": 59218
+        }],
+        "wordDesc": "（ひとしい）③【イ形】相等的，相同的，一样的",
+        "correctDesc": "相等的，相同的，一样的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "朝顔",
+        "wordId": 59219,
+        "optionDtos": [{
+            "wordOptionId": 116878,
+            "wordOptionDesc": "牵牛花，喇叭花",
+            "isRight": 1,
+            "wordId": 59219
+        }],
+        "wordDesc": "（あさがお）②【名】牵牛花，喇叭花",
+        "correctDesc": "牵牛花，喇叭花",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "朝寝坊",
+        "wordId": 59220,
+        "optionDtos": [{
+            "wordOptionId": 116879,
+            "wordOptionDesc": "睡懒觉，起床晚",
+            "isRight": 1,
+            "wordId": 59220
+        }],
+        "wordDesc": "（あさねぼう）③【名·自动3】睡懒觉，起床晚",
+        "correctDesc": "睡懒觉，起床晚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "続々",
+        "wordId": 59221,
+        "optionDtos": [{
+            "wordOptionId": 116880,
+            "wordOptionDesc": "接连不断地，陆续",
+            "isRight": 1,
+            "wordId": 59221
+        }],
+        "wordDesc": "（ぞくぞく）①【副】接连不断地，陆续",
+        "correctDesc": "接连不断地，陆续",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "大気",
+        "wordId": 59222,
+        "optionDtos": [{
+            "wordOptionId": 116881,
+            "wordOptionDesc": "大气，空气；度量大，宽宏大量",
+            "isRight": 1,
+            "wordId": 59222
+        }],
+        "wordDesc": "（たいき）①【名】大气，空气；度量大，宽宏大量",
+        "correctDesc": "大气，空气；度量大，宽宏大量",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "愛する",
+        "wordId": 59223,
+        "optionDtos": [{
+            "wordOptionId": 116882,
+            "wordOptionDesc": "喜爱，热爱；爱；爱好",
+            "isRight": 1,
+            "wordId": 59223
+        }],
+        "wordDesc": "（あいする）③【他动3】喜爱，热爱；爱；爱好",
+        "correctDesc": "喜爱，热爱；爱；爱好",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "赤ん坊",
+        "wordId": 59224,
+        "optionDtos": [{
+            "wordOptionId": 116883,
+            "wordOptionDesc": "婴儿；幼稚，不懂事",
+            "isRight": 1,
+            "wordId": 59224
+        }],
+        "wordDesc": "（あかんぼう）⓪【名】婴儿；幼稚，不懂事",
+        "correctDesc": "婴儿；幼稚，不懂事",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "測定",
+        "wordId": 59225,
+        "optionDtos": [{
+            "wordOptionId": 116884,
+            "wordOptionDesc": "测定，测量",
+            "isRight": 1,
+            "wordId": 59225
+        }],
+        "wordDesc": "（そくてい）⓪【名·他动3】测定，测量",
+        "correctDesc": "测定，测量",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "組織",
+        "wordId": 59226,
+        "optionDtos": [{
+            "wordOptionId": 116885,
+            "wordOptionDesc": "组织；结构；体系",
+            "isRight": 1,
+            "wordId": 59226
+        }],
+        "wordDesc": "（そしき）①【名·他动3】组织；结构；体系",
+        "correctDesc": "组织；结构；体系",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "鮮やか",
+        "wordId": 59227,
+        "optionDtos": [{
+            "wordOptionId": 116886,
+            "wordOptionDesc": "鲜艳的，漂亮的；巧妙的，熟练的，优美的",
+            "isRight": 1,
+            "wordId": 59227
+        }],
+        "wordDesc": "（あざやか）②【ナ形】鲜艳的，漂亮的；巧妙的，熟练的，优美的",
+        "correctDesc": "鲜艳的，漂亮的；巧妙的，熟练的，优美的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "アニメ ",
+        "wordId": 59228,
+        "optionDtos": [{
+            "wordOptionId": 116887,
+            "wordOptionDesc": "动画片，动画制作",
+            "isRight": 1,
+            "wordId": 59228
+        }],
+        "wordDesc": "①【名】动画片，动画制作",
+        "correctDesc": "动画片，动画制作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "油絵",
+        "wordId": 59229,
+        "optionDtos": [{
+            "wordOptionId": 116888,
+            "wordOptionDesc": "油画",
+            "isRight": 1,
+            "wordId": 59229
+        }],
+        "wordDesc": "（あぶらえ）③【名】油画",
+        "correctDesc": "油画",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "備える",
+        "wordId": 59230,
+        "optionDtos": [{
+            "wordOptionId": 116889,
+            "wordOptionDesc": "具备，具有；准备；设置",
+            "isRight": 1,
+            "wordId": 59230
+        }],
+        "wordDesc": "（そなえる）③【他动2】具备，具有；准备；设置",
+        "correctDesc": "具备，具有；准备；设置",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "雨具",
+        "wordId": 59231,
+        "optionDtos": [{
+            "wordOptionId": 116890,
+            "wordOptionDesc": "雨具（雨伞、雨衣等）",
+            "isRight": 1,
+            "wordId": 59231
+        }],
+        "wordDesc": "（あまぐ）②【名】雨具（雨伞、雨衣等）",
+        "correctDesc": "雨具（雨伞、雨衣等）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ガール",
+        "wordId": 59232,
+        "optionDtos": [{
+            "wordOptionId": 116891,
+            "wordOptionDesc": "少女，女孩",
+            "isRight": 1,
+            "wordId": 59232
+        }],
+        "wordDesc": "（girl）①【名】少女，女孩",
+        "correctDesc": "少女，女孩",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "会館",
+        "wordId": 59233,
+        "optionDtos": [{
+            "wordOptionId": 116892,
+            "wordOptionDesc": "会馆（某团体住宿、开会、活动用的建筑）",
+            "isRight": 1,
+            "wordId": 59233
+        }],
+        "wordDesc": "（かいかん）⓪【名】会馆（某团体住宿、开会、活动用的建筑）",
+        "correctDesc": "会馆（某团体住宿、开会、活动用的建筑）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "むっと ",
+        "wordId": 59234,
+        "optionDtos": [{
+            "wordOptionId": 116893,
+            "wordOptionDesc": "发火，怒上心头；闷得慌，憋得慌",
+            "isRight": 1,
+            "wordId": 59234
+        }],
+        "wordDesc": "⓪【副·自动3】发火，怒上心头；闷得慌，憋得慌",
+        "correctDesc": "发火，怒上心头；闷得慌，憋得慌",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "めいめい ",
+        "wordId": 59235,
+        "optionDtos": [{
+            "wordOptionId": 116894,
+            "wordOptionDesc": "各个，各自",
+            "isRight": 1,
+            "wordId": 59235
+        }],
+        "wordDesc": "③【名·副】各个，各自",
+        "correctDesc": "各个，各自",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "課外",
+        "wordId": 59236,
+        "optionDtos": [{
+            "wordOptionId": 116895,
+            "wordOptionDesc": "课外，课堂以外",
+            "isRight": 1,
+            "wordId": 59236
+        }],
+        "wordDesc": "（かがい）①【名】课外，课堂以外",
+        "correctDesc": "课外，课堂以外",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "前者",
+        "wordId": 59237,
+        "optionDtos": [{
+            "wordOptionId": 116896,
+            "wordOptionDesc": "前者",
+            "isRight": 1,
+            "wordId": 59237
+        }],
+        "wordDesc": "（ぜんしゃ）①【名】前者",
+        "correctDesc": "前者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "戦術",
+        "wordId": 59238,
+        "optionDtos": [{
+            "wordOptionId": 116897,
+            "wordOptionDesc": "战术，策略",
+            "isRight": 1,
+            "wordId": 59238
+        }],
+        "wordDesc": "（せんじゅつ）⓪【名】战术，策略",
+        "correctDesc": "战术，策略",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "非行",
+        "wordId": 59239,
+        "optionDtos": [{
+            "wordOptionId": 116898,
+            "wordOptionDesc": "不正当的行为，不良行为",
+            "isRight": 1,
+            "wordId": 59239
+        }],
+        "wordDesc": "（ひこう）⓪【名】不正当的行为，不良行为",
+        "correctDesc": "不正当的行为，不良行为",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "前進",
+        "wordId": 59240,
+        "optionDtos": [{
+            "wordOptionId": 116899,
+            "wordOptionDesc": "前进",
+            "isRight": 1,
+            "wordId": 59240
+        }],
+        "wordDesc": "（ぜんしん）⓪【名·自动3】前进",
+        "correctDesc": "前进",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "深夜",
+        "wordId": 59241,
+        "optionDtos": [{
+            "wordOptionId": 116900,
+            "wordOptionDesc": "深夜，三更半夜",
+            "isRight": 1,
+            "wordId": 59241
+        }],
+        "wordDesc": "（しんや）①【名】深夜，三更半夜",
+        "correctDesc": "深夜，三更半夜",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "心理学",
+        "wordId": 59242,
+        "optionDtos": [{
+            "wordOptionId": 116901,
+            "wordOptionDesc": "心理学",
+            "isRight": 1,
+            "wordId": 59242
+        }],
+        "wordDesc": "（しんりがく）③【名】心理学",
+        "correctDesc": "心理学",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "突っかかる",
+        "wordId": 59243,
+        "optionDtos": [{
+            "wordOptionId": 116902,
+            "wordOptionDesc": "顶撞，抬杠；猛扑；撞上，绊倒",
+            "isRight": 1,
+            "wordId": 59243
+        }],
+        "wordDesc": "（つっかかる）④【自动1】顶撞，抬杠；猛扑；撞上，绊倒",
+        "correctDesc": "顶撞，抬杠；猛扑；撞上，绊倒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "書き上げる",
+        "wordId": 59244,
+        "optionDtos": [{
+            "wordOptionId": 116903,
+            "wordOptionDesc": "写完，写成；列出",
+            "isRight": 1,
+            "wordId": 59244
+        }],
+        "wordDesc": "（かきあげる）④【他动2】写完，写成；列出",
+        "correctDesc": "写完，写成；列出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "限る",
+        "wordId": 59245,
+        "optionDtos": [{
+            "wordOptionId": 116904,
+            "wordOptionDesc": "限定，限制；限于；最好",
+            "isRight": 1,
+            "wordId": 59245
+        }],
+        "wordDesc": "（かぎる）②【自他动1】限定，限制；限于；最好",
+        "correctDesc": "限定，限制；限于；最好",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "各自",
+        "wordId": 59246,
+        "optionDtos": [{
+            "wordOptionId": 116905,
+            "wordOptionDesc": "各自，每个人",
+            "isRight": 1,
+            "wordId": 59246
+        }],
+        "wordDesc": "（かくじ）①【名】各自，每个人",
+        "correctDesc": "各自，每个人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "隠す",
+        "wordId": 59247,
+        "optionDtos": [{
+            "wordOptionId": 116906,
+            "wordOptionDesc": "掩盖，掩饰；隐藏；隐瞒",
+            "isRight": 1,
+            "wordId": 59247
+        }],
+        "wordDesc": "（かくす）②【他动1】掩盖，掩饰；隐藏；隐瞒",
+        "correctDesc": "掩盖，掩饰；隐藏；隐瞒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "いくらか ",
+        "wordId": 59248,
+        "optionDtos": [{
+            "wordOptionId": 116907,
+            "wordOptionDesc": "稍微，一些，一点儿",
+            "isRight": 1,
+            "wordId": 59248
+        }],
+        "wordDesc": "①【名·副】稍微，一些，一点儿",
+        "correctDesc": "稍微，一些，一点儿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "一石二鳥",
+        "wordId": 59249,
+        "optionDtos": [{
+            "wordOptionId": 116908,
+            "wordOptionDesc": "一石二鸟，一箭双雕",
+            "isRight": 1,
+            "wordId": 59249
+        }],
+        "wordDesc": "（いっせきにちょう）⓪【名】一石二鸟，一箭双雕",
+        "correctDesc": "一石二鸟，一箭双雕",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "海沿い",
+        "wordId": 59250,
+        "optionDtos": [{
+            "wordOptionId": 116909,
+            "wordOptionDesc": "沿海",
+            "isRight": 1,
+            "wordId": 59250
+        }],
+        "wordDesc": "（うみぞい）⓪【名】沿海",
+        "correctDesc": "沿海",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "かき混ぜる",
+        "wordId": 59251,
+        "optionDtos": [{
+            "wordOptionId": 116910,
+            "wordOptionDesc": "搅拌，混合",
+            "isRight": 1,
+            "wordId": 59251
+        }],
+        "wordDesc": "（かきまぜる）④【他动2】搅拌，混合",
+        "correctDesc": "搅拌，混合",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "各人",
+        "wordId": 59252,
+        "optionDtos": [{
+            "wordOptionId": 116911,
+            "wordOptionDesc": "各人，各自",
+            "isRight": 1,
+            "wordId": 59252
+        }],
+        "wordDesc": "（かくじん）①【名】各人，各自",
+        "correctDesc": "各人，各自",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ご無沙汰",
+        "wordId": 59253,
+        "optionDtos": [{
+            "wordOptionId": 116912,
+            "wordOptionDesc": "久未问候，久未拜访",
+            "isRight": 1,
+            "wordId": 59253
+        }],
+        "wordDesc": "（ごぶさた）⓪【名·自动3】久未问候，久未拜访",
+        "correctDesc": "久未问候，久未拜访",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "持参",
+        "wordId": 59254,
+        "optionDtos": [{
+            "wordOptionId": 116913,
+            "wordOptionDesc": "携带，带来，自备",
+            "isRight": 1,
+            "wordId": 59254
+        }],
+        "wordDesc": "（じさん）⓪【名·他动3】携带，带来，自备",
+        "correctDesc": "携带，带来，自备",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "品切れ",
+        "wordId": 59255,
+        "optionDtos": [{
+            "wordOptionId": 116914,
+            "wordOptionDesc": "卖完，售罄",
+            "isRight": 1,
+            "wordId": 59255
+        }],
+        "wordDesc": "（しなぎれ）⓪【名】卖完，售罄",
+        "correctDesc": "卖完，售罄",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "シャッター",
+        "wordId": 59256,
+        "optionDtos": [{
+            "wordOptionId": 116915,
+            "wordOptionDesc": "快门；百叶窗",
+            "isRight": 1,
+            "wordId": 59256
+        }],
+        "wordDesc": "（shutter）①【名】快门；百叶窗",
+        "correctDesc": "快门；百叶窗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "整数",
+        "wordId": 59257,
+        "optionDtos": [{
+            "wordOptionId": 116916,
+            "wordOptionDesc": "整数",
+            "isRight": 1,
+            "wordId": 59257
+        }],
+        "wordDesc": "（せいすう）③【名】整数",
+        "correctDesc": "整数",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "想定",
+        "wordId": 59258,
+        "optionDtos": [{
+            "wordOptionId": 116917,
+            "wordOptionDesc": "估计，设想，假想",
+            "isRight": 1,
+            "wordId": 59258
+        }],
+        "wordDesc": "（そうてい）⓪【名·他动3】估计，设想，假想",
+        "correctDesc": "估计，设想，假想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "通用",
+        "wordId": 59259,
+        "optionDtos": [{
+            "wordOptionId": 116918,
+            "wordOptionDesc": "通用，流通",
+            "isRight": 1,
+            "wordId": 59259
+        }],
+        "wordDesc": "（つうよう）⓪【名·自动3】通用，流通",
+        "correctDesc": "通用，流通",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "手書き",
+        "wordId": 59260,
+        "optionDtos": [{
+            "wordOptionId": 116919,
+            "wordOptionDesc": "手写，手抄",
+            "isRight": 1,
+            "wordId": 59260
+        }],
+        "wordDesc": "（てがき）⓪【名·他动3】手写，手抄",
+        "correctDesc": "手写，手抄",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "長時間",
+        "wordId": 59261,
+        "optionDtos": [{
+            "wordOptionId": 116920,
+            "wordOptionDesc": "长时间",
+            "isRight": 1,
+            "wordId": 59261
+        }],
+        "wordDesc": "（ちょうじかん）③【名】长时间",
+        "correctDesc": "长时间",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "バケツ",
+        "wordId": 59262,
+        "optionDtos": [{
+            "wordOptionId": 116921,
+            "wordOptionDesc": "水桶",
+            "isRight": 1,
+            "wordId": 59262
+        }],
+        "wordDesc": "（bucket）⓪【名】水桶",
+        "correctDesc": "水桶",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "真剣",
+        "wordId": 59263,
+        "optionDtos": [{
+            "wordOptionId": 116922,
+            "wordOptionDesc": "认真的，一丝不苟的",
+            "isRight": 1,
+            "wordId": 59263
+        }],
+        "wordDesc": "（しんけん）⓪【ナ形】认真的，一丝不苟的",
+        "correctDesc": "认真的，一丝不苟的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "吠える",
+        "wordId": 59264,
+        "optionDtos": [{
+            "wordOptionId": 116923,
+            "wordOptionDesc": "（动物）吼叫",
+            "isRight": 1,
+            "wordId": 59264
+        }],
+        "wordDesc": "（ほえる）②【自动2】（动物）吼叫",
+        "correctDesc": "（动物）吼叫",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "人権",
+        "wordId": 59265,
+        "optionDtos": [{
+            "wordOptionId": 116924,
+            "wordOptionDesc": "人权",
+            "isRight": 1,
+            "wordId": 59265
+        }],
+        "wordDesc": "（じんけん）⓪【名】人权",
+        "correctDesc": "人权",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "一眠り",
+        "wordId": 59266,
+        "optionDtos": [{
+            "wordOptionId": 116925,
+            "wordOptionDesc": "打盹儿，睡一会儿",
+            "isRight": 1,
+            "wordId": 59266
+        }],
+        "wordDesc": "（ひとねむり）②【名·自动3】打盹儿，睡一会儿",
+        "correctDesc": "打盹儿，睡一会儿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "販売",
+        "wordId": 59267,
+        "optionDtos": [{
+            "wordOptionId": 116926,
+            "wordOptionDesc": "贩卖，销售",
+            "isRight": 1,
+            "wordId": 59267
+        }],
+        "wordDesc": "（はんばい）⓪【名·他动3】贩卖，销售",
+        "correctDesc": "贩卖，销售",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "科目",
+        "wordId": 59268,
+        "optionDtos": [{
+            "wordOptionId": 116927,
+            "wordOptionDesc": "科目；学科；项目",
+            "isRight": 1,
+            "wordId": 59268
+        }],
+        "wordDesc": "（かもく）⓪【名】科目；学科；项目",
+        "correctDesc": "科目；学科；项目",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "反面",
+        "wordId": 59269,
+        "optionDtos": [{
+            "wordOptionId": 116928,
+            "wordOptionDesc": "反面；另一面",
+            "isRight": 1,
+            "wordId": 59269
+        }],
+        "wordDesc": "（はんめん）③【名·副】反面；另一面",
+        "correctDesc": "反面；另一面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "窓際",
+        "wordId": 59270,
+        "optionDtos": [{
+            "wordOptionId": 116929,
+            "wordOptionDesc": "窗边，靠窗",
+            "isRight": 1,
+            "wordId": 59270
+        }],
+        "wordDesc": "（まどぎわ）⓪【名】窗边，靠窗",
+        "correctDesc": "窗边，靠窗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "吊る",
+        "wordId": 59271,
+        "optionDtos": [{
+            "wordOptionId": 116930,
+            "wordOptionDesc": "吊，悬，挂",
+            "isRight": 1,
+            "wordId": 59271
+        }],
+        "wordDesc": "（つる）⓪【自他动1】吊，悬，挂",
+        "correctDesc": "吊，悬，挂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "アウトレット",
+        "wordId": 59272,
+        "optionDtos": [{
+            "wordOptionId": 116931,
+            "wordOptionDesc": "工厂直销，（奥特莱斯 ）直销店",
+            "isRight": 1,
+            "wordId": 59272
+        }],
+        "wordDesc": "（outlet）④【名】工厂直销，（奥特莱斯 ）直销店",
+        "correctDesc": "工厂直销，（奥特莱斯 ）直销店",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "居合わせる",
+        "wordId": 59273,
+        "optionDtos": [{
+            "wordOptionId": 116932,
+            "wordOptionDesc": "正好在场",
+            "isRight": 1,
+            "wordId": 59273
+        }],
+        "wordDesc": "（いあわせる）④【自动2】正好在场",
+        "correctDesc": "正好在场",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "浮かび上がる",
+        "wordId": 59274,
+        "optionDtos": [{
+            "wordOptionId": 116933,
+            "wordOptionDesc": "浮起来；显露；翻身，发迹",
+            "isRight": 1,
+            "wordId": 59274
+        }],
+        "wordDesc": "（うかびあがる）⑤【自动1】浮起来；显露；翻身，发迹",
+        "correctDesc": "浮起来；显露；翻身，发迹",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "艶",
+        "wordId": 59275,
+        "optionDtos": [{
+            "wordOptionId": 116934,
+            "wordOptionDesc": "光泽，光亮，润泽",
+            "isRight": 1,
+            "wordId": 59275
+        }],
+        "wordDesc": "（つや）⓪【名】光泽，光亮，润泽",
+        "correctDesc": "光泽，光亮，润泽",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "特定",
+        "wordId": 59276,
+        "optionDtos": [{
+            "wordOptionId": 116935,
+            "wordOptionDesc": "特别指定；查明，断定",
+            "isRight": 1,
+            "wordId": 59276
+        }],
+        "wordDesc": "（とくてい）⓪【名·他动3】特别指定；查明，断定",
+        "correctDesc": "特别指定；查明，断定",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "後ろ足",
+        "wordId": 59277,
+        "optionDtos": [{
+            "wordOptionId": 116936,
+            "wordOptionDesc": "后腿，后肢；转过身去要跑",
+            "isRight": 1,
+            "wordId": 59277
+        }],
+        "wordDesc": "（うしろあし）③【名】后腿，后肢；转过身去要跑",
+        "correctDesc": "后腿，后肢；转过身去要跑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "海開き",
+        "wordId": 59278,
+        "optionDtos": [{
+            "wordOptionId": 116937,
+            "wordOptionDesc": "开放海水浴场",
+            "isRight": 1,
+            "wordId": 59278
+        }],
+        "wordDesc": "（うみびらき）③【名】开放海水浴场",
+        "correctDesc": "开放海水浴场",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "教え込む",
+        "wordId": 59279,
+        "optionDtos": [{
+            "wordOptionId": 116938,
+            "wordOptionDesc": "灌输，谆谆教诲",
+            "isRight": 1,
+            "wordId": 59279
+        }],
+        "wordDesc": "（おしえこむ）④【他动1】灌输，谆谆教诲",
+        "correctDesc": "灌输，谆谆教诲",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "コレクション",
+        "wordId": 59280,
+        "optionDtos": [{
+            "wordOptionId": 116939,
+            "wordOptionDesc": "收集，收藏",
+            "isRight": 1,
+            "wordId": 59280
+        }],
+        "wordDesc": "（collection）②【名】收集，收藏",
+        "correctDesc": "收集，收藏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "押し付ける",
+        "wordId": 59281,
+        "optionDtos": [{
+            "wordOptionId": 116940,
+            "wordOptionDesc": "压，按住；强加于人",
+            "isRight": 1,
+            "wordId": 59281
+        }],
+        "wordDesc": "（おしつける）④【他动2】压，按住；强加于人",
+        "correctDesc": "压，按住；强加于人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "論点",
+        "wordId": 59282,
+        "optionDtos": [{
+            "wordOptionId": 116941,
+            "wordOptionDesc": "论点，争论的中心点",
+            "isRight": 1,
+            "wordId": 59282
+        }],
+        "wordDesc": "（ろんてん）③【名】论点，争论的中心点",
+        "correctDesc": "论点，争论的中心点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "織姫",
+        "wordId": 59283,
+        "optionDtos": [{
+            "wordOptionId": 116942,
+            "wordOptionDesc": "织女；织女星",
+            "isRight": 1,
+            "wordId": 59283
+        }],
+        "wordDesc": "（おりひめ）②【名】织女；织女星",
+        "correctDesc": "织女；织女星",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "お雛様",
+        "wordId": 59284,
+        "optionDtos": [{
+            "wordOptionId": 116943,
+            "wordOptionDesc": "古装人偶；女儿节",
+            "isRight": 1,
+            "wordId": 59284
+        }],
+        "wordDesc": "（おひなさま）②【名】古装人偶；女儿节",
+        "correctDesc": "古装人偶；女儿节",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "外壁",
+        "wordId": 59285,
+        "optionDtos": [{
+            "wordOptionId": 116944,
+            "wordOptionDesc": "外壁，外墙",
+            "isRight": 1,
+            "wordId": 59285
+        }],
+        "wordDesc": "（がいへき）⓪【名】外壁，外墙",
+        "correctDesc": "外壁，外墙",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "カウンセリング",
+        "wordId": 59286,
+        "optionDtos": [{
+            "wordOptionId": 116945,
+            "wordOptionDesc": "心理咨询，咨询指导",
+            "isRight": 1,
+            "wordId": 59286
+        }],
+        "wordDesc": "（counseling）②【名】心理咨询，咨询指导",
+        "correctDesc": "心理咨询，咨询指导",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "替え芯",
+        "wordId": 59287,
+        "optionDtos": [{
+            "wordOptionId": 116946,
+            "wordOptionDesc": "替芯，备用芯",
+            "isRight": 1,
+            "wordId": 59287
+        }],
+        "wordDesc": "（かえしん）⓪【名】替芯，备用芯",
+        "correctDesc": "替芯，备用芯",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "遭難",
+        "wordId": 59288,
+        "optionDtos": [{
+            "wordOptionId": 116947,
+            "wordOptionDesc": "遇难，遇险",
+            "isRight": 1,
+            "wordId": 59288
+        }],
+        "wordDesc": "（そうなん）⓪【名·自动3】遇难，遇险",
+        "correctDesc": "遇难，遇险",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "事柄",
+        "wordId": 59289,
+        "optionDtos": [{
+            "wordOptionId": 116948,
+            "wordOptionDesc": "事情，事态",
+            "isRight": 1,
+            "wordId": 59289
+        }],
+        "wordDesc": "（ことがら）⓪【名】事情，事态",
+        "correctDesc": "事情，事态",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "国旗",
+        "wordId": 59290,
+        "optionDtos": [{
+            "wordOptionId": 116949,
+            "wordOptionDesc": "国旗",
+            "isRight": 1,
+            "wordId": 59290
+        }],
+        "wordDesc": "（こっき）⓪【名】国旗",
+        "correctDesc": "国旗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "革靴",
+        "wordId": 59291,
+        "optionDtos": [{
+            "wordOptionId": 116950,
+            "wordOptionDesc": "皮鞋",
+            "isRight": 1,
+            "wordId": 59291
+        }],
+        "wordDesc": "（かわぐつ）⓪【名】皮鞋",
+        "correctDesc": "皮鞋",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "古典",
+        "wordId": 59292,
+        "optionDtos": [{
+            "wordOptionId": 116951,
+            "wordOptionDesc": "古书，古籍；古典作品",
+            "isRight": 1,
+            "wordId": 59292
+        }],
+        "wordDesc": "（こてん）⓪【名】古书，古籍；古典作品",
+        "correctDesc": "古书，古籍；古典作品",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "友",
+        "wordId": 59293,
+        "optionDtos": [{
+            "wordOptionId": 116952,
+            "wordOptionDesc": "朋友，友人",
+            "isRight": 1,
+            "wordId": 59293
+        }],
+        "wordDesc": "（とも）①【名】朋友，友人",
+        "correctDesc": "朋友，友人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "発電",
+        "wordId": 59294,
+        "optionDtos": [{
+            "wordOptionId": 116953,
+            "wordOptionDesc": "发电",
+            "isRight": 1,
+            "wordId": 59294
+        }],
+        "wordDesc": "（はつでん）⓪【名·自动3】发电",
+        "correctDesc": "发电",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "琴",
+        "wordId": 59295,
+        "optionDtos": [{
+            "wordOptionId": 116954,
+            "wordOptionDesc": "古琴，筝",
+            "isRight": 1,
+            "wordId": 59295
+        }],
+        "wordDesc": "（こと）①【名】古琴，筝",
+        "correctDesc": "古琴，筝",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "過大",
+        "wordId": 59296,
+        "optionDtos": [{
+            "wordOptionId": 116955,
+            "wordOptionDesc": "过大的",
+            "isRight": 1,
+            "wordId": 59296
+        }],
+        "wordDesc": "（かだい）⓪【ナ形】过大的",
+        "correctDesc": "过大的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "言付ける",
+        "wordId": 59297,
+        "optionDtos": [{
+            "wordOptionId": 116956,
+            "wordOptionDesc": "托人带口信",
+            "isRight": 1,
+            "wordId": 59297
+        }],
+        "wordDesc": "（ことづける）④【他动2】托人带口信",
+        "correctDesc": "托人带口信",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "殊に",
+        "wordId": 59298,
+        "optionDtos": [{
+            "wordOptionId": 116957,
+            "wordOptionDesc": "特别，尤其",
+            "isRight": 1,
+            "wordId": 59298
+        }],
+        "wordDesc": "（ことに）①【副】特别，尤其",
+        "correctDesc": "特别，尤其",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "読者",
+        "wordId": 59299,
+        "optionDtos": [{
+            "wordOptionId": 116958,
+            "wordOptionDesc": "读者",
+            "isRight": 1,
+            "wordId": 59299
+        }],
+        "wordDesc": "（どくしゃ）①【名】读者",
+        "correctDesc": "读者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "こなす ",
+        "wordId": 59300,
+        "optionDtos": [{
+            "wordOptionId": 116959,
+            "wordOptionDesc": "运用自如，掌握；做完；弄碎；销售",
+            "isRight": 1,
+            "wordId": 59300
+        }],
+        "wordDesc": "⓪【他动1】运用自如，掌握；做完；弄碎；销售",
+        "correctDesc": "运用自如，掌握；做完；弄碎；销售",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "好む",
+        "wordId": 59301,
+        "optionDtos": [{
+            "wordOptionId": 116960,
+            "wordOptionDesc": "喜爱，爱好，喜欢",
+            "isRight": 1,
+            "wordId": 59301
+        }],
+        "wordDesc": "（このむ）②【他动1】喜爱，爱好，喜欢",
+        "correctDesc": "喜爱，爱好，喜欢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "換気",
+        "wordId": 59302,
+        "optionDtos": [{
+            "wordOptionId": 116961,
+            "wordOptionDesc": "换气，通风",
+            "isRight": 1,
+            "wordId": 59302
+        }],
+        "wordDesc": "（かんき）①【名·自动3】换气，通风",
+        "correctDesc": "换气，通风",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "規則正しい",
+        "wordId": 59303,
+        "optionDtos": [{
+            "wordOptionId": 116962,
+            "wordOptionDesc": "有规律的",
+            "isRight": 1,
+            "wordId": 59303
+        }],
+        "wordDesc": "（きそくただしい）⑥【イ形】有规律的",
+        "correctDesc": "有规律的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "偶数",
+        "wordId": 59304,
+        "optionDtos": [{
+            "wordOptionId": 116963,
+            "wordOptionDesc": "偶数",
+            "isRight": 1,
+            "wordId": 59304
+        }],
+        "wordDesc": "（ぐうすう）③【名】偶数",
+        "correctDesc": "偶数",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "謙遜",
+        "wordId": 59305,
+        "optionDtos": [{
+            "wordOptionId": 116964,
+            "wordOptionDesc": "谦逊，谦虚",
+            "isRight": 1,
+            "wordId": 59305
+        }],
+        "wordDesc": "（けんそん）⓪【名·ナ形·自动3】谦逊，谦虚",
+        "correctDesc": "谦逊，谦虚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "すくすく ",
+        "wordId": 59306,
+        "optionDtos": [{
+            "wordOptionId": 116965,
+            "wordOptionDesc": "茁壮成长，长得很快",
+            "isRight": 1,
+            "wordId": 59306
+        }],
+        "wordDesc": "②【副】茁壮成长，长得很快",
+        "correctDesc": "茁壮成长，长得很快",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "厚生",
+        "wordId": 59307,
+        "optionDtos": [{
+            "wordOptionId": 116966,
+            "wordOptionDesc": "福利，保健，卫生",
+            "isRight": 1,
+            "wordId": 59307
+        }],
+        "wordDesc": "（こうせい）⓪【名】福利，保健，卫生",
+        "correctDesc": "福利，保健，卫生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "垂れる",
+        "wordId": 59308,
+        "optionDtos": [{
+            "wordOptionId": 116967,
+            "wordOptionDesc": "下垂，耷拉；使下垂",
+            "isRight": 1,
+            "wordId": 59308
+        }],
+        "wordDesc": "（たれる）②【自他动2】下垂，耷拉；使下垂",
+        "correctDesc": "下垂，耷拉；使下垂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "傾ける",
+        "wordId": 59309,
+        "optionDtos": [{
+            "wordOptionId": 116968,
+            "wordOptionDesc": "使倾斜；倾注；败（家）",
+            "isRight": 1,
+            "wordId": 59309
+        }],
+        "wordDesc": "（かたむける）④【他动2】使倾斜；倾注；败（家）",
+        "correctDesc": "使倾斜；倾注；败（家）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "転がす",
+        "wordId": 59310,
+        "optionDtos": [{
+            "wordOptionId": 116969,
+            "wordOptionDesc": "滚动，转动；弄倒；推进（事物）",
+            "isRight": 1,
+            "wordId": 59310
+        }],
+        "wordDesc": "（ころがす）⓪【他动1】滚动，转动；弄倒；推进（事物）",
+        "correctDesc": "滚动，转动；弄倒；推进（事物）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ごろごろ ",
+        "wordId": 59311,
+        "optionDtos": [{
+            "wordOptionId": 116970,
+            "wordOptionDesc": "闲着没事；咕噜咕噜滚动；到处都是；轰隆声",
+            "isRight": 1,
+            "wordId": 59311
+        }],
+        "wordDesc": "①【副·自动3】闲着没事；咕噜咕噜滚动；到处都是；轰隆声",
+        "correctDesc": "闲着没事；咕噜咕噜滚动；到处都是；轰隆声",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "しんみり ",
+        "wordId": 59312,
+        "optionDtos": [{
+            "wordOptionId": 116971,
+            "wordOptionDesc": "心平气和；沉静，寂静",
+            "isRight": 1,
+            "wordId": 59312
+        }],
+        "wordDesc": "③【副·自动3】心平气和；沉静，寂静",
+        "correctDesc": "心平气和；沉静，寂静",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "根拠",
+        "wordId": 59313,
+        "optionDtos": [{
+            "wordOptionId": 116972,
+            "wordOptionDesc": "根据，依据",
+            "isRight": 1,
+            "wordId": 59313
+        }],
+        "wordDesc": "（こんきょ）①【名】根据，依据",
+        "correctDesc": "根据，依据",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "固める",
+        "wordId": 59314,
+        "optionDtos": [{
+            "wordOptionId": 116973,
+            "wordOptionDesc": "使凝固；坚定，巩固",
+            "isRight": 1,
+            "wordId": 59314
+        }],
+        "wordDesc": "（かためる）⓪【他动2】使凝固；坚定，巩固",
+        "correctDesc": "使凝固；坚定，巩固",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "勝ち負け",
+        "wordId": 59315,
+        "optionDtos": [{
+            "wordOptionId": 116974,
+            "wordOptionDesc": "胜负，输赢",
+            "isRight": 1,
+            "wordId": 59315
+        }],
+        "wordDesc": "（かちまけ）①【名】胜负，输赢",
+        "correctDesc": "胜负，输赢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "変革",
+        "wordId": 59316,
+        "optionDtos": [{
+            "wordOptionId": 116975,
+            "wordOptionDesc": "变革，改革",
+            "isRight": 1,
+            "wordId": 59316
+        }],
+        "wordDesc": "（へんかく）⓪【名·自他动3】变革，改革",
+        "correctDesc": "变革，改革",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "囀る",
+        "wordId": 59317,
+        "optionDtos": [{
+            "wordOptionId": 116976,
+            "wordOptionDesc": "（小鸟）叽叽喳喳；喋喋不休",
+            "isRight": 1,
+            "wordId": 59317
+        }],
+        "wordDesc": "（さえずる）③【自动1】（小鸟）叽叽喳喳；喋喋不休",
+        "correctDesc": "（小鸟）叽叽喳喳；喋喋不休",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "そそっかしい ",
+        "wordId": 59318,
+        "optionDtos": [{
+            "wordOptionId": 116977,
+            "wordOptionDesc": "毛手毛脚的，粗心大意的",
+            "isRight": 1,
+            "wordId": 59318
+        }],
+        "wordDesc": "⑤【イ形】毛手毛脚的，粗心大意的",
+        "correctDesc": "毛手毛脚的，粗心大意的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "活発",
+        "wordId": 59319,
+        "optionDtos": [{
+            "wordOptionId": 116978,
+            "wordOptionDesc": "活泼的，活跃的",
+            "isRight": 1,
+            "wordId": 59319
+        }],
+        "wordDesc": "（かっぱつ）⓪【ナ形】活泼的，活跃的",
+        "correctDesc": "活泼的，活跃的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "不完全",
+        "wordId": 59320,
+        "optionDtos": [{
+            "wordOptionId": 116979,
+            "wordOptionDesc": "不完全，不完备，不足",
+            "isRight": 1,
+            "wordId": 59320
+        }],
+        "wordDesc": "（ふかんぜん）②【名·ナ形】不完全，不完备，不足",
+        "correctDesc": "不完全，不完备，不足",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "活用",
+        "wordId": 59321,
+        "optionDtos": [{
+            "wordOptionId": 116980,
+            "wordOptionDesc": "灵活运用；词尾变化",
+            "isRight": 1,
+            "wordId": 59321
+        }],
+        "wordDesc": "（かつよう）⓪【名·自他动3】灵活运用；词尾变化",
+        "correctDesc": "灵活运用；词尾变化",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "防犯",
+        "wordId": 59322,
+        "optionDtos": [{
+            "wordOptionId": 116981,
+            "wordOptionDesc": "防止犯罪",
+            "isRight": 1,
+            "wordId": 59322
+        }],
+        "wordDesc": "（ぼうはん）⓪【名】防止犯罪",
+        "correctDesc": "防止犯罪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "反する",
+        "wordId": 59323,
+        "optionDtos": [{
+            "wordOptionId": 116982,
+            "wordOptionDesc": "违反；相反，相悖",
+            "isRight": 1,
+            "wordId": 59323
+        }],
+        "wordDesc": "（はんする）③【自动3】违反；相反，相悖",
+        "correctDesc": "违反；相反，相悖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "観念",
+        "wordId": 59324,
+        "optionDtos": [{
+            "wordOptionId": 116983,
+            "wordOptionDesc": "观念，想法",
+            "isRight": 1,
+            "wordId": 59324
+        }],
+        "wordDesc": "（かんねん）①【名】观念，想法",
+        "correctDesc": "观念，想法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "反省",
+        "wordId": 59325,
+        "optionDtos": [{
+            "wordOptionId": 116984,
+            "wordOptionDesc": "反省，自我检查",
+            "isRight": 1,
+            "wordId": 59325
+        }],
+        "wordDesc": "（はんせい）⓪【名·他动3】反省，自我检查",
+        "correctDesc": "反省，自我检查",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "混同",
+        "wordId": 59326,
+        "optionDtos": [{
+            "wordOptionId": 116985,
+            "wordOptionDesc": "混为一谈，混淆",
+            "isRight": 1,
+            "wordId": 59326
+        }],
+        "wordDesc": "（こんどう）⓪【名·自动3】混为一谈，混淆",
+        "correctDesc": "混为一谈，混淆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "再開",
+        "wordId": 59327,
+        "optionDtos": [{
+            "wordOptionId": 116986,
+            "wordOptionDesc": "重新开始，重新进行",
+            "isRight": 1,
+            "wordId": 59327
+        }],
+        "wordDesc": "（さいかい）⓪【名·自动3】重新开始，重新进行",
+        "correctDesc": "重新开始，重新进行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "且つ",
+        "wordId": 59328,
+        "optionDtos": [{
+            "wordOptionId": 116987,
+            "wordOptionDesc": "一边……一边……；而且，并且",
+            "isRight": 1,
+            "wordId": 59328
+        }],
+        "wordDesc": "（かつ）①【副·接续】一边……一边……；而且，并且",
+        "correctDesc": "一边……一边……；而且，并且",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "活気",
+        "wordId": 59329,
+        "optionDtos": [{
+            "wordOptionId": 116988,
+            "wordOptionDesc": "活力，生机，朝气",
+            "isRight": 1,
+            "wordId": 59329
+        }],
+        "wordDesc": "（かっき）⓪【名】活力，生机，朝气",
+        "correctDesc": "活力，生机，朝气",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "催促",
+        "wordId": 59330,
+        "optionDtos": [{
+            "wordOptionId": 116989,
+            "wordOptionDesc": "催促，催；催讨",
+            "isRight": 1,
+            "wordId": 59330
+        }],
+        "wordDesc": "（さいそく）①【名·他动3】催促，催；催讨",
+        "correctDesc": "催促，催；催讨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "否定",
+        "wordId": 59331,
+        "optionDtos": [{
+            "wordOptionId": 116990,
+            "wordOptionDesc": "否定，否认",
+            "isRight": 1,
+            "wordId": 59331
+        }],
+        "wordDesc": "（ひてい）⓪【名·他动3】否定，否认",
+        "correctDesc": "否定，否认",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ボランティア",
+        "wordId": 59332,
+        "optionDtos": [{
+            "wordOptionId": 116991,
+            "wordOptionDesc": "志愿者",
+            "isRight": 1,
+            "wordId": 59332
+        }],
+        "wordDesc": "（volunteer）②【名】志愿者",
+        "correctDesc": "志愿者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "小麦",
+        "wordId": 59333,
+        "optionDtos": [{
+            "wordOptionId": 116992,
+            "wordOptionDesc": "小麦",
+            "isRight": 1,
+            "wordId": 59333
+        }],
+        "wordDesc": "（こむぎ）⓪【名】小麦",
+        "correctDesc": "小麦",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "一息",
+        "wordId": 59334,
+        "optionDtos": [{
+            "wordOptionId": 116993,
+            "wordOptionDesc": "喘口气；一口气；加把劲儿",
+            "isRight": 1,
+            "wordId": 59334
+        }],
+        "wordDesc": "（ひといき）②【名】喘口气；一口气；加把劲儿",
+        "correctDesc": "喘口气；一口气；加把劲儿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "マイク ",
+        "wordId": 59335,
+        "optionDtos": [{
+            "wordOptionId": 116994,
+            "wordOptionDesc": "麦克风，话筒，扩音器",
+            "isRight": 1,
+            "wordId": 59335
+        }],
+        "wordDesc": "①【名】麦克风，话筒，扩音器",
+        "correctDesc": "麦克风，话筒，扩音器",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "一目",
+        "wordId": 59336,
+        "optionDtos": [{
+            "wordOptionId": 116995,
+            "wordOptionDesc": "看一眼，一看；一眼看穿",
+            "isRight": 1,
+            "wordId": 59336
+        }],
+        "wordDesc": "（ひとめ）②【名】看一眼，一看；一眼看穿",
+        "correctDesc": "看一眼，一看；一眼看穿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "人目",
+        "wordId": 59337,
+        "optionDtos": [{
+            "wordOptionId": 116996,
+            "wordOptionDesc": "他人的眼光，世人的目光",
+            "isRight": 1,
+            "wordId": 59337
+        }],
+        "wordDesc": "（ひとめ）⓪【名】他人的眼光，世人的目光",
+        "correctDesc": "他人的眼光，世人的目光",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "最中",
+        "wordId": 59338,
+        "optionDtos": [{
+            "wordOptionId": 116997,
+            "wordOptionDesc": "正在……之中；最盛时期",
+            "isRight": 1,
+            "wordId": 59338
+        }],
+        "wordDesc": "（さいちゅう）①【名】正在……之中；最盛时期",
+        "correctDesc": "正在……之中；最盛时期",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "気圧",
+        "wordId": 59339,
+        "optionDtos": [{
+            "wordOptionId": 116998,
+            "wordOptionDesc": "气压",
+            "isRight": 1,
+            "wordId": 59339
+        }],
+        "wordDesc": "（きあつ）⓪【名】气压",
+        "correctDesc": "气压",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "過半数",
+        "wordId": 59340,
+        "optionDtos": [{
+            "wordOptionId": 116999,
+            "wordOptionDesc": "过半数，半数以上",
+            "isRight": 1,
+            "wordId": 59340
+        }],
+        "wordDesc": "（かはんすう）②【名】过半数，半数以上",
+        "correctDesc": "过半数，半数以上",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "遂げる",
+        "wordId": 59341,
+        "optionDtos": [{
+            "wordOptionId": 117000,
+            "wordOptionDesc": "完成（任务），实现（愿望）",
+            "isRight": 1,
+            "wordId": 59341
+        }],
+        "wordDesc": "（とげる）②【他动2】完成（任务），实现（愿望）",
+        "correctDesc": "完成（任务），实现（愿望）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "裁判",
+        "wordId": 59342,
+        "optionDtos": [{
+            "wordOptionId": 117001,
+            "wordOptionDesc": "评判；审判，裁判",
+            "isRight": 1,
+            "wordId": 59342
+        }],
+        "wordDesc": "（さいばん）①【名·他动3】评判；审判，裁判",
+        "correctDesc": "评判；审判，裁判",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "悲惨",
+        "wordId": 59343,
+        "optionDtos": [{
+            "wordOptionId": 117002,
+            "wordOptionDesc": "悲惨，凄惨",
+            "isRight": 1,
+            "wordId": 59343
+        }],
+        "wordDesc": "（ひさん）⓪【名·ナ形】悲惨，凄惨",
+        "correctDesc": "悲惨，凄惨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "湖面",
+        "wordId": 59344,
+        "optionDtos": [{
+            "wordOptionId": 117003,
+            "wordOptionDesc": "湖面",
+            "isRight": 1,
+            "wordId": 59344
+        }],
+        "wordDesc": "（こめん）⓪【名】湖面",
+        "correctDesc": "湖面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "株",
+        "wordId": 59345,
+        "optionDtos": [{
+            "wordOptionId": 117004,
+            "wordOptionDesc": "股份，股票",
+            "isRight": 1,
+            "wordId": 59345
+        }],
+        "wordDesc": "（かぶ）⓪【名】股份，股票",
+        "correctDesc": "股份，股票",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "本質",
+        "wordId": 59346,
+        "optionDtos": [{
+            "wordOptionId": 117005,
+            "wordOptionDesc": "本质，骨子里",
+            "isRight": 1,
+            "wordId": 59346
+        }],
+        "wordDesc": "（ほんしつ）⓪【名】本质，骨子里",
+        "correctDesc": "本质，骨子里",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "独自",
+        "wordId": 59347,
+        "optionDtos": [{
+            "wordOptionId": 117006,
+            "wordOptionDesc": "独自，个人；独特的",
+            "isRight": 1,
+            "wordId": 59347
+        }],
+        "wordDesc": "（どくじ）①【名·ナ形】独自，个人；独特的",
+        "correctDesc": "独自，个人；独特的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "人込み",
+        "wordId": 59348,
+        "optionDtos": [{
+            "wordOptionId": 117007,
+            "wordOptionDesc": "人群，人山人海",
+            "isRight": 1,
+            "wordId": 59348
+        }],
+        "wordDesc": "（ひとごみ）⓪【名】人群，人山人海",
+        "correctDesc": "人群，人山人海",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "カプセル ",
+        "wordId": 59349,
+        "optionDtos": [{
+            "wordOptionId": 117008,
+            "wordOptionDesc": "胶囊；密封舱",
+            "isRight": 1,
+            "wordId": 59349
+        }],
+        "wordDesc": "①【名】胶囊；密封舱",
+        "correctDesc": "胶囊；密封舱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "構う",
+        "wordId": 59350,
+        "optionDtos": [{
+            "wordOptionId": 117009,
+            "wordOptionDesc": "管，干预；照顾，照料",
+            "isRight": 1,
+            "wordId": 59350
+        }],
+        "wordDesc": "（かまう）②【自他动1】管，干预；照顾，照料",
+        "correctDesc": "管，干预；照顾，照料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "噛み切る",
+        "wordId": 59351,
+        "optionDtos": [{
+            "wordOptionId": 117010,
+            "wordOptionDesc": "咬断，咬破",
+            "isRight": 1,
+            "wordId": 59351
+        }],
+        "wordDesc": "（かみきる）③【他动1】咬断，咬破",
+        "correctDesc": "咬断，咬破",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "噛み締める",
+        "wordId": 59352,
+        "optionDtos": [{
+            "wordOptionId": 117011,
+            "wordOptionDesc": "用力咬紧；仔细品味",
+            "isRight": 1,
+            "wordId": 59352
+        }],
+        "wordDesc": "（かみしめる）④【他动2】用力咬紧；仔细品味",
+        "correctDesc": "用力咬紧；仔细品味",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "すたすた ",
+        "wordId": 59353,
+        "optionDtos": [{
+            "wordOptionId": 117012,
+            "wordOptionDesc": "急忙，匆忙，飞快",
+            "isRight": 1,
+            "wordId": 59353
+        }],
+        "wordDesc": "①【副】急忙，匆忙，飞快",
+        "correctDesc": "急忙，匆忙，飞快",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "すっぱり ",
+        "wordId": 59354,
+        "optionDtos": [{
+            "wordOptionId": 117013,
+            "wordOptionDesc": "干脆利落地切断；彻底（断绝），干脆",
+            "isRight": 1,
+            "wordId": 59354
+        }],
+        "wordDesc": "③【副】干脆利落地切断；彻底（断绝），干脆",
+        "correctDesc": "干脆利落地切断；彻底（断绝），干脆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "効き目",
+        "wordId": 59355,
+        "optionDtos": [{
+            "wordOptionId": 117014,
+            "wordOptionDesc": "（药物的）效力，（建议等的）效果，作用",
+            "isRight": 1,
+            "wordId": 59355
+        }],
+        "wordDesc": "（ききめ）⓪【名】（药物的）效力，（建议等的）效果，作用",
+        "correctDesc": "（药物的）效力，（建议等的）效果，作用",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "間近",
+        "wordId": 59356,
+        "optionDtos": [{
+            "wordOptionId": 117015,
+            "wordOptionDesc": "眼前，跟前，眼看就要",
+            "isRight": 1,
+            "wordId": 59356
+        }],
+        "wordDesc": "（まぢか）①【名·ナ形】眼前，跟前，眼看就要",
+        "correctDesc": "眼前，跟前，眼看就要",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "判決",
+        "wordId": 59357,
+        "optionDtos": [{
+            "wordOptionId": 117016,
+            "wordOptionDesc": "判决",
+            "isRight": 1,
+            "wordId": 59357
+        }],
+        "wordDesc": "（はんけつ）⓪【名·他动3】判决",
+        "correctDesc": "判决",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "街角",
+        "wordId": 59358,
+        "optionDtos": [{
+            "wordOptionId": 117017,
+            "wordOptionDesc": "街角，街头",
+            "isRight": 1,
+            "wordId": 59358
+        }],
+        "wordDesc": "（まちかど）⓪【名】街角，街头",
+        "correctDesc": "街角，街头",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "記号",
+        "wordId": 59359,
+        "optionDtos": [{
+            "wordOptionId": 117018,
+            "wordOptionDesc": "记号，符号",
+            "isRight": 1,
+            "wordId": 59359
+        }],
+        "wordDesc": "（きごう）⓪【名】记号，符号",
+        "correctDesc": "记号，符号",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "貨物",
+        "wordId": 59360,
+        "optionDtos": [{
+            "wordOptionId": 117019,
+            "wordOptionDesc": "货物；货车",
+            "isRight": 1,
+            "wordId": 59360
+        }],
+        "wordDesc": "（かもつ）①【名】货物；货车",
+        "correctDesc": "货物；货车",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "空",
+        "wordId": 59361,
+        "optionDtos": [{
+            "wordOptionId": 117020,
+            "wordOptionDesc": "空，空虚，空洞",
+            "isRight": 1,
+            "wordId": 59361
+        }],
+        "wordDesc": "（から）②【名】空，空虚，空洞",
+        "correctDesc": "空，空虚，空洞",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "基準",
+        "wordId": 59362,
+        "optionDtos": [{
+            "wordOptionId": 117021,
+            "wordOptionDesc": "基准，标准，依据，准则",
+            "isRight": 1,
+            "wordId": 59362
+        }],
+        "wordDesc": "（きじゅん）⓪【名】基准，标准，依据，准则",
+        "correctDesc": "基准，标准，依据，准则",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "勘違い",
+        "wordId": 59363,
+        "optionDtos": [{
+            "wordOptionId": 117022,
+            "wordOptionDesc": "判断错误，错觉；误会，误解",
+            "isRight": 1,
+            "wordId": 59363
+        }],
+        "wordDesc": "（かんちがい）③【名·自动3】判断错误，错觉；误会，误解",
+        "correctDesc": "判断错误，错觉；误会，误解",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "傷付ける",
+        "wordId": 59364,
+        "optionDtos": [{
+            "wordOptionId": 117023,
+            "wordOptionDesc": "伤，弄伤；伤害；败坏",
+            "isRight": 1,
+            "wordId": 59364
+        }],
+        "wordDesc": "（きずつける）④【他动2】伤，弄伤；伤害；败坏",
+        "correctDesc": "伤，弄伤；伤害；败坏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "独り言",
+        "wordId": 59365,
+        "optionDtos": [{
+            "wordOptionId": 117024,
+            "wordOptionDesc": "自言自语（的话）",
+            "isRight": 1,
+            "wordId": 59365
+        }],
+        "wordDesc": "（ひとりごと）⓪【名】自言自语（的话）",
+        "correctDesc": "自言自语（的话）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "早くとも",
+        "wordId": 59366,
+        "optionDtos": [{
+            "wordOptionId": 117025,
+            "wordOptionDesc": "最快也要",
+            "isRight": 1,
+            "wordId": 59366
+        }],
+        "wordDesc": "（はやくとも）①【副】最快也要",
+        "correctDesc": "最快也要",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "所々",
+        "wordId": 59367,
+        "optionDtos": [{
+            "wordOptionId": 117026,
+            "wordOptionDesc": "到处，处处",
+            "isRight": 1,
+            "wordId": 59367
+        }],
+        "wordDesc": "（ところどころ）④【名】到处，处处",
+        "correctDesc": "到处，处处",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "予報",
+        "wordId": 59368,
+        "optionDtos": [{
+            "wordOptionId": 117027,
+            "wordOptionDesc": "预报",
+            "isRight": 1,
+            "wordId": 59368
+        }],
+        "wordDesc": "（よほう）⓪【名·他动3】预报",
+        "correctDesc": "预报",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "奇跡",
+        "wordId": 59369,
+        "optionDtos": [{
+            "wordOptionId": 117028,
+            "wordOptionDesc": "奇迹，不可思议的事",
+            "isRight": 1,
+            "wordId": 59369
+        }],
+        "wordDesc": "（きせき）②【名】奇迹，不可思议的事",
+        "correctDesc": "奇迹，不可思议的事",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "不可",
+        "wordId": 59370,
+        "optionDtos": [{
+            "wordOptionId": 117029,
+            "wordOptionDesc": "不可，不行；不合格",
+            "isRight": 1,
+            "wordId": 59370
+        }],
+        "wordDesc": "（ふか）①【名】不可，不行；不合格",
+        "correctDesc": "不可，不行；不合格",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "表紙",
+        "wordId": 59371,
+        "optionDtos": [{
+            "wordOptionId": 117030,
+            "wordOptionDesc": "封面，书皮，封皮",
+            "isRight": 1,
+            "wordId": 59371
+        }],
+        "wordDesc": "（ひょうし）③【名】封面，书皮，封皮",
+        "correctDesc": "封面，书皮，封皮",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "悪魔",
+        "wordId": 59372,
+        "optionDtos": [{
+            "wordOptionId": 117031,
+            "wordOptionDesc": "恶魔",
+            "isRight": 1,
+            "wordId": 59372
+        }],
+        "wordDesc": "（あくま）①【名】恶魔",
+        "correctDesc": "恶魔",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "基地",
+        "wordId": 59373,
+        "optionDtos": [{
+            "wordOptionId": 117032,
+            "wordOptionDesc": "基地，根据地",
+            "isRight": 1,
+            "wordId": 59373
+        }],
+        "wordDesc": "（きち）①【名】基地，根据地",
+        "correctDesc": "基地，根据地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "関連",
+        "wordId": 59374,
+        "optionDtos": [{
+            "wordOptionId": 117033,
+            "wordOptionDesc": "关联，联系；有关系",
+            "isRight": 1,
+            "wordId": 59374
+        }],
+        "wordDesc": "（かんれん）⓪【名·自动3】关联，联系；有关系",
+        "correctDesc": "关联，联系；有关系",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "昇る",
+        "wordId": 59375,
+        "optionDtos": [{
+            "wordOptionId": 117034,
+            "wordOptionDesc": "升；上升；升级，高升",
+            "isRight": 1,
+            "wordId": 59375
+        }],
+        "wordDesc": "（のぼる）⓪【自动1】升；上升；升级，高升",
+        "correctDesc": "升；上升；升级，高升",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "乗り切る",
+        "wordId": 59376,
+        "optionDtos": [{
+            "wordOptionId": 117035,
+            "wordOptionDesc": "排除（困难），渡过（难关）",
+            "isRight": 1,
+            "wordId": 59376
+        }],
+        "wordDesc": "（のりきる）③【自动1】排除（困难），渡过（难关）",
+        "correctDesc": "排除（困难），渡过（难关）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "乗り越える",
+        "wordId": 59377,
+        "optionDtos": [{
+            "wordOptionId": 117036,
+            "wordOptionDesc": "跨过，越过；渡过（危机）；超越（前人）",
+            "isRight": 1,
+            "wordId": 59377
+        }],
+        "wordDesc": "（のりこえる）④【自动2】跨过，越过；渡过（危机）；超越（前人）",
+        "correctDesc": "跨过，越过；渡过（危机）；超越（前人）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "担ぐ",
+        "wordId": 59378,
+        "optionDtos": [{
+            "wordOptionId": 117037,
+            "wordOptionDesc": "扛，挑，背；以……为领袖",
+            "isRight": 1,
+            "wordId": 59378
+        }],
+        "wordDesc": "（かつぐ）②【他动1】扛，挑，背；以……为领袖",
+        "correctDesc": "扛，挑，背；以……为领袖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "活字",
+        "wordId": 59379,
+        "optionDtos": [{
+            "wordOptionId": 117038,
+            "wordOptionDesc": "活字；活字印刷品",
+            "isRight": 1,
+            "wordId": 59379
+        }],
+        "wordDesc": "（かつじ）⓪【名】活字；活字印刷品",
+        "correctDesc": "活字；活字印刷品",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "材木",
+        "wordId": 59380,
+        "optionDtos": [{
+            "wordOptionId": 117039,
+            "wordOptionDesc": "木材，木料",
+            "isRight": 1,
+            "wordId": 59380
+        }],
+        "wordDesc": "（ざいもく）⓪【名】木材，木料",
+        "correctDesc": "木材，木料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "童話",
+        "wordId": 59381,
+        "optionDtos": [{
+            "wordOptionId": 117040,
+            "wordOptionDesc": "童话",
+            "isRight": 1,
+            "wordId": 59381
+        }],
+        "wordDesc": "（どうわ）⓪【名】童话",
+        "correctDesc": "童话",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "あくまで ",
+        "wordId": 59382,
+        "optionDtos": [{
+            "wordOptionId": 117041,
+            "wordOptionDesc": "到底，彻底；始终",
+            "isRight": 1,
+            "wordId": 59382
+        }],
+        "wordDesc": "②【副】到底，彻底；始终",
+        "correctDesc": "到底，彻底；始终",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "複数",
+        "wordId": 59383,
+        "optionDtos": [{
+            "wordOptionId": 117042,
+            "wordOptionDesc": "复数（两个以上的数）；（语法中的）复数",
+            "isRight": 1,
+            "wordId": 59383
+        }],
+        "wordDesc": "（ふくすう）③【名】复数（两个以上的数）；（语法中的）复数",
+        "correctDesc": "复数（两个以上的数）；（语法中的）复数",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "気象",
+        "wordId": 59384,
+        "optionDtos": [{
+            "wordOptionId": 117043,
+            "wordOptionDesc": "气象；天性，脾气，秉性",
+            "isRight": 1,
+            "wordId": 59384
+        }],
+        "wordDesc": "（きしょう）⓪【名】气象；天性，脾气，秉性",
+        "correctDesc": "气象；天性，脾气，秉性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "法案",
+        "wordId": 59385,
+        "optionDtos": [{
+            "wordOptionId": 117044,
+            "wordOptionDesc": "法案，法律草案",
+            "isRight": 1,
+            "wordId": 59385
+        }],
+        "wordDesc": "（ほうあん）⓪【名】法案，法律草案",
+        "correctDesc": "法案，法律草案",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "非常識",
+        "wordId": 59386,
+        "optionDtos": [{
+            "wordOptionId": 117045,
+            "wordOptionDesc": "不合常理，脱离常识",
+            "isRight": 1,
+            "wordId": 59386
+        }],
+        "wordDesc": "（ひじょうしき）②【名·ナ形】不合常理，脱离常识",
+        "correctDesc": "不合常理，脱离常识",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "傷口",
+        "wordId": 59387,
+        "optionDtos": [{
+            "wordOptionId": 117046,
+            "wordOptionDesc": "伤口",
+            "isRight": 1,
+            "wordId": 59387
+        }],
+        "wordDesc": "（きずぐち）⓪【名】伤口",
+        "correctDesc": "伤口",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "すらすら ",
+        "wordId": 59388,
+        "optionDtos": [{
+            "wordOptionId": 117047,
+            "wordOptionDesc": "流畅，流利，顺利",
+            "isRight": 1,
+            "wordId": 59388
+        }],
+        "wordDesc": "①【副】流畅，流利，顺利",
+        "correctDesc": "流畅，流利，顺利",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "同感",
+        "wordId": 59389,
+        "optionDtos": [{
+            "wordOptionId": 117048,
+            "wordOptionDesc": "同感；同意，赞同",
+            "isRight": 1,
+            "wordId": 59389
+        }],
+        "wordDesc": "（どうかん）⓪【名·自动3】同感；同意，赞同",
+        "correctDesc": "同感；同意，赞同",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "植木",
+        "wordId": 59390,
+        "optionDtos": [{
+            "wordOptionId": 117049,
+            "wordOptionDesc": "栽种的树，盆栽的花木",
+            "isRight": 1,
+            "wordId": 59390
+        }],
+        "wordDesc": "（うえき）⓪【名】栽种的树，盆栽的花木",
+        "correctDesc": "栽种的树，盆栽的花木",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "動機",
+        "wordId": 59391,
+        "optionDtos": [{
+            "wordOptionId": 117050,
+            "wordOptionDesc": "动机，意图",
+            "isRight": 1,
+            "wordId": 59391
+        }],
+        "wordDesc": "（どうき）⓪【名】动机，意图",
+        "correctDesc": "动机，意图",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "面倒",
+        "wordId": 59392,
+        "optionDtos": [{
+            "wordOptionId": 117051,
+            "wordOptionDesc": "麻烦，费事；照顾，照料",
+            "isRight": 1,
+            "wordId": 59392
+        }],
+        "wordDesc": "（めんどう）③【名·ナ形】麻烦，费事；照顾，照料",
+        "correctDesc": "麻烦，费事；照顾，照料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "きちっと ",
+        "wordId": 59393,
+        "optionDtos": [{
+            "wordOptionId": 117052,
+            "wordOptionDesc": "整整齐齐；准时，如期；牢牢地",
+            "isRight": 1,
+            "wordId": 59393
+        }],
+        "wordDesc": "②【副】整整齐齐；准时，如期；牢牢地",
+        "correctDesc": "整整齐齐；准时，如期；牢牢地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "喫茶",
+        "wordId": 59394,
+        "optionDtos": [{
+            "wordOptionId": 117053,
+            "wordOptionDesc": "喝茶，饮茶",
+            "isRight": 1,
+            "wordId": 59394
+        }],
+        "wordDesc": "（きっさ）⓪【名】喝茶，饮茶",
+        "correctDesc": "喝茶，饮茶",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "同居",
+        "wordId": 59395,
+        "optionDtos": [{
+            "wordOptionId": 117054,
+            "wordOptionDesc": "共同居住",
+            "isRight": 1,
+            "wordId": 59395
+        }],
+        "wordDesc": "（どうきょ）⓪【名·自动3】共同居住",
+        "correctDesc": "共同居住",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "峠",
+        "wordId": 59396,
+        "optionDtos": [{
+            "wordOptionId": 117055,
+            "wordOptionDesc": "山顶，岭；顶点，紧要时期",
+            "isRight": 1,
+            "wordId": 59396
+        }],
+        "wordDesc": "（とうげ）③【名】山顶，岭；顶点，紧要时期",
+        "correctDesc": "山顶，岭；顶点，紧要时期",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "記入",
+        "wordId": 59397,
+        "optionDtos": [{
+            "wordOptionId": 117056,
+            "wordOptionDesc": "记上，填写，写上",
+            "isRight": 1,
+            "wordId": 59397
+        }],
+        "wordDesc": "（きにゅう）⓪【名·他动3】记上，填写，写上",
+        "correctDesc": "记上，填写，写上",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "推定",
+        "wordId": 59398,
+        "optionDtos": [{
+            "wordOptionId": 117057,
+            "wordOptionDesc": "推断，推算；设想",
+            "isRight": 1,
+            "wordId": 59398
+        }],
+        "wordDesc": "（すいてい）⓪【名·他动3】推断，推算；设想",
+        "correctDesc": "推断，推算；设想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "同情",
+        "wordId": 59399,
+        "optionDtos": [{
+            "wordOptionId": 117058,
+            "wordOptionDesc": "同情",
+            "isRight": 1,
+            "wordId": 59399
+        }],
+        "wordDesc": "（どうじょう）⓪【名·自动3】同情",
+        "correctDesc": "同情",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "そよそよ ",
+        "wordId": 59400,
+        "optionDtos": [{
+            "wordOptionId": 117059,
+            "wordOptionDesc": "风轻轻吹拂",
+            "isRight": 1,
+            "wordId": 59400
+        }],
+        "wordDesc": "①【副】风轻轻吹拂",
+        "correctDesc": "风轻轻吹拂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "青空",
+        "wordId": 59401,
+        "optionDtos": [{
+            "wordOptionId": 117060,
+            "wordOptionDesc": "蓝天，晴空",
+            "isRight": 1,
+            "wordId": 59401
+        }],
+        "wordDesc": "（あおぞら）③【名】蓝天，晴空",
+        "correctDesc": "蓝天，晴空",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "捉える",
+        "wordId": 59402,
+        "optionDtos": [{
+            "wordOptionId": 117061,
+            "wordOptionDesc": "捉住；紧紧抓住；捕获",
+            "isRight": 1,
+            "wordId": 59402
+        }],
+        "wordDesc": "（とらえる）③【他动2】捉住；紧紧抓住；捕获",
+        "correctDesc": "捉住；紧紧抓住；捕获",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "トラブル",
+        "wordId": 59403,
+        "optionDtos": [{
+            "wordOptionId": 117062,
+            "wordOptionDesc": "纠纷，纷争；故障",
+            "isRight": 1,
+            "wordId": 59403
+        }],
+        "wordDesc": "（trouble）②【名】纠纷，纷争；故障",
+        "correctDesc": "纠纷，纷争；故障",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "同様",
+        "wordId": 59404,
+        "optionDtos": [{
+            "wordOptionId": 117063,
+            "wordOptionDesc": "同样，同等",
+            "isRight": 1,
+            "wordId": 59404
+        }],
+        "wordDesc": "（どうよう）⓪【名·ナ形】同样，同等",
+        "correctDesc": "同样，同等",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "抜かす",
+        "wordId": 59405,
+        "optionDtos": [{
+            "wordOptionId": 117064,
+            "wordOptionDesc": "遗漏，漏掉；跳过",
+            "isRight": 1,
+            "wordId": 59405
+        }],
+        "wordDesc": "（ぬかす）⓪【他动1】遗漏，漏掉；跳过",
+        "correctDesc": "遗漏，漏掉；跳过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "果たして",
+        "wordId": 59406,
+        "optionDtos": [{
+            "wordOptionId": 117065,
+            "wordOptionDesc": "果然；果真；到底，究竟",
+            "isRight": 1,
+            "wordId": 59406
+        }],
+        "wordDesc": "（はたして）②【副】果然；果真；到底，究竟",
+        "correctDesc": "果然；果真；到底，究竟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "果たす",
+        "wordId": 59407,
+        "optionDtos": [{
+            "wordOptionId": 117066,
+            "wordOptionDesc": "完成，实现",
+            "isRight": 1,
+            "wordId": 59407
+        }],
+        "wordDesc": "（はたす）②【他动1】完成，实现",
+        "correctDesc": "完成，实现",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "東洋",
+        "wordId": 59408,
+        "optionDtos": [{
+            "wordOptionId": 117067,
+            "wordOptionDesc": "东洋，东方",
+            "isRight": 1,
+            "wordId": 59408
+        }],
+        "wordDesc": "（とうよう）①【名】东洋，东方",
+        "correctDesc": "东洋，东方",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "のちほど ",
+        "wordId": 59409,
+        "optionDtos": [{
+            "wordOptionId": 117068,
+            "wordOptionDesc": "过一会儿，随后",
+            "isRight": 1,
+            "wordId": 59409
+        }],
+        "wordDesc": "⓪【副】过一会儿，随后",
+        "correctDesc": "过一会儿，随后",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "延べ",
+        "wordId": 59410,
+        "optionDtos": [{
+            "wordOptionId": 117069,
+            "wordOptionDesc": "总计，共计，合计",
+            "isRight": 1,
+            "wordId": 59410
+        }],
+        "wordDesc": "（のべ）①【名】总计，共计，合计",
+        "correctDesc": "总计，共计，合计",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "働き者",
+        "wordId": 59411,
+        "optionDtos": [{
+            "wordOptionId": 117070,
+            "wordOptionDesc": "干活能手，勤劳的人",
+            "isRight": 1,
+            "wordId": 59411
+        }],
+        "wordDesc": "（はたらきもの）⓪【名】干活能手，勤劳的人",
+        "correctDesc": "干活能手，勤劳的人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "鉢",
+        "wordId": 59412,
+        "optionDtos": [{
+            "wordOptionId": 117071,
+            "wordOptionDesc": "钵，盆",
+            "isRight": 1,
+            "wordId": 59412
+        }],
+        "wordDesc": "（はち）②【名】钵，盆",
+        "correctDesc": "钵，盆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "発揮",
+        "wordId": 59413,
+        "optionDtos": [{
+            "wordOptionId": 117072,
+            "wordOptionDesc": "发挥，施展",
+            "isRight": 1,
+            "wordId": 59413
+        }],
+        "wordDesc": "（はっき）⓪【名·他动3】发挥，施展",
+        "correctDesc": "发挥，施展",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "話し言葉",
+        "wordId": 59414,
+        "optionDtos": [{
+            "wordOptionId": 117073,
+            "wordOptionDesc": "口语",
+            "isRight": 1,
+            "wordId": 59414
+        }],
+        "wordDesc": "（はなしことば）④【名】口语",
+        "correctDesc": "口语",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "値上げ",
+        "wordId": 59415,
+        "optionDtos": [{
+            "wordOptionId": 117074,
+            "wordOptionDesc": "涨价，提价",
+            "isRight": 1,
+            "wordId": 59415
+        }],
+        "wordDesc": "（ねあげ）⓪【名·他动3】涨价，提价",
+        "correctDesc": "涨价，提价",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "寝かす",
+        "wordId": 59416,
+        "optionDtos": [{
+            "wordOptionId": 117075,
+            "wordOptionDesc": "使睡觉，使躺下；放平，放倒",
+            "isRight": 1,
+            "wordId": 59416
+        }],
+        "wordDesc": "（ねかす）⓪【他动1】使睡觉，使躺下；放平，放倒",
+        "correctDesc": "使睡觉，使躺下；放平，放倒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "ねじ ",
+        "wordId": 59417,
+        "optionDtos": [{
+            "wordOptionId": 117076,
+            "wordOptionDesc": "螺丝；发条",
+            "isRight": 1,
+            "wordId": 59417
+        }],
+        "wordDesc": "①【名】螺丝；发条",
+        "correctDesc": "螺丝；发条",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "特有",
+        "wordId": 59418,
+        "optionDtos": [{
+            "wordOptionId": 117077,
+            "wordOptionDesc": "特有，独有",
+            "isRight": 1,
+            "wordId": 59418
+        }],
+        "wordDesc": "（とくゆう）⓪【名·ナ形】特有，独有",
+        "correctDesc": "特有，独有",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "発射",
+        "wordId": 59419,
+        "optionDtos": [{
+            "wordOptionId": 117078,
+            "wordOptionDesc": "发射",
+            "isRight": 1,
+            "wordId": 59419
+        }],
+        "wordDesc": "（はっしゃ）⓪【名·他动3】发射",
+        "correctDesc": "发射",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "離れる",
+        "wordId": 59420,
+        "optionDtos": [{
+            "wordOptionId": 117079,
+            "wordOptionDesc": "分离；离去；距离，相隔",
+            "isRight": 1,
+            "wordId": 59420
+        }],
+        "wordDesc": "（はなれる）③【自动2】分离；离去；距离，相隔",
+        "correctDesc": "分离；离去；距离，相隔",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "熱帯",
+        "wordId": 59421,
+        "optionDtos": [{
+            "wordOptionId": 117080,
+            "wordOptionDesc": "热带",
+            "isRight": 1,
+            "wordId": 59421
+        }],
+        "wordDesc": "（ねったい）⓪【名】热带",
+        "correctDesc": "热带",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "甚だしい",
+        "wordId": 59422,
+        "optionDtos": [{
+            "wordOptionId": 117081,
+            "wordOptionDesc": "很，甚，非常",
+            "isRight": 1,
+            "wordId": 59422
+        }],
+        "wordDesc": "（はなはだしい）⑤【イ形】很，甚，非常",
+        "correctDesc": "很，甚，非常",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "とっくに ",
+        "wordId": 59423,
+        "optionDtos": [{
+            "wordOptionId": 117082,
+            "wordOptionDesc": "很早以前，早就",
+            "isRight": 1,
+            "wordId": 59423
+        }],
+        "wordDesc": "⓪【副】很早以前，早就",
+        "correctDesc": "很早以前，早就",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "初恋",
+        "wordId": 59424,
+        "optionDtos": [{
+            "wordOptionId": 117083,
+            "wordOptionDesc": "初恋",
+            "isRight": 1,
+            "wordId": 59424
+        }],
+        "wordDesc": "（はつこい）⓪【名】初恋",
+        "correctDesc": "初恋",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "発行",
+        "wordId": 59425,
+        "optionDtos": [{
+            "wordOptionId": 117084,
+            "wordOptionDesc": "发行（出版物、纸币）",
+            "isRight": 1,
+            "wordId": 59425
+        }],
+        "wordDesc": "（はっこう）⓪【名·他动3】发行（出版物、纸币）",
+        "correctDesc": "发行（出版物、纸币）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "抜き出す",
+        "wordId": 59426,
+        "optionDtos": [{
+            "wordOptionId": 117085,
+            "wordOptionDesc": "拔出，抽出；选拔，挑选",
+            "isRight": 1,
+            "wordId": 59426
+        }],
+        "wordDesc": "（ぬきだす）③【他动1】拔出，抽出；选拔，挑选",
+        "correctDesc": "拔出，抽出；选拔，挑选",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "盗み",
+        "wordId": 59427,
+        "optionDtos": [{
+            "wordOptionId": 117086,
+            "wordOptionDesc": "偷盗，偷窃",
+            "isRight": 1,
+            "wordId": 59427
+        }],
+        "wordDesc": "（ぬすみ）③【名】偷盗，偷窃",
+        "correctDesc": "偷盗，偷窃",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "根",
+        "wordId": 59428,
+        "optionDtos": [{
+            "wordOptionId": 117087,
+            "wordOptionDesc": "根；根源；天生，本性",
+            "isRight": 1,
+            "wordId": 59428
+        }],
+        "wordDesc": "（ね）①【名】根；根源；天生，本性",
+        "correctDesc": "根；根源；天生，本性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "値上がり",
+        "wordId": 59429,
+        "optionDtos": [{
+            "wordOptionId": 117088,
+            "wordOptionDesc": "价格上涨",
+            "isRight": 1,
+            "wordId": 59429
+        }],
+        "wordDesc": "（ねあがり）⓪【名·自动3】价格上涨",
+        "correctDesc": "价格上涨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "がたがた ",
+        "wordId": 59430,
+        "optionDtos": [{
+            "wordOptionId": 117089,
+            "wordOptionDesc": "咔嗒咔嗒；摇摇晃晃；哆哆嗦嗦",
+            "isRight": 1,
+            "wordId": 59430
+        }],
+        "wordDesc": "①【副·自动3】咔嗒咔嗒；摇摇晃晃；哆哆嗦嗦",
+        "correctDesc": "咔嗒咔嗒；摇摇晃晃；哆哆嗦嗦",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "溶け込む",
+        "wordId": 59431,
+        "optionDtos": [{
+            "wordOptionId": 117090,
+            "wordOptionDesc": "溶化；融入，融洽",
+            "isRight": 1,
+            "wordId": 59431
+        }],
+        "wordDesc": "（とけこむ）⓪【自动1】溶化；融入，融洽",
+        "correctDesc": "溶化；融入，融洽",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "鳩",
+        "wordId": 59432,
+        "optionDtos": [{
+            "wordOptionId": 117091,
+            "wordOptionDesc": "鸽子",
+            "isRight": 1,
+            "wordId": 59432
+        }],
+        "wordDesc": "（はと）①【名】鸽子",
+        "correctDesc": "鸽子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "鈍い",
+        "wordId": 59433,
+        "optionDtos": [{
+            "wordOptionId": 117092,
+            "wordOptionDesc": "缓慢的；迟钝的；磨蹭的",
+            "isRight": 1,
+            "wordId": 59433
+        }],
+        "wordDesc": "（のろい）②【イ形】缓慢的；迟钝的；磨蹭的",
+        "correctDesc": "缓慢的；迟钝的；磨蹭的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第六天",
+        "wordName": "当選",
+        "wordId": 59434,
+        "optionDtos": [{
+            "wordOptionId": 117093,
+            "wordOptionDesc": "当选，中选",
+            "isRight": 1,
+            "wordId": 59434
+        }],
+        "wordDesc": "（とうせん）⓪【名·自动3】当选，中选",
+        "correctDesc": "当选，中选",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

@@ -1,0 +1,4755 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "試す",
+        "wordId": 57935,
+        "optionDtos": [{
+            "wordOptionId": 115594,
+            "wordOptionDesc": "尝试，试验",
+            "isRight": 1,
+            "wordId": 57935
+        }],
+        "wordDesc": "（ためす）②【他动1】尝试，试验",
+        "correctDesc": "尝试，试验",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "躊躇う",
+        "wordId": 57936,
+        "optionDtos": [{
+            "wordOptionId": 115595,
+            "wordOptionDesc": "踌躇；犹豫",
+            "isRight": 1,
+            "wordId": 57936
+        }],
+        "wordDesc": "（ためらう）③【自他动1】踌躇；犹豫",
+        "correctDesc": "踌躇；犹豫",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "鈍る",
+        "wordId": 57937,
+        "optionDtos": [{
+            "wordOptionId": 115596,
+            "wordOptionDesc": "变钝；变得迟钝；变弱",
+            "isRight": 1,
+            "wordId": 57937
+        }],
+        "wordDesc": "（にぶる）②【自动1】变钝；变得迟钝；变弱",
+        "correctDesc": "变钝；变得迟钝；变弱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "空想",
+        "wordId": 57938,
+        "optionDtos": [{
+            "wordOptionId": 115597,
+            "wordOptionDesc": "空想，幻想",
+            "isRight": 1,
+            "wordId": 57938
+        }],
+        "wordDesc": "（くうそう）⓪【名·他动3】空想，幻想",
+        "correctDesc": "空想，幻想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "釘",
+        "wordId": 57939,
+        "optionDtos": [{
+            "wordOptionId": 115598,
+            "wordOptionDesc": "钉子",
+            "isRight": 1,
+            "wordId": 57939
+        }],
+        "wordDesc": "（くぎ）⓪【名】钉子",
+        "correctDesc": "钉子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "保つ",
+        "wordId": 57940,
+        "optionDtos": [{
+            "wordOptionId": 115599,
+            "wordOptionDesc": "保持，维持；保住",
+            "isRight": 1,
+            "wordId": 57940
+        }],
+        "wordDesc": "（たもつ）②【他动1】保持，维持；保住",
+        "correctDesc": "保持，维持；保住",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "潜る",
+        "wordId": 57941,
+        "optionDtos": [{
+            "wordOptionId": 115600,
+            "wordOptionDesc": "钻过，通过；钻空子",
+            "isRight": 1,
+            "wordId": 57941
+        }],
+        "wordDesc": "（くぐる）②【自动1】钻过，通过；钻空子",
+        "correctDesc": "钻过，通过；钻空子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "～臭い",
+        "wordId": 57942,
+        "optionDtos": [{
+            "wordOptionId": 115601,
+            "wordOptionDesc": "有……的味道；给人某种感觉",
+            "isRight": 1,
+            "wordId": 57942
+        }],
+        "wordDesc": "（くさい）【接尾】有……的味道；给人某种感觉",
+        "correctDesc": "有……的味道；给人某种感觉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "頼り",
+        "wordId": 57943,
+        "optionDtos": [{
+            "wordOptionId": 115602,
+            "wordOptionDesc": "依靠，依赖",
+            "isRight": 1,
+            "wordId": 57943
+        }],
+        "wordDesc": "（たより）①【名】依靠，依赖",
+        "correctDesc": "依靠，依赖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "頼りない",
+        "wordId": 57944,
+        "optionDtos": [{
+            "wordOptionId": 115603,
+            "wordOptionDesc": "无依无靠的；没把握的，不可靠的",
+            "isRight": 1,
+            "wordId": 57944
+        }],
+        "wordDesc": "（たよりない）④【イ形】无依无靠的；没把握的，不可靠的",
+        "correctDesc": "无依无靠的；没把握的，不可靠的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "くじ ",
+        "wordId": 57945,
+        "optionDtos": [{
+            "wordOptionId": 115604,
+            "wordOptionDesc": "签；抽签",
+            "isRight": 1,
+            "wordId": 57945
+        }],
+        "wordDesc": "①【名】签；抽签",
+        "correctDesc": "签；抽签",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "苦情",
+        "wordId": 57946,
+        "optionDtos": [{
+            "wordOptionId": 115605,
+            "wordOptionDesc": "牢骚，抱怨；请求，要求",
+            "isRight": 1,
+            "wordId": 57946
+        }],
+        "wordDesc": "（くじょう）⓪【名】牢骚，抱怨；请求，要求",
+        "correctDesc": "牢骚，抱怨；请求，要求",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "口先",
+        "wordId": 57947,
+        "optionDtos": [{
+            "wordOptionId": 115606,
+            "wordOptionDesc": "嘴边；口头上的",
+            "isRight": 1,
+            "wordId": 57947
+        }],
+        "wordDesc": "（くちさき）⓪【名】嘴边；口头上的",
+        "correctDesc": "嘴边；口头上的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "太鼓",
+        "wordId": 57948,
+        "optionDtos": [{
+            "wordOptionId": 115607,
+            "wordOptionDesc": "鼓，大鼓",
+            "isRight": 1,
+            "wordId": 57948
+        }],
+        "wordDesc": "（たいこ）⓪【名】鼓，大鼓",
+        "correctDesc": "鼓，大鼓",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "停止",
+        "wordId": 57949,
+        "optionDtos": [{
+            "wordOptionId": 115608,
+            "wordOptionDesc": "停下，停止",
+            "isRight": 1,
+            "wordId": 57949
+        }],
+        "wordDesc": "（ていし）⓪【名·自他动3】停下，停止",
+        "correctDesc": "停下，停止",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "苦心",
+        "wordId": 57950,
+        "optionDtos": [{
+            "wordOptionId": 115609,
+            "wordOptionDesc": "费心思，煞费苦心",
+            "isRight": 1,
+            "wordId": 57950
+        }],
+        "wordDesc": "（くしん）②【名·自动3】费心思，煞费苦心",
+        "correctDesc": "费心思，煞费苦心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "口ぶり",
+        "wordId": 57951,
+        "optionDtos": [{
+            "wordOptionId": 115610,
+            "wordOptionDesc": "口吻，口气",
+            "isRight": 1,
+            "wordId": 57951
+        }],
+        "wordDesc": "（くちぶり）⓪【名】口吻，口气",
+        "correctDesc": "口吻，口气",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "具体",
+        "wordId": 57952,
+        "optionDtos": [{
+            "wordOptionId": 115611,
+            "wordOptionDesc": "具体",
+            "isRight": 1,
+            "wordId": 57952
+        }],
+        "wordDesc": "（ぐたい）⓪【名】具体",
+        "correctDesc": "具体",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "くたくた ",
+        "wordId": 57953,
+        "optionDtos": [{
+            "wordOptionId": 115612,
+            "wordOptionDesc": "筋疲力尽的，疲惫不堪的",
+            "isRight": 1,
+            "wordId": 57953
+        }],
+        "wordDesc": "⓪【ナ形】筋疲力尽的，疲惫不堪的",
+        "correctDesc": "筋疲力尽的，疲惫不堪的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "対処",
+        "wordId": 57954,
+        "optionDtos": [{
+            "wordOptionId": 115613,
+            "wordOptionDesc": "对待，处理，应对",
+            "isRight": 1,
+            "wordId": 57954
+        }],
+        "wordDesc": "（たいしょ）①【名·自动3】对待，处理，应对",
+        "correctDesc": "对待，处理，应对",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "大層",
+        "wordId": 57955,
+        "optionDtos": [{
+            "wordOptionId": 115614,
+            "wordOptionDesc": "很，非常；夸张",
+            "isRight": 1,
+            "wordId": 57955
+        }],
+        "wordDesc": "（たいそう）①【副·ナ形】很，非常；夸张",
+        "correctDesc": "很，非常；夸张",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "暮れ",
+        "wordId": 57956,
+        "optionDtos": [{
+            "wordOptionId": 115615,
+            "wordOptionDesc": "黄昏；年底",
+            "isRight": 1,
+            "wordId": 57956
+        }],
+        "wordDesc": "（くれ）⓪【名】黄昏；年底",
+        "correctDesc": "黄昏；年底",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "傑作",
+        "wordId": 57957,
+        "optionDtos": [{
+            "wordOptionId": 115616,
+            "wordOptionDesc": "杰作",
+            "isRight": 1,
+            "wordId": 57957
+        }],
+        "wordDesc": "（けっさく）⓪【名】杰作",
+        "correctDesc": "杰作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "県庁",
+        "wordId": 57958,
+        "optionDtos": [{
+            "wordOptionId": 115617,
+            "wordOptionDesc": "县政府",
+            "isRight": 1,
+            "wordId": 57958
+        }],
+        "wordDesc": "（けんちょう）①【名】县政府",
+        "correctDesc": "县政府",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "原始",
+        "wordId": 57959,
+        "optionDtos": [{
+            "wordOptionId": 115618,
+            "wordOptionDesc": "原始；不发达",
+            "isRight": 1,
+            "wordId": 57959
+        }],
+        "wordDesc": "（げんし）①【名】原始；不发达",
+        "correctDesc": "原始；不发达",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "現住",
+        "wordId": 57960,
+        "optionDtos": [{
+            "wordOptionId": 115619,
+            "wordOptionDesc": "现在居住（的地方），现地址",
+            "isRight": 1,
+            "wordId": 57960
+        }],
+        "wordDesc": "（げんじゅう）⓪【名】现在居住（的地方），现地址",
+        "correctDesc": "现在居住（的地方），现地址",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "高温",
+        "wordId": 57961,
+        "optionDtos": [{
+            "wordOptionId": 115620,
+            "wordOptionDesc": "高温",
+            "isRight": 1,
+            "wordId": 57961
+        }],
+        "wordDesc": "（こうおん）⓪【名】高温",
+        "correctDesc": "高温",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "決勝",
+        "wordId": 57962,
+        "optionDtos": [{
+            "wordOptionId": 115621,
+            "wordOptionDesc": "决胜负，决赛",
+            "isRight": 1,
+            "wordId": 57962
+        }],
+        "wordDesc": "（けっしょう）⓪【名】决胜负，决赛",
+        "correctDesc": "决胜负，决赛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ダム",
+        "wordId": 57963,
+        "optionDtos": [{
+            "wordOptionId": 115622,
+            "wordOptionDesc": "水坝；水库",
+            "isRight": 1,
+            "wordId": 57963
+        }],
+        "wordDesc": "（dam）①【名】水坝；水库",
+        "correctDesc": "水坝；水库",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "高価",
+        "wordId": 57964,
+        "optionDtos": [{
+            "wordOptionId": 115623,
+            "wordOptionDesc": "高价，大价钱",
+            "isRight": 1,
+            "wordId": 57964
+        }],
+        "wordDesc": "（こうか）①【名·ナ形】高价，大价钱",
+        "correctDesc": "高价，大价钱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "視線",
+        "wordId": 57965,
+        "optionDtos": [{
+            "wordOptionId": 115624,
+            "wordOptionDesc": "视线",
+            "isRight": 1,
+            "wordId": 57965
+        }],
+        "wordDesc": "（しせん）⓪【名】视线",
+        "correctDesc": "视线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "見当",
+        "wordId": 57966,
+        "optionDtos": [{
+            "wordOptionId": 115625,
+            "wordOptionDesc": "估计，推测；方向；大约，左右",
+            "isRight": 1,
+            "wordId": 57966
+        }],
+        "wordDesc": "（けんとう）③【名】估计，推测；方向；大约，左右",
+        "correctDesc": "估计，推测；方向；大约，左右",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "事前",
+        "wordId": 57967,
+        "optionDtos": [{
+            "wordOptionId": 115626,
+            "wordOptionDesc": "事先",
+            "isRight": 1,
+            "wordId": 57967
+        }],
+        "wordDesc": "（じぜん）⓪【名】事先",
+        "correctDesc": "事先",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "好意",
+        "wordId": 57968,
+        "optionDtos": [{
+            "wordOptionId": 115627,
+            "wordOptionDesc": "好意，美意",
+            "isRight": 1,
+            "wordId": 57968
+        }],
+        "wordDesc": "（こうい）①【名】好意，美意",
+        "correctDesc": "好意，美意",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "現に",
+        "wordId": 57969,
+        "optionDtos": [{
+            "wordOptionId": 115628,
+            "wordOptionDesc": "实际；亲眼",
+            "isRight": 1,
+            "wordId": 57969
+        }],
+        "wordDesc": "（げんに）①【副】实际；亲眼",
+        "correctDesc": "实际；亲眼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "弾",
+        "wordId": 57970,
+        "optionDtos": [{
+            "wordOptionId": 115629,
+            "wordOptionDesc": "子弹，炮弹；订书钉",
+            "isRight": 1,
+            "wordId": 57970
+        }],
+        "wordDesc": "（たま）②【名】子弹，炮弹；订书钉",
+        "correctDesc": "子弹，炮弹；订书钉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "顕微鏡",
+        "wordId": 57971,
+        "optionDtos": [{
+            "wordOptionId": 115630,
+            "wordOptionDesc": "显微镜",
+            "isRight": 1,
+            "wordId": 57971
+        }],
+        "wordDesc": "（けんびきょう）⓪【名】显微镜",
+        "correctDesc": "显微镜",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "原文",
+        "wordId": 57972,
+        "optionDtos": [{
+            "wordOptionId": 115631,
+            "wordOptionDesc": "原文",
+            "isRight": 1,
+            "wordId": 57972
+        }],
+        "wordDesc": "（げんぶん）⓪【名】原文",
+        "correctDesc": "原文",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "お辞儀",
+        "wordId": 57973,
+        "optionDtos": [{
+            "wordOptionId": 115632,
+            "wordOptionDesc": "行礼，鞠躬",
+            "isRight": 1,
+            "wordId": 57973
+        }],
+        "wordDesc": "（おじぎ）⓪【名·自动3】行礼，鞠躬",
+        "correctDesc": "行礼，鞠躬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "現状",
+        "wordId": 57974,
+        "optionDtos": [{
+            "wordOptionId": 115633,
+            "wordOptionDesc": "现状",
+            "isRight": 1,
+            "wordId": 57974
+        }],
+        "wordDesc": "（げんじょう）⓪【名】现状",
+        "correctDesc": "现状",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "語る",
+        "wordId": 57975,
+        "optionDtos": [{
+            "wordOptionId": 115634,
+            "wordOptionDesc": "谈，说，讲述",
+            "isRight": 1,
+            "wordId": 57975
+        }],
+        "wordDesc": "（かたる）⓪【他动1】谈，说，讲述",
+        "correctDesc": "谈，说，讲述",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "健全",
+        "wordId": 57976,
+        "optionDtos": [{
+            "wordOptionId": 115635,
+            "wordOptionDesc": "健康的，健全的；完善的",
+            "isRight": 1,
+            "wordId": 57976
+        }],
+        "wordDesc": "（けんぜん）⓪【ナ形】健康的，健全的；完善的",
+        "correctDesc": "健康的，健全的；完善的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "原則",
+        "wordId": 57977,
+        "optionDtos": [{
+            "wordOptionId": 115636,
+            "wordOptionDesc": "原则",
+            "isRight": 1,
+            "wordId": 57977
+        }],
+        "wordDesc": "（げんそく）⓪【名】原则",
+        "correctDesc": "原则",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "碁",
+        "wordId": 57978,
+        "optionDtos": [{
+            "wordOptionId": 115637,
+            "wordOptionDesc": "围棋",
+            "isRight": 1,
+            "wordId": 57978
+        }],
+        "wordDesc": "（ご）①【名】围棋",
+        "correctDesc": "围棋",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "恋しい",
+        "wordId": 57979,
+        "optionDtos": [{
+            "wordOptionId": 115638,
+            "wordOptionDesc": "爱慕的，思慕的，怀念的",
+            "isRight": 1,
+            "wordId": 57979
+        }],
+        "wordDesc": "（こいしい）③【イ形】爱慕的，思慕的，怀念的",
+        "correctDesc": "爱慕的，思慕的，怀念的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "気配",
+        "wordId": 57980,
+        "optionDtos": [{
+            "wordOptionId": 115639,
+            "wordOptionDesc": "情形，样子；迹象，苗头；行情",
+            "isRight": 1,
+            "wordId": 57980
+        }],
+        "wordDesc": "（けはい）①【名】情形，样子；迹象，苗头；行情",
+        "correctDesc": "情形，样子；迹象，苗头；行情",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "下品",
+        "wordId": 57981,
+        "optionDtos": [{
+            "wordOptionId": 115640,
+            "wordOptionDesc": "卑鄙的，下流的，粗俗的",
+            "isRight": 1,
+            "wordId": 57981
+        }],
+        "wordDesc": "（げひん）②【ナ形】卑鄙的，下流的，粗俗的",
+        "correctDesc": "卑鄙的，下流的，粗俗的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "空腹",
+        "wordId": 57982,
+        "optionDtos": [{
+            "wordOptionId": 115641,
+            "wordOptionDesc": "饿肚子；空腹",
+            "isRight": 1,
+            "wordId": 57982
+        }],
+        "wordDesc": "（くうふく）⓪【名】饿肚子；空腹",
+        "correctDesc": "饿肚子；空腹",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "見解",
+        "wordId": 57983,
+        "optionDtos": [{
+            "wordOptionId": 115642,
+            "wordOptionDesc": "见解，看法",
+            "isRight": 1,
+            "wordId": 57983
+        }],
+        "wordDesc": "（けんかい）⓪【名】见解，看法",
+        "correctDesc": "见解，看法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "適切",
+        "wordId": 57984,
+        "optionDtos": [{
+            "wordOptionId": 115643,
+            "wordOptionDesc": "合适，恰当，妥当",
+            "isRight": 1,
+            "wordId": 57984
+        }],
+        "wordDesc": "（てきせつ）⓪【名·ナ形】合适，恰当，妥当",
+        "correctDesc": "合适，恰当，妥当",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "限界",
+        "wordId": 57985,
+        "optionDtos": [{
+            "wordOptionId": 115644,
+            "wordOptionDesc": "极限，界限",
+            "isRight": 1,
+            "wordId": 57985
+        }],
+        "wordDesc": "（げんかい）⓪【名】极限，界限",
+        "correctDesc": "极限，界限",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "歌詞",
+        "wordId": 57986,
+        "optionDtos": [{
+            "wordOptionId": 115645,
+            "wordOptionDesc": "歌词",
+            "isRight": 1,
+            "wordId": 57986
+        }],
+        "wordDesc": "（かし）①【名】歌词",
+        "correctDesc": "歌词",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "抗議",
+        "wordId": 57987,
+        "optionDtos": [{
+            "wordOptionId": 115646,
+            "wordOptionDesc": "抗议",
+            "isRight": 1,
+            "wordId": 57987
+        }],
+        "wordDesc": "（こうぎ）①【名·自他动3】抗议",
+        "correctDesc": "抗议",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "憲法",
+        "wordId": 57988,
+        "optionDtos": [{
+            "wordOptionId": 115647,
+            "wordOptionDesc": "宪法",
+            "isRight": 1,
+            "wordId": 57988
+        }],
+        "wordDesc": "（けんぽう）①【名】宪法",
+        "correctDesc": "宪法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "原理",
+        "wordId": 57989,
+        "optionDtos": [{
+            "wordOptionId": 115648,
+            "wordOptionDesc": "原理",
+            "isRight": 1,
+            "wordId": 57989
+        }],
+        "wordDesc": "（げんり）①【名】原理",
+        "correctDesc": "原理",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "航空",
+        "wordId": 57990,
+        "optionDtos": [{
+            "wordOptionId": 115649,
+            "wordOptionDesc": "航空",
+            "isRight": 1,
+            "wordId": 57990
+        }],
+        "wordDesc": "（こうくう）⓪【名】航空",
+        "correctDesc": "航空",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "削減",
+        "wordId": 57991,
+        "optionDtos": [{
+            "wordOptionId": 115650,
+            "wordOptionDesc": "削减，缩减，减少",
+            "isRight": 1,
+            "wordId": 57991
+        }],
+        "wordDesc": "（さくげん）⓪【名·他动3】削减，缩减，减少",
+        "correctDesc": "削减，缩减，减少",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "光景",
+        "wordId": 57992,
+        "optionDtos": [{
+            "wordOptionId": 115651,
+            "wordOptionDesc": "光景，情景，景象",
+            "isRight": 1,
+            "wordId": 57992
+        }],
+        "wordDesc": "（こうけい）⓪【名】光景，情景，景象",
+        "correctDesc": "光景，情景，景象",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "限定",
+        "wordId": 57993,
+        "optionDtos": [{
+            "wordOptionId": 115652,
+            "wordOptionDesc": "限定，限制",
+            "isRight": 1,
+            "wordId": 57993
+        }],
+        "wordDesc": "（げんてい）⓪【名·他动3】限定，限制",
+        "correctDesc": "限定，限制",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "限度",
+        "wordId": 57994,
+        "optionDtos": [{
+            "wordOptionId": 115653,
+            "wordOptionDesc": "限度，界限",
+            "isRight": 1,
+            "wordId": 57994
+        }],
+        "wordDesc": "（げんど）①【名】限度，界限",
+        "correctDesc": "限度，界限",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "孝行",
+        "wordId": 57995,
+        "optionDtos": [{
+            "wordOptionId": 115654,
+            "wordOptionDesc": "孝顺，孝敬",
+            "isRight": 1,
+            "wordId": 57995
+        }],
+        "wordDesc": "（こうこう）①【名·ナ形·自动3】孝顺，孝敬",
+        "correctDesc": "孝顺，孝敬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "減点",
+        "wordId": 57996,
+        "optionDtos": [{
+            "wordOptionId": 115655,
+            "wordOptionDesc": "减分，扣分",
+            "isRight": 1,
+            "wordId": 57996
+        }],
+        "wordDesc": "（げんてん）⓪【名·自动3】减分，扣分",
+        "correctDesc": "减分，扣分",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "行為",
+        "wordId": 57997,
+        "optionDtos": [{
+            "wordOptionId": 115656,
+            "wordOptionDesc": "行为，举动",
+            "isRight": 1,
+            "wordId": 57997
+        }],
+        "wordDesc": "（こうい）①【名】行为，举动",
+        "correctDesc": "行为，举动",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "交差",
+        "wordId": 57998,
+        "optionDtos": [{
+            "wordOptionId": 115657,
+            "wordOptionDesc": "交叉",
+            "isRight": 1,
+            "wordId": 57998
+        }],
+        "wordDesc": "（こうさ）⓪【名·自动3】交叉",
+        "correctDesc": "交叉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "座敷",
+        "wordId": 57999,
+        "optionDtos": [{
+            "wordOptionId": 115658,
+            "wordOptionDesc": "（日式）铺着席子的房间",
+            "isRight": 1,
+            "wordId": 57999
+        }],
+        "wordDesc": "（ざしき）③【名】（日式）铺着席子的房间",
+        "correctDesc": "（日式）铺着席子的房间",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "好奇心",
+        "wordId": 58000,
+        "optionDtos": [{
+            "wordOptionId": 115659,
+            "wordOptionDesc": "好奇心",
+            "isRight": 1,
+            "wordId": 58000
+        }],
+        "wordDesc": "（こうきしん）③【名】好奇心",
+        "correctDesc": "好奇心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "抱く",
+        "wordId": 58001,
+        "optionDtos": [{
+            "wordOptionId": 115660,
+            "wordOptionDesc": "抱，搂；（心中）怀有",
+            "isRight": 1,
+            "wordId": 58001
+        }],
+        "wordDesc": "（いだく）②【他动1】抱，搂；（心中）怀有",
+        "correctDesc": "抱，搂；（心中）怀有",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "差し出す",
+        "wordId": 58002,
+        "optionDtos": [{
+            "wordOptionId": 115661,
+            "wordOptionDesc": "提交；寄出；伸出",
+            "isRight": 1,
+            "wordId": 58002
+        }],
+        "wordDesc": "（さしだす）③【他动1】提交；寄出；伸出",
+        "correctDesc": "提交；寄出；伸出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "差し支え",
+        "wordId": 58003,
+        "optionDtos": [{
+            "wordOptionId": 115662,
+            "wordOptionDesc": "妨碍，不方便",
+            "isRight": 1,
+            "wordId": 58003
+        }],
+        "wordDesc": "（さしつかえ）⓪【名】妨碍，不方便",
+        "correctDesc": "妨碍，不方便",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "権利",
+        "wordId": 58004,
+        "optionDtos": [{
+            "wordOptionId": 115663,
+            "wordOptionDesc": "权利",
+            "isRight": 1,
+            "wordId": 58004
+        }],
+        "wordDesc": "（けんり）①【名】权利",
+        "correctDesc": "权利",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "口座",
+        "wordId": 58005,
+        "optionDtos": [{
+            "wordOptionId": 115664,
+            "wordOptionDesc": "（银行）账户，账号",
+            "isRight": 1,
+            "wordId": 58005
+        }],
+        "wordDesc": "（こうざ）⓪【名】（银行）账户，账号",
+        "correctDesc": "（银行）账户，账号",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "子孫",
+        "wordId": 58006,
+        "optionDtos": [{
+            "wordOptionId": 115665,
+            "wordOptionDesc": "子孙，后代",
+            "isRight": 1,
+            "wordId": 58006
+        }],
+        "wordDesc": "（しそん）①【名】子孙，后代",
+        "correctDesc": "子孙，后代",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "次第に",
+        "wordId": 58007,
+        "optionDtos": [{
+            "wordOptionId": 115666,
+            "wordOptionDesc": "逐渐，渐渐地，慢慢地",
+            "isRight": 1,
+            "wordId": 58007
+        }],
+        "wordDesc": "（しだいに）⓪【副】逐渐，渐渐地，慢慢地",
+        "correctDesc": "逐渐，渐渐地，慢慢地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "決断",
+        "wordId": 58008,
+        "optionDtos": [{
+            "wordOptionId": 115667,
+            "wordOptionDesc": "决断，当机立断",
+            "isRight": 1,
+            "wordId": 58008
+        }],
+        "wordDesc": "（けつだん）⓪【名·自他动3】决断，当机立断",
+        "correctDesc": "决断，当机立断",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "不幸",
+        "wordId": 58009,
+        "optionDtos": [{
+            "wordOptionId": 115668,
+            "wordOptionDesc": "不幸，厄运",
+            "isRight": 1,
+            "wordId": 58009
+        }],
+        "wordDesc": "（ふこう）②【名·ナ形】不幸，厄运",
+        "correctDesc": "不幸，厄运",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "原産",
+        "wordId": 58010,
+        "optionDtos": [{
+            "wordOptionId": 115669,
+            "wordOptionDesc": "原产",
+            "isRight": 1,
+            "wordId": 58010
+        }],
+        "wordDesc": "（げんさん）⓪【名】原产",
+        "correctDesc": "原产",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "公式",
+        "wordId": 58011,
+        "optionDtos": [{
+            "wordOptionId": 115670,
+            "wordOptionDesc": "正式；（数学）公式",
+            "isRight": 1,
+            "wordId": 58011
+        }],
+        "wordDesc": "（こうしき）⓪【名】正式；（数学）公式",
+        "correctDesc": "正式；（数学）公式",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "酸素",
+        "wordId": 58012,
+        "optionDtos": [{
+            "wordOptionId": 115671,
+            "wordOptionDesc": "氧",
+            "isRight": 1,
+            "wordId": 58012
+        }],
+        "wordDesc": "（さんそ）①【名】氧",
+        "correctDesc": "氧",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "自宅",
+        "wordId": 58013,
+        "optionDtos": [{
+            "wordOptionId": 115672,
+            "wordOptionDesc": "自己家，自己的房子",
+            "isRight": 1,
+            "wordId": 58013
+        }],
+        "wordDesc": "（じたく）⓪【名】自己家，自己的房子",
+        "correctDesc": "自己家，自己的房子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "下回る",
+        "wordId": 58014,
+        "optionDtos": [{
+            "wordOptionId": 115673,
+            "wordOptionDesc": "在……以下；低于",
+            "isRight": 1,
+            "wordId": 58014
+        }],
+        "wordDesc": "（したまわる）⓪【自动1】在……以下；低于",
+        "correctDesc": "在……以下；低于",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ちりばめる ",
+        "wordId": 58015,
+        "optionDtos": [{
+            "wordOptionId": 115674,
+            "wordOptionDesc": "镶嵌，点缀",
+            "isRight": 1,
+            "wordId": 58015
+        }],
+        "wordDesc": "④【他动2】镶嵌，点缀",
+        "correctDesc": "镶嵌，点缀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "裂く",
+        "wordId": 58016,
+        "optionDtos": [{
+            "wordOptionId": 115675,
+            "wordOptionDesc": "撕开；劈开，分开；匀出，腾出",
+            "isRight": 1,
+            "wordId": 58016
+        }],
+        "wordDesc": "（さく）①【他动1】撕开；劈开，分开；匀出，腾出",
+        "correctDesc": "撕开；劈开，分开；匀出，腾出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "下町",
+        "wordId": 58017,
+        "optionDtos": [{
+            "wordOptionId": 115676,
+            "wordOptionDesc": "工商业者居住区",
+            "isRight": 1,
+            "wordId": 58017
+        }],
+        "wordDesc": "（したまち）⓪【名】工商业者居住区",
+        "correctDesc": "工商业者居住区",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "次第",
+        "wordId": 58018,
+        "optionDtos": [{
+            "wordOptionId": 115677,
+            "wordOptionDesc": "顺序；事情的经过，缘由",
+            "isRight": 1,
+            "wordId": 58018
+        }],
+        "wordDesc": "（しだい）⓪【名】顺序；事情的经过，缘由",
+        "correctDesc": "顺序；事情的经过，缘由",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "連れ",
+        "wordId": 58019,
+        "optionDtos": [{
+            "wordOptionId": 115678,
+            "wordOptionDesc": "同伴，伴侣，伙伴",
+            "isRight": 1,
+            "wordId": 58019
+        }],
+        "wordDesc": "（つれ）⓪【名】同伴，伴侣，伙伴",
+        "correctDesc": "同伴，伴侣，伙伴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "事態",
+        "wordId": 58020,
+        "optionDtos": [{
+            "wordOptionId": 115679,
+            "wordOptionDesc": "事态，局势",
+            "isRight": 1,
+            "wordId": 58020
+        }],
+        "wordDesc": "（じたい）①【名】事态，局势",
+        "correctDesc": "事态，局势",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "索引",
+        "wordId": 58021,
+        "optionDtos": [{
+            "wordOptionId": 115680,
+            "wordOptionDesc": "索引",
+            "isRight": 1,
+            "wordId": 58021
+        }],
+        "wordDesc": "（さくいん）⓪【名】索引",
+        "correctDesc": "索引",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "叫び",
+        "wordId": 58022,
+        "optionDtos": [{
+            "wordOptionId": 115681,
+            "wordOptionDesc": "叫喊，呼声",
+            "isRight": 1,
+            "wordId": 58022
+        }],
+        "wordDesc": "（さけび）③【名】叫喊，呼声",
+        "correctDesc": "叫喊，呼声",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "尻込み",
+        "wordId": 58023,
+        "optionDtos": [{
+            "wordOptionId": 115682,
+            "wordOptionDesc": "后退；踌躇，犹豫",
+            "isRight": 1,
+            "wordId": 58023
+        }],
+        "wordDesc": "（しりごみ）③【名·自动3】后退；踌躇，犹豫",
+        "correctDesc": "后退；踌躇，犹豫",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "衰退",
+        "wordId": 58024,
+        "optionDtos": [{
+            "wordOptionId": 115683,
+            "wordOptionDesc": "衰退，衰落，衰弱",
+            "isRight": 1,
+            "wordId": 58024
+        }],
+        "wordDesc": "（すいたい）⓪【名·自动3】衰退，衰落，衰弱",
+        "correctDesc": "衰退，衰落，衰弱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "貢献",
+        "wordId": 58025,
+        "optionDtos": [{
+            "wordOptionId": 115684,
+            "wordOptionDesc": "贡献",
+            "isRight": 1,
+            "wordId": 58025
+        }],
+        "wordDesc": "（こうけん）⓪【名·自动3】贡献",
+        "correctDesc": "贡献",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "抜け落ちる",
+        "wordId": 58026,
+        "optionDtos": [{
+            "wordOptionId": 115685,
+            "wordOptionDesc": "脱落；遗漏",
+            "isRight": 1,
+            "wordId": 58026
+        }],
+        "wordDesc": "（ぬけおちる）④【自动2】脱落；遗漏",
+        "correctDesc": "脱落；遗漏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "視聴",
+        "wordId": 58027,
+        "optionDtos": [{
+            "wordOptionId": 115686,
+            "wordOptionDesc": "视听；收看；关注",
+            "isRight": 1,
+            "wordId": 58027
+        }],
+        "wordDesc": "（しちょう）⓪【名·他动3】视听；收看；关注",
+        "correctDesc": "视听；收看；关注",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "室温",
+        "wordId": 58028,
+        "optionDtos": [{
+            "wordOptionId": 115687,
+            "wordOptionDesc": "室温，室内温度",
+            "isRight": 1,
+            "wordId": 58028
+        }],
+        "wordDesc": "（しつおん）⓪【名】室温，室内温度",
+        "correctDesc": "室温，室内温度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ステレオタイプ",
+        "wordId": 58029,
+        "optionDtos": [{
+            "wordOptionId": 115688,
+            "wordOptionDesc": "（印刷用语）铅版；老一套，模式化观念",
+            "isRight": 1,
+            "wordId": 58029
+        }],
+        "wordDesc": "（stereotype）⑤【名】（印刷用语）铅版；老一套，模式化观念",
+        "correctDesc": "（印刷用语）铅版；老一套，模式化观念",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "攻撃",
+        "wordId": 58030,
+        "optionDtos": [{
+            "wordOptionId": 115689,
+            "wordOptionDesc": "攻击，进攻；抨击",
+            "isRight": 1,
+            "wordId": 58030
+        }],
+        "wordDesc": "（こうげき）⓪【名·他动3】攻击，进攻；抨击",
+        "correctDesc": "攻击，进攻；抨击",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "プロローグ",
+        "wordId": 58031,
+        "optionDtos": [{
+            "wordOptionId": 115690,
+            "wordOptionDesc": "序言；开端，开头",
+            "isRight": 1,
+            "wordId": 58031
+        }],
+        "wordDesc": "（prologue）③【名】序言；开端，开头",
+        "correctDesc": "序言；开端，开头",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "セグメンテーション",
+        "wordId": 58032,
+        "optionDtos": [{
+            "wordOptionId": 115691,
+            "wordOptionDesc": "区分市场",
+            "isRight": 1,
+            "wordId": 58032
+        }],
+        "wordDesc": "（segmentation）⑤【名】区分市场",
+        "correctDesc": "区分市场",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "控訴",
+        "wordId": 58033,
+        "optionDtos": [{
+            "wordOptionId": 115692,
+            "wordOptionDesc": "上诉",
+            "isRight": 1,
+            "wordId": 58033
+        }],
+        "wordDesc": "（こうそ）①【名·自动3】上诉",
+        "correctDesc": "上诉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "千差万別",
+        "wordId": 58034,
+        "optionDtos": [{
+            "wordOptionId": 115693,
+            "wordOptionDesc": "千差万别",
+            "isRight": 1,
+            "wordId": 58034
+        }],
+        "wordDesc": "（せんさばんべつ）①【名·ナ形】千差万别",
+        "correctDesc": "千差万别",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "まんべんなく ",
+        "wordId": 58035,
+        "optionDtos": [{
+            "wordOptionId": 115694,
+            "wordOptionDesc": "普遍；平均，一视同仁",
+            "isRight": 1,
+            "wordId": 58035
+        }],
+        "wordDesc": "⑤【副】普遍；平均，一视同仁",
+        "correctDesc": "普遍；平均，一视同仁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "行儀",
+        "wordId": 58036,
+        "optionDtos": [{
+            "wordOptionId": 115695,
+            "wordOptionDesc": "举止；礼貌",
+            "isRight": 1,
+            "wordId": 58036
+        }],
+        "wordDesc": "（ぎょうぎ）⓪【名】举止；礼貌",
+        "correctDesc": "举止；礼貌",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "静まる",
+        "wordId": 58037,
+        "optionDtos": [{
+            "wordOptionId": 115696,
+            "wordOptionDesc": "平静；平息",
+            "isRight": 1,
+            "wordId": 58037
+        }],
+        "wordDesc": "（しずまる）③【自动1】平静；平息",
+        "correctDesc": "平静；平息",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "沈める",
+        "wordId": 58038,
+        "optionDtos": [{
+            "wordOptionId": 115697,
+            "wordOptionDesc": "使下沉；使降落",
+            "isRight": 1,
+            "wordId": 58038
+        }],
+        "wordDesc": "（しずめる）⓪【他动2】使下沉；使降落",
+        "correctDesc": "使下沉；使降落",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "作成",
+        "wordId": 58039,
+        "optionDtos": [{
+            "wordOptionId": 115698,
+            "wordOptionDesc": "写成；制作",
+            "isRight": 1,
+            "wordId": 58039
+        }],
+        "wordDesc": "（さくせい）⓪【名·他动3】写成；制作",
+        "correctDesc": "写成；制作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "市長",
+        "wordId": 58040,
+        "optionDtos": [{
+            "wordOptionId": 115699,
+            "wordOptionDesc": "市长",
+            "isRight": 1,
+            "wordId": 58040
+        }],
+        "wordDesc": "（しちょう）②【名】市长",
+        "correctDesc": "市长",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ささやく ",
+        "wordId": 58041,
+        "optionDtos": [{
+            "wordOptionId": 115700,
+            "wordOptionDesc": "小声说话，窃窃私语",
+            "isRight": 1,
+            "wordId": 58041
+        }],
+        "wordDesc": "③【自动1】小声说话，窃窃私语",
+        "correctDesc": "小声说话，窃窃私语",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "酸性",
+        "wordId": 58042,
+        "optionDtos": [{
+            "wordOptionId": 115701,
+            "wordOptionDesc": "酸性",
+            "isRight": 1,
+            "wordId": 58042
+        }],
+        "wordDesc": "（さんせい）⓪【名】酸性",
+        "correctDesc": "酸性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "シール",
+        "wordId": 58043,
+        "optionDtos": [{
+            "wordOptionId": 115702,
+            "wordOptionDesc": "密封条；贴纸",
+            "isRight": 1,
+            "wordId": 58043
+        }],
+        "wordDesc": "（seal）①【名】密封条；贴纸",
+        "correctDesc": "密封条；贴纸",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "頻りに",
+        "wordId": 58044,
+        "optionDtos": [{
+            "wordOptionId": 115703,
+            "wordOptionDesc": "频繁，屡次；强烈",
+            "isRight": 1,
+            "wordId": 58044
+        }],
+        "wordDesc": "（しきりに）⓪【副】频繁，屡次；强烈",
+        "correctDesc": "频繁，屡次；强烈",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "山地",
+        "wordId": 58045,
+        "optionDtos": [{
+            "wordOptionId": 115704,
+            "wordOptionDesc": "山地，山区",
+            "isRight": 1,
+            "wordId": 58045
+        }],
+        "wordDesc": "（さんち）①【名】山地，山区",
+        "correctDesc": "山地，山区",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "終息",
+        "wordId": 58046,
+        "optionDtos": [{
+            "wordOptionId": 115705,
+            "wordOptionDesc": "结束；平息；根除",
+            "isRight": 1,
+            "wordId": 58046
+        }],
+        "wordDesc": "（しゅうそく）⓪【名·自动3】结束；平息；根除",
+        "correctDesc": "结束；平息；根除",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "作物",
+        "wordId": 58047,
+        "optionDtos": [{
+            "wordOptionId": 115706,
+            "wordOptionDesc": "农作物",
+            "isRight": 1,
+            "wordId": 58047
+        }],
+        "wordDesc": "（さくもつ）②【名】农作物",
+        "correctDesc": "农作物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "懸念",
+        "wordId": 58048,
+        "optionDtos": [{
+            "wordOptionId": 115707,
+            "wordOptionDesc": "担心，忧虑",
+            "isRight": 1,
+            "wordId": 58048
+        }],
+        "wordDesc": "（けねん）⓪【名·他动3】担心，忧虑",
+        "correctDesc": "担心，忧虑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "折り畳む",
+        "wordId": 58049,
+        "optionDtos": [{
+            "wordOptionId": 115708,
+            "wordOptionDesc": "叠，折叠",
+            "isRight": 1,
+            "wordId": 58049
+        }],
+        "wordDesc": "（おりたたむ）⓪【他动1】叠，折叠",
+        "correctDesc": "叠，折叠",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "山頂",
+        "wordId": 58050,
+        "optionDtos": [{
+            "wordOptionId": 115709,
+            "wordOptionDesc": "山顶，山峰",
+            "isRight": 1,
+            "wordId": 58050
+        }],
+        "wordDesc": "（さんちょう）⓪【名】山顶，山峰",
+        "correctDesc": "山顶，山峰",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "室外",
+        "wordId": 58051,
+        "optionDtos": [{
+            "wordOptionId": 115710,
+            "wordOptionDesc": "室外，户外",
+            "isRight": 1,
+            "wordId": 58051
+        }],
+        "wordDesc": "（しつがい）②【名】室外，户外",
+        "correctDesc": "室外，户外",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "じっくり ",
+        "wordId": 58052,
+        "optionDtos": [{
+            "wordOptionId": 115711,
+            "wordOptionDesc": "慢慢地，仔细地，不慌不忙地，踏踏实实地",
+            "isRight": 1,
+            "wordId": 58052
+        }],
+        "wordDesc": "③【副·自动3】慢慢地，仔细地，不慌不忙地，踏踏实实地",
+        "correctDesc": "慢慢地，仔细地，不慌不忙地，踏踏实实地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "信条",
+        "wordId": 58053,
+        "optionDtos": [{
+            "wordOptionId": 115712,
+            "wordOptionDesc": "信条；信念",
+            "isRight": 1,
+            "wordId": 58053
+        }],
+        "wordDesc": "（しんじょう）⓪【名】信条；信念",
+        "correctDesc": "信条；信念",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "織物",
+        "wordId": 58054,
+        "optionDtos": [{
+            "wordOptionId": 115713,
+            "wordOptionDesc": "纺织品",
+            "isRight": 1,
+            "wordId": 58054
+        }],
+        "wordDesc": "（おりもの）⓪【名】纺织品",
+        "correctDesc": "纺织品",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "萎む",
+        "wordId": 58055,
+        "optionDtos": [{
+            "wordOptionId": 115714,
+            "wordOptionDesc": "枯萎，凋谢",
+            "isRight": 1,
+            "wordId": 58055
+        }],
+        "wordDesc": "（しぼむ）⓪【自动1】枯萎，凋谢",
+        "correctDesc": "枯萎，凋谢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "時速",
+        "wordId": 58056,
+        "optionDtos": [{
+            "wordOptionId": 115715,
+            "wordOptionDesc": "时速",
+            "isRight": 1,
+            "wordId": 58056
+        }],
+        "wordDesc": "（じそく）①【名】时速",
+        "correctDesc": "时速",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "温室",
+        "wordId": 58057,
+        "optionDtos": [{
+            "wordOptionId": 115716,
+            "wordOptionDesc": "温室，暖房",
+            "isRight": 1,
+            "wordId": 58057
+        }],
+        "wordDesc": "（おんしつ）⓪【名】温室，暖房",
+        "correctDesc": "温室，暖房",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "占める",
+        "wordId": 58058,
+        "optionDtos": [{
+            "wordOptionId": 115717,
+            "wordOptionDesc": "占，占据，占有；占领",
+            "isRight": 1,
+            "wordId": 58058
+        }],
+        "wordDesc": "（しめる）②【他动2】占，占据，占有；占领",
+        "correctDesc": "占，占据，占有；占领",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "挑戦",
+        "wordId": 58059,
+        "optionDtos": [{
+            "wordOptionId": 115718,
+            "wordOptionDesc": "挑战",
+            "isRight": 1,
+            "wordId": 58059
+        }],
+        "wordDesc": "（ちょうせん）⓪【名·自动3】挑战",
+        "correctDesc": "挑战",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "脅かす",
+        "wordId": 58060,
+        "optionDtos": [{
+            "wordOptionId": 115719,
+            "wordOptionDesc": "威胁，恐吓；吓唬",
+            "isRight": 1,
+            "wordId": 58060
+        }],
+        "wordDesc": "（おどかす）⓪【他动1】威胁，恐吓；吓唬",
+        "correctDesc": "威胁，恐吓；吓唬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "落とし物",
+        "wordId": 58061,
+        "optionDtos": [{
+            "wordOptionId": 115720,
+            "wordOptionDesc": "遗失的物品，失物",
+            "isRight": 1,
+            "wordId": 58061
+        }],
+        "wordDesc": "（おとしもの）⓪【名】遗失的物品，失物",
+        "correctDesc": "遗失的物品，失物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "但し",
+        "wordId": 58062,
+        "optionDtos": [{
+            "wordOptionId": 115721,
+            "wordOptionDesc": "但，但是",
+            "isRight": 1,
+            "wordId": 58062
+        }],
+        "wordDesc": "（ただし）①【接续】但，但是",
+        "correctDesc": "但，但是",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "帯",
+        "wordId": 58063,
+        "optionDtos": [{
+            "wordOptionId": 115722,
+            "wordOptionDesc": "腰带；带子",
+            "isRight": 1,
+            "wordId": 58063
+        }],
+        "wordDesc": "（おび）①【名】腰带；带子",
+        "correctDesc": "腰带；带子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "お参り",
+        "wordId": 58064,
+        "optionDtos": [{
+            "wordOptionId": 115723,
+            "wordOptionDesc": "参拜神佛",
+            "isRight": 1,
+            "wordId": 58064
+        }],
+        "wordDesc": "（おまいり）⓪【名·自动3】参拜神佛",
+        "correctDesc": "参拜神佛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "先端",
+        "wordId": 58065,
+        "optionDtos": [{
+            "wordOptionId": 115724,
+            "wordOptionDesc": "顶端；前沿，尖端",
+            "isRight": 1,
+            "wordId": 58065
+        }],
+        "wordDesc": "（せんたん）⓪【名】顶端；前沿，尖端",
+        "correctDesc": "顶端；前沿，尖端",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "おまけ ",
+        "wordId": 58066,
+        "optionDtos": [{
+            "wordOptionId": 115725,
+            "wordOptionDesc": "赠品；附加的东西",
+            "isRight": 1,
+            "wordId": 58066
+        }],
+        "wordDesc": "⓪【名】赠品；附加的东西",
+        "correctDesc": "赠品；附加的东西",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "水害",
+        "wordId": 58067,
+        "optionDtos": [{
+            "wordOptionId": 115726,
+            "wordOptionDesc": "洪水，水灾",
+            "isRight": 1,
+            "wordId": 58067
+        }],
+        "wordDesc": "（すいがい）⓪【名】洪水，水灾",
+        "correctDesc": "洪水，水灾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "超過",
+        "wordId": 58068,
+        "optionDtos": [{
+            "wordOptionId": 115727,
+            "wordOptionDesc": "超过，超越",
+            "isRight": 1,
+            "wordId": 58068
+        }],
+        "wordDesc": "（ちょうか）⓪【名·自动3】超过，超越",
+        "correctDesc": "超过，超越",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "居酒屋",
+        "wordId": 58069,
+        "optionDtos": [{
+            "wordOptionId": 115728,
+            "wordOptionDesc": "日式小酒馆",
+            "isRight": 1,
+            "wordId": 58069
+        }],
+        "wordDesc": "（いざかや）⓪【名】日式小酒馆",
+        "correctDesc": "日式小酒馆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "鎮痛剤",
+        "wordId": 58070,
+        "optionDtos": [{
+            "wordOptionId": 115729,
+            "wordOptionDesc": "止痛药",
+            "isRight": 1,
+            "wordId": 58070
+        }],
+        "wordDesc": "（ちんつうざい）③【名】止痛药",
+        "correctDesc": "止痛药",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "思い浮かぶ",
+        "wordId": 58071,
+        "optionDtos": [{
+            "wordOptionId": 115730,
+            "wordOptionDesc": "想起来，回忆起来 ",
+            "isRight": 1,
+            "wordId": 58071
+        }],
+        "wordDesc": "（おもいうかぶ）⑤【自动1】想起来，回忆起来 ",
+        "correctDesc": "想起来，回忆起来 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "思い切り",
+        "wordId": 58072,
+        "optionDtos": [{
+            "wordOptionId": 115731,
+            "wordOptionDesc": "死心，断念；狠狠地，尽情地",
+            "isRight": 1,
+            "wordId": 58072
+        }],
+        "wordDesc": "（おもいきり）⓪【名·副】死心，断念；狠狠地，尽情地",
+        "correctDesc": "死心，断念；狠狠地，尽情地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "傾く",
+        "wordId": 58073,
+        "optionDtos": [{
+            "wordOptionId": 115732,
+            "wordOptionDesc": "倾斜；有……倾向，倾向于",
+            "isRight": 1,
+            "wordId": 58073
+        }],
+        "wordDesc": "（かたむく）③【自动1】倾斜；有……倾向，倾向于",
+        "correctDesc": "倾斜；有……倾向，倾向于",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "歳末",
+        "wordId": 58074,
+        "optionDtos": [{
+            "wordOptionId": 115733,
+            "wordOptionDesc": "年终，年底",
+            "isRight": 1,
+            "wordId": 58074
+        }],
+        "wordDesc": "（さいまつ）⓪【名】年终，年底",
+        "correctDesc": "年终，年底",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "不一致",
+        "wordId": 58075,
+        "optionDtos": [{
+            "wordOptionId": 115734,
+            "wordOptionDesc": "不一致，不符合",
+            "isRight": 1,
+            "wordId": 58075
+        }],
+        "wordDesc": "（ふいっち）②【名】不一致，不符合",
+        "correctDesc": "不一致，不符合",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "凹む",
+        "wordId": 58076,
+        "optionDtos": [{
+            "wordOptionId": 115735,
+            "wordOptionDesc": "凹下，陷下；屈服，认输",
+            "isRight": 1,
+            "wordId": 58076
+        }],
+        "wordDesc": "（へこむ）⓪【自动1】凹下，陷下；屈服，认输",
+        "correctDesc": "凹下，陷下；屈服，认输",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "役人",
+        "wordId": 58077,
+        "optionDtos": [{
+            "wordOptionId": 115736,
+            "wordOptionDesc": "官员，公务员",
+            "isRight": 1,
+            "wordId": 58077
+        }],
+        "wordDesc": "（やくにん）⓪【名】官员，公务员",
+        "correctDesc": "官员，公务员",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "民話",
+        "wordId": 58078,
+        "optionDtos": [{
+            "wordOptionId": 115737,
+            "wordOptionDesc": "民间故事，民间传说",
+            "isRight": 1,
+            "wordId": 58078
+        }],
+        "wordDesc": "（みんわ）⓪【名】民间故事，民间传说",
+        "correctDesc": "民间故事，民间传说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "願望",
+        "wordId": 58079,
+        "optionDtos": [{
+            "wordOptionId": 115738,
+            "wordOptionDesc": "愿望，心愿",
+            "isRight": 1,
+            "wordId": 58079
+        }],
+        "wordDesc": "（がんぼう）⓪【名·他动3】愿望，心愿",
+        "correctDesc": "愿望，心愿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "世間話",
+        "wordId": 58080,
+        "optionDtos": [{
+            "wordOptionId": 115739,
+            "wordOptionDesc": "闲话；聊天，闲聊",
+            "isRight": 1,
+            "wordId": 58080
+        }],
+        "wordDesc": "（せけんばなし）④【名】闲话；聊天，闲聊",
+        "correctDesc": "闲话；聊天，闲聊",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "詠嘆",
+        "wordId": 58081,
+        "optionDtos": [{
+            "wordOptionId": 115740,
+            "wordOptionDesc": "感叹，赞叹",
+            "isRight": 1,
+            "wordId": 58081
+        }],
+        "wordDesc": "（えいたん）⓪【名·自动3】感叹，赞叹",
+        "correctDesc": "感叹，赞叹",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "驚き",
+        "wordId": 58082,
+        "optionDtos": [{
+            "wordOptionId": 115741,
+            "wordOptionDesc": "惊讶，吃惊；震惊",
+            "isRight": 1,
+            "wordId": 58082
+        }],
+        "wordDesc": "（おどろき）④【名】惊讶，吃惊；震惊",
+        "correctDesc": "惊讶，吃惊；震惊",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "各々",
+        "wordId": 58083,
+        "optionDtos": [{
+            "wordOptionId": 115742,
+            "wordOptionDesc": "各个；各自",
+            "isRight": 1,
+            "wordId": 58083
+        }],
+        "wordDesc": "（おのおの）②【名·副】各个；各自",
+        "correctDesc": "各个；各自",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "憤り",
+        "wordId": 58084,
+        "optionDtos": [{
+            "wordOptionId": 115743,
+            "wordOptionDesc": "愤怒，愤慨",
+            "isRight": 1,
+            "wordId": 58084
+        }],
+        "wordDesc": "（いきどおり）⓪【名】愤怒，愤慨",
+        "correctDesc": "愤怒，愤慨",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "しわ寄せ",
+        "wordId": 58085,
+        "optionDtos": [{
+            "wordOptionId": 115744,
+            "wordOptionDesc": "不良影响的后果；不良影响波及",
+            "isRight": 1,
+            "wordId": 58085
+        }],
+        "wordDesc": "（しわよせ）⓪【名·他动3】不良影响的后果；不良影响波及",
+        "correctDesc": "不良影响的后果；不良影响波及",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "深化",
+        "wordId": 58086,
+        "optionDtos": [{
+            "wordOptionId": 115745,
+            "wordOptionDesc": "深化，加深",
+            "isRight": 1,
+            "wordId": 58086
+        }],
+        "wordDesc": "（しんか）①【名·自动3】深化，加深",
+        "correctDesc": "深化，加深",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "人材",
+        "wordId": 58087,
+        "optionDtos": [{
+            "wordOptionId": 115746,
+            "wordOptionDesc": "人才",
+            "isRight": 1,
+            "wordId": 58087
+        }],
+        "wordDesc": "（じんざい）⓪【名】人才",
+        "correctDesc": "人才",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "滝",
+        "wordId": 58088,
+        "optionDtos": [{
+            "wordOptionId": 115747,
+            "wordOptionDesc": "瀑布",
+            "isRight": 1,
+            "wordId": 58088
+        }],
+        "wordDesc": "（たき）⓪【名】瀑布",
+        "correctDesc": "瀑布",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "感銘",
+        "wordId": 58089,
+        "optionDtos": [{
+            "wordOptionId": 115748,
+            "wordOptionDesc": "感人肺腑，铭刻于心",
+            "isRight": 1,
+            "wordId": 58089
+        }],
+        "wordDesc": "（かんめい）⓪【名·自动3】感人肺腑，铭刻于心",
+        "correctDesc": "感人肺腑，铭刻于心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "順応",
+        "wordId": 58090,
+        "optionDtos": [{
+            "wordOptionId": 115749,
+            "wordOptionDesc": "顺应，适应",
+            "isRight": 1,
+            "wordId": 58090
+        }],
+        "wordDesc": "（じゅんのう）⓪【名·自动3】顺应，适应",
+        "correctDesc": "顺应，适应",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "習性",
+        "wordId": 58091,
+        "optionDtos": [{
+            "wordOptionId": 115750,
+            "wordOptionDesc": "习性，习惯",
+            "isRight": 1,
+            "wordId": 58091
+        }],
+        "wordDesc": "（しゅうせい）⓪【名】习性，习惯",
+        "correctDesc": "习性，习惯",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "軽度",
+        "wordId": 58092,
+        "optionDtos": [{
+            "wordOptionId": 115751,
+            "wordOptionDesc": "轻度，轻微",
+            "isRight": 1,
+            "wordId": 58092
+        }],
+        "wordDesc": "（けいど）①【名】轻度，轻微",
+        "correctDesc": "轻度，轻微",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "拘留",
+        "wordId": 58093,
+        "optionDtos": [{
+            "wordOptionId": 115752,
+            "wordOptionDesc": "拘留，拘役；扣押",
+            "isRight": 1,
+            "wordId": 58093
+        }],
+        "wordDesc": "（こうりゅう）⓪【名·他动3】拘留，拘役；扣押",
+        "correctDesc": "拘留，拘役；扣押",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "任意",
+        "wordId": 58094,
+        "optionDtos": [{
+            "wordOptionId": 115753,
+            "wordOptionDesc": "任意，随意",
+            "isRight": 1,
+            "wordId": 58094
+        }],
+        "wordDesc": "（にんい）①【名·ナ形】任意，随意",
+        "correctDesc": "任意，随意",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "起訴",
+        "wordId": 58095,
+        "optionDtos": [{
+            "wordOptionId": 115754,
+            "wordOptionDesc": "起诉，提起公诉",
+            "isRight": 1,
+            "wordId": 58095
+        }],
+        "wordDesc": "（きそ）①【名·他动3】起诉，提起公诉",
+        "correctDesc": "起诉，提起公诉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "真似る",
+        "wordId": 58096,
+        "optionDtos": [{
+            "wordOptionId": 115755,
+            "wordOptionDesc": "模仿，效仿",
+            "isRight": 1,
+            "wordId": 58096
+        }],
+        "wordDesc": "（まねる）⓪【他动2】模仿，效仿",
+        "correctDesc": "模仿，效仿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "指定",
+        "wordId": 58097,
+        "optionDtos": [{
+            "wordOptionId": 115756,
+            "wordOptionDesc": "指定",
+            "isRight": 1,
+            "wordId": 58097
+        }],
+        "wordDesc": "（してい）⓪【名·他动3】指定",
+        "correctDesc": "指定",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "身柄",
+        "wordId": 58098,
+        "optionDtos": [{
+            "wordOptionId": 115757,
+            "wordOptionDesc": "本人；身份",
+            "isRight": 1,
+            "wordId": 58098
+        }],
+        "wordDesc": "（みがら）⓪【名】本人；身份",
+        "correctDesc": "本人；身份",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ジェンダー",
+        "wordId": 58099,
+        "optionDtos": [{
+            "wordOptionId": 115758,
+            "wordOptionDesc": "性别，男女差异",
+            "isRight": 1,
+            "wordId": 58099
+        }],
+        "wordDesc": "（gender）①【名】性别，男女差异",
+        "correctDesc": "性别，男女差异",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "違法",
+        "wordId": 58100,
+        "optionDtos": [{
+            "wordOptionId": 115759,
+            "wordOptionDesc": "违法",
+            "isRight": 1,
+            "wordId": 58100
+        }],
+        "wordDesc": "（いほう）⓪【名】违法",
+        "correctDesc": "违法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "感性",
+        "wordId": 58101,
+        "optionDtos": [{
+            "wordOptionId": 115760,
+            "wordOptionDesc": "感性",
+            "isRight": 1,
+            "wordId": 58101
+        }],
+        "wordDesc": "（かんせい）①【名】感性",
+        "correctDesc": "感性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "民衆",
+        "wordId": 58102,
+        "optionDtos": [{
+            "wordOptionId": 115761,
+            "wordOptionDesc": "民众，大众，群众",
+            "isRight": 1,
+            "wordId": 58102
+        }],
+        "wordDesc": "（みんしゅう）⓪【名】民众，大众，群众",
+        "correctDesc": "民众，大众，群众",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "振る舞い",
+        "wordId": 58103,
+        "optionDtos": [{
+            "wordOptionId": 115762,
+            "wordOptionDesc": "行为，举止；请客，招待",
+            "isRight": 1,
+            "wordId": 58103
+        }],
+        "wordDesc": "（ふるまい）⓪【名】行为，举止；请客，招待",
+        "correctDesc": "行为，举止；请客，招待",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "行き違い",
+        "wordId": 58104,
+        "optionDtos": [{
+            "wordOptionId": 115763,
+            "wordOptionDesc": "走岔；产生龃龉，弄错",
+            "isRight": 1,
+            "wordId": 58104
+        }],
+        "wordDesc": "（いきちがい/ゆきちがい）⓪【名】走岔；产生龃龉，弄错",
+        "correctDesc": "走岔；产生龃龉，弄错",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "重厚",
+        "wordId": 58105,
+        "optionDtos": [{
+            "wordOptionId": 115764,
+            "wordOptionDesc": "沉着，稳重",
+            "isRight": 1,
+            "wordId": 58105
+        }],
+        "wordDesc": "（じゅうこう）⓪【名·ナ形】沉着，稳重",
+        "correctDesc": "沉着，稳重",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "放る",
+        "wordId": 58106,
+        "optionDtos": [{
+            "wordOptionId": 115765,
+            "wordOptionDesc": "扔，抛；放弃，放下，弃而不顾，不加理睬",
+            "isRight": 1,
+            "wordId": 58106
+        }],
+        "wordDesc": "（ほうる）⓪【他动1】扔，抛；放弃，放下，弃而不顾，不加理睬",
+        "correctDesc": "扔，抛；放弃，放下，弃而不顾，不加理睬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "節度",
+        "wordId": 58107,
+        "optionDtos": [{
+            "wordOptionId": 115766,
+            "wordOptionDesc": "节制，分寸；规范",
+            "isRight": 1,
+            "wordId": 58107
+        }],
+        "wordDesc": "（せつど）①【名】节制，分寸；规范",
+        "correctDesc": "节制，分寸；规范",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "背伸び",
+        "wordId": 58108,
+        "optionDtos": [{
+            "wordOptionId": 115767,
+            "wordOptionDesc": "踮起脚；伸懒腰；逞能，逞强",
+            "isRight": 1,
+            "wordId": 58108
+        }],
+        "wordDesc": "（せのび）①【名·自动3】踮起脚；伸懒腰；逞能，逞强",
+        "correctDesc": "踮起脚；伸懒腰；逞能，逞强",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "セミナー",
+        "wordId": 58109,
+        "optionDtos": [{
+            "wordOptionId": 115768,
+            "wordOptionDesc": "研讨会，小组讨论",
+            "isRight": 1,
+            "wordId": 58109
+        }],
+        "wordDesc": "（seminar）①【名】研讨会，小组讨论",
+        "correctDesc": "研讨会，小组讨论",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "処方箋",
+        "wordId": 58110,
+        "optionDtos": [{
+            "wordOptionId": 115769,
+            "wordOptionDesc": "处方笺，药方",
+            "isRight": 1,
+            "wordId": 58110
+        }],
+        "wordDesc": "（しょほうせん）⓪【名】处方笺，药方",
+        "correctDesc": "处方笺，药方",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "庶民",
+        "wordId": 58111,
+        "optionDtos": [{
+            "wordOptionId": 115770,
+            "wordOptionDesc": "老百姓，平民，群众",
+            "isRight": 1,
+            "wordId": 58111
+        }],
+        "wordDesc": "（しょみん）①【名】老百姓，平民，群众",
+        "correctDesc": "老百姓，平民，群众",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "センサー",
+        "wordId": 58112,
+        "optionDtos": [{
+            "wordOptionId": 115771,
+            "wordOptionDesc": "传感器，感应装置",
+            "isRight": 1,
+            "wordId": 58112
+        }],
+        "wordDesc": "（sensor）①【名】传感器，感应装置",
+        "correctDesc": "传感器，感应装置",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "喘息",
+        "wordId": 58113,
+        "optionDtos": [{
+            "wordOptionId": 115772,
+            "wordOptionDesc": "哮喘",
+            "isRight": 1,
+            "wordId": 58113
+        }],
+        "wordDesc": "（ぜんそく）⓪【名】哮喘",
+        "correctDesc": "哮喘",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "先着",
+        "wordId": 58114,
+        "optionDtos": [{
+            "wordOptionId": 115773,
+            "wordOptionDesc": "先到，先抵达",
+            "isRight": 1,
+            "wordId": 58114
+        }],
+        "wordDesc": "（せんちゃく）⓪【名·自动3】先到，先抵达",
+        "correctDesc": "先到，先抵达",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "収賄",
+        "wordId": 58115,
+        "optionDtos": [{
+            "wordOptionId": 115774,
+            "wordOptionDesc": "受贿",
+            "isRight": 1,
+            "wordId": 58115
+        }],
+        "wordDesc": "（しゅうわい）⓪【名·自他动3】受贿",
+        "correctDesc": "受贿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "イニシャル",
+        "wordId": 58116,
+        "optionDtos": [{
+            "wordOptionId": 115775,
+            "wordOptionDesc": "单词或名字的首字母",
+            "isRight": 1,
+            "wordId": 58116
+        }],
+        "wordDesc": "（initial）②【名】单词或名字的首字母",
+        "correctDesc": "单词或名字的首字母",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "インターンシップ",
+        "wordId": 58117,
+        "optionDtos": [{
+            "wordOptionId": 115776,
+            "wordOptionDesc": "实习",
+            "isRight": 1,
+            "wordId": 58117
+        }],
+        "wordDesc": "（internship）⑥【名】实习",
+        "correctDesc": "实习",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "裏付ける",
+        "wordId": 58118,
+        "optionDtos": [{
+            "wordOptionId": 115777,
+            "wordOptionDesc": "证实，印证，证明",
+            "isRight": 1,
+            "wordId": 58118
+        }],
+        "wordDesc": "（うらづける）④【他动2】证实，印证，证明",
+        "correctDesc": "证实，印证，证明",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "遠視",
+        "wordId": 58119,
+        "optionDtos": [{
+            "wordOptionId": 115778,
+            "wordOptionDesc": "远视 ",
+            "isRight": 1,
+            "wordId": 58119
+        }],
+        "wordDesc": "（えんし）⓪【名】远视 ",
+        "correctDesc": "远视 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "乱視",
+        "wordId": 58120,
+        "optionDtos": [{
+            "wordOptionId": 115779,
+            "wordOptionDesc": "散光",
+            "isRight": 1,
+            "wordId": 58120
+        }],
+        "wordDesc": "（らんし）⓪【名】散光",
+        "correctDesc": "散光",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "押しかける",
+        "wordId": 58121,
+        "optionDtos": [{
+            "wordOptionId": 115780,
+            "wordOptionDesc": "蜂拥而至，闯进；不请自来",
+            "isRight": 1,
+            "wordId": 58121
+        }],
+        "wordDesc": "（おしかける）④【自动2】蜂拥而至，闯进；不请自来",
+        "correctDesc": "蜂拥而至，闯进；不请自来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "落ちかかる",
+        "wordId": 58122,
+        "optionDtos": [{
+            "wordOptionId": 115781,
+            "wordOptionDesc": "眼看要落下，就要掉下来",
+            "isRight": 1,
+            "wordId": 58122
+        }],
+        "wordDesc": "（おちかかる）④【自动1】眼看要落下，就要掉下来",
+        "correctDesc": "眼看要落下，就要掉下来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "オノマトペ ",
+        "wordId": 58123,
+        "optionDtos": [{
+            "wordOptionId": 115782,
+            "wordOptionDesc": "拟声词，象声词",
+            "isRight": 1,
+            "wordId": 58123
+        }],
+        "wordDesc": "③【名】拟声词，象声词",
+        "correctDesc": "拟声词，象声词",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "穏和",
+        "wordId": 58124,
+        "optionDtos": [{
+            "wordOptionId": 115783,
+            "wordOptionDesc": "（气候）温和；（性格）稳重，平和",
+            "isRight": 1,
+            "wordId": 58124
+        }],
+        "wordDesc": "（おんわ）⓪【名·ナ形】（气候）温和；（性格）稳重，平和",
+        "correctDesc": "（气候）温和；（性格）稳重，平和",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ガードレール",
+        "wordId": 58125,
+        "optionDtos": [{
+            "wordOptionId": 115784,
+            "wordOptionDesc": "公路上的护栏",
+            "isRight": 1,
+            "wordId": 58125
+        }],
+        "wordDesc": "（guardrail）④【名】公路上的护栏",
+        "correctDesc": "公路上的护栏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "解消",
+        "wordId": 58126,
+        "optionDtos": [{
+            "wordOptionId": 115785,
+            "wordOptionDesc": "解除，取消",
+            "isRight": 1,
+            "wordId": 58126
+        }],
+        "wordDesc": "（かいしょう）⓪【名·自他动3】解除，取消",
+        "correctDesc": "解除，取消",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "湿原",
+        "wordId": 58127,
+        "optionDtos": [{
+            "wordOptionId": 115786,
+            "wordOptionDesc": "沼泽地",
+            "isRight": 1,
+            "wordId": 58127
+        }],
+        "wordDesc": "（しつげん）⓪【名】沼泽地",
+        "correctDesc": "沼泽地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "叶う",
+        "wordId": 58128,
+        "optionDtos": [{
+            "wordOptionId": 115787,
+            "wordOptionDesc": "能实现，能如愿以偿",
+            "isRight": 1,
+            "wordId": 58128
+        }],
+        "wordDesc": "（かなう）②【自动1】能实现，能如愿以偿",
+        "correctDesc": "能实现，能如愿以偿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "上告",
+        "wordId": 58129,
+        "optionDtos": [{
+            "wordOptionId": 115788,
+            "wordOptionDesc": "上报，呈报；上诉",
+            "isRight": 1,
+            "wordId": 58129
+        }],
+        "wordDesc": "（じょうこく）⓪【名·他动3】上报，呈报；上诉",
+        "correctDesc": "上报，呈报；上诉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "詳細",
+        "wordId": 58130,
+        "optionDtos": [{
+            "wordOptionId": 115789,
+            "wordOptionDesc": "详细",
+            "isRight": 1,
+            "wordId": 58130
+        }],
+        "wordDesc": "（しょうさい）⓪【名·ナ形】详细",
+        "correctDesc": "详细",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "保守的",
+        "wordId": 58131,
+        "optionDtos": [{
+            "wordOptionId": 115790,
+            "wordOptionDesc": "保守的，因循守旧的",
+            "isRight": 1,
+            "wordId": 58131
+        }],
+        "wordDesc": "（ほしゅてき）⓪【ナ形】保守的，因循守旧的",
+        "correctDesc": "保守的，因循守旧的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "予習",
+        "wordId": 58132,
+        "optionDtos": [{
+            "wordOptionId": 115791,
+            "wordOptionDesc": "预习",
+            "isRight": 1,
+            "wordId": 58132
+        }],
+        "wordDesc": "（よしゅう）⓪【名·他动3】预习",
+        "correctDesc": "预习",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "浮世絵",
+        "wordId": 58133,
+        "optionDtos": [{
+            "wordOptionId": 115792,
+            "wordOptionDesc": "浮世绘，风俗画",
+            "isRight": 1,
+            "wordId": 58133
+        }],
+        "wordDesc": "（うきよえ）③【名】浮世绘，风俗画",
+        "correctDesc": "浮世绘，风俗画",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "破片",
+        "wordId": 58134,
+        "optionDtos": [{
+            "wordOptionId": 115793,
+            "wordOptionDesc": "碎片",
+            "isRight": 1,
+            "wordId": 58134
+        }],
+        "wordDesc": "（はへん）⓪【名】碎片",
+        "correctDesc": "碎片",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "天才",
+        "wordId": 58135,
+        "optionDtos": [{
+            "wordOptionId": 115794,
+            "wordOptionDesc": "天才",
+            "isRight": 1,
+            "wordId": 58135
+        }],
+        "wordDesc": "（てんさい）⓪【名】天才",
+        "correctDesc": "天才",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "染まる",
+        "wordId": 58136,
+        "optionDtos": [{
+            "wordOptionId": 115795,
+            "wordOptionDesc": "染上；沾染，受（坏）影响",
+            "isRight": 1,
+            "wordId": 58136
+        }],
+        "wordDesc": "（そまる）⓪【自动1】染上；沾染，受（坏）影响",
+        "correctDesc": "染上；沾染，受（坏）影响",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "蕁麻疹",
+        "wordId": 58137,
+        "optionDtos": [{
+            "wordOptionId": 115796,
+            "wordOptionDesc": "荨麻疹",
+            "isRight": 1,
+            "wordId": 58137
+        }],
+        "wordDesc": "（じんましん）③【名】荨麻疹",
+        "correctDesc": "荨麻疹",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ずきずき ",
+        "wordId": 58138,
+        "optionDtos": [{
+            "wordOptionId": 115797,
+            "wordOptionDesc": "跳痛，一跳一跳地疼",
+            "isRight": 1,
+            "wordId": 58138
+        }],
+        "wordDesc": "①【副·自动3】跳痛，一跳一跳地疼",
+        "correctDesc": "跳痛，一跳一跳地疼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ショッピングセンター",
+        "wordId": 58139,
+        "optionDtos": [{
+            "wordOptionId": 115798,
+            "wordOptionDesc": "商业区，购物中心",
+            "isRight": 1,
+            "wordId": 58139
+        }],
+        "wordDesc": "（shopping center）⑥【名】商业区，购物中心",
+        "correctDesc": "商业区，购物中心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ショッピングモール",
+        "wordId": 58140,
+        "optionDtos": [{
+            "wordOptionId": 115799,
+            "wordOptionDesc": "商场，大型购物中心",
+            "isRight": 1,
+            "wordId": 58140
+        }],
+        "wordDesc": "（shopping mall）⑥【名】商场，大型购物中心",
+        "correctDesc": "商场，大型购物中心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "新卒",
+        "wordId": 58141,
+        "optionDtos": [{
+            "wordOptionId": 115800,
+            "wordOptionDesc": "应届毕业生",
+            "isRight": 1,
+            "wordId": 58141
+        }],
+        "wordDesc": "（しんそつ）⓪【名】应届毕业生",
+        "correctDesc": "应届毕业生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "スタミナ",
+        "wordId": 58142,
+        "optionDtos": [{
+            "wordOptionId": 115801,
+            "wordOptionDesc": "持久力，耐力；精力；体力",
+            "isRight": 1,
+            "wordId": 58142
+        }],
+        "wordDesc": "（stamina）⓪【名】持久力，耐力；精力；体力",
+        "correctDesc": "持久力，耐力；精力；体力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "スパイス",
+        "wordId": 58143,
+        "optionDtos": [{
+            "wordOptionId": 115802,
+            "wordOptionDesc": "调味品，香料",
+            "isRight": 1,
+            "wordId": 58143
+        }],
+        "wordDesc": "（spice）②【名】调味品，香料",
+        "correctDesc": "调味品，香料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "すべすべ ",
+        "wordId": 58144,
+        "optionDtos": [{
+            "wordOptionId": 115803,
+            "wordOptionDesc": "光滑，滑溜溜",
+            "isRight": 1,
+            "wordId": 58144
+        }],
+        "wordDesc": "①【副·ナ形】光滑，滑溜溜",
+        "correctDesc": "光滑，滑溜溜",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "承諾",
+        "wordId": 58145,
+        "optionDtos": [{
+            "wordOptionId": 115804,
+            "wordOptionDesc": "同意，应允，允许",
+            "isRight": 1,
+            "wordId": 58145
+        }],
+        "wordDesc": "（しょうだく）⓪【名·他动3】同意，应允，允许",
+        "correctDesc": "同意，应允，允许",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "勢力",
+        "wordId": 58146,
+        "optionDtos": [{
+            "wordOptionId": 115805,
+            "wordOptionDesc": "势力，权势，力量，实力",
+            "isRight": 1,
+            "wordId": 58146
+        }],
+        "wordDesc": "（せいりょく）①【名】势力，权势，力量，实力",
+        "correctDesc": "势力，权势，力量，实力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "傷害",
+        "wordId": 58147,
+        "optionDtos": [{
+            "wordOptionId": 115806,
+            "wordOptionDesc": "伤害，加害",
+            "isRight": 1,
+            "wordId": 58147
+        }],
+        "wordDesc": "（しょうがい）⓪【名·他动3】伤害，加害",
+        "correctDesc": "伤害，加害",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "生態",
+        "wordId": 58148,
+        "optionDtos": [{
+            "wordOptionId": 115807,
+            "wordOptionDesc": "生态；生活状态",
+            "isRight": 1,
+            "wordId": 58148
+        }],
+        "wordDesc": "（せいたい）⓪【名】生态；生活状态",
+        "correctDesc": "生态；生活状态",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ストーカー",
+        "wordId": 58149,
+        "optionDtos": [{
+            "wordOptionId": 115808,
+            "wordOptionDesc": "跟踪狂，骚扰者",
+            "isRight": 1,
+            "wordId": 58149
+        }],
+        "wordDesc": "（stalker）⓪【名】跟踪狂，骚扰者",
+        "correctDesc": "跟踪狂，骚扰者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "衝動",
+        "wordId": 58150,
+        "optionDtos": [{
+            "wordOptionId": 115809,
+            "wordOptionDesc": "冲动；打击，震惊",
+            "isRight": 1,
+            "wordId": 58150
+        }],
+        "wordDesc": "（しょうどう）⓪【名】冲动；打击，震惊",
+        "correctDesc": "冲动；打击，震惊",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "食道",
+        "wordId": 58151,
+        "optionDtos": [{
+            "wordOptionId": 115810,
+            "wordOptionDesc": "食道，食管",
+            "isRight": 1,
+            "wordId": 58151
+        }],
+        "wordDesc": "（しょくどう）⓪【名】食道，食管",
+        "correctDesc": "食道，食管",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "墨絵",
+        "wordId": 58152,
+        "optionDtos": [{
+            "wordOptionId": 115811,
+            "wordOptionDesc": "水墨画",
+            "isRight": 1,
+            "wordId": 58152
+        }],
+        "wordDesc": "（すみえ）⓪【名】水墨画",
+        "correctDesc": "水墨画",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "スムーズ",
+        "wordId": 58153,
+        "optionDtos": [{
+            "wordOptionId": 115812,
+            "wordOptionDesc": "平滑的，光滑的；顺利的，流畅的，顺畅的",
+            "isRight": 1,
+            "wordId": 58153
+        }],
+        "wordDesc": "（smooth）②【ナ形】平滑的，光滑的；顺利的，流畅的，顺畅的",
+        "correctDesc": "平滑的，光滑的；顺利的，流畅的，顺畅的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "すり替える",
+        "wordId": 58154,
+        "optionDtos": [{
+            "wordOptionId": 115813,
+            "wordOptionDesc": "顶替，偷换，调包",
+            "isRight": 1,
+            "wordId": 58154
+        }],
+        "wordDesc": "（すりかえる）③【他动2】顶替，偷换，调包",
+        "correctDesc": "顶替，偷换，调包",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "スリル",
+        "wordId": 58155,
+        "optionDtos": [{
+            "wordOptionId": 115814,
+            "wordOptionDesc": "惊险，刺激性，紧张感",
+            "isRight": 1,
+            "wordId": 58155
+        }],
+        "wordDesc": "（thrill）①【名】惊险，刺激性，紧张感",
+        "correctDesc": "惊险，刺激性，紧张感",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "声援",
+        "wordId": 58156,
+        "optionDtos": [{
+            "wordOptionId": 115815,
+            "wordOptionDesc": "声援，助威；支援，支持 ",
+            "isRight": 1,
+            "wordId": 58156
+        }],
+        "wordDesc": "（せいえん）⓪【名·他动3】声援，助威；支援，支持 ",
+        "correctDesc": "声援，助威；支援，支持 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "清算",
+        "wordId": 58157,
+        "optionDtos": [{
+            "wordOptionId": 115816,
+            "wordOptionDesc": "结算，清算；了结，结束",
+            "isRight": 1,
+            "wordId": 58157
+        }],
+        "wordDesc": "（せいさん）⓪【名·他动3】结算，清算；了结，结束",
+        "correctDesc": "结算，清算；了结，结束",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "就活",
+        "wordId": 58158,
+        "optionDtos": [{
+            "wordOptionId": 115817,
+            "wordOptionDesc": "求职",
+            "isRight": 1,
+            "wordId": 58158
+        }],
+        "wordDesc": "（しゅうかつ）⓪【名】求职",
+        "correctDesc": "求职",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "食中毒",
+        "wordId": 58159,
+        "optionDtos": [{
+            "wordOptionId": 115818,
+            "wordOptionDesc": "食物中毒",
+            "isRight": 1,
+            "wordId": 58159
+        }],
+        "wordDesc": "（しょくちゅうどく）③【名】食物中毒",
+        "correctDesc": "食物中毒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "首脳",
+        "wordId": 58160,
+        "optionDtos": [{
+            "wordOptionId": 115819,
+            "wordOptionDesc": "首脑，首领，领导人物",
+            "isRight": 1,
+            "wordId": 58160
+        }],
+        "wordDesc": "（しゅのう）⓪【名】首脑，首领，领导人物",
+        "correctDesc": "首脑，首领，领导人物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "盛大",
+        "wordId": 58161,
+        "optionDtos": [{
+            "wordOptionId": 115820,
+            "wordOptionDesc": "盛大的，隆重的，宏大的",
+            "isRight": 1,
+            "wordId": 58161
+        }],
+        "wordDesc": "（せいだい）⓪【ナ形】盛大的，隆重的，宏大的",
+        "correctDesc": "盛大的，隆重的，宏大的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "精密",
+        "wordId": 58162,
+        "optionDtos": [{
+            "wordOptionId": 115821,
+            "wordOptionDesc": "精密，精细；精确",
+            "isRight": 1,
+            "wordId": 58162
+        }],
+        "wordDesc": "（せいみつ）⓪【名·ナ形】精密，精细；精确",
+        "correctDesc": "精密，精细；精确",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "高卒",
+        "wordId": 58163,
+        "optionDtos": [{
+            "wordOptionId": 115822,
+            "wordOptionDesc": "高中毕业",
+            "isRight": 1,
+            "wordId": 58163
+        }],
+        "wordDesc": "（こうそつ）⓪【名】高中毕业",
+        "correctDesc": "高中毕业",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "おっとり ",
+        "wordId": 58164,
+        "optionDtos": [{
+            "wordOptionId": 115823,
+            "wordOptionDesc": "稳重，文静，大方",
+            "isRight": 1,
+            "wordId": 58164
+        }],
+        "wordDesc": "③【副·自动3】稳重，文静，大方",
+        "correctDesc": "稳重，文静，大方",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "声明",
+        "wordId": 58165,
+        "optionDtos": [{
+            "wordOptionId": 115824,
+            "wordOptionDesc": "声明",
+            "isRight": 1,
+            "wordId": 58165
+        }],
+        "wordDesc": "（せいめい）⓪【名·自他动3】声明",
+        "correctDesc": "声明",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "婚約",
+        "wordId": 58166,
+        "optionDtos": [{
+            "wordOptionId": 115825,
+            "wordOptionDesc": "婚约；订婚",
+            "isRight": 1,
+            "wordId": 58166
+        }],
+        "wordDesc": "（こんやく）⓪【名·自动3】婚约；订婚",
+        "correctDesc": "婚约；订婚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "診療",
+        "wordId": 58167,
+        "optionDtos": [{
+            "wordOptionId": 115826,
+            "wordOptionDesc": "诊疗，诊治",
+            "isRight": 1,
+            "wordId": 58167
+        }],
+        "wordDesc": "（しんりょう）⓪【名·他动3】诊疗，诊治",
+        "correctDesc": "诊疗，诊治",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "進路",
+        "wordId": 58168,
+        "optionDtos": [{
+            "wordOptionId": 115827,
+            "wordOptionDesc": "前进的方向；前途",
+            "isRight": 1,
+            "wordId": 58168
+        }],
+        "wordDesc": "（しんろ）①【名】前进的方向；前途",
+        "correctDesc": "前进的方向；前途",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "緯度",
+        "wordId": 58169,
+        "optionDtos": [{
+            "wordOptionId": 115828,
+            "wordOptionDesc": "纬度",
+            "isRight": 1,
+            "wordId": 58169
+        }],
+        "wordDesc": "（いど）①【名】纬度",
+        "correctDesc": "纬度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "突きつける",
+        "wordId": 58170,
+        "optionDtos": [{
+            "wordOptionId": 115829,
+            "wordOptionDesc": "摆在面前；（以强硬的态度）提出",
+            "isRight": 1,
+            "wordId": 58170
+        }],
+        "wordDesc": "（つきつける）④【他动2】摆在面前；（以强硬的态度）提出",
+        "correctDesc": "摆在面前；（以强硬的态度）提出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "贈る",
+        "wordId": 58171,
+        "optionDtos": [{
+            "wordOptionId": 115830,
+            "wordOptionDesc": "赠送；授予",
+            "isRight": 1,
+            "wordId": 58171
+        }],
+        "wordDesc": "（おくる）⓪【他动1】赠送；授予",
+        "correctDesc": "赠送；授予",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "嗅ぐ",
+        "wordId": 58172,
+        "optionDtos": [{
+            "wordOptionId": 115831,
+            "wordOptionDesc": "闻，嗅",
+            "isRight": 1,
+            "wordId": 58172
+        }],
+        "wordDesc": "（かぐ）⓪【他动1】闻，嗅",
+        "correctDesc": "闻，嗅",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "関わる",
+        "wordId": 58173,
+        "optionDtos": [{
+            "wordOptionId": 115832,
+            "wordOptionDesc": "关系到；有牵连",
+            "isRight": 1,
+            "wordId": 58173
+        }],
+        "wordDesc": "（かかわる）③【自动1】关系到；有牵连",
+        "correctDesc": "关系到；有牵连",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "突き詰める",
+        "wordId": 58174,
+        "optionDtos": [{
+            "wordOptionId": 115833,
+            "wordOptionDesc": "追究到底；反复思考",
+            "isRight": 1,
+            "wordId": 58174
+        }],
+        "wordDesc": "（つきつめる）④【他动2】追究到底；反复思考",
+        "correctDesc": "追究到底；反复思考",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "先入観",
+        "wordId": 58175,
+        "optionDtos": [{
+            "wordOptionId": 115834,
+            "wordOptionDesc": "先入之见，成见",
+            "isRight": 1,
+            "wordId": 58175
+        }],
+        "wordDesc": "（せんにゅうかん）③【名】先入之见，成见",
+        "correctDesc": "先入之见，成见",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "贈賄",
+        "wordId": 58176,
+        "optionDtos": [{
+            "wordOptionId": 115835,
+            "wordOptionDesc": "行贿",
+            "isRight": 1,
+            "wordId": 58176
+        }],
+        "wordDesc": "（ぞうわい）⓪【名·自动3】行贿",
+        "correctDesc": "行贿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "阻害",
+        "wordId": 58177,
+        "optionDtos": [{
+            "wordOptionId": 115836,
+            "wordOptionDesc": "阻碍，妨碍",
+            "isRight": 1,
+            "wordId": 58177
+        }],
+        "wordDesc": "（そがい）⓪【名·他动3】阻碍，妨碍",
+        "correctDesc": "阻碍，妨碍",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "巧妙",
+        "wordId": 58178,
+        "optionDtos": [{
+            "wordOptionId": 115837,
+            "wordOptionDesc": "巧妙",
+            "isRight": 1,
+            "wordId": 58178
+        }],
+        "wordDesc": "（こうみょう）⓪【名·ナ形】巧妙",
+        "correctDesc": "巧妙",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "生理的",
+        "wordId": 58179,
+        "optionDtos": [{
+            "wordOptionId": 115838,
+            "wordOptionDesc": "生理上的",
+            "isRight": 1,
+            "wordId": 58179
+        }],
+        "wordDesc": "（せいりてき）⓪【ナ形】生理上的",
+        "correctDesc": "生理上的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "ずば抜ける",
+        "wordId": 58180,
+        "optionDtos": [{
+            "wordOptionId": 115839,
+            "wordOptionDesc": "出众，出类拔萃",
+            "isRight": 1,
+            "wordId": 58180
+        }],
+        "wordDesc": "（ずばぬける）④【自动2】出众，出类拔萃",
+        "correctDesc": "出众，出类拔萃",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "国体",
+        "wordId": 58181,
+        "optionDtos": [{
+            "wordOptionId": 115840,
+            "wordOptionDesc": "国体，国家体制",
+            "isRight": 1,
+            "wordId": 58181
+        }],
+        "wordDesc": "（こくたい）⓪【名】国体，国家体制",
+        "correctDesc": "国体，国家体制",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "専念",
+        "wordId": 58182,
+        "optionDtos": [{
+            "wordOptionId": 115841,
+            "wordOptionDesc": "一心一意地做",
+            "isRight": 1,
+            "wordId": 58182
+        }],
+        "wordDesc": "（せんねん）③【名·自他动3】一心一意地做",
+        "correctDesc": "一心一意地做",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "総務省",
+        "wordId": 58183,
+        "optionDtos": [{
+            "wordOptionId": 115842,
+            "wordOptionDesc": "（日本政府机构）总务省",
+            "isRight": 1,
+            "wordId": 58183
+        }],
+        "wordDesc": "（そうむしょう）③【名】（日本政府机构）总务省",
+        "correctDesc": "（日本政府机构）总务省",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第一天",
+        "wordName": "飼い主",
+        "wordId": 58184,
+        "optionDtos": [{
+            "wordOptionId": 115843,
+            "wordOptionDesc": "饲养主，主人，所有者",
+            "isRight": 1,
+            "wordId": 58184
+        }],
+        "wordDesc": "（かいぬし）①【名】饲养主，主人，所有者",
+        "correctDesc": "饲养主，主人，所有者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

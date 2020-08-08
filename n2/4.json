@@ -1,0 +1,4755 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "直線",
+        "wordId": 58685,
+        "optionDtos": [{
+            "wordOptionId": 116344,
+            "wordOptionDesc": "直线",
+            "isRight": 1,
+            "wordId": 58685
+        }],
+        "wordDesc": "（ちょくせん）⓪【名】直线",
+        "correctDesc": "直线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地区",
+        "wordId": 58686,
+        "optionDtos": [{
+            "wordOptionId": 116345,
+            "wordOptionDesc": "地区，地域",
+            "isRight": 1,
+            "wordId": 58686
+        }],
+        "wordDesc": "（ちく）①【名】地区，地域",
+        "correctDesc": "地区，地域",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "突き当たる",
+        "wordId": 58687,
+        "optionDtos": [{
+            "wordOptionId": 116346,
+            "wordOptionDesc": "撞上，碰上；走到尽头；遇到（问题）",
+            "isRight": 1,
+            "wordId": 58687
+        }],
+        "wordDesc": "（つきあたる）④【自动1】撞上，碰上；走到尽头；遇到（问题）",
+        "correctDesc": "撞上，碰上；走到尽头；遇到（问题）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "力強い",
+        "wordId": 58688,
+        "optionDtos": [{
+            "wordOptionId": 116347,
+            "wordOptionDesc": "强有力的，矫健的",
+            "isRight": 1,
+            "wordId": 58688
+        }],
+        "wordDesc": "（ちからづよい）⑤【イ形】强有力的，矫健的",
+        "correctDesc": "强有力的，矫健的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "チャンネル",
+        "wordId": 58689,
+        "optionDtos": [{
+            "wordOptionId": 116348,
+            "wordOptionDesc": "频道，波段；航道",
+            "isRight": 1,
+            "wordId": 58689
+        }],
+        "wordDesc": "（channel）⓪【名】频道，波段；航道",
+        "correctDesc": "频道，波段；航道",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "誕生",
+        "wordId": 58690,
+        "optionDtos": [{
+            "wordOptionId": 116349,
+            "wordOptionDesc": "出生，诞生；成立，创办",
+            "isRight": 1,
+            "wordId": 58690
+        }],
+        "wordDesc": "（たんじょう）⓪【名·自动3】出生，诞生；成立，创办",
+        "correctDesc": "出生，诞生；成立，创办",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地下",
+        "wordId": 58691,
+        "optionDtos": [{
+            "wordOptionId": 116350,
+            "wordOptionDesc": "地下；隐蔽的场所",
+            "isRight": 1,
+            "wordId": 58691
+        }],
+        "wordDesc": "（ちか）①【名】地下；隐蔽的场所",
+        "correctDesc": "地下；隐蔽的场所",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "直前",
+        "wordId": 58692,
+        "optionDtos": [{
+            "wordOptionId": 116351,
+            "wordOptionDesc": "即将……之前；正前面",
+            "isRight": 1,
+            "wordId": 58692
+        }],
+        "wordDesc": "（ちょくぜん）⓪【名】即将……之前；正前面",
+        "correctDesc": "即将……之前；正前面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "直後",
+        "wordId": 58693,
+        "optionDtos": [{
+            "wordOptionId": 116352,
+            "wordOptionDesc": "刚……之后；正后面",
+            "isRight": 1,
+            "wordId": 58693
+        }],
+        "wordDesc": "（ちょくご）①【名】刚……之后；正后面",
+        "correctDesc": "刚……之后；正后面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "知恵",
+        "wordId": 58694,
+        "optionDtos": [{
+            "wordOptionId": 116353,
+            "wordOptionDesc": "智慧；主意，办法",
+            "isRight": 1,
+            "wordId": 58694
+        }],
+        "wordDesc": "（ちえ）②【名】智慧；主意，办法",
+        "correctDesc": "智慧；主意，办法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "実例",
+        "wordId": 58695,
+        "optionDtos": [{
+            "wordOptionId": 116354,
+            "wordOptionDesc": "实例，实际的例子",
+            "isRight": 1,
+            "wordId": 58695
+        }],
+        "wordDesc": "（じつれい）⓪【名】实例，实际的例子",
+        "correctDesc": "实例，实际的例子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "単数",
+        "wordId": 58696,
+        "optionDtos": [{
+            "wordOptionId": 116355,
+            "wordOptionDesc": "单数",
+            "isRight": 1,
+            "wordId": 58696
+        }],
+        "wordDesc": "（たんすう）③【名】单数",
+        "correctDesc": "单数",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "違える",
+        "wordId": 58697,
+        "optionDtos": [{
+            "wordOptionId": 116356,
+            "wordOptionDesc": "使不一样；弄错，搞错",
+            "isRight": 1,
+            "wordId": 58697
+        }],
+        "wordDesc": "（ちがえる）⓪【他动2】使不一样；弄错，搞错",
+        "correctDesc": "使不一样；弄错，搞错",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "単に",
+        "wordId": 58698,
+        "optionDtos": [{
+            "wordOptionId": 116357,
+            "wordOptionDesc": "仅仅，只",
+            "isRight": 1,
+            "wordId": 58698
+        }],
+        "wordDesc": "（たんに）①【副】仅仅，只",
+        "correctDesc": "仅仅，只",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "中毒",
+        "wordId": 58699,
+        "optionDtos": [{
+            "wordOptionId": 116358,
+            "wordOptionDesc": "中毒",
+            "isRight": 1,
+            "wordId": 58699
+        }],
+        "wordDesc": "（ちゅうどく）①【名·自动3】中毒",
+        "correctDesc": "中毒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "散らばる",
+        "wordId": 58700,
+        "optionDtos": [{
+            "wordOptionId": 116359,
+            "wordOptionDesc": "分散；散乱，零乱",
+            "isRight": 1,
+            "wordId": 58700
+        }],
+        "wordDesc": "（ちらばる）⓪【自动1】分散；散乱，零乱",
+        "correctDesc": "分散；散乱，零乱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "淡水",
+        "wordId": 58701,
+        "optionDtos": [{
+            "wordOptionId": 116360,
+            "wordOptionDesc": "淡水",
+            "isRight": 1,
+            "wordId": 58701
+        }],
+        "wordDesc": "（たんすい）⓪【名】淡水",
+        "correctDesc": "淡水",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "追求",
+        "wordId": 58702,
+        "optionDtos": [{
+            "wordOptionId": 116361,
+            "wordOptionDesc": "追求，寻求",
+            "isRight": 1,
+            "wordId": 58702
+        }],
+        "wordDesc": "（ついきゅう）⓪【名·他动3】追求，寻求",
+        "correctDesc": "追求，寻求",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "費やす",
+        "wordId": 58703,
+        "optionDtos": [{
+            "wordOptionId": 116362,
+            "wordOptionDesc": "花费，耗费；浪费",
+            "isRight": 1,
+            "wordId": 58703
+        }],
+        "wordDesc": "（ついやす）③【他动1】花费，耗费；浪费",
+        "correctDesc": "花费，耗费；浪费",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "タレント",
+        "wordId": 58704,
+        "optionDtos": [{
+            "wordOptionId": 116363,
+            "wordOptionDesc": "技能；艺人，演员",
+            "isRight": 1,
+            "wordId": 58704
+        }],
+        "wordDesc": "（talent）⓪【名】技能；艺人，演员",
+        "correctDesc": "技能；艺人，演员",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "単一",
+        "wordId": 58705,
+        "optionDtos": [{
+            "wordOptionId": 116364,
+            "wordOptionDesc": "单一；单独",
+            "isRight": 1,
+            "wordId": 58705
+        }],
+        "wordDesc": "（たんいつ）⓪【名·ナ形】单一；单独",
+        "correctDesc": "单一；单独",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "仮定",
+        "wordId": 58706,
+        "optionDtos": [{
+            "wordOptionId": 116365,
+            "wordOptionDesc": "假定，假设",
+            "isRight": 1,
+            "wordId": 58706
+        }],
+        "wordDesc": "（かてい）⓪【名·自他动3】假定，假设",
+        "correctDesc": "假定，假设",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "短縮",
+        "wordId": 58707,
+        "optionDtos": [{
+            "wordOptionId": 116366,
+            "wordOptionDesc": "缩短，缩减",
+            "isRight": 1,
+            "wordId": 58707
+        }],
+        "wordDesc": "（たんしゅく）⓪【名·他动3】缩短，缩减",
+        "correctDesc": "缩短，缩减",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "通常",
+        "wordId": 58708,
+        "optionDtos": [{
+            "wordOptionId": 116367,
+            "wordOptionDesc": "通常，平常，普通，一般",
+            "isRight": 1,
+            "wordId": 58708
+        }],
+        "wordDesc": "（つうじょう）⓪【名】通常，平常，普通，一般",
+        "correctDesc": "通常，平常，普通，一般",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "杖",
+        "wordId": 58709,
+        "optionDtos": [{
+            "wordOptionId": 116368,
+            "wordOptionDesc": "拐杖；倚靠",
+            "isRight": 1,
+            "wordId": 58709
+        }],
+        "wordDesc": "（つえ）①【名】拐杖；倚靠",
+        "correctDesc": "拐杖；倚靠",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "使い分け",
+        "wordId": 58710,
+        "optionDtos": [{
+            "wordOptionId": 116369,
+            "wordOptionDesc": "区分使用；灵活运用",
+            "isRight": 1,
+            "wordId": 58710
+        }],
+        "wordDesc": "（つかいわけ）⓪【名】区分使用；灵活运用",
+        "correctDesc": "区分使用；灵活运用",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "照る",
+        "wordId": 58711,
+        "optionDtos": [{
+            "wordOptionId": 116370,
+            "wordOptionDesc": "照耀，照射；放晴",
+            "isRight": 1,
+            "wordId": 58711
+        }],
+        "wordDesc": "（てる）①【自动1】照耀，照射；放晴",
+        "correctDesc": "照耀，照射；放晴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "展開",
+        "wordId": 58712,
+        "optionDtos": [{
+            "wordOptionId": 116371,
+            "wordOptionDesc": "开展，展开；展现",
+            "isRight": 1,
+            "wordId": 58712
+        }],
+        "wordDesc": "（てんかい）⓪【名·自他动3】开展，展开；展现",
+        "correctDesc": "开展，展开；展现",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "つくづく ",
+        "wordId": 58713,
+        "optionDtos": [{
+            "wordOptionId": 116372,
+            "wordOptionDesc": "仔细地；痛切，深切感到",
+            "isRight": 1,
+            "wordId": 58713
+        }],
+        "wordDesc": "③【副】仔细地；痛切，深切感到",
+        "correctDesc": "仔细地；痛切，深切感到",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "続き",
+        "wordId": 58714,
+        "optionDtos": [{
+            "wordOptionId": 116373,
+            "wordOptionDesc": "后续，接续；连续，接连不断",
+            "isRight": 1,
+            "wordId": 58714
+        }],
+        "wordDesc": "（つづき）⓪【名】后续，接续；连续，接连不断",
+        "correctDesc": "后续，接续；连续，接连不断",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "応じる",
+        "wordId": 58715,
+        "optionDtos": [{
+            "wordOptionId": 116374,
+            "wordOptionDesc": "响应，接受；答应；按照，根据",
+            "isRight": 1,
+            "wordId": 58715
+        }],
+        "wordDesc": "（おうじる）⓪【自动2】响应，接受；答应；按照，根据",
+        "correctDesc": "响应，接受；答应；按照，根据",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "往来",
+        "wordId": 58716,
+        "optionDtos": [{
+            "wordOptionId": 116375,
+            "wordOptionDesc": "往来，通行；交际，来往",
+            "isRight": 1,
+            "wordId": 58716
+        }],
+        "wordDesc": "（おうらい）⓪【名·自动3】往来，通行；交际，来往",
+        "correctDesc": "往来，通行；交际，来往",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "努める",
+        "wordId": 58717,
+        "optionDtos": [{
+            "wordOptionId": 116376,
+            "wordOptionDesc": "努力，尽力；效劳，效力",
+            "isRight": 1,
+            "wordId": 58717
+        }],
+        "wordDesc": "（つとめる）③【自动2】努力，尽力；效劳，效力",
+        "correctDesc": "努力，尽力；效劳，效力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "綱",
+        "wordId": 58718,
+        "optionDtos": [{
+            "wordOptionId": 116377,
+            "wordOptionDesc": "绳索；命脉",
+            "isRight": 1,
+            "wordId": 58718
+        }],
+        "wordDesc": "（つな）②【名】绳索；命脉",
+        "correctDesc": "绳索；命脉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "応答",
+        "wordId": 58719,
+        "optionDtos": [{
+            "wordOptionId": 116378,
+            "wordOptionDesc": "应答，应对",
+            "isRight": 1,
+            "wordId": 58719
+        }],
+        "wordDesc": "（おうとう）⓪【名·自动3】应答，应对",
+        "correctDesc": "应答，应对",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "哲学",
+        "wordId": 58720,
+        "optionDtos": [{
+            "wordOptionId": 116379,
+            "wordOptionDesc": "哲学；人生观，世界观",
+            "isRight": 1,
+            "wordId": 58720
+        }],
+        "wordDesc": "（てつがく）②【名】哲学；人生观，世界观",
+        "correctDesc": "哲学；人生观，世界观",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "周囲",
+        "wordId": 58721,
+        "optionDtos": [{
+            "wordOptionId": 116380,
+            "wordOptionDesc": "四周；外界，环境",
+            "isRight": 1,
+            "wordId": 58721
+        }],
+        "wordDesc": "（しゅうい）①【名】四周；外界，环境",
+        "correctDesc": "四周；外界，环境",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "中央",
+        "wordId": 58722,
+        "optionDtos": [{
+            "wordOptionId": 116381,
+            "wordOptionDesc": "中央；中枢",
+            "isRight": 1,
+            "wordId": 58722
+        }],
+        "wordDesc": "（ちゅうおう）③【名】中央；中枢",
+        "correctDesc": "中央；中枢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "公認",
+        "wordId": 58723,
+        "optionDtos": [{
+            "wordOptionId": 116382,
+            "wordOptionDesc": "公认，正式承认",
+            "isRight": 1,
+            "wordId": 58723
+        }],
+        "wordDesc": "（こうにん）⓪【名·他动3】公认，正式承认",
+        "correctDesc": "公认，正式承认",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "尽きる",
+        "wordId": 58724,
+        "optionDtos": [{
+            "wordOptionId": 116383,
+            "wordOptionDesc": "用光，穷尽；完了，结束",
+            "isRight": 1,
+            "wordId": 58724
+        }],
+        "wordDesc": "（つきる）②【自动2】用光，穷尽；完了，结束",
+        "correctDesc": "用光，穷尽；完了，结束",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "尽くす",
+        "wordId": 58725,
+        "optionDtos": [{
+            "wordOptionId": 116384,
+            "wordOptionDesc": "尽力；效力；达到极点",
+            "isRight": 1,
+            "wordId": 58725
+        }],
+        "wordDesc": "（つくす）②【他动1】尽力；效力；达到极点",
+        "correctDesc": "尽力；效力；达到极点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "外界",
+        "wordId": 58726,
+        "optionDtos": [{
+            "wordOptionId": 116385,
+            "wordOptionDesc": "外界，外部",
+            "isRight": 1,
+            "wordId": 58726
+        }],
+        "wordDesc": "（がいかい）⓪【名】外界，外部",
+        "correctDesc": "外界，外部",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "奴隷",
+        "wordId": 58727,
+        "optionDtos": [{
+            "wordOptionId": 116386,
+            "wordOptionDesc": "奴隶，被某种东西束缚的人",
+            "isRight": 1,
+            "wordId": 58727
+        }],
+        "wordDesc": "（どれい）⓪【名】奴隶，被某种东西束缚的人",
+        "correctDesc": "奴隶，被某种东西束缚的人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "務める",
+        "wordId": 58728,
+        "optionDtos": [{
+            "wordOptionId": 116387,
+            "wordOptionDesc": "担任……职务；起……作用",
+            "isRight": 1,
+            "wordId": 58728
+        }],
+        "wordDesc": "（つとめる）③【他动2】担任……职务；起……作用",
+        "correctDesc": "担任……职务；起……作用",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "戦闘",
+        "wordId": 58729,
+        "optionDtos": [{
+            "wordOptionId": 116388,
+            "wordOptionDesc": "战斗",
+            "isRight": 1,
+            "wordId": 58729
+        }],
+        "wordDesc": "（せんとう）⓪【名·自动3】战斗",
+        "correctDesc": "战斗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "照り返す",
+        "wordId": 58730,
+        "optionDtos": [{
+            "wordOptionId": 116389,
+            "wordOptionDesc": "反射，反照",
+            "isRight": 1,
+            "wordId": 58730
+        }],
+        "wordDesc": "（てりかえす）③【他动1】反射，反照",
+        "correctDesc": "反射，反照",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "転換",
+        "wordId": 58731,
+        "optionDtos": [{
+            "wordOptionId": 116390,
+            "wordOptionDesc": "转换；转变",
+            "isRight": 1,
+            "wordId": 58731
+        }],
+        "wordDesc": "（てんかん）⓪【名·自他动3】转换；转变",
+        "correctDesc": "转换；转变",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "伝記",
+        "wordId": 58732,
+        "optionDtos": [{
+            "wordOptionId": 116391,
+            "wordOptionDesc": "传，传记",
+            "isRight": 1,
+            "wordId": 58732
+        }],
+        "wordDesc": "（でんき）⓪【名】传，传记",
+        "correctDesc": "传，传记",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "抽象的",
+        "wordId": 58733,
+        "optionDtos": [{
+            "wordOptionId": 116392,
+            "wordOptionDesc": "抽象的",
+            "isRight": 1,
+            "wordId": 58733
+        }],
+        "wordDesc": "（ちゅうしょうてき）⓪【ナ形】抽象的",
+        "correctDesc": "抽象的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "中性",
+        "wordId": 58734,
+        "optionDtos": [{
+            "wordOptionId": 116393,
+            "wordOptionDesc": "中性",
+            "isRight": 1,
+            "wordId": 58734
+        }],
+        "wordDesc": "（ちゅうせい）⓪【名】中性",
+        "correctDesc": "中性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "勤め先",
+        "wordId": 58735,
+        "optionDtos": [{
+            "wordOptionId": 116394,
+            "wordOptionDesc": "工作单位，工作地点",
+            "isRight": 1,
+            "wordId": 58735
+        }],
+        "wordDesc": "（つとめさき）⓪【名】工作单位，工作地点",
+        "correctDesc": "工作单位，工作地点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "着々",
+        "wordId": 58736,
+        "optionDtos": [{
+            "wordOptionId": 116395,
+            "wordOptionDesc": "进展顺利；稳扎稳打",
+            "isRight": 1,
+            "wordId": 58736
+        }],
+        "wordDesc": "（ちゃくちゃく）⓪【副】进展顺利；稳扎稳打",
+        "correctDesc": "进展顺利；稳扎稳打",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "落ち着き",
+        "wordId": 58737,
+        "optionDtos": [{
+            "wordOptionId": 116396,
+            "wordOptionDesc": "沉着，镇静；稳定",
+            "isRight": 1,
+            "wordId": 58737
+        }],
+        "wordDesc": "（おちつき）⓪【名】沉着，镇静；稳定",
+        "correctDesc": "沉着，镇静；稳定",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "受容",
+        "wordId": 58738,
+        "optionDtos": [{
+            "wordOptionId": 116397,
+            "wordOptionDesc": "容纳，接受；鉴赏",
+            "isRight": 1,
+            "wordId": 58738
+        }],
+        "wordDesc": "（じゅよう）⓪【名·他动3】容纳，接受；鉴赏",
+        "correctDesc": "容纳，接受；鉴赏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "快感",
+        "wordId": 58739,
+        "optionDtos": [{
+            "wordOptionId": 116398,
+            "wordOptionDesc": "快感，感觉愉快",
+            "isRight": 1,
+            "wordId": 58739
+        }],
+        "wordDesc": "（かいかん）⓪【名】快感，感觉愉快",
+        "correctDesc": "快感，感觉愉快",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "差異",
+        "wordId": 58740,
+        "optionDtos": [{
+            "wordOptionId": 116399,
+            "wordOptionDesc": "差异，差别",
+            "isRight": 1,
+            "wordId": 58740
+        }],
+        "wordDesc": "（さい）①【名】差异，差别",
+        "correctDesc": "差异，差别",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "遊戯",
+        "wordId": 58741,
+        "optionDtos": [{
+            "wordOptionId": 116400,
+            "wordOptionDesc": "玩耍，游戏",
+            "isRight": 1,
+            "wordId": 58741
+        }],
+        "wordDesc": "（ゆうぎ）①【名·自动3】玩耍，游戏",
+        "correctDesc": "玩耍，游戏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "著者",
+        "wordId": 58742,
+        "optionDtos": [{
+            "wordOptionId": 116401,
+            "wordOptionDesc": "著者，作者",
+            "isRight": 1,
+            "wordId": 58742
+        }],
+        "wordDesc": "（ちょしゃ）①【名】著者，作者",
+        "correctDesc": "著者，作者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "直角",
+        "wordId": 58743,
+        "optionDtos": [{
+            "wordOptionId": 116402,
+            "wordOptionDesc": "直角",
+            "isRight": 1,
+            "wordId": 58743
+        }],
+        "wordDesc": "（ちょっかく）⓪【名】直角",
+        "correctDesc": "直角",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "男優",
+        "wordId": 58744,
+        "optionDtos": [{
+            "wordOptionId": 116403,
+            "wordOptionDesc": "男演员",
+            "isRight": 1,
+            "wordId": 58744
+        }],
+        "wordDesc": "（だんゆう）⓪【名】男演员",
+        "correctDesc": "男演员",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "弾力",
+        "wordId": 58745,
+        "optionDtos": [{
+            "wordOptionId": 116404,
+            "wordOptionDesc": "弹力；弹性",
+            "isRight": 1,
+            "wordId": 58745
+        }],
+        "wordDesc": "（だんりょく）⓪【名】弹力；弹性",
+        "correctDesc": "弹力；弹性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "中退",
+        "wordId": 58746,
+        "optionDtos": [{
+            "wordOptionId": 116405,
+            "wordOptionDesc": "中途退学",
+            "isRight": 1,
+            "wordId": 58746
+        }],
+        "wordDesc": "（ちゅうたい）⓪【名·自动3】中途退学",
+        "correctDesc": "中途退学",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地位",
+        "wordId": 58747,
+        "optionDtos": [{
+            "wordOptionId": 116406,
+            "wordOptionDesc": "地位；身份，职位",
+            "isRight": 1,
+            "wordId": 58747
+        }],
+        "wordDesc": "（ちい）①【名】地位；身份，职位",
+        "correctDesc": "地位；身份，职位",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "チャレンジ",
+        "wordId": 58748,
+        "optionDtos": [{
+            "wordOptionId": 116407,
+            "wordOptionDesc": "挑战",
+            "isRight": 1,
+            "wordId": 58748
+        }],
+        "wordDesc": "（challenge）②【名·自动3】挑战",
+        "correctDesc": "挑战",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "均質",
+        "wordId": 58749,
+        "optionDtos": [{
+            "wordOptionId": 116408,
+            "wordOptionDesc": "均质，等质，均匀",
+            "isRight": 1,
+            "wordId": 58749
+        }],
+        "wordDesc": "（きんしつ）⓪【名·ナ形】均质，等质，均匀",
+        "correctDesc": "均质，等质，均匀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "アップ",
+        "wordId": 58750,
+        "optionDtos": [{
+            "wordOptionId": 116409,
+            "wordOptionDesc": "增高，提高",
+            "isRight": 1,
+            "wordId": 58750
+        }],
+        "wordDesc": "（up）①【名·自他动3】增高，提高",
+        "correctDesc": "增高，提高",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "移転",
+        "wordId": 58751,
+        "optionDtos": [{
+            "wordOptionId": 116410,
+            "wordOptionDesc": "迁移，搬家；转移",
+            "isRight": 1,
+            "wordId": 58751
+        }],
+        "wordDesc": "（いてん）⓪【名·自他动3】迁移，搬家；转移",
+        "correctDesc": "迁移，搬家；转移",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "祈り",
+        "wordId": 58752,
+        "optionDtos": [{
+            "wordOptionId": 116411,
+            "wordOptionDesc": "祈祷，祷告",
+            "isRight": 1,
+            "wordId": 58752
+        }],
+        "wordDesc": "（いのり）③【名】祈祷，祷告",
+        "correctDesc": "祈祷，祷告",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "威張る",
+        "wordId": 58753,
+        "optionDtos": [{
+            "wordOptionId": 116412,
+            "wordOptionDesc": "嚣张，自吹自擂，摆架子",
+            "isRight": 1,
+            "wordId": 58753
+        }],
+        "wordDesc": "（いばる）②【自动1】嚣张，自吹自擂，摆架子",
+        "correctDesc": "嚣张，自吹自擂，摆架子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "いまいち ",
+        "wordId": 58754,
+        "optionDtos": [{
+            "wordOptionId": 116413,
+            "wordOptionDesc": "差一点儿，再加把劲儿",
+            "isRight": 1,
+            "wordId": 58754
+        }],
+        "wordDesc": "②【副】差一点儿，再加把劲儿",
+        "correctDesc": "差一点儿，再加把劲儿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "追い出す",
+        "wordId": 58755,
+        "optionDtos": [{
+            "wordOptionId": 116414,
+            "wordOptionDesc": "赶出，驱赶；解雇",
+            "isRight": 1,
+            "wordId": 58755
+        }],
+        "wordDesc": "（おいだす）③【他动1】赶出，驱赶；解雇",
+        "correctDesc": "赶出，驱赶；解雇",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "追い抜く",
+        "wordId": 58756,
+        "optionDtos": [{
+            "wordOptionId": 116415,
+            "wordOptionDesc": "赶过，超过；胜出，胜过",
+            "isRight": 1,
+            "wordId": 58756
+        }],
+        "wordDesc": "（おいぬく）③【他动1】赶过，超过；胜出，胜过",
+        "correctDesc": "赶过，超过；胜出，胜过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "多くとも",
+        "wordId": 58757,
+        "optionDtos": [{
+            "wordOptionId": 116416,
+            "wordOptionDesc": "顶多，最多",
+            "isRight": 1,
+            "wordId": 58757
+        }],
+        "wordDesc": "（おおくとも）①【副】顶多，最多",
+        "correctDesc": "顶多，最多",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "積み重ねる",
+        "wordId": 58758,
+        "optionDtos": [{
+            "wordOptionId": 116417,
+            "wordOptionDesc": "堆起来，垒起来；积累，继续",
+            "isRight": 1,
+            "wordId": 58758
+        }],
+        "wordDesc": "（つみかさねる）⑤【他动2】堆起来，垒起来；积累，继续",
+        "correctDesc": "堆起来，垒起来；积累，继续",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "繋げる",
+        "wordId": 58759,
+        "optionDtos": [{
+            "wordOptionId": 116418,
+            "wordOptionDesc": "系，拴；接上，连上",
+            "isRight": 1,
+            "wordId": 58759
+        }],
+        "wordDesc": "（つなげる）⓪【他动2】系，拴；接上，连上",
+        "correctDesc": "系，拴；接上，连上",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "縮まる",
+        "wordId": 58760,
+        "optionDtos": [{
+            "wordOptionId": 116419,
+            "wordOptionDesc": "收缩，缩小；畏缩，恐惧",
+            "isRight": 1,
+            "wordId": 58760
+        }],
+        "wordDesc": "（ちぢまる）⓪【自动1】收缩，缩小；畏缩，恐惧",
+        "correctDesc": "收缩，缩小；畏缩，恐惧",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "恐れ",
+        "wordId": 58761,
+        "optionDtos": [{
+            "wordOptionId": 116420,
+            "wordOptionDesc": "畏惧，害怕；担心，忧虑",
+            "isRight": 1,
+            "wordId": 58761
+        }],
+        "wordDesc": "（おそれ）③【名】畏惧，害怕；担心，忧虑",
+        "correctDesc": "畏惧，害怕；担心，忧虑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "落ち込む",
+        "wordId": 58762,
+        "optionDtos": [{
+            "wordOptionId": 116421,
+            "wordOptionDesc": "掉入，坠入；（情绪）低落；下陷，塌陷",
+            "isRight": 1,
+            "wordId": 58762
+        }],
+        "wordDesc": "（おちこむ）⓪【自动1】掉入，坠入；（情绪）低落；下陷，塌陷",
+        "correctDesc": "掉入，坠入；（情绪）低落；下陷，塌陷",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "駐在",
+        "wordId": 58763,
+        "optionDtos": [{
+            "wordOptionId": 116422,
+            "wordOptionDesc": "驻扎",
+            "isRight": 1,
+            "wordId": 58763
+        }],
+        "wordDesc": "（ちゅうざい）⓪【名·自动3】驻扎",
+        "correctDesc": "驻扎",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "遍在",
+        "wordId": 58764,
+        "optionDtos": [{
+            "wordOptionId": 116423,
+            "wordOptionDesc": "普遍存在，遍及",
+            "isRight": 1,
+            "wordId": 58764
+        }],
+        "wordDesc": "（へんざい）⓪【名·自动3】普遍存在，遍及",
+        "correctDesc": "普遍存在，遍及",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "茂る",
+        "wordId": 58765,
+        "optionDtos": [{
+            "wordOptionId": 116424,
+            "wordOptionDesc": "（植物）繁茂，茂盛",
+            "isRight": 1,
+            "wordId": 58765
+        }],
+        "wordDesc": "（しげる）②【自动1】（植物）繁茂，茂盛",
+        "correctDesc": "（植物）繁茂，茂盛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "煮詰める",
+        "wordId": 58766,
+        "optionDtos": [{
+            "wordOptionId": 116425,
+            "wordOptionDesc": "煮干；归纳，得出结论",
+            "isRight": 1,
+            "wordId": 58766
+        }],
+        "wordDesc": "（につめる）③【他动2】煮干；归纳，得出结论",
+        "correctDesc": "煮干；归纳，得出结论",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "念頭",
+        "wordId": 58767,
+        "optionDtos": [{
+            "wordOptionId": 116426,
+            "wordOptionDesc": "心上，心头",
+            "isRight": 1,
+            "wordId": 58767
+        }],
+        "wordDesc": "（ねんとう）⓪【名】心上，心头",
+        "correctDesc": "心上，心头",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "頂点",
+        "wordId": 58768,
+        "optionDtos": [{
+            "wordOptionId": 116427,
+            "wordOptionDesc": "顶点；最高处；顶峰",
+            "isRight": 1,
+            "wordId": 58768
+        }],
+        "wordDesc": "（ちょうてん）①【名】顶点；最高处；顶峰",
+        "correctDesc": "顶点；最高处；顶峰",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "一貫",
+        "wordId": 58769,
+        "optionDtos": [{
+            "wordOptionId": 116428,
+            "wordOptionDesc": "一贯，自始至终，始终如一",
+            "isRight": 1,
+            "wordId": 58769
+        }],
+        "wordDesc": "（いっかん）⓪【名·自他动3】一贯，自始至终，始终如一",
+        "correctDesc": "一贯，自始至终，始终如一",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "宣言",
+        "wordId": 58770,
+        "optionDtos": [{
+            "wordOptionId": 116429,
+            "wordOptionDesc": "宣布，宣言，宣告",
+            "isRight": 1,
+            "wordId": 58770
+        }],
+        "wordDesc": "（せんげん）③【名·他动3】宣布，宣言，宣告",
+        "correctDesc": "宣布，宣言，宣告",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "徹底的",
+        "wordId": 58771,
+        "optionDtos": [{
+            "wordOptionId": 116430,
+            "wordOptionDesc": "彻底的",
+            "isRight": 1,
+            "wordId": 58771
+        }],
+        "wordDesc": "（てっていてき）⓪【ナ形】彻底的",
+        "correctDesc": "彻底的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "納める",
+        "wordId": 58772,
+        "optionDtos": [{
+            "wordOptionId": 116431,
+            "wordOptionDesc": "缴纳；供应；结束",
+            "isRight": 1,
+            "wordId": 58772
+        }],
+        "wordDesc": "（おさめる）③【他动2】缴纳；供应；结束",
+        "correctDesc": "缴纳；供应；结束",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "収まる",
+        "wordId": 58773,
+        "optionDtos": [{
+            "wordOptionId": 116432,
+            "wordOptionDesc": "收纳，容纳；恢复",
+            "isRight": 1,
+            "wordId": 58773
+        }],
+        "wordDesc": "（おさまる）③【自动1】收纳，容纳；恢复",
+        "correctDesc": "收纳，容纳；恢复",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "手抜き",
+        "wordId": 58774,
+        "optionDtos": [{
+            "wordOptionId": 116433,
+            "wordOptionDesc": "偷懒；偷工减料",
+            "isRight": 1,
+            "wordId": 58774
+        }],
+        "wordDesc": "（てぬき）⓪【名·自他动3】偷懒；偷工减料",
+        "correctDesc": "偷懒；偷工减料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "典型",
+        "wordId": 58775,
+        "optionDtos": [{
+            "wordOptionId": 116434,
+            "wordOptionDesc": "典型；模范",
+            "isRight": 1,
+            "wordId": 58775
+        }],
+        "wordDesc": "（てんけい）⓪【名】典型；模范",
+        "correctDesc": "典型；模范",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "おおざっぱ ",
+        "wordId": 58776,
+        "optionDtos": [{
+            "wordOptionId": 116435,
+            "wordOptionDesc": "粗枝大叶的；粗略的；粗心大意的",
+            "isRight": 1,
+            "wordId": 58776
+        }],
+        "wordDesc": "③【ナ形】粗枝大叶的；粗略的；粗心大意的",
+        "correctDesc": "粗枝大叶的；粗略的；粗心大意的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "大水",
+        "wordId": 58777,
+        "optionDtos": [{
+            "wordOptionId": 116436,
+            "wordOptionDesc": "大水，洪水",
+            "isRight": 1,
+            "wordId": 58777
+        }],
+        "wordDesc": "（おおみず）③【名】大水，洪水",
+        "correctDesc": "大水，洪水",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "お決まり",
+        "wordId": 58778,
+        "optionDtos": [{
+            "wordOptionId": 116437,
+            "wordOptionDesc": "常规，惯例，老一套",
+            "isRight": 1,
+            "wordId": 58778
+        }],
+        "wordDesc": "（おきまり）⓪【名】常规，惯例，老一套",
+        "correctDesc": "常规，惯例，老一套",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "そこそこ ",
+        "wordId": 58779,
+        "optionDtos": [{
+            "wordOptionId": 116438,
+            "wordOptionDesc": "草草了事，匆匆忙忙；左右，大约",
+            "isRight": 1,
+            "wordId": 58779
+        }],
+        "wordDesc": "②【副·接尾】草草了事，匆匆忙忙；左右，大约",
+        "correctDesc": "草草了事，匆匆忙忙；左右，大约",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "伝説",
+        "wordId": 58780,
+        "optionDtos": [{
+            "wordOptionId": 116439,
+            "wordOptionDesc": "传说",
+            "isRight": 1,
+            "wordId": 58780
+        }],
+        "wordDesc": "（でんせつ）⓪【名】传说",
+        "correctDesc": "传说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "お世辞",
+        "wordId": 58781,
+        "optionDtos": [{
+            "wordOptionId": 116440,
+            "wordOptionDesc": "奉承话，恭维话",
+            "isRight": 1,
+            "wordId": 58781
+        }],
+        "wordDesc": "（おせじ）⓪【名】奉承话，恭维话",
+        "correctDesc": "奉承话，恭维话",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "襲う",
+        "wordId": 58782,
+        "optionDtos": [{
+            "wordOptionId": 116441,
+            "wordOptionDesc": "袭击，侵袭；继承",
+            "isRight": 1,
+            "wordId": 58782
+        }],
+        "wordDesc": "（おそう）⓪【他动1】袭击，侵袭；继承",
+        "correctDesc": "袭击，侵袭；继承",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "だらしない ",
+        "wordId": 58783,
+        "optionDtos": [{
+            "wordOptionId": 116442,
+            "wordOptionDesc": "放荡的，散漫的，吊儿郎当的；没出息的，不争气的",
+            "isRight": 1,
+            "wordId": 58783
+        }],
+        "wordDesc": "④【イ形】放荡的，散漫的，吊儿郎当的；没出息的，不争气的",
+        "correctDesc": "放荡的，散漫的，吊儿郎当的；没出息的，不争气的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "秩序",
+        "wordId": 58784,
+        "optionDtos": [{
+            "wordOptionId": 116443,
+            "wordOptionDesc": "秩序；条理",
+            "isRight": 1,
+            "wordId": 58784
+        }],
+        "wordDesc": "（ちつじょ）①【名】秩序；条理",
+        "correctDesc": "秩序；条理",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地平線",
+        "wordId": 58785,
+        "optionDtos": [{
+            "wordOptionId": 116444,
+            "wordOptionDesc": "地平线",
+            "isRight": 1,
+            "wordId": 58785
+        }],
+        "wordDesc": "（ちへいせん）⓪【名】地平线",
+        "correctDesc": "地平线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "点々",
+        "wordId": 58786,
+        "optionDtos": [{
+            "wordOptionId": 116445,
+            "wordOptionDesc": "星星点点；断断续续",
+            "isRight": 1,
+            "wordId": 58786
+        }],
+        "wordDesc": "（てんてん）⓪【副】星星点点；断断续续",
+        "correctDesc": "星星点点；断断续续",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "電力",
+        "wordId": 58787,
+        "optionDtos": [{
+            "wordOptionId": 116446,
+            "wordOptionDesc": "电，电力",
+            "isRight": 1,
+            "wordId": 58787
+        }],
+        "wordDesc": "（でんりょく）①【名】电，电力",
+        "correctDesc": "电，电力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "度",
+        "wordId": 58788,
+        "optionDtos": [{
+            "wordOptionId": 116447,
+            "wordOptionDesc": "尺度，程度；温度；次数",
+            "isRight": 1,
+            "wordId": 58788
+        }],
+        "wordDesc": "（ど）⓪【名】尺度，程度；温度；次数",
+        "correctDesc": "尺度，程度；温度；次数",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "問う",
+        "wordId": 58789,
+        "optionDtos": [{
+            "wordOptionId": 116448,
+            "wordOptionDesc": "问，打听；问候；征询；当作问题；追究 ",
+            "isRight": 1,
+            "wordId": 58789
+        }],
+        "wordDesc": "（とう）①【他动1】问，打听；问候；征询；当作问题；追究 ",
+        "correctDesc": "问，打听；问候；征询；当作问题；追究 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "編む",
+        "wordId": 58790,
+        "optionDtos": [{
+            "wordOptionId": 116449,
+            "wordOptionDesc": "编，编织；编纂",
+            "isRight": 1,
+            "wordId": 58790
+        }],
+        "wordDesc": "（あむ）①【他动1】编，编织；编纂",
+        "correctDesc": "编，编织；编纂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "忍者",
+        "wordId": 58791,
+        "optionDtos": [{
+            "wordOptionId": 116450,
+            "wordOptionDesc": "忍者",
+            "isRight": 1,
+            "wordId": 58791
+        }],
+        "wordDesc": "（にんじゃ）①【名】忍者",
+        "correctDesc": "忍者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "同意",
+        "wordId": 58792,
+        "optionDtos": [{
+            "wordOptionId": 116451,
+            "wordOptionDesc": "同意，赞成",
+            "isRight": 1,
+            "wordId": 58792
+        }],
+        "wordDesc": "（どうい）⓪【名·自动3】同意，赞成",
+        "correctDesc": "同意，赞成",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "付け加える",
+        "wordId": 58793,
+        "optionDtos": [{
+            "wordOptionId": 116452,
+            "wordOptionDesc": "补充，添加",
+            "isRight": 1,
+            "wordId": 58793
+        }],
+        "wordDesc": "（つけくわえる）⑤【他动2】补充，添加",
+        "correctDesc": "补充，添加",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "仕方がない",
+        "wordId": 58794,
+        "optionDtos": [{
+            "wordOptionId": 116453,
+            "wordOptionDesc": "没有办法的；受不了的；不像话的",
+            "isRight": 1,
+            "wordId": 58794
+        }],
+        "wordDesc": "（しかたがない）⑤【イ形】没有办法的；受不了的；不像话的",
+        "correctDesc": "没有办法的；受不了的；不像话的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "電波",
+        "wordId": 58795,
+        "optionDtos": [{
+            "wordOptionId": 116454,
+            "wordOptionDesc": "电波",
+            "isRight": 1,
+            "wordId": 58795
+        }],
+        "wordDesc": "（でんぱ）①【名】电波",
+        "correctDesc": "电波",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "天皇",
+        "wordId": 58796,
+        "optionDtos": [{
+            "wordOptionId": 116455,
+            "wordOptionDesc": "天皇",
+            "isRight": 1,
+            "wordId": 58796
+        }],
+        "wordDesc": "（てんのう）③【名】天皇",
+        "correctDesc": "天皇",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "単調",
+        "wordId": 58797,
+        "optionDtos": [{
+            "wordOptionId": 116456,
+            "wordOptionDesc": "单调，平庸，无变化",
+            "isRight": 1,
+            "wordId": 58797
+        }],
+        "wordDesc": "（たんちょう）⓪【名·ナ形】单调，平庸，无变化",
+        "correctDesc": "单调，平庸，无变化",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "単なる",
+        "wordId": 58798,
+        "optionDtos": [{
+            "wordOptionId": 116457,
+            "wordOptionDesc": "仅仅，只不过",
+            "isRight": 1,
+            "wordId": 58798
+        }],
+        "wordDesc": "（たんなる）①【连体】仅仅，只不过",
+        "correctDesc": "仅仅，只不过",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "着ける",
+        "wordId": 58799,
+        "optionDtos": [{
+            "wordOptionId": 116458,
+            "wordOptionDesc": "穿，戴；（船）靠拢；入席",
+            "isRight": 1,
+            "wordId": 58799
+        }],
+        "wordDesc": "（つける）②【他动2】穿，戴；（船）靠拢；入席",
+        "correctDesc": "穿，戴；（船）靠拢；入席",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "手ぶり",
+        "wordId": 58800,
+        "optionDtos": [{
+            "wordOptionId": 116459,
+            "wordOptionDesc": "手势，手的动作",
+            "isRight": 1,
+            "wordId": 58800
+        }],
+        "wordDesc": "（てぶり）①【名】手势，手的动作",
+        "correctDesc": "手势，手的动作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "転勤",
+        "wordId": 58801,
+        "optionDtos": [{
+            "wordOptionId": 116460,
+            "wordOptionDesc": "调动工作",
+            "isRight": 1,
+            "wordId": 58801
+        }],
+        "wordDesc": "（てんきん）⓪【名·自动3】调动工作",
+        "correctDesc": "调动工作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "統一",
+        "wordId": 58802,
+        "optionDtos": [{
+            "wordOptionId": 116461,
+            "wordOptionDesc": "统一；集中；一致",
+            "isRight": 1,
+            "wordId": 58802
+        }],
+        "wordDesc": "（とういつ）⓪【名·他动3】统一；集中；一致",
+        "correctDesc": "统一；集中；一致",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "谷間",
+        "wordId": 58803,
+        "optionDtos": [{
+            "wordOptionId": 116462,
+            "wordOptionDesc": "山涧，峡谷",
+            "isRight": 1,
+            "wordId": 58803
+        }],
+        "wordDesc": "（たにま）⓪【名】山涧，峡谷",
+        "correctDesc": "山涧，峡谷",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "しょっぱい ",
+        "wordId": 58804,
+        "optionDtos": [{
+            "wordOptionId": 116463,
+            "wordOptionDesc": "咸的；小气的；为难的",
+            "isRight": 1,
+            "wordId": 58804
+        }],
+        "wordDesc": "③【イ形】咸的；小气的；为难的",
+        "correctDesc": "咸的；小气的；为难的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "一瞥",
+        "wordId": 58805,
+        "optionDtos": [{
+            "wordOptionId": 116464,
+            "wordOptionDesc": "一瞥，看一眼",
+            "isRight": 1,
+            "wordId": 58805
+        }],
+        "wordDesc": "（いちべつ）⓪【名·他动3】一瞥，看一眼",
+        "correctDesc": "一瞥，看一眼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "放任",
+        "wordId": 58806,
+        "optionDtos": [{
+            "wordOptionId": 116465,
+            "wordOptionDesc": "放任，放任不管",
+            "isRight": 1,
+            "wordId": 58806
+        }],
+        "wordDesc": "（ほうにん）⓪【名·他动3】放任，放任不管",
+        "correctDesc": "放任，放任不管",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "染色",
+        "wordId": 58807,
+        "optionDtos": [{
+            "wordOptionId": 116466,
+            "wordOptionDesc": "染色，上色",
+            "isRight": 1,
+            "wordId": 58807
+        }],
+        "wordDesc": "（せんしょく）⓪【名·自他动3】染色，上色",
+        "correctDesc": "染色，上色",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "脂肪",
+        "wordId": 58808,
+        "optionDtos": [{
+            "wordOptionId": 116467,
+            "wordOptionDesc": "脂肪",
+            "isRight": 1,
+            "wordId": 58808
+        }],
+        "wordDesc": "（しぼう）⓪【名】脂肪",
+        "correctDesc": "脂肪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "詩人",
+        "wordId": 58809,
+        "optionDtos": [{
+            "wordOptionId": 116468,
+            "wordOptionDesc": "诗人；洞察力强的人，敏感的人",
+            "isRight": 1,
+            "wordId": 58809
+        }],
+        "wordDesc": "（しじん）⓪【名】诗人；洞察力强的人，敏感的人",
+        "correctDesc": "诗人；洞察力强的人，敏感的人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "しみじみ ",
+        "wordId": 58810,
+        "optionDtos": [{
+            "wordOptionId": 116469,
+            "wordOptionDesc": "深切地；恳切地；仔细地",
+            "isRight": 1,
+            "wordId": 58810
+        }],
+        "wordDesc": "③【副】深切地；恳切地；仔细地",
+        "correctDesc": "深切地；恳切地；仔细地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "工芸",
+        "wordId": 58811,
+        "optionDtos": [{
+            "wordOptionId": 116470,
+            "wordOptionDesc": "工艺，工艺制作",
+            "isRight": 1,
+            "wordId": 58811
+        }],
+        "wordDesc": "（こうげい）⓪【名】工艺，工艺制作",
+        "correctDesc": "工艺，工艺制作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "芸能人",
+        "wordId": 58812,
+        "optionDtos": [{
+            "wordOptionId": 116471,
+            "wordOptionDesc": "艺人，文艺工作者",
+            "isRight": 1,
+            "wordId": 58812
+        }],
+        "wordDesc": "（げいのうじん）③【名】艺人，文艺工作者",
+        "correctDesc": "艺人，文艺工作者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地面",
+        "wordId": 58813,
+        "optionDtos": [{
+            "wordOptionId": 116472,
+            "wordOptionDesc": "地面，地上；土地 ",
+            "isRight": 1,
+            "wordId": 58813
+        }],
+        "wordDesc": "（じめん）①【名】地面，地上；土地 ",
+        "correctDesc": "地面，地上；土地 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "うなずく ",
+        "wordId": 58814,
+        "optionDtos": [{
+            "wordOptionId": 116473,
+            "wordOptionDesc": "点头，首肯",
+            "isRight": 1,
+            "wordId": 58814
+        }],
+        "wordDesc": "③【自动1】点头，首肯",
+        "correctDesc": "点头，首肯",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "弱点",
+        "wordId": 58815,
+        "optionDtos": [{
+            "wordOptionId": 116474,
+            "wordOptionDesc": "弱点；缺点，短处",
+            "isRight": 1,
+            "wordId": 58815
+        }],
+        "wordDesc": "（じゃくてん）③【名】弱点；缺点，短处",
+        "correctDesc": "弱点；缺点，短处",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "指南",
+        "wordId": 58816,
+        "optionDtos": [{
+            "wordOptionId": 116475,
+            "wordOptionDesc": "教导，指示",
+            "isRight": 1,
+            "wordId": 58816
+        }],
+        "wordDesc": "（しなん）①【名·他动3】教导，指示",
+        "correctDesc": "教导，指示",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "あばら家",
+        "wordId": 58817,
+        "optionDtos": [{
+            "wordOptionId": 116476,
+            "wordOptionDesc": "破屋子；（自谦）寒舍",
+            "isRight": 1,
+            "wordId": 58817
+        }],
+        "wordDesc": "（あばらや）③【名】破屋子；（自谦）寒舍",
+        "correctDesc": "破屋子；（自谦）寒舍",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "白々しい",
+        "wordId": 58818,
+        "optionDtos": [{
+            "wordOptionId": 116477,
+            "wordOptionDesc": "显而易见的，瞒不了人的；假装不解的",
+            "isRight": 1,
+            "wordId": 58818
+        }],
+        "wordDesc": "（しらじらしい）⑤【イ形】显而易见的，瞒不了人的；假装不解的",
+        "correctDesc": "显而易见的，瞒不了人的；假装不解的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "洗練",
+        "wordId": 58819,
+        "optionDtos": [{
+            "wordOptionId": 116478,
+            "wordOptionDesc": "洗练，精炼，千锤百炼；讲究，考究",
+            "isRight": 1,
+            "wordId": 58819
+        }],
+        "wordDesc": "（せんれん）⓪【名·他动3】洗练，精炼，千锤百炼；讲究，考究",
+        "correctDesc": "洗练，精炼，千锤百炼；讲究，考究",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "時節",
+        "wordId": 58820,
+        "optionDtos": [{
+            "wordOptionId": 116479,
+            "wordOptionDesc": "时节，时令；时机，机会",
+            "isRight": 1,
+            "wordId": 58820
+        }],
+        "wordDesc": "（じせつ）①【名】时节，时令；时机，机会",
+        "correctDesc": "时节，时令；时机，机会",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "逆境",
+        "wordId": 58821,
+        "optionDtos": [{
+            "wordOptionId": 116480,
+            "wordOptionDesc": "逆境",
+            "isRight": 1,
+            "wordId": 58821
+        }],
+        "wordDesc": "（ぎゃっきょう）⓪【名】逆境",
+        "correctDesc": "逆境",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "写生",
+        "wordId": 58822,
+        "optionDtos": [{
+            "wordOptionId": 116481,
+            "wordOptionDesc": "写生，速写",
+            "isRight": 1,
+            "wordId": 58822
+        }],
+        "wordDesc": "（しゃせい）⓪【名·他动3】写生，速写",
+        "correctDesc": "写生，速写",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "実態",
+        "wordId": 58823,
+        "optionDtos": [{
+            "wordOptionId": 116482,
+            "wordOptionDesc": "实际状态，真实情况",
+            "isRight": 1,
+            "wordId": 58823
+        }],
+        "wordDesc": "（じったい）⓪【名】实际状态，真实情况",
+        "correctDesc": "实际状态，真实情况",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "卸す",
+        "wordId": 58824,
+        "optionDtos": [{
+            "wordOptionId": 116483,
+            "wordOptionDesc": "批发，批售",
+            "isRight": 1,
+            "wordId": 58824
+        }],
+        "wordDesc": "（おろす）②【他动1】批发，批售",
+        "correctDesc": "批发，批售",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "やっかい ",
+        "wordId": 58825,
+        "optionDtos": [{
+            "wordOptionId": 116484,
+            "wordOptionDesc": "麻烦，棘手；照顾，照料",
+            "isRight": 1,
+            "wordId": 58825
+        }],
+        "wordDesc": "①【名·ナ形】麻烦，棘手；照顾，照料",
+        "correctDesc": "麻烦，棘手；照顾，照料",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "到来",
+        "wordId": 58826,
+        "optionDtos": [{
+            "wordOptionId": 116485,
+            "wordOptionDesc": "来到；（别人）送来",
+            "isRight": 1,
+            "wordId": 58826
+        }],
+        "wordDesc": "（とうらい）⓪【名·自动3】来到；（别人）送来",
+        "correctDesc": "来到；（别人）送来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "探る",
+        "wordId": 58827,
+        "optionDtos": [{
+            "wordOptionId": 116486,
+            "wordOptionDesc": "摸，探；试探；探求",
+            "isRight": 1,
+            "wordId": 58827
+        }],
+        "wordDesc": "（さぐる）⓪【他动1】摸，探；试探；探求",
+        "correctDesc": "摸，探；试探；探求",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "実物",
+        "wordId": 58828,
+        "optionDtos": [{
+            "wordOptionId": 116487,
+            "wordOptionDesc": "实物，实在的东西；现货",
+            "isRight": 1,
+            "wordId": 58828
+        }],
+        "wordDesc": "（じつぶつ）⓪【名】实物，实在的东西；现货",
+        "correctDesc": "实物，实在的东西；现货",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "しゃっくり ",
+        "wordId": 58829,
+        "optionDtos": [{
+            "wordOptionId": 116488,
+            "wordOptionDesc": "打嗝儿",
+            "isRight": 1,
+            "wordId": 58829
+        }],
+        "wordDesc": "①【名·自动3】打嗝儿",
+        "correctDesc": "打嗝儿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "帰化",
+        "wordId": 58830,
+        "optionDtos": [{
+            "wordOptionId": 116489,
+            "wordOptionDesc": "入籍；（生物）适应水土",
+            "isRight": 1,
+            "wordId": 58830
+        }],
+        "wordDesc": "（きか）①【名·自动3】入籍；（生物）适应水土",
+        "correctDesc": "入籍；（生物）适应水土",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "車道",
+        "wordId": 58831,
+        "optionDtos": [{
+            "wordOptionId": 116490,
+            "wordOptionDesc": "车道，车行道",
+            "isRight": 1,
+            "wordId": 58831
+        }],
+        "wordDesc": "（しゃどう）⓪【名】车道，车行道",
+        "correctDesc": "车道，车行道",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "確実",
+        "wordId": 58832,
+        "optionDtos": [{
+            "wordOptionId": 116491,
+            "wordOptionDesc": "准确，确凿；可靠",
+            "isRight": 1,
+            "wordId": 58832
+        }],
+        "wordDesc": "（かくじつ）⓪【名·ナ形】准确，确凿；可靠",
+        "correctDesc": "准确，确凿；可靠",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "出現",
+        "wordId": 58833,
+        "optionDtos": [{
+            "wordOptionId": 116492,
+            "wordOptionDesc": "出现",
+            "isRight": 1,
+            "wordId": 58833
+        }],
+        "wordDesc": "（しゅつげん）⓪【名·自动3】出现",
+        "correctDesc": "出现",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "安易",
+        "wordId": 58834,
+        "optionDtos": [{
+            "wordOptionId": 116493,
+            "wordOptionDesc": "容易，简单；安逸",
+            "isRight": 1,
+            "wordId": 58834
+        }],
+        "wordDesc": "（あんい）①【名·ナ形】容易，简单；安逸",
+        "correctDesc": "容易，简单；安逸",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "述語",
+        "wordId": 58835,
+        "optionDtos": [{
+            "wordOptionId": 116494,
+            "wordOptionDesc": "谓语",
+            "isRight": 1,
+            "wordId": 58835
+        }],
+        "wordDesc": "（じゅつご）⓪【名】谓语",
+        "correctDesc": "谓语",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "尊崇",
+        "wordId": 58836,
+        "optionDtos": [{
+            "wordOptionId": 116495,
+            "wordOptionDesc": "尊崇，尊敬",
+            "isRight": 1,
+            "wordId": 58836
+        }],
+        "wordDesc": "（そんすう）⓪【名·他动3】尊崇，尊敬",
+        "correctDesc": "尊崇，尊敬",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "郷里",
+        "wordId": 58837,
+        "optionDtos": [{
+            "wordOptionId": 116496,
+            "wordOptionDesc": "乡里，故乡",
+            "isRight": 1,
+            "wordId": 58837
+        }],
+        "wordDesc": "（きょうり）①【名】乡里，故乡",
+        "correctDesc": "乡里，故乡",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "悔やむ",
+        "wordId": 58838,
+        "optionDtos": [{
+            "wordOptionId": 116497,
+            "wordOptionDesc": "懊悔，后悔；吊唁，哀悼",
+            "isRight": 1,
+            "wordId": 58838
+        }],
+        "wordDesc": "（くやむ）②【他动1】懊悔，后悔；吊唁，哀悼",
+        "correctDesc": "懊悔，后悔；吊唁，哀悼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "拡張",
+        "wordId": 58839,
+        "optionDtos": [{
+            "wordOptionId": 116498,
+            "wordOptionDesc": "扩充，扩张，扩展",
+            "isRight": 1,
+            "wordId": 58839
+        }],
+        "wordDesc": "（かくちょう）⓪【名·他动3】扩充，扩张，扩展",
+        "correctDesc": "扩充，扩张，扩展",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "残暑",
+        "wordId": 58840,
+        "optionDtos": [{
+            "wordOptionId": 116499,
+            "wordOptionDesc": "（秋后的）残暑，秋老虎",
+            "isRight": 1,
+            "wordId": 58840
+        }],
+        "wordDesc": "（ざんしょ）①【名】（秋后的）残暑，秋老虎",
+        "correctDesc": "（秋后的）残暑，秋老虎",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "基礎",
+        "wordId": 58841,
+        "optionDtos": [{
+            "wordOptionId": 116500,
+            "wordOptionDesc": "基础；根基，基石",
+            "isRight": 1,
+            "wordId": 58841
+        }],
+        "wordDesc": "（きそ）①【名】基础；根基，基石",
+        "correctDesc": "基础；根基，基石",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "順々に",
+        "wordId": 58842,
+        "optionDtos": [{
+            "wordOptionId": 116501,
+            "wordOptionDesc": "按顺序，依次；逐渐",
+            "isRight": 1,
+            "wordId": 58842
+        }],
+        "wordDesc": "（じゅんじゅんに）③【副】按顺序，依次；逐渐",
+        "correctDesc": "按顺序，依次；逐渐",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "休養",
+        "wordId": 58843,
+        "optionDtos": [{
+            "wordOptionId": 116502,
+            "wordOptionDesc": "休养",
+            "isRight": 1,
+            "wordId": 58843
+        }],
+        "wordDesc": "（きゅうよう）⓪【名·自动3】休养",
+        "correctDesc": "休养",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "獲得",
+        "wordId": 58844,
+        "optionDtos": [{
+            "wordOptionId": 116503,
+            "wordOptionDesc": "获得，获取",
+            "isRight": 1,
+            "wordId": 58844
+        }],
+        "wordDesc": "（かくとく）⓪【名·他动3】获得，获取",
+        "correctDesc": "获得，获取",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "協会",
+        "wordId": 58845,
+        "optionDtos": [{
+            "wordOptionId": 116504,
+            "wordOptionDesc": "协会，团体",
+            "isRight": 1,
+            "wordId": 58845
+        }],
+        "wordDesc": "（きょうかい）⓪【名】协会，团体",
+        "correctDesc": "协会，团体",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "感覚",
+        "wordId": 58846,
+        "optionDtos": [{
+            "wordOptionId": 116505,
+            "wordOptionDesc": "感觉，知觉",
+            "isRight": 1,
+            "wordId": 58846
+        }],
+        "wordDesc": "（かんかく）⓪【名】感觉，知觉",
+        "correctDesc": "感觉，知觉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "巨匠",
+        "wordId": 58847,
+        "optionDtos": [{
+            "wordOptionId": 116506,
+            "wordOptionDesc": "巨匠，泰斗，大家",
+            "isRight": 1,
+            "wordId": 58847
+        }],
+        "wordDesc": "（きょしょう）⓪【名】巨匠，泰斗，大家",
+        "correctDesc": "巨匠，泰斗，大家",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "差別",
+        "wordId": 58848,
+        "optionDtos": [{
+            "wordOptionId": 116507,
+            "wordOptionDesc": "区别，差异；歧视，区别对待",
+            "isRight": 1,
+            "wordId": 58848
+        }],
+        "wordDesc": "（さべつ）①【名·他动3】区别，差异；歧视，区别对待",
+        "correctDesc": "区别，差异；歧视，区别对待",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "吐露",
+        "wordId": 58849,
+        "optionDtos": [{
+            "wordOptionId": 116508,
+            "wordOptionDesc": "吐露",
+            "isRight": 1,
+            "wordId": 58849
+        }],
+        "wordDesc": "（とろ）①【名·他动3】吐露",
+        "correctDesc": "吐露",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "接点",
+        "wordId": 58850,
+        "optionDtos": [{
+            "wordOptionId": 116509,
+            "wordOptionDesc": "接点，接触点",
+            "isRight": 1,
+            "wordId": 58850
+        }],
+        "wordDesc": "（せってん）①【名】接点，接触点",
+        "correctDesc": "接点，接触点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "ゲストハウス",
+        "wordId": 58851,
+        "optionDtos": [{
+            "wordOptionId": 116510,
+            "wordOptionDesc": "宾馆，招待所",
+            "isRight": 1,
+            "wordId": 58851
+        }],
+        "wordDesc": "（guest house）④【名】宾馆，招待所",
+        "correctDesc": "宾馆，招待所",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "境界",
+        "wordId": 58852,
+        "optionDtos": [{
+            "wordOptionId": 116511,
+            "wordOptionDesc": "边界，疆界",
+            "isRight": 1,
+            "wordId": 58852
+        }],
+        "wordDesc": "（きょうかい）⓪【名】边界，疆界",
+        "correctDesc": "边界，疆界",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "言い表す",
+        "wordId": 58853,
+        "optionDtos": [{
+            "wordOptionId": 116512,
+            "wordOptionDesc": "表达，陈述，说明",
+            "isRight": 1,
+            "wordId": 58853
+        }],
+        "wordDesc": "（いいあらわす）⑤【他动1】表达，陈述，说明",
+        "correctDesc": "表达，陈述，说明",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "言い付ける",
+        "wordId": 58854,
+        "optionDtos": [{
+            "wordOptionId": 116513,
+            "wordOptionDesc": "命令，吩咐；告状；经常说",
+            "isRight": 1,
+            "wordId": 58854
+        }],
+        "wordDesc": "（いいつける）④【他动2】命令，吩咐；告状；经常说",
+        "correctDesc": "命令，吩咐；告状；经常说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "言い伝える",
+        "wordId": 58855,
+        "optionDtos": [{
+            "wordOptionId": 116514,
+            "wordOptionDesc": "传达，转告；流传",
+            "isRight": 1,
+            "wordId": 58855
+        }],
+        "wordDesc": "（いいつたえる）⑤【他动2】传达，转告；流传",
+        "correctDesc": "传达，转告；流传",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "資本",
+        "wordId": 58856,
+        "optionDtos": [{
+            "wordOptionId": 116515,
+            "wordOptionDesc": "资本",
+            "isRight": 1,
+            "wordId": 58856
+        }],
+        "wordDesc": "（しほん）⓪【名】资本",
+        "correctDesc": "资本",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "観察",
+        "wordId": 58857,
+        "optionDtos": [{
+            "wordOptionId": 116516,
+            "wordOptionDesc": "观察，仔细查看",
+            "isRight": 1,
+            "wordId": 58857
+        }],
+        "wordDesc": "（かんさつ）⓪【名·他动3】观察，仔细查看",
+        "correctDesc": "观察，仔细查看",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "秋月",
+        "wordId": 58858,
+        "optionDtos": [{
+            "wordOptionId": 116517,
+            "wordOptionDesc": "秋月",
+            "isRight": 1,
+            "wordId": 58858
+        }],
+        "wordDesc": "（しゅうげつ）⓪【名】秋月",
+        "correctDesc": "秋月",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "醍醐味",
+        "wordId": 58859,
+        "optionDtos": [{
+            "wordOptionId": 116518,
+            "wordOptionDesc": "美味；妙趣，乐趣",
+            "isRight": 1,
+            "wordId": 58859
+        }],
+        "wordDesc": "（だいごみ）③【名】美味；妙趣，乐趣",
+        "correctDesc": "美味；妙趣，乐趣",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "有頂天",
+        "wordId": 58860,
+        "optionDtos": [{
+            "wordOptionId": 116519,
+            "wordOptionDesc": "得意扬扬，高兴得忘乎所以",
+            "isRight": 1,
+            "wordId": 58860
+        }],
+        "wordDesc": "（うちょうてん）②【名·ナ形】得意扬扬，高兴得忘乎所以",
+        "correctDesc": "得意扬扬，高兴得忘乎所以",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "あくせく ",
+        "wordId": 58861,
+        "optionDtos": [{
+            "wordOptionId": 116520,
+            "wordOptionDesc": "辛辛苦苦，忙忙碌碌；（为小事）苦恼",
+            "isRight": 1,
+            "wordId": 58861
+        }],
+        "wordDesc": "①【副·自动3】辛辛苦苦，忙忙碌碌；（为小事）苦恼",
+        "correctDesc": "辛辛苦苦，忙忙碌碌；（为小事）苦恼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "雑学",
+        "wordId": 58862,
+        "optionDtos": [{
+            "wordOptionId": 116521,
+            "wordOptionDesc": "杂学，成系统的学问；博学广闻",
+            "isRight": 1,
+            "wordId": 58862
+        }],
+        "wordDesc": "（ざつがく）⓪【名】杂学，成系统的学问；博学广闻",
+        "correctDesc": "杂学，成系统的学问；博学广闻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "沈む",
+        "wordId": 58863,
+        "optionDtos": [{
+            "wordOptionId": 116522,
+            "wordOptionDesc": "沉没；下降；消沉；陷入",
+            "isRight": 1,
+            "wordId": 58863
+        }],
+        "wordDesc": "（しずむ）⓪【自动1】沉没；下降；消沉；陷入",
+        "correctDesc": "沉没；下降；消沉；陷入",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "被せる",
+        "wordId": 58864,
+        "optionDtos": [{
+            "wordOptionId": 116523,
+            "wordOptionDesc": "盖上，蒙上；戴上（帽子）",
+            "isRight": 1,
+            "wordId": 58864
+        }],
+        "wordDesc": "（かぶせる）③【他动2】盖上，蒙上；戴上（帽子）",
+        "correctDesc": "盖上，蒙上；戴上（帽子）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "刈る",
+        "wordId": 58865,
+        "optionDtos": [{
+            "wordOptionId": 116524,
+            "wordOptionDesc": "割；剪，修剪",
+            "isRight": 1,
+            "wordId": 58865
+        }],
+        "wordDesc": "（かる）⓪【他动1】割；剪，修剪",
+        "correctDesc": "割；剪，修剪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "指摘",
+        "wordId": 58866,
+        "optionDtos": [{
+            "wordOptionId": 116525,
+            "wordOptionDesc": "指出；指摘",
+            "isRight": 1,
+            "wordId": 58866
+        }],
+        "wordDesc": "（してき）⓪【名·他动3】指出；指摘",
+        "correctDesc": "指出；指摘",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "時点",
+        "wordId": 58867,
+        "optionDtos": [{
+            "wordOptionId": 116526,
+            "wordOptionDesc": "时间点",
+            "isRight": 1,
+            "wordId": 58867
+        }],
+        "wordDesc": "（じてん）①【名】时间点",
+        "correctDesc": "时间点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "閉塞",
+        "wordId": 58868,
+        "optionDtos": [{
+            "wordOptionId": 116527,
+            "wordOptionDesc": "阻塞，闭塞，堵塞",
+            "isRight": 1,
+            "wordId": 58868
+        }],
+        "wordDesc": "（へいそく）⓪【名·自他动3】阻塞，闭塞，堵塞",
+        "correctDesc": "阻塞，闭塞，堵塞",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "持ち物",
+        "wordId": 58869,
+        "optionDtos": [{
+            "wordOptionId": 116528,
+            "wordOptionDesc": "随身物品；所有物",
+            "isRight": 1,
+            "wordId": 58869
+        }],
+        "wordDesc": "（もちもの）②【名】随身物品；所有物",
+        "correctDesc": "随身物品；所有物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "出頭",
+        "wordId": 58870,
+        "optionDtos": [{
+            "wordOptionId": 116529,
+            "wordOptionDesc": "出人头地；露面",
+            "isRight": 1,
+            "wordId": 58870
+        }],
+        "wordDesc": "（しゅっとう）⓪【名·自动3】出人头地；露面",
+        "correctDesc": "出人头地；露面",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "懐石料理",
+        "wordId": 58871,
+        "optionDtos": [{
+            "wordOptionId": 116530,
+            "wordOptionDesc": "怀石料理（一种高级日本料理）",
+            "isRight": 1,
+            "wordId": 58871
+        }],
+        "wordDesc": "（かいせきりょうり）⑤【名】怀石料理（一种高级日本料理）",
+        "correctDesc": "怀石料理（一种高级日本料理）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "巣立ち",
+        "wordId": 58872,
+        "optionDtos": [{
+            "wordOptionId": 116531,
+            "wordOptionDesc": "离巢；自立，独立",
+            "isRight": 1,
+            "wordId": 58872
+        }],
+        "wordDesc": "（すだち）⓪【名·自动3】离巢；自立，独立",
+        "correctDesc": "离巢；自立，独立",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "センテンス",
+        "wordId": 58873,
+        "optionDtos": [{
+            "wordOptionId": 116532,
+            "wordOptionDesc": "句子",
+            "isRight": 1,
+            "wordId": 58873
+        }],
+        "wordDesc": "（sentence）①【名】句子",
+        "correctDesc": "句子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "主催",
+        "wordId": 58874,
+        "optionDtos": [{
+            "wordOptionId": 116533,
+            "wordOptionDesc": "主办，举办",
+            "isRight": 1,
+            "wordId": 58874
+        }],
+        "wordDesc": "（しゅさい）⓪【名·他动3】主办，举办",
+        "correctDesc": "主办，举办",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "ばからしい ",
+        "wordId": 58875,
+        "optionDtos": [{
+            "wordOptionId": 116534,
+            "wordOptionDesc": "愚蠢的；无聊的；不值得的",
+            "isRight": 1,
+            "wordId": 58875
+        }],
+        "wordDesc": "④【イ形】愚蠢的；无聊的；不值得的",
+        "correctDesc": "愚蠢的；无聊的；不值得的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "受賞",
+        "wordId": 58876,
+        "optionDtos": [{
+            "wordOptionId": 116535,
+            "wordOptionDesc": "获奖，得奖",
+            "isRight": 1,
+            "wordId": 58876
+        }],
+        "wordDesc": "（じゅしょう）⓪【名·自他动3】获奖，得奖",
+        "correctDesc": "获奖，得奖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "境遇",
+        "wordId": 58877,
+        "optionDtos": [{
+            "wordOptionId": 116536,
+            "wordOptionDesc": "境遇，处境",
+            "isRight": 1,
+            "wordId": 58877
+        }],
+        "wordDesc": "（きょうぐう）⓪【名】境遇，处境",
+        "correctDesc": "境遇，处境",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "妄想",
+        "wordId": 58878,
+        "optionDtos": [{
+            "wordOptionId": 116537,
+            "wordOptionDesc": "妄想，胡思乱想",
+            "isRight": 1,
+            "wordId": 58878
+        }],
+        "wordDesc": "（もうそう）⓪【名·他动3】妄想，胡思乱想",
+        "correctDesc": "妄想，胡思乱想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "慮る",
+        "wordId": 58879,
+        "optionDtos": [{
+            "wordOptionId": 116538,
+            "wordOptionDesc": "思虑，考虑",
+            "isRight": 1,
+            "wordId": 58879
+        }],
+        "wordDesc": "（おもんぱかる）⑤【他动1】思虑，考虑",
+        "correctDesc": "思虑，考虑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "主食",
+        "wordId": 58880,
+        "optionDtos": [{
+            "wordOptionId": 116539,
+            "wordOptionDesc": "主食",
+            "isRight": 1,
+            "wordId": 58880
+        }],
+        "wordDesc": "（しゅしょく）⓪【名】主食",
+        "correctDesc": "主食",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "栄光",
+        "wordId": 58881,
+        "optionDtos": [{
+            "wordOptionId": 116540,
+            "wordOptionDesc": "荣光，光荣",
+            "isRight": 1,
+            "wordId": 58881
+        }],
+        "wordDesc": "（えいこう）⓪【名】荣光，光荣",
+        "correctDesc": "荣光，光荣",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "占領",
+        "wordId": 58882,
+        "optionDtos": [{
+            "wordOptionId": 116541,
+            "wordOptionDesc": "占领；占据",
+            "isRight": 1,
+            "wordId": 58882
+        }],
+        "wordDesc": "（せんりょう）⓪【名·他动3】占领；占据",
+        "correctDesc": "占领；占据",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "弁明",
+        "wordId": 58883,
+        "optionDtos": [{
+            "wordOptionId": 116542,
+            "wordOptionDesc": "解释，说明；辩解",
+            "isRight": 1,
+            "wordId": 58883
+        }],
+        "wordDesc": "（べんめい）⓪【名·自他动3】解释，说明；辩解",
+        "correctDesc": "解释，说明；辩解",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "純情",
+        "wordId": 58884,
+        "optionDtos": [{
+            "wordOptionId": 116543,
+            "wordOptionDesc": "纯真，天真，纯洁",
+            "isRight": 1,
+            "wordId": 58884
+        }],
+        "wordDesc": "（じゅんじょう）⓪【名·ナ形】纯真，天真，纯洁",
+        "correctDesc": "纯真，天真，纯洁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "仕様",
+        "wordId": 58885,
+        "optionDtos": [{
+            "wordOptionId": 116544,
+            "wordOptionDesc": "做法，办法",
+            "isRight": 1,
+            "wordId": 58885
+        }],
+        "wordDesc": "（しよう）⓪【名】做法，办法",
+        "correctDesc": "做法，办法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "～賞",
+        "wordId": 58886,
+        "optionDtos": [{
+            "wordOptionId": 116545,
+            "wordOptionDesc": "……奖",
+            "isRight": 1,
+            "wordId": 58886
+        }],
+        "wordDesc": "（しょう）【接尾】……奖",
+        "correctDesc": "……奖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "吹っ切る",
+        "wordId": 58887,
+        "optionDtos": [{
+            "wordOptionId": 116546,
+            "wordOptionDesc": "除去，消除（烦闷）",
+            "isRight": 1,
+            "wordId": 58887
+        }],
+        "wordDesc": "（ふっきる）③【他动1】除去，消除（烦闷）",
+        "correctDesc": "除去，消除（烦闷）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "物資",
+        "wordId": 58888,
+        "optionDtos": [{
+            "wordOptionId": 116547,
+            "wordOptionDesc": "物质；物体",
+            "isRight": 1,
+            "wordId": 58888
+        }],
+        "wordDesc": "（ぶっしつ）⓪【名】物质；物体",
+        "correctDesc": "物质；物体",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "取材",
+        "wordId": 58889,
+        "optionDtos": [{
+            "wordOptionId": 116548,
+            "wordOptionDesc": "采访；取材",
+            "isRight": 1,
+            "wordId": 58889
+        }],
+        "wordDesc": "（しゅざい）⓪【名·自他动3】采访；取材",
+        "correctDesc": "采访；取材",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "折り合う",
+        "wordId": 58890,
+        "optionDtos": [{
+            "wordOptionId": 116549,
+            "wordOptionDesc": "和睦相处；妥协",
+            "isRight": 1,
+            "wordId": 58890
+        }],
+        "wordDesc": "（おりあう）③【自动1】和睦相处；妥协",
+        "correctDesc": "和睦相处；妥协",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "省エネ",
+        "wordId": 58891,
+        "optionDtos": [{
+            "wordOptionId": 116550,
+            "wordOptionDesc": "节省能源",
+            "isRight": 1,
+            "wordId": 58891
+        }],
+        "wordDesc": "（しょうエネ）⓪【名】节省能源",
+        "correctDesc": "节省能源",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "消化",
+        "wordId": 58892,
+        "optionDtos": [{
+            "wordOptionId": 116551,
+            "wordOptionDesc": "消化（食物）；理解（知识）",
+            "isRight": 1,
+            "wordId": 58892
+        }],
+        "wordDesc": "（しょうか）⓪【名·他动3】消化（食物）；理解（知识）",
+        "correctDesc": "消化（食物）；理解（知识）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "ありのまま ",
+        "wordId": 58893,
+        "optionDtos": [{
+            "wordOptionId": 116552,
+            "wordOptionDesc": "如实，据实，实事求是",
+            "isRight": 1,
+            "wordId": 58893
+        }],
+        "wordDesc": "⓪【名·ナ形·副】如实，据实，实事求是",
+        "correctDesc": "如实，据实，实事求是",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "果敢",
+        "wordId": 58894,
+        "optionDtos": [{
+            "wordOptionId": 116553,
+            "wordOptionDesc": "果断的，果敢的，勇敢的",
+            "isRight": 1,
+            "wordId": 58894
+        }],
+        "wordDesc": "（かかん）⓪【ナ形】果断的，果敢的，勇敢的",
+        "correctDesc": "果断的，果敢的，勇敢的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "鼓動",
+        "wordId": 58895,
+        "optionDtos": [{
+            "wordOptionId": 116554,
+            "wordOptionDesc": "跳动，搏动，悸动",
+            "isRight": 1,
+            "wordId": 58895
+        }],
+        "wordDesc": "（こどう）⓪【名·自动3】跳动，搏动，悸动",
+        "correctDesc": "跳动，搏动，悸动",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "留意",
+        "wordId": 58896,
+        "optionDtos": [{
+            "wordOptionId": 116555,
+            "wordOptionDesc": "留意，留心，注意",
+            "isRight": 1,
+            "wordId": 58896
+        }],
+        "wordDesc": "（りゅうい）①【名·自动3】留意，留心，注意",
+        "correctDesc": "留意，留心，注意",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "煙突",
+        "wordId": 58897,
+        "optionDtos": [{
+            "wordOptionId": 116556,
+            "wordOptionDesc": "烟筒，烟囱",
+            "isRight": 1,
+            "wordId": 58897
+        }],
+        "wordDesc": "（えんとつ）⓪【名】烟筒，烟囱",
+        "correctDesc": "烟筒，烟囱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "自動詞",
+        "wordId": 58898,
+        "optionDtos": [{
+            "wordOptionId": 116557,
+            "wordOptionDesc": "自动词",
+            "isRight": 1,
+            "wordId": 58898
+        }],
+        "wordDesc": "（じどうし）②【名】自动词",
+        "correctDesc": "自动词",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "しとしと ",
+        "wordId": 58899,
+        "optionDtos": [{
+            "wordOptionId": 116558,
+            "wordOptionDesc": "（雨）淅淅沥沥",
+            "isRight": 1,
+            "wordId": 58899
+        }],
+        "wordDesc": "①【副】（雨）淅淅沥沥",
+        "correctDesc": "（雨）淅淅沥沥",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地主",
+        "wordId": 58900,
+        "optionDtos": [{
+            "wordOptionId": 116559,
+            "wordOptionDesc": "地主，土地所有者",
+            "isRight": 1,
+            "wordId": 58900
+        }],
+        "wordDesc": "（じぬし）⓪【名】地主，土地所有者",
+        "correctDesc": "地主，土地所有者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "核兵器",
+        "wordId": 58901,
+        "optionDtos": [{
+            "wordOptionId": 116560,
+            "wordOptionDesc": "核武器",
+            "isRight": 1,
+            "wordId": 58901
+        }],
+        "wordDesc": "（かくへいき）③【名】核武器",
+        "correctDesc": "核武器",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "帰省",
+        "wordId": 58902,
+        "optionDtos": [{
+            "wordOptionId": 116561,
+            "wordOptionDesc": "回乡探亲，省亲",
+            "isRight": 1,
+            "wordId": 58902
+        }],
+        "wordDesc": "（きせい）⓪【名·自动3】回乡探亲，省亲",
+        "correctDesc": "回乡探亲，省亲",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "心配事",
+        "wordId": 58903,
+        "optionDtos": [{
+            "wordOptionId": 116562,
+            "wordOptionDesc": "担心的事，操心的事",
+            "isRight": 1,
+            "wordId": 58903
+        }],
+        "wordDesc": "（しんぱいごと）⓪【名】担心的事，操心的事",
+        "correctDesc": "担心的事，操心的事",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "みっともない ",
+        "wordId": 58904,
+        "optionDtos": [{
+            "wordOptionId": 116563,
+            "wordOptionDesc": "不像样的，不体面的；难看的",
+            "isRight": 1,
+            "wordId": 58904
+        }],
+        "wordDesc": "⑤【イ形】不像样的，不体面的；难看的",
+        "correctDesc": "不像样的，不体面的；难看的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "神経質",
+        "wordId": 58905,
+        "optionDtos": [{
+            "wordOptionId": 116564,
+            "wordOptionDesc": "神经质，敏感",
+            "isRight": 1,
+            "wordId": 58905
+        }],
+        "wordDesc": "（しんけいしつ）③【名·ナ形】神经质，敏感",
+        "correctDesc": "神经质，敏感",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "見誤る",
+        "wordId": 58906,
+        "optionDtos": [{
+            "wordOptionId": 116565,
+            "wordOptionDesc": "看错，看差；错认",
+            "isRight": 1,
+            "wordId": 58906
+        }],
+        "wordDesc": "（みあやまる）④【他动1】看错，看差；错认",
+        "correctDesc": "看错，看差；错认",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "左右",
+        "wordId": 58907,
+        "optionDtos": [{
+            "wordOptionId": 116566,
+            "wordOptionDesc": "左边和右边；支配，操纵",
+            "isRight": 1,
+            "wordId": 58907
+        }],
+        "wordDesc": "（さゆう）①【名·他动3】左边和右边；支配，操纵",
+        "correctDesc": "左边和右边；支配，操纵",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "がらりと ",
+        "wordId": 58908,
+        "optionDtos": [{
+            "wordOptionId": 116567,
+            "wordOptionDesc": "急剧变化，突然改变",
+            "isRight": 1,
+            "wordId": 58908
+        }],
+        "wordDesc": "②【副】急剧变化，突然改变",
+        "correctDesc": "急剧变化，突然改变",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "休講",
+        "wordId": 58909,
+        "optionDtos": [{
+            "wordOptionId": 116568,
+            "wordOptionDesc": "（老师）停课",
+            "isRight": 1,
+            "wordId": 58909
+        }],
+        "wordDesc": "（きゅうこう）⓪【名·自动3】（老师）停课",
+        "correctDesc": "（老师）停课",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "言葉遣い",
+        "wordId": 58910,
+        "optionDtos": [{
+            "wordOptionId": 116569,
+            "wordOptionDesc": "说法；（文章）措辞",
+            "isRight": 1,
+            "wordId": 58910
+        }],
+        "wordDesc": "（ことばづかい）④【名】说法；（文章）措辞",
+        "correctDesc": "说法；（文章）措辞",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "固執",
+        "wordId": 58911,
+        "optionDtos": [{
+            "wordOptionId": 116570,
+            "wordOptionDesc": "坚持，固执",
+            "isRight": 1,
+            "wordId": 58911
+        }],
+        "wordDesc": "（こしつ/こしゅう）⓪【名·自他动3】坚持，固执",
+        "correctDesc": "坚持，固执",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "明け渡す",
+        "wordId": 58912,
+        "optionDtos": [{
+            "wordOptionId": 116571,
+            "wordOptionDesc": "让出，腾出",
+            "isRight": 1,
+            "wordId": 58912
+        }],
+        "wordDesc": "（あけわたす）④【他动1】让出，腾出",
+        "correctDesc": "让出，腾出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "時機",
+        "wordId": 58913,
+        "optionDtos": [{
+            "wordOptionId": 116572,
+            "wordOptionDesc": "时机，机会",
+            "isRight": 1,
+            "wordId": 58913
+        }],
+        "wordDesc": "（じき）①【名】时机，机会",
+        "correctDesc": "时机，机会",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "議長",
+        "wordId": 58914,
+        "optionDtos": [{
+            "wordOptionId": 116573,
+            "wordOptionDesc": "主持人，司仪；议长，主席",
+            "isRight": 1,
+            "wordId": 58914
+        }],
+        "wordDesc": "（ぎちょう）①【名】主持人，司仪；议长，主席",
+        "correctDesc": "主持人，司仪；议长，主席",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "訓示",
+        "wordId": 58915,
+        "optionDtos": [{
+            "wordOptionId": 116574,
+            "wordOptionDesc": "训示，训话",
+            "isRight": 1,
+            "wordId": 58915
+        }],
+        "wordDesc": "（くんじ）⓪【名·自他动3】训示，训话",
+        "correctDesc": "训示，训话",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "大所",
+        "wordId": 58916,
+        "optionDtos": [{
+            "wordOptionId": 116575,
+            "wordOptionDesc": "权威，泰斗；有钱人家",
+            "isRight": 1,
+            "wordId": 58916
+        }],
+        "wordDesc": "（おおどころ）③【名】权威，泰斗；有钱人家",
+        "correctDesc": "权威，泰斗；有钱人家",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "高所",
+        "wordId": 58917,
+        "optionDtos": [{
+            "wordOptionId": 116576,
+            "wordOptionDesc": "高处，高地；远见",
+            "isRight": 1,
+            "wordId": 58917
+        }],
+        "wordDesc": "（こうしょ）①【名】高处，高地；远见",
+        "correctDesc": "高处，高地；远见",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "恐縮",
+        "wordId": 58918,
+        "optionDtos": [{
+            "wordOptionId": 116577,
+            "wordOptionDesc": "对不起，过意不去；不好意思，惭愧",
+            "isRight": 1,
+            "wordId": 58918
+        }],
+        "wordDesc": "（きょうしゅく）⓪【名·自动3】对不起，过意不去；不好意思，惭愧",
+        "correctDesc": "对不起，过意不去；不好意思，惭愧",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "堅実",
+        "wordId": 58919,
+        "optionDtos": [{
+            "wordOptionId": 116578,
+            "wordOptionDesc": "坚实，稳固；踏实，牢靠",
+            "isRight": 1,
+            "wordId": 58919
+        }],
+        "wordDesc": "（けんじつ）⓪【名·ナ形】坚实，稳固；踏实，牢靠",
+        "correctDesc": "坚实，稳固；踏实，牢靠",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "搔き乱す",
+        "wordId": 58920,
+        "optionDtos": [{
+            "wordOptionId": 116579,
+            "wordOptionDesc": "搅乱，弄乱；扰乱，制造混乱",
+            "isRight": 1,
+            "wordId": 58920
+        }],
+        "wordDesc": "（かきみだす）④【他动1】搅乱，弄乱；扰乱，制造混乱",
+        "correctDesc": "搅乱，弄乱；扰乱，制造混乱",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "差配",
+        "wordId": 58921,
+        "optionDtos": [{
+            "wordOptionId": 116580,
+            "wordOptionDesc": "分派，负责管理",
+            "isRight": 1,
+            "wordId": 58921
+        }],
+        "wordDesc": "（さはい）⓪【名·他动3】分派，负责管理",
+        "correctDesc": "分派，负责管理",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "無形",
+        "wordId": 58922,
+        "optionDtos": [{
+            "wordOptionId": 116581,
+            "wordOptionDesc": "无形",
+            "isRight": 1,
+            "wordId": 58922
+        }],
+        "wordDesc": "（むけい）⓪【名】无形",
+        "correctDesc": "无形",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "僧侶",
+        "wordId": 58923,
+        "optionDtos": [{
+            "wordOptionId": 116582,
+            "wordOptionDesc": "僧侣，和尚",
+            "isRight": 1,
+            "wordId": 58923
+        }],
+        "wordDesc": "（そうりょ）①【名】僧侣，和尚",
+        "correctDesc": "僧侣，和尚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "疎ましい",
+        "wordId": 58924,
+        "optionDtos": [{
+            "wordOptionId": 116583,
+            "wordOptionDesc": "讨厌的，厌恶的，不愉快的",
+            "isRight": 1,
+            "wordId": 58924
+        }],
+        "wordDesc": "（うとましい）④【イ形】讨厌的，厌恶的，不愉快的",
+        "correctDesc": "讨厌的，厌恶的，不愉快的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "究明",
+        "wordId": 58925,
+        "optionDtos": [{
+            "wordOptionId": 116584,
+            "wordOptionDesc": "查明，研究明白",
+            "isRight": 1,
+            "wordId": 58925
+        }],
+        "wordDesc": "（きゅうめい）⓪【名·他动3】查明，研究明白",
+        "correctDesc": "查明，研究明白",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "地震",
+        "wordId": 58926,
+        "optionDtos": [{
+            "wordOptionId": 116585,
+            "wordOptionDesc": "地震",
+            "isRight": 1,
+            "wordId": 58926
+        }],
+        "wordDesc": "（じしん）⓪【名】地震",
+        "correctDesc": "地震",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "過信",
+        "wordId": 58927,
+        "optionDtos": [{
+            "wordOptionId": 116586,
+            "wordOptionDesc": "过于相信",
+            "isRight": 1,
+            "wordId": 58927
+        }],
+        "wordDesc": "（かしん）⓪【名·他动3】过于相信",
+        "correctDesc": "过于相信",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "江戸",
+        "wordId": 58928,
+        "optionDtos": [{
+            "wordOptionId": 116587,
+            "wordOptionDesc": "江户（东京旧称）",
+            "isRight": 1,
+            "wordId": 58928
+        }],
+        "wordDesc": "（えど）⓪【名】江户（东京旧称）",
+        "correctDesc": "江户（东京旧称）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "暗唱",
+        "wordId": 58929,
+        "optionDtos": [{
+            "wordOptionId": 116588,
+            "wordOptionDesc": "记住，背诵",
+            "isRight": 1,
+            "wordId": 58929
+        }],
+        "wordDesc": "（あんしょう）⓪【名·他动3】记住，背诵",
+        "correctDesc": "记住，背诵",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "義務",
+        "wordId": 58930,
+        "optionDtos": [{
+            "wordOptionId": 116589,
+            "wordOptionDesc": "义务",
+            "isRight": 1,
+            "wordId": 58930
+        }],
+        "wordDesc": "（ぎむ）①【名】义务",
+        "correctDesc": "义务",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "しつける ",
+        "wordId": 58931,
+        "optionDtos": [{
+            "wordOptionId": 116590,
+            "wordOptionDesc": "教育，培养；训练（动物）",
+            "isRight": 1,
+            "wordId": 58931
+        }],
+        "wordDesc": "③【他动2】教育，培养；训练（动物）",
+        "correctDesc": "教育，培养；训练（动物）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "実施",
+        "wordId": 58932,
+        "optionDtos": [{
+            "wordOptionId": 116591,
+            "wordOptionDesc": "实施，实行",
+            "isRight": 1,
+            "wordId": 58932
+        }],
+        "wordDesc": "（じっし）⓪【名·他动3】实施，实行",
+        "correctDesc": "实施，实行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "覚醒",
+        "wordId": 58933,
+        "optionDtos": [{
+            "wordOptionId": 116592,
+            "wordOptionDesc": "醒过来；觉醒，觉悟",
+            "isRight": 1,
+            "wordId": 58933
+        }],
+        "wordDesc": "（かくせい）⓪【名·自他动3】醒过来；觉醒，觉悟",
+        "correctDesc": "醒过来；觉醒，觉悟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第四天",
+        "wordName": "実践",
+        "wordId": 58934,
+        "optionDtos": [{
+            "wordOptionId": 116593,
+            "wordOptionDesc": "实践",
+            "isRight": 1,
+            "wordId": 58934
+        }],
+        "wordDesc": "（じっせん）⓪【名·他动3】实践",
+        "correctDesc": "实践",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

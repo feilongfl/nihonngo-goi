@@ -1,0 +1,4755 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "飢える",
+        "wordId": 60185,
+        "optionDtos": [{
+            "wordOptionId": 117844,
+            "wordOptionDesc": "饿，饥饿；渴望，渴求",
+            "isRight": 1,
+            "wordId": 60185
+        }],
+        "wordDesc": "（うえる）②【自动2】饿，饥饿；渴望，渴求",
+        "correctDesc": "饿，饥饿；渴望，渴求",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "解散",
+        "wordId": 60186,
+        "optionDtos": [{
+            "wordOptionId": 117845,
+            "wordOptionDesc": "解散；散会；解体",
+            "isRight": 1,
+            "wordId": 60186
+        }],
+        "wordDesc": "（かいさん）⓪【名·自他动3】解散；散会；解体",
+        "correctDesc": "解散；散会；解体",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "興奮",
+        "wordId": 60187,
+        "optionDtos": [{
+            "wordOptionId": 117846,
+            "wordOptionDesc": "兴奋，激动",
+            "isRight": 1,
+            "wordId": 60187
+        }],
+        "wordDesc": "（こうふん）⓪【名·自动3】兴奋，激动",
+        "correctDesc": "兴奋，激动",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "魚",
+        "wordId": 60188,
+        "optionDtos": [{
+            "wordOptionId": 117847,
+            "wordOptionDesc": "鱼类的总称",
+            "isRight": 1,
+            "wordId": 60188
+        }],
+        "wordDesc": "（うお）⓪【名】鱼类的总称",
+        "correctDesc": "鱼类的总称",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "後半",
+        "wordId": 60189,
+        "optionDtos": [{
+            "wordOptionId": 117848,
+            "wordOptionDesc": "后半，后一半",
+            "isRight": 1,
+            "wordId": 60189
+        }],
+        "wordDesc": "（こうはん）⓪【名】后半，后一半",
+        "correctDesc": "后半，后一半",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "一概に",
+        "wordId": 60190,
+        "optionDtos": [{
+            "wordOptionId": 117849,
+            "wordOptionDesc": "一概，一律",
+            "isRight": 1,
+            "wordId": 60190
+        }],
+        "wordDesc": "（いちがいに）⓪【副】一概，一律",
+        "correctDesc": "一概，一律",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "祭る",
+        "wordId": 60191,
+        "optionDtos": [{
+            "wordOptionId": 117850,
+            "wordOptionDesc": "祭祀；供奉",
+            "isRight": 1,
+            "wordId": 60191
+        }],
+        "wordDesc": "（まつる）⓪【他动1】祭祀；供奉",
+        "correctDesc": "祭祀；供奉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "演習",
+        "wordId": 60192,
+        "optionDtos": [{
+            "wordOptionId": 117851,
+            "wordOptionDesc": "（军事）演习；专题研讨会；练习",
+            "isRight": 1,
+            "wordId": 60192
+        }],
+        "wordDesc": "（えんしゅう）⓪【名·自动3】（军事）演习；专题研讨会；练习",
+        "correctDesc": "（军事）演习；专题研讨会；练习",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ゴールデンウィーク",
+        "wordId": 60193,
+        "optionDtos": [{
+            "wordOptionId": 117852,
+            "wordOptionDesc": "黄金周，连休假期",
+            "isRight": 1,
+            "wordId": 60193
+        }],
+        "wordDesc": "⑥【名】黄金周，连休假期",
+        "correctDesc": "黄金周，连休假期",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "延長",
+        "wordId": 60194,
+        "optionDtos": [{
+            "wordOptionId": 117853,
+            "wordOptionDesc": "延长；延续，扩展",
+            "isRight": 1,
+            "wordId": 60194
+        }],
+        "wordDesc": "（えんちょう）⓪【名·他动3】延长；延续，扩展",
+        "correctDesc": "延长；延续，扩展",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "思い込む",
+        "wordId": 60195,
+        "optionDtos": [{
+            "wordOptionId": 117854,
+            "wordOptionDesc": "深信；下定决心",
+            "isRight": 1,
+            "wordId": 60195
+        }],
+        "wordDesc": "（おもいこむ）④【自动1】深信；下定决心",
+        "correctDesc": "深信；下定决心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "意欲",
+        "wordId": 60196,
+        "optionDtos": [{
+            "wordOptionId": 117855,
+            "wordOptionDesc": "意愿；积极性",
+            "isRight": 1,
+            "wordId": 60196
+        }],
+        "wordDesc": "（いよく）①【名】意愿；积极性",
+        "correctDesc": "意愿；积极性",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "覚悟",
+        "wordId": 60197,
+        "optionDtos": [{
+            "wordOptionId": 117856,
+            "wordOptionDesc": "思想准备，决心；觉悟",
+            "isRight": 1,
+            "wordId": 60197
+        }],
+        "wordDesc": "（かくご）①【名·自他动3】思想准备，决心；觉悟",
+        "correctDesc": "思想准备，决心；觉悟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "過失",
+        "wordId": 60198,
+        "optionDtos": [{
+            "wordOptionId": 117857,
+            "wordOptionDesc": "过失，过错",
+            "isRight": 1,
+            "wordId": 60198
+        }],
+        "wordDesc": "（かしつ）⓪【名】过失，过错",
+        "correctDesc": "过失，过错",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "衣類",
+        "wordId": 60199,
+        "optionDtos": [{
+            "wordOptionId": 117858,
+            "wordOptionDesc": "衣服，衣物",
+            "isRight": 1,
+            "wordId": 60199
+        }],
+        "wordDesc": "（いるい）①【名】衣服，衣物",
+        "correctDesc": "衣服，衣物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "国産",
+        "wordId": 60200,
+        "optionDtos": [{
+            "wordOptionId": 117859,
+            "wordOptionDesc": "国产",
+            "isRight": 1,
+            "wordId": 60200
+        }],
+        "wordDesc": "（こくさん）⓪【名】国产",
+        "correctDesc": "国产",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "引退",
+        "wordId": 60201,
+        "optionDtos": [{
+            "wordOptionId": 117860,
+            "wordOptionDesc": "隐退，退役",
+            "isRight": 1,
+            "wordId": 60201
+        }],
+        "wordDesc": "（いんたい）⓪【名·自动3】隐退，退役",
+        "correctDesc": "隐退，退役",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "売り出す",
+        "wordId": 60202,
+        "optionDtos": [{
+            "wordOptionId": 117861,
+            "wordOptionDesc": "开始出售；大甩卖；出名",
+            "isRight": 1,
+            "wordId": 60202
+        }],
+        "wordDesc": "（うりだす）③【他动1】开始出售；大甩卖；出名",
+        "correctDesc": "开始出售；大甩卖；出名",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "インフレ",
+        "wordId": 60203,
+        "optionDtos": [{
+            "wordOptionId": 117862,
+            "wordOptionDesc": "通货膨胀",
+            "isRight": 1,
+            "wordId": 60203
+        }],
+        "wordDesc": "（inflation）⓪【名】通货膨胀",
+        "correctDesc": "通货膨胀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "運命",
+        "wordId": 60204,
+        "optionDtos": [{
+            "wordOptionId": 117863,
+            "wordOptionDesc": "命，命运",
+            "isRight": 1,
+            "wordId": 60204
+        }],
+        "wordDesc": "（うんめい）①【名】命，命运",
+        "correctDesc": "命，命运",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "果実",
+        "wordId": 60205,
+        "optionDtos": [{
+            "wordOptionId": 117864,
+            "wordOptionDesc": "果实；收益",
+            "isRight": 1,
+            "wordId": 60205
+        }],
+        "wordDesc": "（かじつ）①【名】果实；收益",
+        "correctDesc": "果实；收益",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "貸間",
+        "wordId": 60206,
+        "optionDtos": [{
+            "wordOptionId": 117865,
+            "wordOptionDesc": "出租的房间",
+            "isRight": 1,
+            "wordId": 60206
+        }],
+        "wordDesc": "（かしま）⓪【名】出租的房间",
+        "correctDesc": "出租的房间",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "永遠",
+        "wordId": 60207,
+        "optionDtos": [{
+            "wordOptionId": 117866,
+            "wordOptionDesc": "永远，永恒",
+            "isRight": 1,
+            "wordId": 60207
+        }],
+        "wordDesc": "（えいえん）⓪【名·ナ形】永远，永恒",
+        "correctDesc": "永远，永恒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "漕ぐ",
+        "wordId": 60208,
+        "optionDtos": [{
+            "wordOptionId": 117867,
+            "wordOptionDesc": "划（船）；蹬（自行车）；荡（秋千）",
+            "isRight": 1,
+            "wordId": 60208
+        }],
+        "wordDesc": "（こぐ）①【他动1】划（船）；蹬（自行车）；荡（秋千）",
+        "correctDesc": "划（船）；蹬（自行车）；荡（秋千）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "永久",
+        "wordId": 60209,
+        "optionDtos": [{
+            "wordOptionId": 117868,
+            "wordOptionDesc": "永久，永远",
+            "isRight": 1,
+            "wordId": 60209
+        }],
+        "wordDesc": "（えいきゅう）⓪【名·ナ形】永久，永远",
+        "correctDesc": "永久，永远",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "公表",
+        "wordId": 60210,
+        "optionDtos": [{
+            "wordOptionId": 117869,
+            "wordOptionDesc": "公布，宣布",
+            "isRight": 1,
+            "wordId": 60210
+        }],
+        "wordDesc": "（こうひょう）⓪【名·他动3】公布，宣布",
+        "correctDesc": "公布，宣布",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "買い求める",
+        "wordId": 60211,
+        "optionDtos": [{
+            "wordOptionId": 117870,
+            "wordOptionDesc": "买，购买",
+            "isRight": 1,
+            "wordId": 60211
+        }],
+        "wordDesc": "（かいもとめる）⑤【他动2】买，购买",
+        "correctDesc": "买，购买",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "染み込む",
+        "wordId": 60212,
+        "optionDtos": [{
+            "wordOptionId": 117871,
+            "wordOptionDesc": "渗；渗入；铭刻（于心）",
+            "isRight": 1,
+            "wordId": 60212
+        }],
+        "wordDesc": "（しみこむ）③【自动1】渗；渗入；铭刻（于心）",
+        "correctDesc": "渗；渗入；铭刻（于心）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "錠剤",
+        "wordId": 60213,
+        "optionDtos": [{
+            "wordOptionId": 117872,
+            "wordOptionDesc": "药丸，药片",
+            "isRight": 1,
+            "wordId": 60213
+        }],
+        "wordDesc": "（じょうざい）⓪【名】药丸，药片",
+        "correctDesc": "药丸，药片",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "生える",
+        "wordId": 60214,
+        "optionDtos": [{
+            "wordOptionId": 117873,
+            "wordOptionDesc": "长（草、胡须等），生（根），发（霉）",
+            "isRight": 1,
+            "wordId": 60214
+        }],
+        "wordDesc": "（はえる）②【自动2】长（草、胡须等），生（根），发（霉）",
+        "correctDesc": "长（草、胡须等），生（根），发（霉）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "罰する",
+        "wordId": 60215,
+        "optionDtos": [{
+            "wordOptionId": 117874,
+            "wordOptionDesc": "处罚，惩罚",
+            "isRight": 1,
+            "wordId": 60215
+        }],
+        "wordDesc": "（ばっする）⓪【他动3】处罚，惩罚",
+        "correctDesc": "处罚，惩罚",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "所有",
+        "wordId": 60216,
+        "optionDtos": [{
+            "wordOptionId": 117875,
+            "wordOptionDesc": "所有，拥有",
+            "isRight": 1,
+            "wordId": 60216
+        }],
+        "wordDesc": "（しょゆう）⓪【名·他动3】所有，拥有",
+        "correctDesc": "所有，拥有",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "架空",
+        "wordId": 60217,
+        "optionDtos": [{
+            "wordOptionId": 117876,
+            "wordOptionDesc": "架空，空想，虚构",
+            "isRight": 1,
+            "wordId": 60217
+        }],
+        "wordDesc": "（かくう）⓪【名·ナ形】架空，空想，虚构",
+        "correctDesc": "架空，空想，虚构",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "逸れる",
+        "wordId": 60218,
+        "optionDtos": [{
+            "wordOptionId": 117877,
+            "wordOptionDesc": "脱离正轨；（音乐）走调",
+            "isRight": 1,
+            "wordId": 60218
+        }],
+        "wordDesc": "（それる）②【自动2】脱离正轨；（音乐）走调",
+        "correctDesc": "脱离正轨；（音乐）走调",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "学業",
+        "wordId": 60219,
+        "optionDtos": [{
+            "wordOptionId": 117878,
+            "wordOptionDesc": "学业",
+            "isRight": 1,
+            "wordId": 60219
+        }],
+        "wordDesc": "（がくぎょう）②【名】学业",
+        "correctDesc": "学业",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "疑い",
+        "wordId": 60220,
+        "optionDtos": [{
+            "wordOptionId": 117879,
+            "wordOptionDesc": "怀疑，疑问；嫌疑",
+            "isRight": 1,
+            "wordId": 60220
+        }],
+        "wordDesc": "（うたがい）⓪【名】怀疑，疑问；嫌疑",
+        "correctDesc": "怀疑，疑问；嫌疑",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "好評",
+        "wordId": 60221,
+        "optionDtos": [{
+            "wordOptionId": 117880,
+            "wordOptionDesc": "好评",
+            "isRight": 1,
+            "wordId": 60221
+        }],
+        "wordDesc": "（こうひょう）⓪【名·ナ形】好评",
+        "correctDesc": "好评",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "打ち消す",
+        "wordId": 60222,
+        "optionDtos": [{
+            "wordOptionId": 117881,
+            "wordOptionDesc": "否定，否认；消除",
+            "isRight": 1,
+            "wordId": 60222
+        }],
+        "wordDesc": "（うちけす）⓪【他动1】否定，否认；消除",
+        "correctDesc": "否定，否认；消除",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "快晴",
+        "wordId": 60223,
+        "optionDtos": [{
+            "wordOptionId": 117882,
+            "wordOptionDesc": "晴朗，万里无云",
+            "isRight": 1,
+            "wordId": 60223
+        }],
+        "wordDesc": "（かいせい）⓪【名】晴朗，万里无云",
+        "correctDesc": "晴朗，万里无云",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "埋まる",
+        "wordId": 60224,
+        "optionDtos": [{
+            "wordOptionId": 117883,
+            "wordOptionDesc": "埋着；填满；填补",
+            "isRight": 1,
+            "wordId": 60224
+        }],
+        "wordDesc": "（うまる）⓪【自动1】埋着；填满；填补",
+        "correctDesc": "埋着；填满；填补",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "地割れ",
+        "wordId": 60225,
+        "optionDtos": [{
+            "wordOptionId": 117884,
+            "wordOptionDesc": "地裂，地面开裂",
+            "isRight": 1,
+            "wordId": 60225
+        }],
+        "wordDesc": "（じわれ）⓪【名·自动3】地裂，地面开裂",
+        "correctDesc": "地裂，地面开裂",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "交付",
+        "wordId": 60226,
+        "optionDtos": [{
+            "wordOptionId": 117885,
+            "wordOptionDesc": "交付，交给，发给",
+            "isRight": 1,
+            "wordId": 60226
+        }],
+        "wordDesc": "（こうふ）①【名·他动3】交付，交给，发给",
+        "correctDesc": "交付，交给，发给",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "震源",
+        "wordId": 60227,
+        "optionDtos": [{
+            "wordOptionId": 117886,
+            "wordOptionDesc": "震源",
+            "isRight": 1,
+            "wordId": 60227
+        }],
+        "wordDesc": "（しんげん）⓪【名】震源",
+        "correctDesc": "震源",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "海抜",
+        "wordId": 60228,
+        "optionDtos": [{
+            "wordOptionId": 117887,
+            "wordOptionDesc": "海拔",
+            "isRight": 1,
+            "wordId": 60228
+        }],
+        "wordDesc": "（かいばつ）⓪【名】海拔",
+        "correctDesc": "海拔",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "浸水",
+        "wordId": 60229,
+        "optionDtos": [{
+            "wordOptionId": 117888,
+            "wordOptionDesc": "浸水",
+            "isRight": 1,
+            "wordId": 60229
+        }],
+        "wordDesc": "（しんすい）⓪【名·自动3】浸水",
+        "correctDesc": "浸水",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "過剰",
+        "wordId": 60230,
+        "optionDtos": [{
+            "wordOptionId": 117889,
+            "wordOptionDesc": "过剩，过多",
+            "isRight": 1,
+            "wordId": 60230
+        }],
+        "wordDesc": "（かじょう）⓪【名·ナ形】过剩，过多",
+        "correctDesc": "过剩，过多",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "震度",
+        "wordId": 60231,
+        "optionDtos": [{
+            "wordOptionId": 117890,
+            "wordOptionDesc": "地震烈度",
+            "isRight": 1,
+            "wordId": 60231
+        }],
+        "wordDesc": "（しんど）①【名】地震烈度",
+        "correctDesc": "地震烈度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "高度",
+        "wordId": 60232,
+        "optionDtos": [{
+            "wordOptionId": 117891,
+            "wordOptionDesc": "高度，海拔；（程度）高",
+            "isRight": 1,
+            "wordId": 60232
+        }],
+        "wordDesc": "（こうど）①【名·ナ形】高度，海拔；（程度）高",
+        "correctDesc": "高度，海拔；（程度）高",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "水没",
+        "wordId": 60233,
+        "optionDtos": [{
+            "wordOptionId": 117892,
+            "wordOptionDesc": "淹没，没于水中",
+            "isRight": 1,
+            "wordId": 60233
+        }],
+        "wordDesc": "（すいぼつ）⓪【名·自动3】淹没，没于水中",
+        "correctDesc": "淹没，没于水中",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "今更",
+        "wordId": 60234,
+        "optionDtos": [{
+            "wordOptionId": 117893,
+            "wordOptionDesc": "事到如今，事已至此",
+            "isRight": 1,
+            "wordId": 60234
+        }],
+        "wordDesc": "（いまさら）⓪【副】事到如今，事已至此",
+        "correctDesc": "事到如今，事已至此",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "今時",
+        "wordId": 60235,
+        "optionDtos": [{
+            "wordOptionId": 117894,
+            "wordOptionDesc": "如今，当代；这时候",
+            "isRight": 1,
+            "wordId": 60235
+        }],
+        "wordDesc": "（いまどき）⓪【名】如今，当代；这时候",
+        "correctDesc": "如今，当代；这时候",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "欠く",
+        "wordId": 60236,
+        "optionDtos": [{
+            "wordOptionId": 117895,
+            "wordOptionDesc": "缺乏，缺少；弄坏；缺欠，怠慢",
+            "isRight": 1,
+            "wordId": 60236
+        }],
+        "wordDesc": "（かく）①【他动1】缺乏，缺少；弄坏；缺欠，怠慢",
+        "correctDesc": "缺乏，缺少；弄坏；缺欠，怠慢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "額",
+        "wordId": 60237,
+        "optionDtos": [{
+            "wordOptionId": 117896,
+            "wordOptionDesc": "金额",
+            "isRight": 1,
+            "wordId": 60237
+        }],
+        "wordDesc": "（がく）⓪【名】金额",
+        "correctDesc": "金额",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "引用",
+        "wordId": 60238,
+        "optionDtos": [{
+            "wordOptionId": 117897,
+            "wordOptionDesc": "引用（文章、事例等）",
+            "isRight": 1,
+            "wordId": 60238
+        }],
+        "wordDesc": "（いんよう）⓪【名·他动3】引用（文章、事例等）",
+        "correctDesc": "引用（文章、事例等）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "外部",
+        "wordId": 60239,
+        "optionDtos": [{
+            "wordOptionId": 117898,
+            "wordOptionDesc": "外部",
+            "isRight": 1,
+            "wordId": 60239
+        }],
+        "wordDesc": "（がいぶ）①【名】外部",
+        "correctDesc": "外部",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "引力",
+        "wordId": 60240,
+        "optionDtos": [{
+            "wordOptionId": 117899,
+            "wordOptionDesc": "引力，万有引力",
+            "isRight": 1,
+            "wordId": 60240
+        }],
+        "wordDesc": "（いんりょく）①【名】引力，万有引力",
+        "correctDesc": "引力，万有引力",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ウイルス",
+        "wordId": 60241,
+        "optionDtos": [{
+            "wordOptionId": 117900,
+            "wordOptionDesc": "病毒；计算机病毒",
+            "isRight": 1,
+            "wordId": 60241
+        }],
+        "wordDesc": "②【名】病毒；计算机病毒",
+        "correctDesc": "病毒；计算机病毒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "海洋",
+        "wordId": 60242,
+        "optionDtos": [{
+            "wordOptionId": 117901,
+            "wordOptionDesc": "海洋",
+            "isRight": 1,
+            "wordId": 60242
+        }],
+        "wordDesc": "（かいよう）⓪【名】海洋",
+        "correctDesc": "海洋",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "返る",
+        "wordId": 60243,
+        "optionDtos": [{
+            "wordOptionId": 117902,
+            "wordOptionDesc": "归还；恢复，还原",
+            "isRight": 1,
+            "wordId": 60243
+        }],
+        "wordDesc": "（かえる）①【自动1】归还；恢复，还原",
+        "correctDesc": "归还；恢复，还原",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "顔つき",
+        "wordId": 60244,
+        "optionDtos": [{
+            "wordOptionId": 117903,
+            "wordOptionDesc": "相貌；表情",
+            "isRight": 1,
+            "wordId": 60244
+        }],
+        "wordDesc": "（かおつき）⓪【名】相貌；表情",
+        "correctDesc": "相貌；表情",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "今の所",
+        "wordId": 60245,
+        "optionDtos": [{
+            "wordOptionId": 117904,
+            "wordOptionDesc": "现在，目前，眼下",
+            "isRight": 1,
+            "wordId": 60245
+        }],
+        "wordDesc": "（いまのところ）⓪【名】现在，目前，眼下",
+        "correctDesc": "现在，目前，眼下",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "抱える",
+        "wordId": 60246,
+        "optionDtos": [{
+            "wordOptionId": 117905,
+            "wordOptionDesc": "抱着；承担，担负",
+            "isRight": 1,
+            "wordId": 60246
+        }],
+        "wordDesc": "（かかえる）⓪【他动2】抱着；承担，担负",
+        "correctDesc": "抱着；承担，担负",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "じめじめ ",
+        "wordId": 60247,
+        "optionDtos": [{
+            "wordOptionId": 117906,
+            "wordOptionDesc": "潮湿，湿润；阴郁，忧郁",
+            "isRight": 1,
+            "wordId": 60247
+        }],
+        "wordDesc": "①【副·自动3】潮湿，湿润；阴郁，忧郁",
+        "correctDesc": "潮湿，湿润；阴郁，忧郁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "書き込む",
+        "wordId": 60248,
+        "optionDtos": [{
+            "wordOptionId": 117907,
+            "wordOptionDesc": "写上，填写",
+            "isRight": 1,
+            "wordId": 60248
+        }],
+        "wordDesc": "（かきこむ）③【他动1】写上，填写",
+        "correctDesc": "写上，填写",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "書き留める",
+        "wordId": 60249,
+        "optionDtos": [{
+            "wordOptionId": 117908,
+            "wordOptionDesc": "记下来，写下来",
+            "isRight": 1,
+            "wordId": 60249
+        }],
+        "wordDesc": "（かきとめる）④【他动2】记下来，写下来",
+        "correctDesc": "记下来，写下来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "限りない",
+        "wordId": 60250,
+        "optionDtos": [{
+            "wordOptionId": 117909,
+            "wordOptionDesc": "无限的，无止境的；无比的，极大的",
+            "isRight": 1,
+            "wordId": 60250
+        }],
+        "wordDesc": "（かぎりない）④【イ形】无限的，无止境的；无比的，极大的",
+        "correctDesc": "无限的，无止境的；无比的，极大的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "思いつく",
+        "wordId": 60251,
+        "optionDtos": [{
+            "wordOptionId": 117910,
+            "wordOptionDesc": "（忽然）想出，想起，想到",
+            "isRight": 1,
+            "wordId": 60251
+        }],
+        "wordDesc": "（おもいつく）④【他动1】（忽然）想出，想起，想到",
+        "correctDesc": "（忽然）想出，想起，想到",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "薄める",
+        "wordId": 60252,
+        "optionDtos": [{
+            "wordOptionId": 117911,
+            "wordOptionDesc": "稀释，冲淡",
+            "isRight": 1,
+            "wordId": 60252
+        }],
+        "wordDesc": "（うすめる）⓪【他动2】稀释，冲淡",
+        "correctDesc": "稀释，冲淡",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "課税",
+        "wordId": 60253,
+        "optionDtos": [{
+            "wordOptionId": 117912,
+            "wordOptionDesc": "课税，征税",
+            "isRight": 1,
+            "wordId": 60253
+        }],
+        "wordDesc": "（かぜい）⓪【名·自动3】课税，征税",
+        "correctDesc": "课税，征税",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "生み出す",
+        "wordId": 60254,
+        "optionDtos": [{
+            "wordOptionId": 117913,
+            "wordOptionDesc": "产出，生出；创作出",
+            "isRight": 1,
+            "wordId": 60254
+        }],
+        "wordDesc": "（うみだす）③【他动1】产出，生出；创作出",
+        "correctDesc": "产出，生出；创作出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "沿海",
+        "wordId": 60255,
+        "optionDtos": [{
+            "wordOptionId": 117914,
+            "wordOptionDesc": "沿海",
+            "isRight": 1,
+            "wordId": 60255
+        }],
+        "wordDesc": "（えんかい）⓪【名】沿海",
+        "correctDesc": "沿海",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "会談",
+        "wordId": 60256,
+        "optionDtos": [{
+            "wordOptionId": 117915,
+            "wordOptionDesc": "会谈，面谈",
+            "isRight": 1,
+            "wordId": 60256
+        }],
+        "wordDesc": "（かいだん）⓪【名·自动3】会谈，面谈",
+        "correctDesc": "会谈，面谈",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "べたべた ",
+        "wordId": 60257,
+        "optionDtos": [{
+            "wordOptionId": 117916,
+            "wordOptionDesc": "黏糊糊；厚厚地涂抹；缠人",
+            "isRight": 1,
+            "wordId": 60257
+        }],
+        "wordDesc": "①【副·自动3】黏糊糊；厚厚地涂抹；缠人",
+        "correctDesc": "黏糊糊；厚厚地涂抹；缠人",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "回答",
+        "wordId": 60258,
+        "optionDtos": [{
+            "wordOptionId": 117917,
+            "wordOptionDesc": "回答，回复，答复",
+            "isRight": 1,
+            "wordId": 60258
+        }],
+        "wordDesc": "（かいとう）⓪【名·自动3】回答，回复，答复",
+        "correctDesc": "回答，回复，答复",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "思いもよらない",
+        "wordId": 60259,
+        "optionDtos": [{
+            "wordOptionId": 117918,
+            "wordOptionDesc": "出乎意料，万万没想到",
+            "isRight": 1,
+            "wordId": 60259
+        }],
+        "wordDesc": "（おもいもよらない）②【连语】出乎意料，万万没想到",
+        "correctDesc": "出乎意料，万万没想到",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "片一方",
+        "wordId": 60260,
+        "optionDtos": [{
+            "wordOptionId": 117919,
+            "wordOptionDesc": "（两个中的）一个；（一对中的）一只；（两方当中的）一方",
+            "isRight": 1,
+            "wordId": 60260
+        }],
+        "wordDesc": "（かたいっぽう）③【名】（两个中的）一个；（一对中的）一只；（两方当中的）一方",
+        "correctDesc": "（两个中的）一个；（一对中的）一只；（两方当中的）一方",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "鉱物",
+        "wordId": 60261,
+        "optionDtos": [{
+            "wordOptionId": 117920,
+            "wordOptionDesc": "矿物",
+            "isRight": 1,
+            "wordId": 60261
+        }],
+        "wordDesc": "（こうぶつ）①【名】矿物",
+        "correctDesc": "矿物",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "重んじる",
+        "wordId": 60262,
+        "optionDtos": [{
+            "wordOptionId": 117921,
+            "wordOptionDesc": "重视；尊重，器重",
+            "isRight": 1,
+            "wordId": 60262
+        }],
+        "wordDesc": "（おもんじる）④【他动2】重视；尊重，器重",
+        "correctDesc": "重视；尊重，器重",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "害",
+        "wordId": 60263,
+        "optionDtos": [{
+            "wordOptionId": 117922,
+            "wordOptionDesc": "损害；害，害处",
+            "isRight": 1,
+            "wordId": 60263
+        }],
+        "wordDesc": "（がい）①【名】损害；害，害处",
+        "correctDesc": "损害；害，害处",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "語学",
+        "wordId": 60264,
+        "optionDtos": [{
+            "wordOptionId": 117923,
+            "wordOptionDesc": "外语学习；语言学",
+            "isRight": 1,
+            "wordId": 60264
+        }],
+        "wordDesc": "（ごがく）①【名】外语学习；语言学",
+        "correctDesc": "外语学习；语言学",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "買い入れる",
+        "wordId": 60265,
+        "optionDtos": [{
+            "wordOptionId": 117924,
+            "wordOptionDesc": "买进，收购，采购",
+            "isRight": 1,
+            "wordId": 60265
+        }],
+        "wordDesc": "（かいいれる）④【他动2】买进，收购，采购",
+        "correctDesc": "买进，收购，采购",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "国王",
+        "wordId": 60266,
+        "optionDtos": [{
+            "wordOptionId": 117925,
+            "wordOptionDesc": "国王",
+            "isRight": 1,
+            "wordId": 60266
+        }],
+        "wordDesc": "（こくおう）③【名】国王",
+        "correctDesc": "国王",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "改革",
+        "wordId": 60267,
+        "optionDtos": [{
+            "wordOptionId": 117926,
+            "wordOptionDesc": "改革，革新",
+            "isRight": 1,
+            "wordId": 60267
+        }],
+        "wordDesc": "（かいかく）⓪【名·他动3】改革，革新",
+        "correctDesc": "改革，革新",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "衛生",
+        "wordId": 60268,
+        "optionDtos": [{
+            "wordOptionId": 117927,
+            "wordOptionDesc": "卫生",
+            "isRight": 1,
+            "wordId": 60268
+        }],
+        "wordDesc": "（えいせい）⓪【名】卫生",
+        "correctDesc": "卫生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "開館",
+        "wordId": 60269,
+        "optionDtos": [{
+            "wordOptionId": 117928,
+            "wordOptionDesc": "开馆，开门；建馆",
+            "isRight": 1,
+            "wordId": 60269
+        }],
+        "wordDesc": "（かいかん）⓪【名·自动3】开馆，开门；建馆",
+        "correctDesc": "开馆，开门；建馆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "及ぼす",
+        "wordId": 60270,
+        "optionDtos": [{
+            "wordOptionId": 117929,
+            "wordOptionDesc": "波及，牵涉，影响到",
+            "isRight": 1,
+            "wordId": 60270
+        }],
+        "wordDesc": "（およぼす）③【他动1】波及，牵涉，影响到",
+        "correctDesc": "波及，牵涉，影响到",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "温暖",
+        "wordId": 60271,
+        "optionDtos": [{
+            "wordOptionId": 117930,
+            "wordOptionDesc": "温暖",
+            "isRight": 1,
+            "wordId": 60271
+        }],
+        "wordDesc": "（おんだん）⓪【名·ナ形】温暖",
+        "correctDesc": "温暖",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "回収",
+        "wordId": 60272,
+        "optionDtos": [{
+            "wordOptionId": 117931,
+            "wordOptionDesc": "回收，收回",
+            "isRight": 1,
+            "wordId": 60272
+        }],
+        "wordDesc": "（かいしゅう）⓪【名·他动3】回收，收回",
+        "correctDesc": "回收，收回",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "公務",
+        "wordId": 60273,
+        "optionDtos": [{
+            "wordOptionId": 117932,
+            "wordOptionDesc": "公务，公事",
+            "isRight": 1,
+            "wordId": 60273
+        }],
+        "wordDesc": "（こうむ）①【名】公务，公事",
+        "correctDesc": "公务，公事",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "改正",
+        "wordId": 60274,
+        "optionDtos": [{
+            "wordOptionId": 117933,
+            "wordOptionDesc": "改正；修改",
+            "isRight": 1,
+            "wordId": 60274
+        }],
+        "wordDesc": "（かいせい）⓪【名·他动3】改正；修改",
+        "correctDesc": "改正；修改",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "なにもかも ",
+        "wordId": 60275,
+        "optionDtos": [{
+            "wordOptionId": 117934,
+            "wordOptionDesc": "全部，一切",
+            "isRight": 1,
+            "wordId": 60275
+        }],
+        "wordDesc": "①【连语】全部，一切",
+        "correctDesc": "全部，一切",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "生臭い",
+        "wordId": 60276,
+        "optionDtos": [{
+            "wordOptionId": 117935,
+            "wordOptionDesc": "腥的；血腥的",
+            "isRight": 1,
+            "wordId": 60276
+        }],
+        "wordDesc": "（なまぐさい）④【イ形】腥的；血腥的",
+        "correctDesc": "腥的；血腥的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "改造",
+        "wordId": 60277,
+        "optionDtos": [{
+            "wordOptionId": 117936,
+            "wordOptionDesc": "改造，改建",
+            "isRight": 1,
+            "wordId": 60277
+        }],
+        "wordDesc": "（かいぞう）⓪【名·他动3】改造，改建",
+        "correctDesc": "改造，改建",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "音読み",
+        "wordId": 60278,
+        "optionDtos": [{
+            "wordOptionId": 117937,
+            "wordOptionDesc": "音读",
+            "isRight": 1,
+            "wordId": 60278
+        }],
+        "wordDesc": "（おんよみ）⓪【名·他动3】音读",
+        "correctDesc": "音读",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "音量",
+        "wordId": 60279,
+        "optionDtos": [{
+            "wordOptionId": 117938,
+            "wordOptionDesc": "音量",
+            "isRight": 1,
+            "wordId": 60279
+        }],
+        "wordDesc": "（おんりょう）⓪【名】音量",
+        "correctDesc": "音量",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "解雇",
+        "wordId": 60280,
+        "optionDtos": [{
+            "wordOptionId": 117939,
+            "wordOptionDesc": "解雇",
+            "isRight": 1,
+            "wordId": 60280
+        }],
+        "wordDesc": "（かいこ）①【名·他动3】解雇",
+        "correctDesc": "解雇",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "映像",
+        "wordId": 60281,
+        "optionDtos": [{
+            "wordOptionId": 117940,
+            "wordOptionDesc": "影像；形象，印象",
+            "isRight": 1,
+            "wordId": 60281
+        }],
+        "wordDesc": "（えいぞう）⓪【名】影像；形象，印象",
+        "correctDesc": "影像；形象，印象",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "思う存分",
+        "wordId": 60282,
+        "optionDtos": [{
+            "wordOptionId": 117941,
+            "wordOptionDesc": "尽情地，痛快地",
+            "isRight": 1,
+            "wordId": 60282
+        }],
+        "wordDesc": "（おもうぞんぶん）②【副】尽情地，痛快地",
+        "correctDesc": "尽情地，痛快地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "外交",
+        "wordId": 60283,
+        "optionDtos": [{
+            "wordOptionId": 117942,
+            "wordOptionDesc": "外交",
+            "isRight": 1,
+            "wordId": 60283
+        }],
+        "wordDesc": "（がいこう）⓪【名】外交",
+        "correctDesc": "外交",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "絵本",
+        "wordId": 60284,
+        "optionDtos": [{
+            "wordOptionId": 117943,
+            "wordOptionDesc": "绘本，图画书",
+            "isRight": 1,
+            "wordId": 60284
+        }],
+        "wordDesc": "（えほん）②【名】绘本，图画书",
+        "correctDesc": "绘本，图画书",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "刀",
+        "wordId": 60285,
+        "optionDtos": [{
+            "wordOptionId": 117944,
+            "wordOptionDesc": "刀，大刀",
+            "isRight": 1,
+            "wordId": 60285
+        }],
+        "wordDesc": "（かたな）③【名】刀，大刀",
+        "correctDesc": "刀，大刀",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "取り組む",
+        "wordId": 60286,
+        "optionDtos": [{
+            "wordOptionId": 117945,
+            "wordOptionDesc": "埋头苦干；和……比赛",
+            "isRight": 1,
+            "wordId": 60286
+        }],
+        "wordDesc": "（とりくむ）③【自动1】埋头苦干；和……比赛",
+        "correctDesc": "埋头苦干；和……比赛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "名付ける",
+        "wordId": 60287,
+        "optionDtos": [{
+            "wordOptionId": 117946,
+            "wordOptionDesc": "命名，起名",
+            "isRight": 1,
+            "wordId": 60287
+        }],
+        "wordDesc": "（なづける）③【他动2】命名，起名",
+        "correctDesc": "命名，起名",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "悪寒",
+        "wordId": 60288,
+        "optionDtos": [{
+            "wordOptionId": 117947,
+            "wordOptionDesc": "发冷，恶寒",
+            "isRight": 1,
+            "wordId": 60288
+        }],
+        "wordDesc": "（おかん）⓪【名】发冷，恶寒",
+        "correctDesc": "发冷，恶寒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "取り締まる",
+        "wordId": 60289,
+        "optionDtos": [{
+            "wordOptionId": 117948,
+            "wordOptionDesc": "监督，管理，取缔",
+            "isRight": 1,
+            "wordId": 60289
+        }],
+        "wordDesc": "（とりしまる）④【他动1】监督，管理，取缔",
+        "correctDesc": "监督，管理，取缔",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "課題",
+        "wordId": 60290,
+        "optionDtos": [{
+            "wordOptionId": 117949,
+            "wordOptionDesc": "（提出的）题目，课题，任务",
+            "isRight": 1,
+            "wordId": 60290
+        }],
+        "wordDesc": "（かだい）⓪【名】（提出的）题目，课题，任务",
+        "correctDesc": "（提出的）题目，课题，任务",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "取り戻す",
+        "wordId": 60291,
+        "optionDtos": [{
+            "wordOptionId": 117950,
+            "wordOptionDesc": "取回，拿回，收回；挽回，恢复",
+            "isRight": 1,
+            "wordId": 60291
+        }],
+        "wordDesc": "（とりもどす）④【他动1】取回，拿回，收回；挽回，恢复",
+        "correctDesc": "取回，拿回，收回；挽回，恢复",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "成し遂げる",
+        "wordId": 60292,
+        "optionDtos": [{
+            "wordOptionId": 117951,
+            "wordOptionDesc": "完成，做完",
+            "isRight": 1,
+            "wordId": 60292
+        }],
+        "wordDesc": "（なしとげる）④【他动2】完成，做完",
+        "correctDesc": "完成，做完",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "成す",
+        "wordId": 60293,
+        "optionDtos": [{
+            "wordOptionId": 117952,
+            "wordOptionDesc": "形成，构成；完成，达到目的",
+            "isRight": 1,
+            "wordId": 60293
+        }],
+        "wordDesc": "（なす）①【他动1】形成，构成；完成，达到目的",
+        "correctDesc": "形成，构成；完成，达到目的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "採る",
+        "wordId": 60294,
+        "optionDtos": [{
+            "wordOptionId": 117953,
+            "wordOptionDesc": "采用，录用，招收，招生",
+            "isRight": 1,
+            "wordId": 60294
+        }],
+        "wordDesc": "（とる）①【他动1】采用，录用，招收，招生",
+        "correctDesc": "采用，录用，招收，招生",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "とんでもない ",
+        "wordId": 60295,
+        "optionDtos": [{
+            "wordOptionId": 117954,
+            "wordOptionDesc": "令人意外的；岂有此理的；不客气，不用谢 ",
+            "isRight": 1,
+            "wordId": 60295
+        }],
+        "wordDesc": "⑤【イ形】令人意外的；岂有此理的；不客气，不用谢 ",
+        "correctDesc": "令人意外的；岂有此理的；不客气，不用谢 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "推測",
+        "wordId": 60296,
+        "optionDtos": [{
+            "wordOptionId": 117955,
+            "wordOptionDesc": "推测，猜测",
+            "isRight": 1,
+            "wordId": 60296
+        }],
+        "wordDesc": "（すいそく）⓪【名·他动3】推测，猜测",
+        "correctDesc": "推测，猜测",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "亡くす",
+        "wordId": 60297,
+        "optionDtos": [{
+            "wordOptionId": 117956,
+            "wordOptionDesc": "丧失，死去",
+            "isRight": 1,
+            "wordId": 60297
+        }],
+        "wordDesc": "（なくす）⓪【他动1】丧失，死去",
+        "correctDesc": "丧失，死去",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "下線",
+        "wordId": 60298,
+        "optionDtos": [{
+            "wordOptionId": 117957,
+            "wordOptionDesc": "下画线",
+            "isRight": 1,
+            "wordId": 60298
+        }],
+        "wordDesc": "（かせん）⓪【名】下画线",
+        "correctDesc": "下画线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "型",
+        "wordId": 60299,
+        "optionDtos": [{
+            "wordOptionId": 117958,
+            "wordOptionDesc": "模型；类型，样式；惯例",
+            "isRight": 1,
+            "wordId": 60299
+        }],
+        "wordDesc": "（かた）②【名】模型；类型，样式；惯例",
+        "correctDesc": "模型；类型，样式；惯例",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "くどくど ",
+        "wordId": 60300,
+        "optionDtos": [{
+            "wordOptionId": 117959,
+            "wordOptionDesc": "没完没了，絮叨，啰唆",
+            "isRight": 1,
+            "wordId": 60300
+        }],
+        "wordDesc": "①【副】没完没了，絮叨，啰唆",
+        "correctDesc": "没完没了，絮叨，啰唆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "水滴",
+        "wordId": 60301,
+        "optionDtos": [{
+            "wordOptionId": 117960,
+            "wordOptionDesc": "水滴",
+            "isRight": 1,
+            "wordId": 60301
+        }],
+        "wordDesc": "（すいてき）⓪【名】水滴",
+        "correctDesc": "水滴",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "情けない",
+        "wordId": 60302,
+        "optionDtos": [{
+            "wordOptionId": 117961,
+            "wordOptionDesc": "无情的；可怜的；可耻的",
+            "isRight": 1,
+            "wordId": 60302
+        }],
+        "wordDesc": "（なさけない）④【イ形】无情的；可怜的；可耻的",
+        "correctDesc": "无情的；可怜的；可耻的",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "水素",
+        "wordId": 60303,
+        "optionDtos": [{
+            "wordOptionId": 117962,
+            "wordOptionDesc": "氢",
+            "isRight": 1,
+            "wordId": 60303
+        }],
+        "wordDesc": "（すいそ）①【名】氢",
+        "correctDesc": "氢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "嗜む",
+        "wordId": 60304,
+        "optionDtos": [{
+            "wordOptionId": 117963,
+            "wordOptionDesc": "爱好，嗜好；谨慎；熟悉",
+            "isRight": 1,
+            "wordId": 60304
+        }],
+        "wordDesc": "（たしなむ）③【他动1】爱好，嗜好；谨慎；熟悉",
+        "correctDesc": "爱好，嗜好；谨慎；熟悉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "水平",
+        "wordId": 60305,
+        "optionDtos": [{
+            "wordOptionId": 117964,
+            "wordOptionDesc": "水平方向；平稳",
+            "isRight": 1,
+            "wordId": 60305
+        }],
+        "wordDesc": "（すいへい）⓪【名】水平方向；平稳",
+        "correctDesc": "水平方向；平稳",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "拝眉",
+        "wordId": 60306,
+        "optionDtos": [{
+            "wordOptionId": 117965,
+            "wordOptionDesc": "拜谒，拜见",
+            "isRight": 1,
+            "wordId": 60306
+        }],
+        "wordDesc": "（はいび）①【名·自动3】拜谒，拜见",
+        "correctDesc": "拜谒，拜见",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "参議院",
+        "wordId": 60307,
+        "optionDtos": [{
+            "wordOptionId": 117966,
+            "wordOptionDesc": "参议院 ",
+            "isRight": 1,
+            "wordId": 60307
+        }],
+        "wordDesc": "（さんぎいん）③【名】参议院 ",
+        "correctDesc": "参议院 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "講師",
+        "wordId": 60308,
+        "optionDtos": [{
+            "wordOptionId": 117967,
+            "wordOptionDesc": "讲师；演讲者",
+            "isRight": 1,
+            "wordId": 60308
+        }],
+        "wordDesc": "（こうし）①【名】讲师；演讲者",
+        "correctDesc": "讲师；演讲者",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "かじる ",
+        "wordId": 60309,
+        "optionDtos": [{
+            "wordOptionId": 117968,
+            "wordOptionDesc": "咬；一知半解，稍微懂得一点",
+            "isRight": 1,
+            "wordId": 60309
+        }],
+        "wordDesc": "②【他动1】咬；一知半解，稍微懂得一点",
+        "correctDesc": "咬；一知半解，稍微懂得一点",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "生返事",
+        "wordId": 60310,
+        "optionDtos": [{
+            "wordOptionId": 117969,
+            "wordOptionDesc": "含糊的回答，支支吾吾",
+            "isRight": 1,
+            "wordId": 60310
+        }],
+        "wordDesc": "（なまへんじ）③【名·自动3】含糊的回答，支支吾吾",
+        "correctDesc": "含糊的回答，支支吾吾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "並",
+        "wordId": 60311,
+        "optionDtos": [{
+            "wordOptionId": 117970,
+            "wordOptionDesc": "普通，一般，中等程度；与……同样的程度",
+            "isRight": 1,
+            "wordId": 60311
+        }],
+        "wordDesc": "（なみ）⓪【名·接尾】普通，一般，中等程度；与……同样的程度",
+        "correctDesc": "普通，一般，中等程度；与……同样的程度",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "成り立つ",
+        "wordId": 60312,
+        "optionDtos": [{
+            "wordOptionId": 117971,
+            "wordOptionDesc": "成立，谈妥；构成；划得来",
+            "isRight": 1,
+            "wordId": 60312
+        }],
+        "wordDesc": "（なりたつ）③【自动1】成立，谈妥；构成；划得来",
+        "correctDesc": "成立，谈妥；构成；划得来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "成る",
+        "wordId": 60313,
+        "optionDtos": [{
+            "wordOptionId": 117972,
+            "wordOptionDesc": "做完，完成；成，成功；构成",
+            "isRight": 1,
+            "wordId": 60313
+        }],
+        "wordDesc": "（なる）①【自动1】做完，完成；成，成功；构成",
+        "correctDesc": "做完，完成；成，成功；构成",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "馴れる",
+        "wordId": 60314,
+        "optionDtos": [{
+            "wordOptionId": 117973,
+            "wordOptionDesc": "（动物）驯熟；（人）亲近，混熟",
+            "isRight": 1,
+            "wordId": 60314
+        }],
+        "wordDesc": "（なれる）②【自动2】（动物）驯熟；（人）亲近，混熟",
+        "correctDesc": "（动物）驯熟；（人）亲近，混熟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "きょろきょろ ",
+        "wordId": 60315,
+        "optionDtos": [{
+            "wordOptionId": 117974,
+            "wordOptionDesc": "东张西望",
+            "isRight": 1,
+            "wordId": 60315
+        }],
+        "wordDesc": "①【副·自动3】东张西望",
+        "correctDesc": "东张西望",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "小売",
+        "wordId": 60316,
+        "optionDtos": [{
+            "wordOptionId": 117975,
+            "wordOptionDesc": "零售",
+            "isRight": 1,
+            "wordId": 60316
+        }],
+        "wordDesc": "（こうり）⓪【名·他动3】零售",
+        "correctDesc": "零售",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "合理",
+        "wordId": 60317,
+        "optionDtos": [{
+            "wordOptionId": 117976,
+            "wordOptionDesc": "合理",
+            "isRight": 1,
+            "wordId": 60317
+        }],
+        "wordDesc": "（ごうり）①【名】合理",
+        "correctDesc": "合理",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "取り上げる",
+        "wordId": 60318,
+        "optionDtos": [{
+            "wordOptionId": 117977,
+            "wordOptionDesc": "拿起；没收，吊销；采纳；提出，提起",
+            "isRight": 1,
+            "wordId": 60318
+        }],
+        "wordDesc": "（とりあげる）⓪【他动2】拿起；没收，吊销；采纳；提出，提起",
+        "correctDesc": "拿起；没收，吊销；采纳；提出，提起",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "悩ます",
+        "wordId": 60319,
+        "optionDtos": [{
+            "wordOptionId": 117978,
+            "wordOptionDesc": "使苦恼，使为难",
+            "isRight": 1,
+            "wordId": 60319
+        }],
+        "wordDesc": "（なやます）③【他动1】使苦恼，使为难",
+        "correctDesc": "使苦恼，使为难",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "倣う",
+        "wordId": 60320,
+        "optionDtos": [{
+            "wordOptionId": 117979,
+            "wordOptionDesc": "模仿，仿效",
+            "isRight": 1,
+            "wordId": 60320
+        }],
+        "wordDesc": "（ならう）②【他动1】模仿，仿效",
+        "correctDesc": "模仿，仿效",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "鳴らす",
+        "wordId": 60321,
+        "optionDtos": [{
+            "wordOptionId": 117980,
+            "wordOptionDesc": "使发出声响；出名",
+            "isRight": 1,
+            "wordId": 60321
+        }],
+        "wordDesc": "（ならす）⓪【他动1】使发出声响；出名",
+        "correctDesc": "使发出声响；出名",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "縄",
+        "wordId": 60322,
+        "optionDtos": [{
+            "wordOptionId": 117981,
+            "wordOptionDesc": "绳子",
+            "isRight": 1,
+            "wordId": 60322
+        }],
+        "wordDesc": "（なわ）②【名】绳子",
+        "correctDesc": "绳子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "長続き",
+        "wordId": 60323,
+        "optionDtos": [{
+            "wordOptionId": 117982,
+            "wordOptionDesc": "长久保持，持久",
+            "isRight": 1,
+            "wordId": 60323
+        }],
+        "wordDesc": "（ながつづき）③【名·自动3】长久保持，持久",
+        "correctDesc": "长久保持，持久",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "何にも",
+        "wordId": 60324,
+        "optionDtos": [{
+            "wordOptionId": 117983,
+            "wordOptionDesc": "（后接否定）什么也；一点儿也",
+            "isRight": 1,
+            "wordId": 60324
+        }],
+        "wordDesc": "（なんにも）⓪【副】（后接否定）什么也；一点儿也",
+        "correctDesc": "（后接否定）什么也；一点儿也",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "入場",
+        "wordId": 60325,
+        "optionDtos": [{
+            "wordOptionId": 117984,
+            "wordOptionDesc": "入场",
+            "isRight": 1,
+            "wordId": 60325
+        }],
+        "wordDesc": "（にゅうじょう）⓪【名·自动3】入场",
+        "correctDesc": "入场",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "にわか ",
+        "wordId": 60326,
+        "optionDtos": [{
+            "wordOptionId": 117985,
+            "wordOptionDesc": "突然；马上；临时，暂时",
+            "isRight": 1,
+            "wordId": 60326
+        }],
+        "wordDesc": "①【名·ナ形】突然；马上；临时，暂时",
+        "correctDesc": "突然；马上；临时，暂时",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "身近",
+        "wordId": 60327,
+        "optionDtos": [{
+            "wordOptionId": 117986,
+            "wordOptionDesc": "身边；切身",
+            "isRight": 1,
+            "wordId": 60327
+        }],
+        "wordDesc": "（みぢか）⓪【名·ナ形】身边；切身",
+        "correctDesc": "身边；切身",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "穀物",
+        "wordId": 60328,
+        "optionDtos": [{
+            "wordOptionId": 117987,
+            "wordOptionDesc": "谷物，粮食",
+            "isRight": 1,
+            "wordId": 60328
+        }],
+        "wordDesc": "（こくもつ）②【名】谷物，粮食",
+        "correctDesc": "谷物，粮食",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "飲食",
+        "wordId": 60329,
+        "optionDtos": [{
+            "wordOptionId": 117988,
+            "wordOptionDesc": "饮食",
+            "isRight": 1,
+            "wordId": 60329
+        }],
+        "wordDesc": "（いんしょく）①【名·自动3】饮食",
+        "correctDesc": "饮食",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "語源",
+        "wordId": 60330,
+        "optionDtos": [{
+            "wordOptionId": 117989,
+            "wordOptionDesc": "语源，词源",
+            "isRight": 1,
+            "wordId": 60330
+        }],
+        "wordDesc": "（ごげん）⓪【名】语源，词源",
+        "correctDesc": "语源，词源",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見違える",
+        "wordId": 60331,
+        "optionDtos": [{
+            "wordOptionId": 117990,
+            "wordOptionDesc": "看错；认不出来",
+            "isRight": 1,
+            "wordId": 60331
+        }],
+        "wordDesc": "（みちがえる）⓪【他动2】看错；认不出来",
+        "correctDesc": "看错；认不出来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "下座",
+        "wordId": 60332,
+        "optionDtos": [{
+            "wordOptionId": 117991,
+            "wordOptionDesc": "下座，末座；跪拜礼",
+            "isRight": 1,
+            "wordId": 60332
+        }],
+        "wordDesc": "（げざ）①【名·自动3】下座，末座；跪拜礼",
+        "correctDesc": "下座，末座；跪拜礼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "擦り合い",
+        "wordId": 60333,
+        "optionDtos": [{
+            "wordOptionId": 117992,
+            "wordOptionDesc": "互相推诿",
+            "isRight": 1,
+            "wordId": 60333
+        }],
+        "wordDesc": "（なすりあい）⓪【名】互相推诿",
+        "correctDesc": "互相推诿",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "擁護",
+        "wordId": 60334,
+        "optionDtos": [{
+            "wordOptionId": 117993,
+            "wordOptionDesc": "拥护，维护",
+            "isRight": 1,
+            "wordId": 60334
+        }],
+        "wordDesc": "（ようご）①【名·他动3】拥护，维护",
+        "correctDesc": "拥护，维护",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "内臓",
+        "wordId": 60335,
+        "optionDtos": [{
+            "wordOptionId": 117994,
+            "wordOptionDesc": "内脏",
+            "isRight": 1,
+            "wordId": 60335
+        }],
+        "wordDesc": "（ないぞう）⓪【名】内脏",
+        "correctDesc": "内脏",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "寄越す",
+        "wordId": 60336,
+        "optionDtos": [{
+            "wordOptionId": 117995,
+            "wordOptionDesc": "寄来，送来；递给，交给",
+            "isRight": 1,
+            "wordId": 60336
+        }],
+        "wordDesc": "（よこす）②【他动1】寄来，送来；递给，交给",
+        "correctDesc": "寄来，送来；递给，交给",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "止す",
+        "wordId": 60337,
+        "optionDtos": [{
+            "wordOptionId": 117996,
+            "wordOptionDesc": "停止，作罢；戒掉",
+            "isRight": 1,
+            "wordId": 60337
+        }],
+        "wordDesc": "（よす）①【他动1】停止，作罢；戒掉",
+        "correctDesc": "停止，作罢；戒掉",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "満ちる",
+        "wordId": 60338,
+        "optionDtos": [{
+            "wordOptionId": 117997,
+            "wordOptionDesc": "满，充满；到期，期满",
+            "isRight": 1,
+            "wordId": 60338
+        }],
+        "wordDesc": "（みちる）②【自动2】满，充满；到期，期满",
+        "correctDesc": "满，充满；到期，期满",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "蜜",
+        "wordId": 60339,
+        "optionDtos": [{
+            "wordOptionId": 117998,
+            "wordOptionDesc": "蜂蜜；花蜜；糖水",
+            "isRight": 1,
+            "wordId": 60339
+        }],
+        "wordDesc": "（みつ）①【名】蜂蜜；花蜜；糖水",
+        "correctDesc": "蜂蜜；花蜜；糖水",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "回覧",
+        "wordId": 60340,
+        "optionDtos": [{
+            "wordOptionId": 117999,
+            "wordOptionDesc": "传阅，传看",
+            "isRight": 1,
+            "wordId": 60340
+        }],
+        "wordDesc": "（かいらん）⓪【名·他动3】传阅，传看",
+        "correctDesc": "传阅，传看",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見積もり",
+        "wordId": 60341,
+        "optionDtos": [{
+            "wordOptionId": 118000,
+            "wordOptionDesc": "估算，估价",
+            "isRight": 1,
+            "wordId": 60341
+        }],
+        "wordDesc": "（みつもり）⓪【名】估算，估价",
+        "correctDesc": "估算，估价",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "読み返す",
+        "wordId": 60342,
+        "optionDtos": [{
+            "wordOptionId": 118001,
+            "wordOptionDesc": "重新读，重新看，反复读",
+            "isRight": 1,
+            "wordId": 60342
+        }],
+        "wordDesc": "（よみかえす）③【他动1】重新读，重新看，反复读",
+        "correctDesc": "重新读，重新看，反复读",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ライブ",
+        "wordId": 60343,
+        "optionDtos": [{
+            "wordOptionId": 118002,
+            "wordOptionDesc": "直播，实况播出",
+            "isRight": 1,
+            "wordId": 60343
+        }],
+        "wordDesc": "（live）①【名】直播，实况播出",
+        "correctDesc": "直播，实况播出",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ライフサイエンス",
+        "wordId": 60344,
+        "optionDtos": [{
+            "wordOptionId": 118003,
+            "wordOptionDesc": "生命科学",
+            "isRight": 1,
+            "wordId": 60344
+        }],
+        "wordDesc": "（life science）④【名】生命科学",
+        "correctDesc": "生命科学",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "裏口",
+        "wordId": 60345,
+        "optionDtos": [{
+            "wordOptionId": 118004,
+            "wordOptionDesc": "后门；小道，走后门",
+            "isRight": 1,
+            "wordId": 60345
+        }],
+        "wordDesc": "（うらぐち）⓪【名】后门；小道，走后门",
+        "correctDesc": "后门；小道，走后门",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ラスト",
+        "wordId": 60346,
+        "optionDtos": [{
+            "wordOptionId": 118005,
+            "wordOptionDesc": "最后，末尾",
+            "isRight": 1,
+            "wordId": 60346
+        }],
+        "wordDesc": "（last）①【名】最后，末尾",
+        "correctDesc": "最后，末尾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "レジュメ ",
+        "wordId": 60347,
+        "optionDtos": [{
+            "wordOptionId": 118006,
+            "wordOptionDesc": "摘要，梗概，总结",
+            "isRight": 1,
+            "wordId": 60347
+        }],
+        "wordDesc": "⓪【名】摘要，梗概，总结",
+        "correctDesc": "摘要，梗概，总结",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "効力",
+        "wordId": 60348,
+        "optionDtos": [{
+            "wordOptionId": 118007,
+            "wordOptionDesc": "效力，效果",
+            "isRight": 1,
+            "wordId": 60348
+        }],
+        "wordDesc": "（こうりょく）①【名】效力，效果",
+        "correctDesc": "效力，效果",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "言わば",
+        "wordId": 60349,
+        "optionDtos": [{
+            "wordOptionId": 118008,
+            "wordOptionDesc": "说起来，可以说；比如说",
+            "isRight": 1,
+            "wordId": 60349
+        }],
+        "wordDesc": "（いわば）①【副】说起来，可以说；比如说",
+        "correctDesc": "说起来，可以说；比如说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "高齢化",
+        "wordId": 60350,
+        "optionDtos": [{
+            "wordOptionId": 118009,
+            "wordOptionDesc": "老龄化",
+            "isRight": 1,
+            "wordId": 60350
+        }],
+        "wordDesc": "（こうれいか）⓪【名·自动3】老龄化",
+        "correctDesc": "老龄化",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "レッテル ",
+        "wordId": 60351,
+        "optionDtos": [{
+            "wordOptionId": 118010,
+            "wordOptionDesc": "商标，标签",
+            "isRight": 1,
+            "wordId": 60351
+        }],
+        "wordDesc": "⓪【名】商标，标签",
+        "correctDesc": "商标，标签",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "レントゲン ",
+        "wordId": 60352,
+        "optionDtos": [{
+            "wordOptionId": 118011,
+            "wordOptionDesc": "X光线，伦琴射线",
+            "isRight": 1,
+            "wordId": 60352
+        }],
+        "wordDesc": "⓪【名】X光线，伦琴射线",
+        "correctDesc": "X光线，伦琴射线",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見慣れる",
+        "wordId": 60353,
+        "optionDtos": [{
+            "wordOptionId": 118012,
+            "wordOptionDesc": "司空见惯，眼熟",
+            "isRight": 1,
+            "wordId": 60353
+        }],
+        "wordDesc": "（みなれる）⓪【自动2】司空见惯，眼熟",
+        "correctDesc": "司空见惯，眼熟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見抜く",
+        "wordId": 60354,
+        "optionDtos": [{
+            "wordOptionId": 118013,
+            "wordOptionDesc": "看穿，看透",
+            "isRight": 1,
+            "wordId": 60354
+        }],
+        "wordDesc": "（みぬく）②【他动1】看穿，看透",
+        "correctDesc": "看穿，看透",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ランク",
+        "wordId": 60355,
+        "optionDtos": [{
+            "wordOptionId": 118014,
+            "wordOptionDesc": "顺序，名次；排序",
+            "isRight": 1,
+            "wordId": 60355
+        }],
+        "wordDesc": "（rank）①【名·他动3】顺序，名次；排序",
+        "correctDesc": "顺序，名次；排序",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "リゾート",
+        "wordId": 60356,
+        "optionDtos": [{
+            "wordOptionId": 118015,
+            "wordOptionDesc": "休养地，度假地",
+            "isRight": 1,
+            "wordId": 60356
+        }],
+        "wordDesc": "（resort）②【名】休养地，度假地",
+        "correctDesc": "休养地，度假地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "身の回り",
+        "wordId": 60357,
+        "optionDtos": [{
+            "wordOptionId": 118016,
+            "wordOptionDesc": "身边的衣物；日常生活",
+            "isRight": 1,
+            "wordId": 60357
+        }],
+        "wordDesc": "（みのまわり）⓪【名】身边的衣物；日常生活",
+        "correctDesc": "身边的衣物；日常生活",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "身振り",
+        "wordId": 60358,
+        "optionDtos": [{
+            "wordOptionId": 118017,
+            "wordOptionDesc": "身体姿势，动作",
+            "isRight": 1,
+            "wordId": 60358
+        }],
+        "wordDesc": "（みぶり）①【名】身体姿势，动作",
+        "correctDesc": "身体姿势，动作",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "羨む",
+        "wordId": 60359,
+        "optionDtos": [{
+            "wordOptionId": 118018,
+            "wordOptionDesc": "羡慕，嫉妒",
+            "isRight": 1,
+            "wordId": 60359
+        }],
+        "wordDesc": "（うらやむ）③【他动1】羡慕，嫉妒",
+        "correctDesc": "羡慕，嫉妒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見守る",
+        "wordId": 60360,
+        "optionDtos": [{
+            "wordOptionId": 118019,
+            "wordOptionDesc": "注视；照顾，照看",
+            "isRight": 1,
+            "wordId": 60360
+        }],
+        "wordDesc": "（みまもる）⓪【他动1】注视；照顾，照看",
+        "correctDesc": "注视；照顾，照看",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "良心",
+        "wordId": 60361,
+        "optionDtos": [{
+            "wordOptionId": 118020,
+            "wordOptionDesc": "良心，本心",
+            "isRight": 1,
+            "wordId": 60361
+        }],
+        "wordDesc": "（りょうしん）①【名】良心，本心",
+        "correctDesc": "良心，本心",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "例年",
+        "wordId": 60362,
+        "optionDtos": [{
+            "wordOptionId": 118021,
+            "wordOptionDesc": "往年，历年，常年",
+            "isRight": 1,
+            "wordId": 60362
+        }],
+        "wordDesc": "（れいねん）⓪【名】往年，历年，常年",
+        "correctDesc": "往年，历年，常年",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見回す",
+        "wordId": 60363,
+        "optionDtos": [{
+            "wordOptionId": 118022,
+            "wordOptionDesc": "环视四周；四下张望",
+            "isRight": 1,
+            "wordId": 60363
+        }],
+        "wordDesc": "（みまわす）⓪【他动1】环视四周；四下张望",
+        "correctDesc": "环视四周；四下张望",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "見回る",
+        "wordId": 60364,
+        "optionDtos": [{
+            "wordOptionId": 118023,
+            "wordOptionDesc": "巡视，巡逻",
+            "isRight": 1,
+            "wordId": 60364
+        }],
+        "wordDesc": "（みまわる）⓪【自动1】巡视，巡逻",
+        "correctDesc": "巡视，巡逻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "未満",
+        "wordId": 60365,
+        "optionDtos": [{
+            "wordOptionId": 118024,
+            "wordOptionDesc": "未满，不满，不足",
+            "isRight": 1,
+            "wordId": 60365
+        }],
+        "wordDesc": "（みまん）①【名】未满，不满，不足",
+        "correctDesc": "未满，不满，不足",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "レシピ",
+        "wordId": 60366,
+        "optionDtos": [{
+            "wordOptionId": 118025,
+            "wordOptionDesc": "食谱，烹饪法",
+            "isRight": 1,
+            "wordId": 60366
+        }],
+        "wordDesc": "（recipe）①【名】食谱，烹饪法",
+        "correctDesc": "食谱，烹饪法",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "老眼",
+        "wordId": 60367,
+        "optionDtos": [{
+            "wordOptionId": 118026,
+            "wordOptionDesc": "老花眼",
+            "isRight": 1,
+            "wordId": 60367
+        }],
+        "wordDesc": "（ろうがん）⓪【名】老花眼",
+        "correctDesc": "老花眼",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "リスト",
+        "wordId": 60368,
+        "optionDtos": [{
+            "wordOptionId": 118027,
+            "wordOptionDesc": "名单；一览表",
+            "isRight": 1,
+            "wordId": 60368
+        }],
+        "wordDesc": "（list）①【名】名单；一览表",
+        "correctDesc": "名单；一览表",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "概論",
+        "wordId": 60369,
+        "optionDtos": [{
+            "wordOptionId": 118028,
+            "wordOptionDesc": "概论，概括",
+            "isRight": 1,
+            "wordId": 60369
+        }],
+        "wordDesc": "（がいろん）⓪【名·自动3】概论，概括",
+        "correctDesc": "概论，概括",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "労組",
+        "wordId": 60370,
+        "optionDtos": [{
+            "wordOptionId": 118029,
+            "wordOptionDesc": "工会",
+            "isRight": 1,
+            "wordId": 60370
+        }],
+        "wordDesc": "（ろうくみ）⓪【名】工会",
+        "correctDesc": "工会",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "内閣",
+        "wordId": 60371,
+        "optionDtos": [{
+            "wordOptionId": 118030,
+            "wordOptionDesc": "内阁",
+            "isRight": 1,
+            "wordId": 60371
+        }],
+        "wordDesc": "（ないかく）①【名】内阁",
+        "correctDesc": "内阁",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "後略",
+        "wordId": 60372,
+        "optionDtos": [{
+            "wordOptionId": 118031,
+            "wordOptionDesc": "省略后文，后略",
+            "isRight": 1,
+            "wordId": 60372
+        }],
+        "wordDesc": "（こうりゃく）①【名·他动3】省略后文，后略",
+        "correctDesc": "省略后文，后略",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "考慮",
+        "wordId": 60373,
+        "optionDtos": [{
+            "wordOptionId": 118032,
+            "wordOptionDesc": "考虑，思考",
+            "isRight": 1,
+            "wordId": 60373
+        }],
+        "wordDesc": "（こうりょ）①【名·他动3】考虑，思考",
+        "correctDesc": "考虑，思考",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ろくに ",
+        "wordId": 60374,
+        "optionDtos": [{
+            "wordOptionId": 118033,
+            "wordOptionDesc": "（后接否定）很好地，令人满意地",
+            "isRight": 1,
+            "wordId": 60374
+        }],
+        "wordDesc": "⓪【副】（后接否定）很好地，令人满意地",
+        "correctDesc": "（后接否定）很好地，令人满意地",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "寸前",
+        "wordId": 60375,
+        "optionDtos": [{
+            "wordOptionId": 118034,
+            "wordOptionDesc": "临近，就在眼前，近在咫尺",
+            "isRight": 1,
+            "wordId": 60375
+        }],
+        "wordDesc": "（すんぜん）⓪【名】临近，就在眼前，近在咫尺",
+        "correctDesc": "临近，就在眼前，近在咫尺",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "トライアル",
+        "wordId": 60376,
+        "optionDtos": [{
+            "wordOptionId": 118035,
+            "wordOptionDesc": "试行，试运行；预赛",
+            "isRight": 1,
+            "wordId": 60376
+        }],
+        "wordDesc": "（trial）②【名】试行，试运行；预赛",
+        "correctDesc": "试行，试运行；预赛",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "回想",
+        "wordId": 60377,
+        "optionDtos": [{
+            "wordOptionId": 118036,
+            "wordOptionDesc": "回忆，回想",
+            "isRight": 1,
+            "wordId": 60377
+        }],
+        "wordDesc": "（かいそう）⓪【名·他动3】回忆，回想",
+        "correctDesc": "回忆，回想",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "緩行",
+        "wordId": 60378,
+        "optionDtos": [{
+            "wordOptionId": 118037,
+            "wordOptionDesc": "缓行，徐行，慢行",
+            "isRight": 1,
+            "wordId": 60378
+        }],
+        "wordDesc": "（かんこう）⓪【名·自动3】缓行，徐行，慢行",
+        "correctDesc": "缓行，徐行，慢行",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "リニューアル",
+        "wordId": 60379,
+        "optionDtos": [{
+            "wordOptionId": 118038,
+            "wordOptionDesc": "更新；重建 ",
+            "isRight": 1,
+            "wordId": 60379
+        }],
+        "wordDesc": "（renewal）②【名·他动3】更新；重建 ",
+        "correctDesc": "更新；重建 ",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ファイナンス",
+        "wordId": 60380,
+        "optionDtos": [{
+            "wordOptionId": 118039,
+            "wordOptionDesc": "金融，财政",
+            "isRight": 1,
+            "wordId": 60380
+        }],
+        "wordDesc": "（finance）①【名】金融，财政",
+        "correctDesc": "金融，财政",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "下見",
+        "wordId": 60381,
+        "optionDtos": [{
+            "wordOptionId": 118040,
+            "wordOptionDesc": "事先查看；预习",
+            "isRight": 1,
+            "wordId": 60381
+        }],
+        "wordDesc": "（したみ）⓪【名·他动3】事先查看；预习",
+        "correctDesc": "事先查看；预习",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "裏表",
+        "wordId": 60382,
+        "optionDtos": [{
+            "wordOptionId": 118041,
+            "wordOptionDesc": "表面和里面；正面和反面；表里相反，反穿；表里不一",
+            "isRight": 1,
+            "wordId": 60382
+        }],
+        "wordDesc": "（うらおもて）⓪【名】表面和里面；正面和反面；表里相反，反穿；表里不一",
+        "correctDesc": "表面和里面；正面和反面；表里相反，反穿；表里不一",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ふっくら ",
+        "wordId": 60383,
+        "optionDtos": [{
+            "wordOptionId": 118042,
+            "wordOptionDesc": "柔软而丰满，胖乎乎",
+            "isRight": 1,
+            "wordId": 60383
+        }],
+        "wordDesc": "③【副·自动3】柔软而丰满，胖乎乎",
+        "correctDesc": "柔软而丰满，胖乎乎",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "児童",
+        "wordId": 60384,
+        "optionDtos": [{
+            "wordOptionId": 118043,
+            "wordOptionDesc": "儿童；学龄儿童",
+            "isRight": 1,
+            "wordId": 60384
+        }],
+        "wordDesc": "（じどう）①【名】儿童；学龄儿童",
+        "correctDesc": "儿童；学龄儿童",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "構造",
+        "wordId": 60385,
+        "optionDtos": [{
+            "wordOptionId": 118044,
+            "wordOptionDesc": "构造，结构",
+            "isRight": 1,
+            "wordId": 60385
+        }],
+        "wordDesc": "（こうぞう）⓪【名】构造，结构",
+        "correctDesc": "构造，结构",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "海藻",
+        "wordId": 60386,
+        "optionDtos": [{
+            "wordOptionId": 118045,
+            "wordOptionDesc": "海藻",
+            "isRight": 1,
+            "wordId": 60386
+        }],
+        "wordDesc": "（かいそう）⓪【名】海藻",
+        "correctDesc": "海藻",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "仮想",
+        "wordId": 60387,
+        "optionDtos": [{
+            "wordOptionId": 118046,
+            "wordOptionDesc": "假想，设想，虚拟",
+            "isRight": 1,
+            "wordId": 60387
+        }],
+        "wordDesc": "（かそう）⓪【名·自他动3】假想，设想，虚拟",
+        "correctDesc": "假想，设想，虚拟",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "国土",
+        "wordId": 60388,
+        "optionDtos": [{
+            "wordOptionId": 118047,
+            "wordOptionDesc": "国土，领土",
+            "isRight": 1,
+            "wordId": 60388
+        }],
+        "wordDesc": "（こくど）①【名】国土，领土",
+        "correctDesc": "国土，领土",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "誇り",
+        "wordId": 60389,
+        "optionDtos": [{
+            "wordOptionId": 118048,
+            "wordOptionDesc": "自豪，骄傲",
+            "isRight": 1,
+            "wordId": 60389
+        }],
+        "wordDesc": "（ほこり）⓪【名】自豪，骄傲",
+        "correctDesc": "自豪，骄傲",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "克服",
+        "wordId": 60390,
+        "optionDtos": [{
+            "wordOptionId": 118049,
+            "wordOptionDesc": "克服，征服",
+            "isRight": 1,
+            "wordId": 60390
+        }],
+        "wordDesc": "（こくふく）⓪【名·他动3】克服，征服",
+        "correctDesc": "克服，征服",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "改装",
+        "wordId": 60391,
+        "optionDtos": [{
+            "wordOptionId": 118050,
+            "wordOptionDesc": "改换包装；改换装潢",
+            "isRight": 1,
+            "wordId": 60391
+        }],
+        "wordDesc": "（かいそう）⓪【名·他动3】改换包装；改换装潢",
+        "correctDesc": "改换包装；改换装潢",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "善良",
+        "wordId": 60392,
+        "optionDtos": [{
+            "wordOptionId": 118051,
+            "wordOptionDesc": "善良",
+            "isRight": 1,
+            "wordId": 60392
+        }],
+        "wordDesc": "（ぜんりょう）⓪【名·ナ形】善良",
+        "correctDesc": "善良",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "理論",
+        "wordId": 60393,
+        "optionDtos": [{
+            "wordOptionId": 118052,
+            "wordOptionDesc": "理论，学说",
+            "isRight": 1,
+            "wordId": 60393
+        }],
+        "wordDesc": "（りろん）①【名】理论，学说",
+        "correctDesc": "理论，学说",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "鑑定",
+        "wordId": 60394,
+        "optionDtos": [{
+            "wordOptionId": 118053,
+            "wordOptionDesc": "鉴定，判断；估价",
+            "isRight": 1,
+            "wordId": 60394
+        }],
+        "wordDesc": "（かんてい）⓪【名·他动3】鉴定，判断；估价",
+        "correctDesc": "鉴定，判断；估价",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "敷地",
+        "wordId": 60395,
+        "optionDtos": [{
+            "wordOptionId": 118054,
+            "wordOptionDesc": "地基；用地，地皮",
+            "isRight": 1,
+            "wordId": 60395
+        }],
+        "wordDesc": "（しきち）⓪【名】地基；用地，地皮",
+        "correctDesc": "地基；用地，地皮",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "強烈",
+        "wordId": 60396,
+        "optionDtos": [{
+            "wordOptionId": 118055,
+            "wordOptionDesc": "强烈的（地震、刺激、作用等）",
+            "isRight": 1,
+            "wordId": 60396
+        }],
+        "wordDesc": "（きょうれつ）⓪【ナ形】强烈的（地震、刺激、作用等）",
+        "correctDesc": "强烈的（地震、刺激、作用等）",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "ゲスト",
+        "wordId": 60397,
+        "optionDtos": [{
+            "wordOptionId": 118056,
+            "wordOptionDesc": "客人；嘉宾",
+            "isRight": 1,
+            "wordId": 60397
+        }],
+        "wordDesc": "（guest）①【名】客人；嘉宾",
+        "correctDesc": "客人；嘉宾",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "異郷",
+        "wordId": 60398,
+        "optionDtos": [{
+            "wordOptionId": 118057,
+            "wordOptionDesc": "异国，他乡",
+            "isRight": 1,
+            "wordId": 60398
+        }],
+        "wordDesc": "（いきょう）⓪【名】异国，他乡",
+        "correctDesc": "异国，他乡",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "排気",
+        "wordId": 60399,
+        "optionDtos": [{
+            "wordOptionId": 118058,
+            "wordOptionDesc": "排出空气；排出废气",
+            "isRight": 1,
+            "wordId": 60399
+        }],
+        "wordDesc": "（はいき）⓪【名·自动3】排出空气；排出废气",
+        "correctDesc": "排出空气；排出废气",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "法規",
+        "wordId": 60400,
+        "optionDtos": [{
+            "wordOptionId": 118059,
+            "wordOptionDesc": "法规，法律，规章",
+            "isRight": 1,
+            "wordId": 60400
+        }],
+        "wordDesc": "（ほうき）①【名】法规，法律，规章",
+        "correctDesc": "法规，法律，规章",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "燃え上がる",
+        "wordId": 60401,
+        "optionDtos": [{
+            "wordOptionId": 118060,
+            "wordOptionDesc": "燃起来，烧起来",
+            "isRight": 1,
+            "wordId": 60401
+        }],
+        "wordDesc": "（もえあがる）④【自动1】燃起来，烧起来",
+        "correctDesc": "燃起来，烧起来",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "実体",
+        "wordId": 60402,
+        "optionDtos": [{
+            "wordOptionId": 118061,
+            "wordOptionDesc": "实质，本质，真相",
+            "isRight": 1,
+            "wordId": 60402
+        }],
+        "wordDesc": "（じったい）⓪【名】实质，本质，真相",
+        "correctDesc": "实质，本质，真相",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "海底",
+        "wordId": 60403,
+        "optionDtos": [{
+            "wordOptionId": 118062,
+            "wordOptionDesc": "海底",
+            "isRight": 1,
+            "wordId": 60403
+        }],
+        "wordDesc": "（かいてい）⓪【名】海底",
+        "correctDesc": "海底",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "詐欺",
+        "wordId": 60404,
+        "optionDtos": [{
+            "wordOptionId": 118063,
+            "wordOptionDesc": "欺诈，欺骗；诈骗",
+            "isRight": 1,
+            "wordId": 60404
+        }],
+        "wordDesc": "（さぎ）①【名】欺诈，欺骗；诈骗",
+        "correctDesc": "欺诈，欺骗；诈骗",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "感情",
+        "wordId": 60405,
+        "optionDtos": [{
+            "wordOptionId": 118064,
+            "wordOptionDesc": "感情，情绪",
+            "isRight": 1,
+            "wordId": 60405
+        }],
+        "wordDesc": "（かんじょう）⓪【名】感情，情绪",
+        "correctDesc": "感情，情绪",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "資産",
+        "wordId": 60406,
+        "optionDtos": [{
+            "wordOptionId": 118065,
+            "wordOptionDesc": "资产，财产",
+            "isRight": 1,
+            "wordId": 60406
+        }],
+        "wordDesc": "（しさん）①【名】资产，财产",
+        "correctDesc": "资产，财产",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "支持",
+        "wordId": 60407,
+        "optionDtos": [{
+            "wordOptionId": 118066,
+            "wordOptionDesc": "支持，拥护；支撑，维持",
+            "isRight": 1,
+            "wordId": 60407
+        }],
+        "wordDesc": "（しじ）①【名·他动3】支持，拥护；支撑，维持",
+        "correctDesc": "支持，拥护；支撑，维持",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "コメント",
+        "wordId": 60408,
+        "optionDtos": [{
+            "wordOptionId": 118067,
+            "wordOptionDesc": "评论，说明；发表意见",
+            "isRight": 1,
+            "wordId": 60408
+        }],
+        "wordDesc": "（comment）⓪【名·自动3】评论，说明；发表意见",
+        "correctDesc": "评论，说明；发表意见",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "血筋",
+        "wordId": 60409,
+        "optionDtos": [{
+            "wordOptionId": 118068,
+            "wordOptionDesc": "血管；血统，血缘",
+            "isRight": 1,
+            "wordId": 60409
+        }],
+        "wordDesc": "（ちすじ）⓪【名】血管；血统，血缘",
+        "correctDesc": "血管；血统，血缘",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "原型",
+        "wordId": 60410,
+        "optionDtos": [{
+            "wordOptionId": 118069,
+            "wordOptionDesc": "原型，原样",
+            "isRight": 1,
+            "wordId": 60410
+        }],
+        "wordDesc": "（げんけい）⓪【名】原型，原样",
+        "correctDesc": "原型，原样",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "童謡",
+        "wordId": 60411,
+        "optionDtos": [{
+            "wordOptionId": 118070,
+            "wordOptionDesc": "童谣，儿歌",
+            "isRight": 1,
+            "wordId": 60411
+        }],
+        "wordDesc": "（どうよう）⓪【名】童谣，儿歌",
+        "correctDesc": "童谣，儿歌",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "紅葉",
+        "wordId": 60412,
+        "optionDtos": [{
+            "wordOptionId": 118071,
+            "wordOptionDesc": "红叶；变成红叶",
+            "isRight": 1,
+            "wordId": 60412
+        }],
+        "wordDesc": "（こうよう）⓪【名·自动3】红叶；变成红叶",
+        "correctDesc": "红叶；变成红叶",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "同等",
+        "wordId": 60413,
+        "optionDtos": [{
+            "wordOptionId": 118072,
+            "wordOptionDesc": "同等级；同资格",
+            "isRight": 1,
+            "wordId": 60413
+        }],
+        "wordDesc": "（どうとう）⓪【名·ナ形】同等级；同资格",
+        "correctDesc": "同等级；同资格",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "志向",
+        "wordId": 60414,
+        "optionDtos": [{
+            "wordOptionId": 118073,
+            "wordOptionDesc": "志向，意向",
+            "isRight": 1,
+            "wordId": 60414
+        }],
+        "wordDesc": "（しこう）⓪【名·他动3】志向，意向",
+        "correctDesc": "志向，意向",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "気管",
+        "wordId": 60415,
+        "optionDtos": [{
+            "wordOptionId": 118074,
+            "wordOptionDesc": "气管",
+            "isRight": 1,
+            "wordId": 60415
+        }],
+        "wordDesc": "（きかん）⓪【名】气管",
+        "correctDesc": "气管",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "正論",
+        "wordId": 60416,
+        "optionDtos": [{
+            "wordOptionId": 118075,
+            "wordOptionDesc": "正确的言论",
+            "isRight": 1,
+            "wordId": 60416
+        }],
+        "wordDesc": "（せいろん）⓪【名】正确的言论",
+        "correctDesc": "正确的言论",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "勧告",
+        "wordId": 60417,
+        "optionDtos": [{
+            "wordOptionId": 118076,
+            "wordOptionDesc": "劝告",
+            "isRight": 1,
+            "wordId": 60417
+        }],
+        "wordDesc": "（かんこく）⓪【名·他动3】劝告",
+        "correctDesc": "劝告",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "入れ替える",
+        "wordId": 60418,
+        "optionDtos": [{
+            "wordOptionId": 118077,
+            "wordOptionDesc": "更换，调换",
+            "isRight": 1,
+            "wordId": 60418
+        }],
+        "wordDesc": "（いれかえる）④【他动2】更换，调换",
+        "correctDesc": "更换，调换",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "硬化",
+        "wordId": 60419,
+        "optionDtos": [{
+            "wordOptionId": 118078,
+            "wordOptionDesc": "（物质）硬化；（态度）强硬；（股市）坚挺",
+            "isRight": 1,
+            "wordId": 60419
+        }],
+        "wordDesc": "（こうか）①【名·自动3】（物质）硬化；（态度）强硬；（股市）坚挺",
+        "correctDesc": "（物质）硬化；（态度）强硬；（股市）坚挺",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "豆乳",
+        "wordId": 60420,
+        "optionDtos": [{
+            "wordOptionId": 118079,
+            "wordOptionDesc": "豆浆",
+            "isRight": 1,
+            "wordId": 60420
+        }],
+        "wordDesc": "（とうにゅう）⓪【名】豆浆",
+        "correctDesc": "豆浆",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "神聖",
+        "wordId": 60421,
+        "optionDtos": [{
+            "wordOptionId": 118080,
+            "wordOptionDesc": "神圣",
+            "isRight": 1,
+            "wordId": 60421
+        }],
+        "wordDesc": "（しんせい）⓪【名·ナ形】神圣",
+        "correctDesc": "神圣",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "外来",
+        "wordId": 60422,
+        "optionDtos": [{
+            "wordOptionId": 118081,
+            "wordOptionDesc": "外来；门诊",
+            "isRight": 1,
+            "wordId": 60422
+        }],
+        "wordDesc": "（がいらい）⓪【名】外来；门诊",
+        "correctDesc": "外来；门诊",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "真相",
+        "wordId": 60423,
+        "optionDtos": [{
+            "wordOptionId": 118082,
+            "wordOptionDesc": "真相",
+            "isRight": 1,
+            "wordId": 60423
+        }],
+        "wordDesc": "（しんそう）⓪【名】真相",
+        "correctDesc": "真相",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "心情",
+        "wordId": 60424,
+        "optionDtos": [{
+            "wordOptionId": 118083,
+            "wordOptionDesc": "心情",
+            "isRight": 1,
+            "wordId": 60424
+        }],
+        "wordDesc": "（しんじょう）⓪【名】心情",
+        "correctDesc": "心情",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "批評",
+        "wordId": 60425,
+        "optionDtos": [{
+            "wordOptionId": 118084,
+            "wordOptionDesc": "批评；评论；影评",
+            "isRight": 1,
+            "wordId": 60425
+        }],
+        "wordDesc": "（ひひょう）⓪【名·他动3】批评；评论；影评",
+        "correctDesc": "批评；评论；影评",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "処罰",
+        "wordId": 60426,
+        "optionDtos": [{
+            "wordOptionId": 118085,
+            "wordOptionDesc": "处罚，处分",
+            "isRight": 1,
+            "wordId": 60426
+        }],
+        "wordDesc": "（しょばつ）①【名·他动3】处罚，处分",
+        "correctDesc": "处罚，处分",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "都",
+        "wordId": 60427,
+        "optionDtos": [{
+            "wordOptionId": 118086,
+            "wordOptionDesc": "都城；繁华都市",
+            "isRight": 1,
+            "wordId": 60427
+        }],
+        "wordDesc": "（みやこ）⓪【名】都城；繁华都市",
+        "correctDesc": "都城；繁华都市",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "裏切る",
+        "wordId": 60428,
+        "optionDtos": [{
+            "wordOptionId": 118087,
+            "wordOptionDesc": "背叛；辜负，违背",
+            "isRight": 1,
+            "wordId": 60428
+        }],
+        "wordDesc": "（うらぎる）③【他动1】背叛；辜负，违背",
+        "correctDesc": "背叛；辜负，违背",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "高等",
+        "wordId": 60429,
+        "optionDtos": [{
+            "wordOptionId": 118088,
+            "wordOptionDesc": "高等，高级",
+            "isRight": 1,
+            "wordId": 60429
+        }],
+        "wordDesc": "（こうとう）⓪【名·ナ形】高等，高级",
+        "correctDesc": "高等，高级",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "コーラス",
+        "wordId": 60430,
+        "optionDtos": [{
+            "wordOptionId": 118089,
+            "wordOptionDesc": "合唱；合唱团",
+            "isRight": 1,
+            "wordId": 60430
+        }],
+        "wordDesc": "（chorus）①【名】合唱；合唱团",
+        "correctDesc": "合唱；合唱团",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "飲酒",
+        "wordId": 60431,
+        "optionDtos": [{
+            "wordOptionId": 118090,
+            "wordOptionDesc": "饮酒",
+            "isRight": 1,
+            "wordId": 60431
+        }],
+        "wordDesc": "（いんしゅ）⓪【名·自动3】饮酒",
+        "correctDesc": "饮酒",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "素振り",
+        "wordId": 60432,
+        "optionDtos": [{
+            "wordOptionId": 118091,
+            "wordOptionDesc": "态度，举止，样子",
+            "isRight": 1,
+            "wordId": 60432
+        }],
+        "wordDesc": "（そぶり）①【名】态度，举止，样子",
+        "correctDesc": "态度，举止，样子",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "指導",
+        "wordId": 60433,
+        "optionDtos": [{
+            "wordOptionId": 118092,
+            "wordOptionDesc": "教导，指导",
+            "isRight": 1,
+            "wordId": 60433
+        }],
+        "wordDesc": "（しどう）⓪【名·他动3】教导，指导",
+        "correctDesc": "教导，指导",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N2词汇 第十天",
+        "wordName": "一般",
+        "wordId": 60434,
+        "optionDtos": [{
+            "wordOptionId": 118093,
+            "wordOptionDesc": "一般，寻常；普遍",
+            "isRight": 1,
+            "wordId": 60434
+        }],
+        "wordDesc": "（いっぱん）⓪【名】一般，寻常；普遍",
+        "correctDesc": "一般，寻常；普遍",
+        "isRight": null,
+        "count": 250,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}

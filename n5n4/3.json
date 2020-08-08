@@ -1,0 +1,3805 @@
+{
+    "errCode": 0,
+    "message": "操作成功！",
+    "data": [{
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "生徒",
+        "wordId": 39779,
+        "optionDtos": [{
+            "wordOptionId": 85155,
+            "wordOptionDesc": "（初、高中）学生",
+            "isRight": 1,
+            "wordId": 39779
+        }],
+        "wordDesc": "（せいと）①【名】（初、高中）学生",
+        "correctDesc": "（初、高中）学生",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "パンフレット",
+        "wordId": 39780,
+        "optionDtos": [{
+            "wordOptionId": 85156,
+            "wordOptionDesc": "小册子",
+            "isRight": 1,
+            "wordId": 39780
+        }],
+        "wordDesc": "（pamphlet）①【名】小册子",
+        "correctDesc": "小册子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "晴れ",
+        "wordId": 39781,
+        "optionDtos": [{
+            "wordOptionId": 85157,
+            "wordOptionDesc": "晴天",
+            "isRight": 1,
+            "wordId": 39781
+        }],
+        "wordDesc": "（はれ）②【名】晴天",
+        "correctDesc": "晴天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "呼ぶ",
+        "wordId": 39782,
+        "optionDtos": [{
+            "wordOptionId": 85158,
+            "wordOptionDesc": "叫；呼唤",
+            "isRight": 1,
+            "wordId": 39782
+        }],
+        "wordDesc": "（よぶ）⓪【他动1】叫；呼唤",
+        "correctDesc": "叫；呼唤",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "交差点",
+        "wordId": 39783,
+        "optionDtos": [{
+            "wordOptionId": 85159,
+            "wordOptionDesc": "十字路口",
+            "isRight": 1,
+            "wordId": 39783
+        }],
+        "wordDesc": "（こうさてん）⓪【名】十字路口",
+        "correctDesc": "十字路口",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "短い",
+        "wordId": 39784,
+        "optionDtos": [{
+            "wordOptionId": 85160,
+            "wordOptionDesc": "短的；短暂的",
+            "isRight": 1,
+            "wordId": 39784
+        }],
+        "wordDesc": "（みじかい）③【イ形】短的；短暂的",
+        "correctDesc": "短的；短暂的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "果物",
+        "wordId": 39785,
+        "optionDtos": [{
+            "wordOptionId": 85161,
+            "wordOptionDesc": "水果",
+            "isRight": 1,
+            "wordId": 39785
+        }],
+        "wordDesc": "（くだもの）②【名】水果",
+        "correctDesc": "水果",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "掃除",
+        "wordId": 39786,
+        "optionDtos": [{
+            "wordOptionId": 85162,
+            "wordOptionDesc": "扫除，清扫",
+            "isRight": 1,
+            "wordId": 39786
+        }],
+        "wordDesc": "（そうじ）⓪【名·他动3】扫除，清扫",
+        "correctDesc": "扫除，清扫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "次",
+        "wordId": 39787,
+        "optionDtos": [{
+            "wordOptionId": 85163,
+            "wordOptionDesc": "下一个，下面",
+            "isRight": 1,
+            "wordId": 39787
+        }],
+        "wordDesc": "（つぎ）②【名】下一个，下面",
+        "correctDesc": "下一个，下面",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "野菜",
+        "wordId": 39788,
+        "optionDtos": [{
+            "wordOptionId": 85164,
+            "wordOptionDesc": "蔬菜",
+            "isRight": 1,
+            "wordId": 39788
+        }],
+        "wordDesc": "（やさい）⓪【名】蔬菜",
+        "correctDesc": "蔬菜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "教授",
+        "wordId": 39789,
+        "optionDtos": [{
+            "wordOptionId": 85165,
+            "wordOptionDesc": "教授；传授，教学",
+            "isRight": 1,
+            "wordId": 39789
+        }],
+        "wordDesc": "（きょうじゅ）⓪【名·他动3】教授；传授，教学",
+        "correctDesc": "教授；传授，教学",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "不便",
+        "wordId": 39790,
+        "optionDtos": [{
+            "wordOptionId": 85166,
+            "wordOptionDesc": "不方便，不便",
+            "isRight": 1,
+            "wordId": 39790
+        }],
+        "wordDesc": "（ふべん）①【名·ナ形】不方便，不便",
+        "correctDesc": "不方便，不便",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "話",
+        "wordId": 39791,
+        "optionDtos": [{
+            "wordOptionId": 85167,
+            "wordOptionDesc": "话，说话，讲话",
+            "isRight": 1,
+            "wordId": 39791
+        }],
+        "wordDesc": "（はなし）③【名】话，说话，讲话",
+        "correctDesc": "话，说话，讲话",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "劇場",
+        "wordId": 39792,
+        "optionDtos": [{
+            "wordOptionId": 85168,
+            "wordOptionDesc": "剧场，剧院",
+            "isRight": 1,
+            "wordId": 39792
+        }],
+        "wordDesc": "（げきじょう）⓪【名】剧场，剧院",
+        "correctDesc": "剧场，剧院",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "半分",
+        "wordId": 39793,
+        "optionDtos": [{
+            "wordOptionId": 85169,
+            "wordOptionDesc": "一半",
+            "isRight": 1,
+            "wordId": 39793
+        }],
+        "wordDesc": "（はんぶん）③【名】一半",
+        "correctDesc": "一半",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "シーズン",
+        "wordId": 39794,
+        "optionDtos": [{
+            "wordOptionId": 85170,
+            "wordOptionDesc": "季节；旺季",
+            "isRight": 1,
+            "wordId": 39794
+        }],
+        "wordDesc": "（season）①【名】季节；旺季",
+        "correctDesc": "季节；旺季",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "今週",
+        "wordId": 39795,
+        "optionDtos": [{
+            "wordOptionId": 85171,
+            "wordOptionDesc": "这周，本周",
+            "isRight": 1,
+            "wordId": 39795
+        }],
+        "wordDesc": "（こんしゅう）⓪【名】这周，本周",
+        "correctDesc": "这周，本周",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "練習",
+        "wordId": 39796,
+        "optionDtos": [{
+            "wordOptionId": 85172,
+            "wordOptionDesc": "练习，训练",
+            "isRight": 1,
+            "wordId": 39796
+        }],
+        "wordDesc": "（れんしゅう）⓪【名·他动3】练习，训练",
+        "correctDesc": "练习，训练",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "金",
+        "wordId": 39797,
+        "optionDtos": [{
+            "wordOptionId": 85173,
+            "wordOptionDesc": "黄金；金属；金钱",
+            "isRight": 1,
+            "wordId": 39797
+        }],
+        "wordDesc": "（きん）①【名】黄金；金属；金钱",
+        "correctDesc": "黄金；金属；金钱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "コース",
+        "wordId": 39798,
+        "optionDtos": [{
+            "wordOptionId": 85174,
+            "wordOptionDesc": "路线；课程",
+            "isRight": 1,
+            "wordId": 39798
+        }],
+        "wordDesc": "（course）①【名】路线；课程",
+        "correctDesc": "路线；课程",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "休む",
+        "wordId": 39799,
+        "optionDtos": [{
+            "wordOptionId": 85175,
+            "wordOptionDesc": "休息；请假",
+            "isRight": 1,
+            "wordId": 39799
+        }],
+        "wordDesc": "（やすむ）②【自动1】休息；请假",
+        "correctDesc": "休息；请假",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "鼻",
+        "wordId": 39800,
+        "optionDtos": [{
+            "wordOptionId": 85176,
+            "wordOptionDesc": "鼻子",
+            "isRight": 1,
+            "wordId": 39800
+        }],
+        "wordDesc": "（はな）⓪【名】鼻子",
+        "correctDesc": "鼻子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "弁護士",
+        "wordId": 39801,
+        "optionDtos": [{
+            "wordOptionId": 85177,
+            "wordOptionDesc": "律师",
+            "isRight": 1,
+            "wordId": 39801
+        }],
+        "wordDesc": "（べんごし）③【名】律师",
+        "correctDesc": "律师",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "畳",
+        "wordId": 39802,
+        "optionDtos": [{
+            "wordOptionId": 85178,
+            "wordOptionDesc": "草席",
+            "isRight": 1,
+            "wordId": 39802
+        }],
+        "wordDesc": "（たたみ）⓪【名】草席",
+        "correctDesc": "草席",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ポスター",
+        "wordId": 39803,
+        "optionDtos": [{
+            "wordOptionId": 85179,
+            "wordOptionDesc": "海报，宣传画",
+            "isRight": 1,
+            "wordId": 39803
+        }],
+        "wordDesc": "（poster）①【名】海报，宣传画",
+        "correctDesc": "海报，宣传画",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "九日",
+        "wordId": 39804,
+        "optionDtos": [{
+            "wordOptionId": 85180,
+            "wordOptionDesc": "九号；九天",
+            "isRight": 1,
+            "wordId": 39804
+        }],
+        "wordDesc": "（ここのか）④【名】九号；九天",
+        "correctDesc": "九号；九天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "見せる",
+        "wordId": 39805,
+        "optionDtos": [{
+            "wordOptionId": 85181,
+            "wordOptionDesc": "让（别人）看，展示",
+            "isRight": 1,
+            "wordId": 39805
+        }],
+        "wordDesc": "（みせる）②【他动2】让（别人）看，展示",
+        "correctDesc": "让（别人）看，展示",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "国",
+        "wordId": 39806,
+        "optionDtos": [{
+            "wordOptionId": 85182,
+            "wordOptionDesc": "国家；故乡",
+            "isRight": 1,
+            "wordId": 39806
+        }],
+        "wordDesc": "（くに）⓪【名】国家；故乡",
+        "correctDesc": "国家；故乡",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ボーナス",
+        "wordId": 39807,
+        "optionDtos": [{
+            "wordOptionId": 85183,
+            "wordOptionDesc": "奖金，额外津贴",
+            "isRight": 1,
+            "wordId": 39807
+        }],
+        "wordDesc": "（bonus）①【名】奖金，额外津贴",
+        "correctDesc": "奖金，额外津贴",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "落ちる",
+        "wordId": 39808,
+        "optionDtos": [{
+            "wordOptionId": 85184,
+            "wordOptionDesc": "掉，落",
+            "isRight": 1,
+            "wordId": 39808
+        }],
+        "wordDesc": "（おちる）②【自动2】掉，落",
+        "correctDesc": "掉，落",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "僕",
+        "wordId": 39809,
+        "optionDtos": [{
+            "wordOptionId": 85185,
+            "wordOptionDesc": "（男性自称）我",
+            "isRight": 1,
+            "wordId": 39809
+        }],
+        "wordDesc": "（ぼく）①【代】（男性自称）我",
+        "correctDesc": "（男性自称）我",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "野球",
+        "wordId": 39810,
+        "optionDtos": [{
+            "wordOptionId": 85186,
+            "wordOptionDesc": "棒球",
+            "isRight": 1,
+            "wordId": 39810
+        }],
+        "wordDesc": "（やきゅう）⓪【名】棒球",
+        "correctDesc": "棒球",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "人",
+        "wordId": 39811,
+        "optionDtos": [{
+            "wordOptionId": 85187,
+            "wordOptionDesc": "人；别人；人手",
+            "isRight": 1,
+            "wordId": 39811
+        }],
+        "wordDesc": "（ひと）⓪【名】人；别人；人手",
+        "correctDesc": "人；别人；人手",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "結婚",
+        "wordId": 39812,
+        "optionDtos": [{
+            "wordOptionId": 85188,
+            "wordOptionDesc": "结婚",
+            "isRight": 1,
+            "wordId": 39812
+        }],
+        "wordDesc": "（けっこん）⓪【名·自动3】结婚",
+        "correctDesc": "结婚",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "バドミントン",
+        "wordId": 39813,
+        "optionDtos": [{
+            "wordOptionId": 85189,
+            "wordOptionDesc": "羽毛球",
+            "isRight": 1,
+            "wordId": 39813
+        }],
+        "wordDesc": "（badminton）③【名】羽毛球",
+        "correctDesc": "羽毛球",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "明日",
+        "wordId": 39814,
+        "optionDtos": [{
+            "wordOptionId": 85190,
+            "wordOptionDesc": "明天；将来",
+            "isRight": 1,
+            "wordId": 39814
+        }],
+        "wordDesc": "（あす）⓪【名】明天；将来",
+        "correctDesc": "明天；将来",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "部活",
+        "wordId": 39815,
+        "optionDtos": [{
+            "wordOptionId": 85191,
+            "wordOptionDesc": "社团活动",
+            "isRight": 1,
+            "wordId": 39815
+        }],
+        "wordDesc": "（ぶかつ）⓪【名】社团活动",
+        "correctDesc": "社团活动",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "海",
+        "wordId": 39816,
+        "optionDtos": [{
+            "wordOptionId": 85192,
+            "wordOptionDesc": "海洋",
+            "isRight": 1,
+            "wordId": 39816
+        }],
+        "wordDesc": "（うみ）①【名】海洋",
+        "correctDesc": "海洋",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "車",
+        "wordId": 39817,
+        "optionDtos": [{
+            "wordOptionId": 85193,
+            "wordOptionDesc": "车，汽车",
+            "isRight": 1,
+            "wordId": 39817
+        }],
+        "wordDesc": "（くるま）⓪【名】车，汽车",
+        "correctDesc": "车，汽车",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "サンドイッチ",
+        "wordId": 39818,
+        "optionDtos": [{
+            "wordOptionId": 85194,
+            "wordOptionDesc": "三明治",
+            "isRight": 1,
+            "wordId": 39818
+        }],
+        "wordDesc": "（sandwich）④【名】三明治",
+        "correctDesc": "三明治",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "付く",
+        "wordId": 39819,
+        "optionDtos": [{
+            "wordOptionId": 85195,
+            "wordOptionDesc": "附着，粘上；跟着",
+            "isRight": 1,
+            "wordId": 39819
+        }],
+        "wordDesc": "（つく）①【自动1】附着，粘上；跟着",
+        "correctDesc": "附着，粘上；跟着",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "北",
+        "wordId": 39820,
+        "optionDtos": [{
+            "wordOptionId": 85196,
+            "wordOptionDesc": "北，北边",
+            "isRight": 1,
+            "wordId": 39820
+        }],
+        "wordDesc": "（きた）⓪【名】北，北边",
+        "correctDesc": "北，北边",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "見合い",
+        "wordId": 39821,
+        "optionDtos": [{
+            "wordOptionId": 85197,
+            "wordOptionDesc": "相亲",
+            "isRight": 1,
+            "wordId": 39821
+        }],
+        "wordDesc": "（みあい）⓪【名·自动3】相亲",
+        "correctDesc": "相亲",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "航空便",
+        "wordId": 39822,
+        "optionDtos": [{
+            "wordOptionId": 85198,
+            "wordOptionDesc": "空运",
+            "isRight": 1,
+            "wordId": 39822
+        }],
+        "wordDesc": "（こうくうびん）⓪【名】空运",
+        "correctDesc": "空运",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ファックス",
+        "wordId": 39823,
+        "optionDtos": [{
+            "wordOptionId": 85199,
+            "wordOptionDesc": "传真",
+            "isRight": 1,
+            "wordId": 39823
+        }],
+        "wordDesc": "（fax）①【名】传真",
+        "correctDesc": "传真",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "はっきり",
+        "wordId": 39824,
+        "optionDtos": [{
+            "wordOptionId": 85200,
+            "wordOptionDesc": "清楚地，明确地",
+            "isRight": 1,
+            "wordId": 39824
+        }],
+        "wordDesc": "③【副】清楚地，明确地",
+        "correctDesc": "清楚地，明确地",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "今度",
+        "wordId": 39825,
+        "optionDtos": [{
+            "wordOptionId": 85201,
+            "wordOptionDesc": "这次；下次",
+            "isRight": 1,
+            "wordId": 39825
+        }],
+        "wordDesc": "（こんど）①【名】这次；下次",
+        "correctDesc": "这次；下次",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "テープ",
+        "wordId": 39826,
+        "optionDtos": [{
+            "wordOptionId": 85202,
+            "wordOptionDesc": "磁带，录音带",
+            "isRight": 1,
+            "wordId": 39826
+        }],
+        "wordDesc": "（tape）①【名】磁带，录音带",
+        "correctDesc": "磁带，录音带",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "警備",
+        "wordId": 39827,
+        "optionDtos": [{
+            "wordOptionId": 85203,
+            "wordOptionDesc": "警戒，警备",
+            "isRight": 1,
+            "wordId": 39827
+        }],
+        "wordDesc": "（けいび）①【名·他动3】警戒，警备",
+        "correctDesc": "警戒，警备",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "別荘",
+        "wordId": 39828,
+        "optionDtos": [{
+            "wordOptionId": 85204,
+            "wordOptionDesc": "别墅",
+            "isRight": 1,
+            "wordId": 39828
+        }],
+        "wordDesc": "（べっそう）③【名】别墅",
+        "correctDesc": "别墅",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "コンビニ",
+        "wordId": 39829,
+        "optionDtos": [{
+            "wordOptionId": 85205,
+            "wordOptionDesc": "便利店",
+            "isRight": 1,
+            "wordId": 39829
+        }],
+        "wordDesc": "⓪【名】便利店",
+        "correctDesc": "便利店",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "勤める",
+        "wordId": 39830,
+        "optionDtos": [{
+            "wordOptionId": 85206,
+            "wordOptionDesc": "工作，任职",
+            "isRight": 1,
+            "wordId": 39830
+        }],
+        "wordDesc": "（つとめる）③【自动2】工作，任职",
+        "correctDesc": "工作，任职",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "模様",
+        "wordId": 39831,
+        "optionDtos": [{
+            "wordOptionId": 85207,
+            "wordOptionDesc": "花纹，花样；样子",
+            "isRight": 1,
+            "wordId": 39831
+        }],
+        "wordDesc": "（もよう）⓪【名】花纹，花样；样子",
+        "correctDesc": "花纹，花样；样子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "建築",
+        "wordId": 39832,
+        "optionDtos": [{
+            "wordOptionId": 85208,
+            "wordOptionDesc": "建筑，建造",
+            "isRight": 1,
+            "wordId": 39832
+        }],
+        "wordDesc": "（けんちく）⓪【名·他动3】建筑，建造",
+        "correctDesc": "建筑，建造",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "所",
+        "wordId": 39833,
+        "optionDtos": [{
+            "wordOptionId": 85209,
+            "wordOptionDesc": "场所，地方",
+            "isRight": 1,
+            "wordId": 39833
+        }],
+        "wordDesc": "（ところ）⓪【名】场所，地方",
+        "correctDesc": "场所，地方",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "すぐ",
+        "wordId": 39834,
+        "optionDtos": [{
+            "wordOptionId": 85210,
+            "wordOptionDesc": "立刻，马上",
+            "isRight": 1,
+            "wordId": 39834
+        }],
+        "wordDesc": "①【副】立刻，马上",
+        "correctDesc": "立刻，马上",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "記念品",
+        "wordId": 39835,
+        "optionDtos": [{
+            "wordOptionId": 85211,
+            "wordOptionDesc": "纪念品",
+            "isRight": 1,
+            "wordId": 39835
+        }],
+        "wordDesc": "（きねんひん）⓪【名】纪念品",
+        "correctDesc": "纪念品",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "日常",
+        "wordId": 39836,
+        "optionDtos": [{
+            "wordOptionId": 85212,
+            "wordOptionDesc": "日常，平时",
+            "isRight": 1,
+            "wordId": 39836
+        }],
+        "wordDesc": "（にちじょう）⓪【名】日常，平时",
+        "correctDesc": "日常，平时",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "晴れる",
+        "wordId": 39837,
+        "optionDtos": [{
+            "wordOptionId": 85213,
+            "wordOptionDesc": "（天气）放晴；（疑惑）消散",
+            "isRight": 1,
+            "wordId": 39837
+        }],
+        "wordDesc": "（はれる）②【自动2】（天气）放晴；（疑惑）消散",
+        "correctDesc": "（天气）放晴；（疑惑）消散",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "～冊",
+        "wordId": 39838,
+        "optionDtos": [{
+            "wordOptionId": 85214,
+            "wordOptionDesc": "（书、本等）册，本",
+            "isRight": 1,
+            "wordId": 39838
+        }],
+        "wordDesc": "（さつ）【接尾】（书、本等）册，本",
+        "correctDesc": "（书、本等）册，本",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "塩",
+        "wordId": 39839,
+        "optionDtos": [{
+            "wordOptionId": 85215,
+            "wordOptionDesc": "食盐",
+            "isRight": 1,
+            "wordId": 39839
+        }],
+        "wordDesc": "（しお）②【名】食盐",
+        "correctDesc": "食盐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "クラス",
+        "wordId": 39840,
+        "optionDtos": [{
+            "wordOptionId": 85216,
+            "wordOptionDesc": "班级；等级",
+            "isRight": 1,
+            "wordId": 39840
+        }],
+        "wordDesc": "（class）①【名】班级；等级",
+        "correctDesc": "班级；等级",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "マッチ",
+        "wordId": 39841,
+        "optionDtos": [{
+            "wordOptionId": 85217,
+            "wordOptionDesc": "火柴；相称",
+            "isRight": 1,
+            "wordId": 39841
+        }],
+        "wordDesc": "（match）①【名·自动3】火柴；相称",
+        "correctDesc": "火柴；相称",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "三",
+        "wordId": 39842,
+        "optionDtos": [{
+            "wordOptionId": 85218,
+            "wordOptionDesc": "三",
+            "isRight": 1,
+            "wordId": 39842
+        }],
+        "wordDesc": "（さん）⓪【数】三",
+        "correctDesc": "三",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "全部",
+        "wordId": 39843,
+        "optionDtos": [{
+            "wordOptionId": 85219,
+            "wordOptionDesc": "全部",
+            "isRight": 1,
+            "wordId": 39843
+        }],
+        "wordDesc": "（ぜんぶ）①【名·副】全部",
+        "correctDesc": "全部",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ホテル",
+        "wordId": 39844,
+        "optionDtos": [{
+            "wordOptionId": 85220,
+            "wordOptionDesc": "（西式）宾馆，酒店",
+            "isRight": 1,
+            "wordId": 39844
+        }],
+        "wordDesc": "（hotel）①【名】（西式）宾馆，酒店",
+        "correctDesc": "（西式）宾馆，酒店",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "散歩",
+        "wordId": 39845,
+        "optionDtos": [{
+            "wordOptionId": 85221,
+            "wordOptionDesc": "散步",
+            "isRight": 1,
+            "wordId": 39845
+        }],
+        "wordDesc": "（さんぽ）⓪【名·自动3】散步",
+        "correctDesc": "散步",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "神社",
+        "wordId": 39846,
+        "optionDtos": [{
+            "wordOptionId": 85222,
+            "wordOptionDesc": "神社",
+            "isRight": 1,
+            "wordId": 39846
+        }],
+        "wordDesc": "（じんじゃ）①【名】神社",
+        "correctDesc": "神社",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ブランド",
+        "wordId": 39847,
+        "optionDtos": [{
+            "wordOptionId": 85223,
+            "wordOptionDesc": "商标，品牌",
+            "isRight": 1,
+            "wordId": 39847
+        }],
+        "wordDesc": "（brand）⓪【名】商标，品牌",
+        "correctDesc": "商标，品牌",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "切る",
+        "wordId": 39848,
+        "optionDtos": [{
+            "wordOptionId": 85224,
+            "wordOptionDesc": "切，切开；断绝",
+            "isRight": 1,
+            "wordId": 39848
+        }],
+        "wordDesc": "（きる）①【他动1】切，切开；断绝",
+        "correctDesc": "切，切开；断绝",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "前",
+        "wordId": 39849,
+        "optionDtos": [{
+            "wordOptionId": 85225,
+            "wordOptionDesc": "（空间）前面；（时间）之前",
+            "isRight": 1,
+            "wordId": 39849
+        }],
+        "wordDesc": "（まえ）①【名】（空间）前面；（时间）之前",
+        "correctDesc": "（空间）前面；（时间）之前",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "コート",
+        "wordId": 39850,
+        "optionDtos": [{
+            "wordOptionId": 85226,
+            "wordOptionDesc": "大衣，外套",
+            "isRight": 1,
+            "wordId": 39850
+        }],
+        "wordDesc": "（coat）①【名】大衣，外套",
+        "correctDesc": "大衣，外套",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "年",
+        "wordId": 39851,
+        "optionDtos": [{
+            "wordOptionId": 85227,
+            "wordOptionDesc": "年；年龄，岁数",
+            "isRight": 1,
+            "wordId": 39851
+        }],
+        "wordDesc": "（とし）②【名】年；年龄，岁数",
+        "correctDesc": "年；年龄，岁数",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "優しい",
+        "wordId": 39852,
+        "optionDtos": [{
+            "wordOptionId": 85228,
+            "wordOptionDesc": "温柔的；柔和的",
+            "isRight": 1,
+            "wordId": 39852
+        }],
+        "wordDesc": "（やさしい）③【イ形】温柔的；柔和的",
+        "correctDesc": "温柔的；柔和的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "寮",
+        "wordId": 39853,
+        "optionDtos": [{
+            "wordOptionId": 85229,
+            "wordOptionDesc": "宿舍",
+            "isRight": 1,
+            "wordId": 39853
+        }],
+        "wordDesc": "（りょう）①【名】宿舍",
+        "correctDesc": "宿舍",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "使用",
+        "wordId": 39854,
+        "optionDtos": [{
+            "wordOptionId": 85230,
+            "wordOptionDesc": "使用，利用",
+            "isRight": 1,
+            "wordId": 39854
+        }],
+        "wordDesc": "（しよう）⓪【名·他动3】使用，利用",
+        "correctDesc": "使用，利用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "洋服",
+        "wordId": 39855,
+        "optionDtos": [{
+            "wordOptionId": 85231,
+            "wordOptionDesc": "西服，西装",
+            "isRight": 1,
+            "wordId": 39855
+        }],
+        "wordDesc": "（ようふく）⓪【名】西服，西装",
+        "correctDesc": "西服，西装",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "好物",
+        "wordId": 39856,
+        "optionDtos": [{
+            "wordOptionId": 85232,
+            "wordOptionDesc": "爱吃的东西；喜欢的东西",
+            "isRight": 1,
+            "wordId": 39856
+        }],
+        "wordDesc": "（こうぶつ）①【名】爱吃的东西；喜欢的东西",
+        "correctDesc": "爱吃的东西；喜欢的东西",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "紅葉",
+        "wordId": 39857,
+        "optionDtos": [{
+            "wordOptionId": 85233,
+            "wordOptionDesc": "枫叶",
+            "isRight": 1,
+            "wordId": 39857
+        }],
+        "wordDesc": "（もみじ）①【名】枫叶",
+        "correctDesc": "枫叶",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "コピー",
+        "wordId": 39858,
+        "optionDtos": [{
+            "wordOptionId": 85234,
+            "wordOptionDesc": "复印",
+            "isRight": 1,
+            "wordId": 39858
+        }],
+        "wordDesc": "（copy）①【名·他动3】复印",
+        "correctDesc": "复印",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "地下鉄",
+        "wordId": 39859,
+        "optionDtos": [{
+            "wordOptionId": 85235,
+            "wordOptionDesc": "地铁",
+            "isRight": 1,
+            "wordId": 39859
+        }],
+        "wordDesc": "（ちかてつ）⓪【名】地铁",
+        "correctDesc": "地铁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "深い",
+        "wordId": 39860,
+        "optionDtos": [{
+            "wordOptionId": 85236,
+            "wordOptionDesc": "深的；（颜色、程度等）深的，浓的",
+            "isRight": 1,
+            "wordId": 39860
+        }],
+        "wordDesc": "（ふかい）②【イ形】深的；（颜色、程度等）深的，浓的",
+        "correctDesc": "深的；（颜色、程度等）深的，浓的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "二人",
+        "wordId": 39861,
+        "optionDtos": [{
+            "wordOptionId": 85237,
+            "wordOptionDesc": "两个人",
+            "isRight": 1,
+            "wordId": 39861
+        }],
+        "wordDesc": "（ふたり）③【名】两个人",
+        "correctDesc": "两个人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "マナー",
+        "wordId": 39862,
+        "optionDtos": [{
+            "wordOptionId": 85238,
+            "wordOptionDesc": "礼节，规矩；礼貌",
+            "isRight": 1,
+            "wordId": 39862
+        }],
+        "wordDesc": "（manner）①【名】礼节，规矩；礼貌",
+        "correctDesc": "礼节，规矩；礼貌",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "使う",
+        "wordId": 39863,
+        "optionDtos": [{
+            "wordOptionId": 85239,
+            "wordOptionDesc": "使用",
+            "isRight": 1,
+            "wordId": 39863
+        }],
+        "wordDesc": "（つかう）⓪【他动1】使用",
+        "correctDesc": "使用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "荷物",
+        "wordId": 39864,
+        "optionDtos": [{
+            "wordOptionId": 85240,
+            "wordOptionDesc": "行李",
+            "isRight": 1,
+            "wordId": 39864
+        }],
+        "wordDesc": "（にもつ）①【名】行李",
+        "correctDesc": "行李",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ゴール",
+        "wordId": 39865,
+        "optionDtos": [{
+            "wordOptionId": 85241,
+            "wordOptionDesc": "终点；目标",
+            "isRight": 1,
+            "wordId": 39865
+        }],
+        "wordDesc": "（goal）①【名】终点；目标",
+        "correctDesc": "终点；目标",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "吹く",
+        "wordId": 39866,
+        "optionDtos": [{
+            "wordOptionId": 85242,
+            "wordOptionDesc": "吹；吹奏",
+            "isRight": 1,
+            "wordId": 39866
+        }],
+        "wordDesc": "（ふく）①【自他动1】吹；吹奏",
+        "correctDesc": "吹；吹奏",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "交番",
+        "wordId": 39867,
+        "optionDtos": [{
+            "wordOptionId": 85243,
+            "wordOptionDesc": "派出所",
+            "isRight": 1,
+            "wordId": 39867
+        }],
+        "wordDesc": "（こうばん）⓪【名】派出所",
+        "correctDesc": "派出所",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ペット",
+        "wordId": 39868,
+        "optionDtos": [{
+            "wordOptionId": 85244,
+            "wordOptionDesc": "宠物",
+            "isRight": 1,
+            "wordId": 39868
+        }],
+        "wordDesc": "（pet）①【名】宠物",
+        "correctDesc": "宠物",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "食事",
+        "wordId": 39869,
+        "optionDtos": [{
+            "wordOptionId": 85245,
+            "wordOptionDesc": "吃饭，进餐",
+            "isRight": 1,
+            "wordId": 39869
+        }],
+        "wordDesc": "（しょくじ）⓪【名·自动3】吃饭，进餐",
+        "correctDesc": "吃饭，进餐",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "木",
+        "wordId": 39870,
+        "optionDtos": [{
+            "wordOptionId": 85246,
+            "wordOptionDesc": "树；木头",
+            "isRight": 1,
+            "wordId": 39870
+        }],
+        "wordDesc": "（き）①【名】树；木头",
+        "correctDesc": "树；木头",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "引く",
+        "wordId": 39871,
+        "optionDtos": [{
+            "wordOptionId": 85247,
+            "wordOptionDesc": "拉，拽；引起；吸引",
+            "isRight": 1,
+            "wordId": 39871
+        }],
+        "wordDesc": "（ひく）⓪【他动1】拉，拽；引起；吸引",
+        "correctDesc": "拉，拽；引起；吸引",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "予備校",
+        "wordId": 39872,
+        "optionDtos": [{
+            "wordOptionId": 85248,
+            "wordOptionDesc": "补习学校",
+            "isRight": 1,
+            "wordId": 39872
+        }],
+        "wordDesc": "（よびこう）⓪【名】补习学校",
+        "correctDesc": "补习学校",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "原稿",
+        "wordId": 39873,
+        "optionDtos": [{
+            "wordOptionId": 85249,
+            "wordOptionDesc": "原稿，草稿",
+            "isRight": 1,
+            "wordId": 39873
+        }],
+        "wordDesc": "（げんこう）⓪【名】原稿，草稿",
+        "correctDesc": "原稿，草稿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ボート",
+        "wordId": 39874,
+        "optionDtos": [{
+            "wordOptionId": 85250,
+            "wordOptionDesc": "小船，船",
+            "isRight": 1,
+            "wordId": 39874
+        }],
+        "wordDesc": "（boat）①【名】小船，船",
+        "correctDesc": "小船，船",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "言葉",
+        "wordId": 39875,
+        "optionDtos": [{
+            "wordOptionId": 85251,
+            "wordOptionDesc": "话，语言；说法，措辞",
+            "isRight": 1,
+            "wordId": 39875
+        }],
+        "wordDesc": "（ことば）③【名】话，语言；说法，措辞",
+        "correctDesc": "话，语言；说法，措辞",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "もらう",
+        "wordId": 39876,
+        "optionDtos": [{
+            "wordOptionId": 85252,
+            "wordOptionDesc": "得到，接受",
+            "isRight": 1,
+            "wordId": 39876
+        }],
+        "wordDesc": "⓪【他动1】得到，接受",
+        "correctDesc": "得到，接受",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "火曜日",
+        "wordId": 39877,
+        "optionDtos": [{
+            "wordOptionId": 85253,
+            "wordOptionDesc": "星期二",
+            "isRight": 1,
+            "wordId": 39877
+        }],
+        "wordDesc": "（かようび）②【名】星期二",
+        "correctDesc": "星期二",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ラジオ",
+        "wordId": 39878,
+        "optionDtos": [{
+            "wordOptionId": 85254,
+            "wordOptionDesc": "收音机，广播",
+            "isRight": 1,
+            "wordId": 39878
+        }],
+        "wordDesc": "（radio）①【名】收音机，广播",
+        "correctDesc": "收音机，广播",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "切手",
+        "wordId": 39879,
+        "optionDtos": [{
+            "wordOptionId": 85255,
+            "wordOptionDesc": "邮票",
+            "isRight": 1,
+            "wordId": 39879
+        }],
+        "wordDesc": "（きって）⓪【名】邮票",
+        "correctDesc": "邮票",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "レベル",
+        "wordId": 39880,
+        "optionDtos": [{
+            "wordOptionId": 85256,
+            "wordOptionDesc": "水准，水平",
+            "isRight": 1,
+            "wordId": 39880
+        }],
+        "wordDesc": "（level）①【名】水准，水平",
+        "correctDesc": "水准，水平",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "砂糖",
+        "wordId": 39881,
+        "optionDtos": [{
+            "wordOptionId": 85257,
+            "wordOptionDesc": "糖，砂糖",
+            "isRight": 1,
+            "wordId": 39881
+        }],
+        "wordDesc": "（さとう）②【名】糖，砂糖",
+        "correctDesc": "糖，砂糖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "作る",
+        "wordId": 39882,
+        "optionDtos": [{
+            "wordOptionId": 85258,
+            "wordOptionDesc": "做，制作；创作",
+            "isRight": 1,
+            "wordId": 39882
+        }],
+        "wordDesc": "（つくる）②【他动1】做，制作；创作",
+        "correctDesc": "做，制作；创作",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "靴",
+        "wordId": 39883,
+        "optionDtos": [{
+            "wordOptionId": 85259,
+            "wordOptionDesc": "鞋子",
+            "isRight": 1,
+            "wordId": 39883
+        }],
+        "wordDesc": "（くつ）②【名】鞋子",
+        "correctDesc": "鞋子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "電話",
+        "wordId": 39884,
+        "optionDtos": [{
+            "wordOptionId": 85260,
+            "wordOptionDesc": "电话；打电话",
+            "isRight": 1,
+            "wordId": 39884
+        }],
+        "wordDesc": "（でんわ）⓪【名·自动3】电话；打电话",
+        "correctDesc": "电话；打电话",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "コンピューター",
+        "wordId": 39885,
+        "optionDtos": [{
+            "wordOptionId": 85261,
+            "wordOptionDesc": "电脑，计算机",
+            "isRight": 1,
+            "wordId": 39885
+        }],
+        "wordDesc": "（computer）③【名】电脑，计算机",
+        "correctDesc": "电脑，计算机",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "論文",
+        "wordId": 39886,
+        "optionDtos": [{
+            "wordOptionId": 85262,
+            "wordOptionDesc": "论文",
+            "isRight": 1,
+            "wordId": 39886
+        }],
+        "wordDesc": "（ろんぶん）⓪【名】论文",
+        "correctDesc": "论文",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "～歳",
+        "wordId": 39887,
+        "optionDtos": [{
+            "wordOptionId": 85263,
+            "wordOptionDesc": "……岁",
+            "isRight": 1,
+            "wordId": 39887
+        }],
+        "wordDesc": "（さい）【接尾】……岁",
+        "correctDesc": "……岁",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "目",
+        "wordId": 39888,
+        "optionDtos": [{
+            "wordOptionId": 85264,
+            "wordOptionDesc": "眼睛；眼神",
+            "isRight": 1,
+            "wordId": 39888
+        }],
+        "wordDesc": "（め）①【名】眼睛；眼神",
+        "correctDesc": "眼睛；眼神",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ポスト",
+        "wordId": 39889,
+        "optionDtos": [{
+            "wordOptionId": 85265,
+            "wordOptionDesc": "邮筒，信箱",
+            "isRight": 1,
+            "wordId": 39889
+        }],
+        "wordDesc": "①【名】邮筒，信箱",
+        "correctDesc": "邮筒，信箱",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "帰国",
+        "wordId": 39890,
+        "optionDtos": [{
+            "wordOptionId": 85266,
+            "wordOptionDesc": "回国",
+            "isRight": 1,
+            "wordId": 39890
+        }],
+        "wordDesc": "（きこく）⓪【名·自动3】回国",
+        "correctDesc": "回国",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "有名",
+        "wordId": 39891,
+        "optionDtos": [{
+            "wordOptionId": 85267,
+            "wordOptionDesc": "有名",
+            "isRight": 1,
+            "wordId": 39891
+        }],
+        "wordDesc": "（ゆうめい）⓪【名·ナ形】有名",
+        "correctDesc": "有名",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "声",
+        "wordId": 39892,
+        "optionDtos": [{
+            "wordOptionId": 85268,
+            "wordOptionDesc": "（人或动物发出的）声音",
+            "isRight": 1,
+            "wordId": 39892
+        }],
+        "wordDesc": "（こえ）①【名】（人或动物发出的）声音",
+        "correctDesc": "（人或动物发出的）声音",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "メンバー",
+        "wordId": 39893,
+        "optionDtos": [{
+            "wordOptionId": 85269,
+            "wordOptionDesc": "成员",
+            "isRight": 1,
+            "wordId": 39893
+        }],
+        "wordDesc": "（member）①【名】成员",
+        "correctDesc": "成员",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "博物館",
+        "wordId": 39894,
+        "optionDtos": [{
+            "wordOptionId": 85270,
+            "wordOptionDesc": "博物馆",
+            "isRight": 1,
+            "wordId": 39894
+        }],
+        "wordDesc": "（はくぶつかん）④【名】博物馆",
+        "correctDesc": "博物馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "今朝",
+        "wordId": 39895,
+        "optionDtos": [{
+            "wordOptionId": 85271,
+            "wordOptionDesc": "今天早晨",
+            "isRight": 1,
+            "wordId": 39895
+        }],
+        "wordDesc": "（けさ）①【名】今天早晨",
+        "correctDesc": "今天早晨",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "玄関",
+        "wordId": 39896,
+        "optionDtos": [{
+            "wordOptionId": 85272,
+            "wordOptionDesc": "玄关，门口",
+            "isRight": 1,
+            "wordId": 39896
+        }],
+        "wordDesc": "（げんかん）①【名】玄关，门口",
+        "correctDesc": "玄关，门口",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ダイビング",
+        "wordId": 39897,
+        "optionDtos": [{
+            "wordOptionId": 85273,
+            "wordOptionDesc": "潜水",
+            "isRight": 1,
+            "wordId": 39897
+        }],
+        "wordDesc": "（diving）①【名·自动3】潜水",
+        "correctDesc": "潜水",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "幼児",
+        "wordId": 39898,
+        "optionDtos": [{
+            "wordOptionId": 85274,
+            "wordOptionDesc": "幼儿",
+            "isRight": 1,
+            "wordId": 39898
+        }],
+        "wordDesc": "（ようじ）①【名】幼儿",
+        "correctDesc": "幼儿",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "橋",
+        "wordId": 39899,
+        "optionDtos": [{
+            "wordOptionId": 85275,
+            "wordOptionDesc": "桥",
+            "isRight": 1,
+            "wordId": 39899
+        }],
+        "wordDesc": "（はし）②【名】桥",
+        "correctDesc": "桥",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "美容院",
+        "wordId": 39900,
+        "optionDtos": [{
+            "wordOptionId": 85276,
+            "wordOptionDesc": "美容院，理发馆",
+            "isRight": 1,
+            "wordId": 39900
+        }],
+        "wordDesc": "（びよういん）②【名】美容院，理发馆",
+        "correctDesc": "美容院，理发馆",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ボタン",
+        "wordId": 39901,
+        "optionDtos": [{
+            "wordOptionId": 85277,
+            "wordOptionDesc": "纽扣；按钮",
+            "isRight": 1,
+            "wordId": 39901
+        }],
+        "wordDesc": "（button）⓪【名】纽扣；按钮",
+        "correctDesc": "纽扣；按钮",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "香水",
+        "wordId": 39902,
+        "optionDtos": [{
+            "wordOptionId": 85278,
+            "wordOptionDesc": "香水",
+            "isRight": 1,
+            "wordId": 39902
+        }],
+        "wordDesc": "（こうすい）⓪【名】香水",
+        "correctDesc": "香水",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "忘れる",
+        "wordId": 39903,
+        "optionDtos": [{
+            "wordOptionId": 85279,
+            "wordOptionDesc": "忘记，遗忘",
+            "isRight": 1,
+            "wordId": 39903
+        }],
+        "wordDesc": "（わすれる）⓪【他动2】忘记，遗忘",
+        "correctDesc": "忘记，遗忘",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "最後",
+        "wordId": 39904,
+        "optionDtos": [{
+            "wordOptionId": 85280,
+            "wordOptionDesc": "最后，最终",
+            "isRight": 1,
+            "wordId": 39904
+        }],
+        "wordDesc": "（さいご）①【名】最后，最终",
+        "correctDesc": "最后，最终",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "マーク",
+        "wordId": 39905,
+        "optionDtos": [{
+            "wordOptionId": 85281,
+            "wordOptionDesc": "标记；做标记",
+            "isRight": 1,
+            "wordId": 39905
+        }],
+        "wordDesc": "（mark）①【名·他动3】标记；做标记",
+        "correctDesc": "标记；做标记",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "薬",
+        "wordId": 39906,
+        "optionDtos": [{
+            "wordOptionId": 85282,
+            "wordOptionDesc": "药，药物",
+            "isRight": 1,
+            "wordId": 39906
+        }],
+        "wordDesc": "（くすり）⓪【名】药，药物",
+        "correctDesc": "药，药物",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "割引",
+        "wordId": 39907,
+        "optionDtos": [{
+            "wordOptionId": 85283,
+            "wordOptionDesc": "折扣，打折",
+            "isRight": 1,
+            "wordId": 39907
+        }],
+        "wordDesc": "（わりびき）⓪【名·他动3】折扣，打折",
+        "correctDesc": "折扣，打折",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "他/外",
+        "wordId": 39908,
+        "optionDtos": [{
+            "wordOptionId": 85284,
+            "wordOptionDesc": "其他",
+            "isRight": 1,
+            "wordId": 39908
+        }],
+        "wordDesc": "（ほか）⓪【名】其他",
+        "correctDesc": "其他",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ポイント",
+        "wordId": 39909,
+        "optionDtos": [{
+            "wordOptionId": 85285,
+            "wordOptionDesc": "积分；要点",
+            "isRight": 1,
+            "wordId": 39909
+        }],
+        "wordDesc": "（point）⓪【名】积分；要点",
+        "correctDesc": "积分；要点",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "湿度",
+        "wordId": 39910,
+        "optionDtos": [{
+            "wordOptionId": 85286,
+            "wordOptionDesc": "湿度",
+            "isRight": 1,
+            "wordId": 39910
+        }],
+        "wordDesc": "（しつど）②【名】湿度",
+        "correctDesc": "湿度",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "半額",
+        "wordId": 39911,
+        "optionDtos": [{
+            "wordOptionId": 85287,
+            "wordOptionDesc": "半价",
+            "isRight": 1,
+            "wordId": 39911
+        }],
+        "wordDesc": "（はんがく）⓪【名】半价",
+        "correctDesc": "半价",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "若い",
+        "wordId": 39912,
+        "optionDtos": [{
+            "wordOptionId": 85288,
+            "wordOptionDesc": "年轻的",
+            "isRight": 1,
+            "wordId": 39912
+        }],
+        "wordDesc": "（わかい）②【イ形】年轻的",
+        "correctDesc": "年轻的",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "今月",
+        "wordId": 39913,
+        "optionDtos": [{
+            "wordOptionId": 85289,
+            "wordOptionDesc": "本月，这个月",
+            "isRight": 1,
+            "wordId": 39913
+        }],
+        "wordDesc": "（こんげつ）⓪【名】本月，这个月",
+        "correctDesc": "本月，这个月",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ベッド",
+        "wordId": 39914,
+        "optionDtos": [{
+            "wordOptionId": 85290,
+            "wordOptionDesc": "床",
+            "isRight": 1,
+            "wordId": 39914
+        }],
+        "wordDesc": "（bed）①【名】床",
+        "correctDesc": "床",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "捨てる",
+        "wordId": 39915,
+        "optionDtos": [{
+            "wordOptionId": 85291,
+            "wordOptionDesc": "扔掉，丢弃",
+            "isRight": 1,
+            "wordId": 39915
+        }],
+        "wordDesc": "（すてる）⓪【他动2】扔掉，丢弃",
+        "correctDesc": "扔掉，丢弃",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "雑誌",
+        "wordId": 39916,
+        "optionDtos": [{
+            "wordOptionId": 85292,
+            "wordOptionDesc": "杂志",
+            "isRight": 1,
+            "wordId": 39916
+        }],
+        "wordDesc": "（ざっし）⓪【名】杂志",
+        "correctDesc": "杂志",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "チャンス",
+        "wordId": 39917,
+        "optionDtos": [{
+            "wordOptionId": 85293,
+            "wordOptionDesc": "机会",
+            "isRight": 1,
+            "wordId": 39917
+        }],
+        "wordDesc": "（chance）①【名】机会",
+        "correctDesc": "机会",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "趣味",
+        "wordId": 39918,
+        "optionDtos": [{
+            "wordOptionId": 85294,
+            "wordOptionDesc": "爱好，喜好",
+            "isRight": 1,
+            "wordId": 39918
+        }],
+        "wordDesc": "（しゅみ）①【名】爱好，喜好",
+        "correctDesc": "爱好，喜好",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "洗濯",
+        "wordId": 39919,
+        "optionDtos": [{
+            "wordOptionId": 85295,
+            "wordOptionDesc": "洗，洗衣服",
+            "isRight": 1,
+            "wordId": 39919
+        }],
+        "wordDesc": "（せんたく）⓪【名·他动3】洗，洗衣服",
+        "correctDesc": "洗，洗衣服",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "シルク",
+        "wordId": 39920,
+        "optionDtos": [{
+            "wordOptionId": 85296,
+            "wordOptionDesc": "丝绸",
+            "isRight": 1,
+            "wordId": 39920
+        }],
+        "wordDesc": "（silk）①【名】丝绸",
+        "correctDesc": "丝绸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "本",
+        "wordId": 39921,
+        "optionDtos": [{
+            "wordOptionId": 85297,
+            "wordOptionDesc": "书",
+            "isRight": 1,
+            "wordId": 39921
+        }],
+        "wordDesc": "（ほん）①【名】书",
+        "correctDesc": "书",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "商品",
+        "wordId": 39922,
+        "optionDtos": [{
+            "wordOptionId": 85298,
+            "wordOptionDesc": "商品",
+            "isRight": 1,
+            "wordId": 39922
+        }],
+        "wordDesc": "（しょうひん）①【名】商品",
+        "correctDesc": "商品",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "見送り",
+        "wordId": 39923,
+        "optionDtos": [{
+            "wordOptionId": 85299,
+            "wordOptionDesc": "送行",
+            "isRight": 1,
+            "wordId": 39923
+        }],
+        "wordDesc": "（みおくり）⓪【名】送行",
+        "correctDesc": "送行",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "セット",
+        "wordId": 39924,
+        "optionDtos": [{
+            "wordOptionId": 85300,
+            "wordOptionDesc": "一套，一组",
+            "isRight": 1,
+            "wordId": 39924
+        }],
+        "wordDesc": "（set）①【名】一套，一组",
+        "correctDesc": "一套，一组",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "上司",
+        "wordId": 39925,
+        "optionDtos": [{
+            "wordOptionId": 85301,
+            "wordOptionDesc": "上司，上级",
+            "isRight": 1,
+            "wordId": 39925
+        }],
+        "wordDesc": "（じょうし）①【名】上司，上级",
+        "correctDesc": "上司，上级",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "鳥",
+        "wordId": 39926,
+        "optionDtos": [{
+            "wordOptionId": 85302,
+            "wordOptionDesc": "鸟，鸟类",
+            "isRight": 1,
+            "wordId": 39926
+        }],
+        "wordDesc": "（とり）⓪【名】鸟，鸟类",
+        "correctDesc": "鸟，鸟类",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "～屋",
+        "wordId": 39927,
+        "optionDtos": [{
+            "wordOptionId": 85303,
+            "wordOptionDesc": "……店；容易……的人",
+            "isRight": 1,
+            "wordId": 39927
+        }],
+        "wordDesc": "（～や）【接尾】……店；容易……的人",
+        "correctDesc": "……店；容易……的人",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "大使",
+        "wordId": 39928,
+        "optionDtos": [{
+            "wordOptionId": 85304,
+            "wordOptionDesc": "大使",
+            "isRight": 1,
+            "wordId": 39928
+        }],
+        "wordDesc": "（たいし）①【名】大使",
+        "correctDesc": "大使",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ホームシック",
+        "wordId": 39929,
+        "optionDtos": [{
+            "wordOptionId": 85305,
+            "wordOptionDesc": "思乡",
+            "isRight": 1,
+            "wordId": 39929
+        }],
+        "wordDesc": "（homesick）④【名】思乡",
+        "correctDesc": "思乡",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "宿題",
+        "wordId": 39930,
+        "optionDtos": [{
+            "wordOptionId": 85306,
+            "wordOptionDesc": "作业",
+            "isRight": 1,
+            "wordId": 39930
+        }],
+        "wordDesc": "（しゅくだい）⓪【名】作业",
+        "correctDesc": "作业",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "窓",
+        "wordId": 39931,
+        "optionDtos": [{
+            "wordOptionId": 85307,
+            "wordOptionDesc": "窗户，窗子",
+            "isRight": 1,
+            "wordId": 39931
+        }],
+        "wordDesc": "（まど）①【名】窗户，窗子",
+        "correctDesc": "窗户，窗子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "スプーン",
+        "wordId": 39932,
+        "optionDtos": [{
+            "wordOptionId": 85308,
+            "wordOptionDesc": "汤匙，勺子",
+            "isRight": 1,
+            "wordId": 39932
+        }],
+        "wordDesc": "（spoon）②【名】汤匙，勺子",
+        "correctDesc": "汤匙，勺子",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "日本",
+        "wordId": 39933,
+        "optionDtos": [{
+            "wordOptionId": 85309,
+            "wordOptionDesc": "日本",
+            "isRight": 1,
+            "wordId": 39933
+        }],
+        "wordDesc": "（にほん）②【名】日本",
+        "correctDesc": "日本",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "咲く",
+        "wordId": 39934,
+        "optionDtos": [{
+            "wordOptionId": 85310,
+            "wordOptionDesc": "开（花）",
+            "isRight": 1,
+            "wordId": 39934
+        }],
+        "wordDesc": "（さく）⓪【自动1】开（花）",
+        "correctDesc": "开（花）",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "週末",
+        "wordId": 39935,
+        "optionDtos": [{
+            "wordOptionId": 85311,
+            "wordOptionDesc": "周末",
+            "isRight": 1,
+            "wordId": 39935
+        }],
+        "wordDesc": "（しゅうまつ）⓪【名】周末",
+        "correctDesc": "周末",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "新幹線",
+        "wordId": 39936,
+        "optionDtos": [{
+            "wordOptionId": 85312,
+            "wordOptionDesc": "新干线",
+            "isRight": 1,
+            "wordId": 39936
+        }],
+        "wordDesc": "（しんかんせん）③【名】新干线",
+        "correctDesc": "新干线",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "ホラー",
+        "wordId": 39937,
+        "optionDtos": [{
+            "wordOptionId": 85313,
+            "wordOptionDesc": "恐怖",
+            "isRight": 1,
+            "wordId": 39937
+        }],
+        "wordDesc": "（horror）①【名】恐怖",
+        "correctDesc": "恐怖",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "主人",
+        "wordId": 39938,
+        "optionDtos": [{
+            "wordOptionId": 85314,
+            "wordOptionDesc": "主人；丈夫",
+            "isRight": 1,
+            "wordId": 39938
+        }],
+        "wordDesc": "（しゅじん）①【名】主人；丈夫",
+        "correctDesc": "主人；丈夫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "メモ",
+        "wordId": 39939,
+        "optionDtos": [{
+            "wordOptionId": 85315,
+            "wordOptionDesc": "笔记；做笔记",
+            "isRight": 1,
+            "wordId": 39939
+        }],
+        "wordDesc": "（memo）①【名·他动3】笔记；做笔记",
+        "correctDesc": "笔记；做笔记",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "食堂",
+        "wordId": 39940,
+        "optionDtos": [{
+            "wordOptionId": 85316,
+            "wordOptionDesc": "食堂",
+            "isRight": 1,
+            "wordId": 39940
+        }],
+        "wordDesc": "（しょくどう）⓪【名】食堂",
+        "correctDesc": "食堂",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "眼鏡",
+        "wordId": 39941,
+        "optionDtos": [{
+            "wordOptionId": 85317,
+            "wordOptionDesc": "眼镜",
+            "isRight": 1,
+            "wordId": 39941
+        }],
+        "wordDesc": "（めがね）①【名】眼镜",
+        "correctDesc": "眼镜",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "石けん",
+        "wordId": 39942,
+        "optionDtos": [{
+            "wordOptionId": 85318,
+            "wordOptionDesc": "肥皂",
+            "isRight": 1,
+            "wordId": 39942
+        }],
+        "wordDesc": "（せっけん）⓪【名】肥皂",
+        "correctDesc": "肥皂",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "～枚",
+        "wordId": 39943,
+        "optionDtos": [{
+            "wordOptionId": 85319,
+            "wordOptionDesc": "（薄片状物体）片，枚，张",
+            "isRight": 1,
+            "wordId": 39943
+        }],
+        "wordDesc": "（～まい）【接尾】（薄片状物体）片，枚，张",
+        "correctDesc": "（薄片状物体）片，枚，张",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "イギリス",
+        "wordId": 39944,
+        "optionDtos": [{
+            "wordOptionId": 85320,
+            "wordOptionDesc": "英国",
+            "isRight": 1,
+            "wordId": 39944
+        }],
+        "wordDesc": "⓪【名】英国",
+        "correctDesc": "英国",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "庭",
+        "wordId": 39945,
+        "optionDtos": [{
+            "wordOptionId": 85321,
+            "wordOptionDesc": "院子，庭园",
+            "isRight": 1,
+            "wordId": 39945
+        }],
+        "wordDesc": "（にわ）⓪【名】院子，庭园",
+        "correctDesc": "院子，庭园",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "文章",
+        "wordId": 39946,
+        "optionDtos": [{
+            "wordOptionId": 85322,
+            "wordOptionDesc": "文章",
+            "isRight": 1,
+            "wordId": 39946
+        }],
+        "wordDesc": "（ぶんしょう）①【名】文章",
+        "correctDesc": "文章",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "最古",
+        "wordId": 39947,
+        "optionDtos": [{
+            "wordOptionId": 85323,
+            "wordOptionDesc": "最早，最古老",
+            "isRight": 1,
+            "wordId": 39947
+        }],
+        "wordDesc": "（さいこ）①【名】最早，最古老",
+        "correctDesc": "最早，最古老",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "働く",
+        "wordId": 39948,
+        "optionDtos": [{
+            "wordOptionId": 85324,
+            "wordOptionDesc": "工作；起作用",
+            "isRight": 1,
+            "wordId": 39948
+        }],
+        "wordDesc": "（はたらく）⓪【自动1】工作；起作用",
+        "correctDesc": "工作；起作用",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "高校",
+        "wordId": 39949,
+        "optionDtos": [{
+            "wordOptionId": 85325,
+            "wordOptionDesc": "高中",
+            "isRight": 1,
+            "wordId": 39949
+        }],
+        "wordDesc": "（こうこう）⓪【名】高中",
+        "correctDesc": "高中",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "両親",
+        "wordId": 39950,
+        "optionDtos": [{
+            "wordOptionId": 85326,
+            "wordOptionDesc": "父母，双亲",
+            "isRight": 1,
+            "wordId": 39950
+        }],
+        "wordDesc": "（りょうしん）①【名】父母，双亲",
+        "correctDesc": "父母，双亲",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "節分",
+        "wordId": 39951,
+        "optionDtos": [{
+            "wordOptionId": 85327,
+            "wordOptionDesc": "立春、立夏、立秋、立冬的前一天；（特指）立春的前一天",
+            "isRight": 1,
+            "wordId": 39951
+        }],
+        "wordDesc": "（せつぶん）⓪【名】立春、立夏、立秋、立冬的前一天；（特指）立春的前一天",
+        "correctDesc": "立春、立夏、立秋、立冬的前一天；（特指）立春的前一天",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "廊下",
+        "wordId": 39952,
+        "optionDtos": [{
+            "wordOptionId": 85328,
+            "wordOptionDesc": "走廊，过道",
+            "isRight": 1,
+            "wordId": 39952
+        }],
+        "wordDesc": "（ろうか）⓪【名】走廊，过道",
+        "correctDesc": "走廊，过道",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "締め切り",
+        "wordId": 39953,
+        "optionDtos": [{
+            "wordOptionId": 85329,
+            "wordOptionDesc": "截止日期",
+            "isRight": 1,
+            "wordId": 39953
+        }],
+        "wordDesc": "（しめきり）⓪【名】截止日期",
+        "correctDesc": "截止日期",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "徒歩",
+        "wordId": 39954,
+        "optionDtos": [{
+            "wordOptionId": 85330,
+            "wordOptionDesc": "徒步",
+            "isRight": 1,
+            "wordId": 39954
+        }],
+        "wordDesc": "（とほ）①【名】徒步",
+        "correctDesc": "徒步",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "午後",
+        "wordId": 39955,
+        "optionDtos": [{
+            "wordOptionId": 85331,
+            "wordOptionDesc": "下午，午后",
+            "isRight": 1,
+            "wordId": 39955
+        }],
+        "wordDesc": "（ごご）①【名】下午，午后",
+        "correctDesc": "下午，午后",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "入学式",
+        "wordId": 39956,
+        "optionDtos": [{
+            "wordOptionId": 85332,
+            "wordOptionDesc": "开学典礼",
+            "isRight": 1,
+            "wordId": 39956
+        }],
+        "wordDesc": "（にゅうがくしき）④【名】开学典礼",
+        "correctDesc": "开学典礼",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "傍",
+        "wordId": 39957,
+        "optionDtos": [{
+            "wordOptionId": 85333,
+            "wordOptionDesc": "旁边，附近",
+            "isRight": 1,
+            "wordId": 39957
+        }],
+        "wordDesc": "（そば）①【名】旁边，附近",
+        "correctDesc": "旁边，附近",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "住む",
+        "wordId": 39958,
+        "optionDtos": [{
+            "wordOptionId": 85334,
+            "wordOptionDesc": "住，居住",
+            "isRight": 1,
+            "wordId": 39958
+        }],
+        "wordDesc": "（すむ）①【自动1】住，居住",
+        "correctDesc": "住，居住",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "中華",
+        "wordId": 39959,
+        "optionDtos": [{
+            "wordOptionId": 85335,
+            "wordOptionDesc": "中华，中国",
+            "isRight": 1,
+            "wordId": 39959
+        }],
+        "wordDesc": "（ちゅうか）①【名】中华，中国",
+        "correctDesc": "中华，中国",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "忘年会",
+        "wordId": 39960,
+        "optionDtos": [{
+            "wordOptionId": 85336,
+            "wordOptionDesc": "忘年会，年末聚会",
+            "isRight": 1,
+            "wordId": 39960
+        }],
+        "wordDesc": "（ぼうねんかい）③【名】忘年会，年末聚会",
+        "correctDesc": "忘年会，年末聚会",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "仕事",
+        "wordId": 39961,
+        "optionDtos": [{
+            "wordOptionId": 85337,
+            "wordOptionDesc": "工作，职业",
+            "isRight": 1,
+            "wordId": 39961
+        }],
+        "wordDesc": "（しごと）⓪【名】工作，职业",
+        "correctDesc": "工作，职业",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "夕方",
+        "wordId": 39962,
+        "optionDtos": [{
+            "wordOptionId": 85338,
+            "wordOptionDesc": "黄昏，傍晚",
+            "isRight": 1,
+            "wordId": 39962
+        }],
+        "wordDesc": "（ゆうがた）⓪【名】黄昏，傍晚",
+        "correctDesc": "黄昏，傍晚",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "事項",
+        "wordId": 39963,
+        "optionDtos": [{
+            "wordOptionId": 85339,
+            "wordOptionDesc": "事项，项目",
+            "isRight": 1,
+            "wordId": 39963
+        }],
+        "wordDesc": "（じこう）①【名】事项，项目",
+        "correctDesc": "事项，项目",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "猫",
+        "wordId": 39964,
+        "optionDtos": [{
+            "wordOptionId": 85340,
+            "wordOptionDesc": "猫",
+            "isRight": 1,
+            "wordId": 39964
+        }],
+        "wordDesc": "（ねこ）①【名】猫",
+        "correctDesc": "猫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "時計",
+        "wordId": 39965,
+        "optionDtos": [{
+            "wordOptionId": 85341,
+            "wordOptionDesc": "时钟，钟表",
+            "isRight": 1,
+            "wordId": 39965
+        }],
+        "wordDesc": "（とけい）⓪【名】时钟，钟表",
+        "correctDesc": "时钟，钟表",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "現金",
+        "wordId": 39966,
+        "optionDtos": [{
+            "wordOptionId": 85342,
+            "wordOptionDesc": "现金",
+            "isRight": 1,
+            "wordId": 39966
+        }],
+        "wordDesc": "（げんきん）③【名】现金",
+        "correctDesc": "现金",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "新聞",
+        "wordId": 39967,
+        "optionDtos": [{
+            "wordOptionId": 85343,
+            "wordOptionDesc": "报纸",
+            "isRight": 1,
+            "wordId": 39967
+        }],
+        "wordDesc": "（しんぶん）⓪【名】报纸",
+        "correctDesc": "报纸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "飛行機",
+        "wordId": 39968,
+        "optionDtos": [{
+            "wordOptionId": 85344,
+            "wordOptionDesc": "飞机",
+            "isRight": 1,
+            "wordId": 39968
+        }],
+        "wordDesc": "（ひこうき）②【名】飞机",
+        "correctDesc": "飞机",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "水",
+        "wordId": 39969,
+        "optionDtos": [{
+            "wordOptionId": 85345,
+            "wordOptionDesc": "水，凉水",
+            "isRight": 1,
+            "wordId": 39969
+        }],
+        "wordDesc": "（みず）⓪【名】水，凉水",
+        "correctDesc": "水，凉水",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "歴史",
+        "wordId": 39970,
+        "optionDtos": [{
+            "wordOptionId": 85346,
+            "wordOptionDesc": "历史",
+            "isRight": 1,
+            "wordId": 39970
+        }],
+        "wordDesc": "（れきし）⓪【名】历史",
+        "correctDesc": "历史",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "父",
+        "wordId": 39971,
+        "optionDtos": [{
+            "wordOptionId": 85347,
+            "wordOptionDesc": "爸爸",
+            "isRight": 1,
+            "wordId": 39971
+        }],
+        "wordDesc": "（ちち）①【名】爸爸",
+        "correctDesc": "爸爸",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "迷う",
+        "wordId": 39972,
+        "optionDtos": [{
+            "wordOptionId": 85348,
+            "wordOptionDesc": "迷路，迷失；犹豫",
+            "isRight": 1,
+            "wordId": 39972
+        }],
+        "wordDesc": "（まよう）②【自动1】迷路，迷失；犹豫",
+        "correctDesc": "迷路，迷失；犹豫",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "件",
+        "wordId": 39973,
+        "optionDtos": [{
+            "wordOptionId": 85349,
+            "wordOptionDesc": "事情，事件",
+            "isRight": 1,
+            "wordId": 39973
+        }],
+        "wordDesc": "（けん）①【名】事情，事件",
+        "correctDesc": "事情，事件",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "電気",
+        "wordId": 39974,
+        "optionDtos": [{
+            "wordOptionId": 85350,
+            "wordOptionDesc": "电流，电气；电灯",
+            "isRight": 1,
+            "wordId": 39974
+        }],
+        "wordDesc": "（でんき）①【名】电流，电气；电灯",
+        "correctDesc": "电流，电气；电灯",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "浴衣",
+        "wordId": 39975,
+        "optionDtos": [{
+            "wordOptionId": 85351,
+            "wordOptionDesc": "夏季穿的简易和服",
+            "isRight": 1,
+            "wordId": 39975
+        }],
+        "wordDesc": "（ゆかた）⓪【名】夏季穿的简易和服",
+        "correctDesc": "夏季穿的简易和服",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "魚",
+        "wordId": 39976,
+        "optionDtos": [{
+            "wordOptionId": 85352,
+            "wordOptionDesc": "鱼",
+            "isRight": 1,
+            "wordId": 39976
+        }],
+        "wordDesc": "（さかな）⓪【名】鱼",
+        "correctDesc": "鱼",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "名前",
+        "wordId": 39977,
+        "optionDtos": [{
+            "wordOptionId": 85353,
+            "wordOptionDesc": "名字",
+            "isRight": 1,
+            "wordId": 39977
+        }],
+        "wordDesc": "（なまえ）⓪【名】名字",
+        "correctDesc": "名字",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }, {
+        "wordThemeName": "N4N5词汇 第三天",
+        "wordName": "眉",
+        "wordId": 39978,
+        "optionDtos": [{
+            "wordOptionId": 85354,
+            "wordOptionDesc": "眉毛",
+            "isRight": 1,
+            "wordId": 39978
+        }],
+        "wordDesc": "（まゆ）①【名】眉毛",
+        "correctDesc": "眉毛",
+        "isRight": null,
+        "count": 200,
+        "pronunciationUrl": null,
+        "phoneticSymbol": null,
+        "picUrl": null,
+        "wordPronun": null,
+        "wordPhonetic": null
+    }]
+}
