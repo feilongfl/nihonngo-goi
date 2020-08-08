@@ -11,7 +11,7 @@ def work(audiopath):
     sound = AudioSegment.from_file(audiopath, format=audiotype)
     (chunks_path, _) = os.path.splitext(audiopath)
     if not os.path.exists(chunks_path): os.mkdir(chunks_path)
-    name_prefix = audiopath.split('/')
+    name_prefix = chunks_path.split('/')
     
     # split
     chunks = split_on_silence(sound, min_silence_len=300, silence_thresh=-70)
