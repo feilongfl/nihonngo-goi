@@ -3,3 +3,4 @@
 *.word
 *.desc
 /*/*/*.mp3
+/output
